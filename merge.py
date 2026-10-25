@@ -6,7 +6,7 @@ d = Path(__file__).parent / "data"
 enriched = json.loads((d / "enriched.json").read_text(encoding="utf-8")) if (d / "enriched.json").exists() else {}
 semua = []
 for f in sorted(d.glob("*.json")):
-    if f.name in ("motor.json", "overrides.json", "enriched.json") or f.name.startswith("."):
+    if f.name in ("motor.json", "overrides.json", "enriched.json", "research.json", "articles.json") or f.name.startswith("."):
         continue
     semua += json.loads(f.read_text(encoding="utf-8"))
 for m in semua:
