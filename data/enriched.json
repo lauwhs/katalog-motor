@@ -1,0 +1,600 @@
+{
+ "kawasaki-d-tracker-x": {
+  "perf": {}
+ },
+ "kawasaki-eliminator": {
+  "release": "2023-10",
+  "speed": "185-190",
+  "kmpl": 22.3,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://disway.id/read/736825/new-kawasaki-eliminator-resmi-meluncur-di-indonesia-cruiser-500-cc-dibanderol-mulai-rp-165-jutaan"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://ridereverie.com/motorcycles/test-ride-kawasaki-eliminator-500-fun/"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://ridereverie.com/motorcycles/test-ride-kawasaki-eliminator-500-fun/"
+   }
+  }
+ },
+ "kawasaki-kle500": {
+  "release": "2026-03",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://otomotif.kompas.com/read/2026/03/11/194100315/kawasaki-rilis-kle-500-dan-kle-500-se-harga-rp-140-jutaan"
+   }
+  }
+ },
+ "kawasaki-klx140r": {
+  "release": "2021-06",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.oto.com/berita-motor/kawasaki-klx140r-f-hadir-di-indonesia-dijual-rp-383-juta-tanpa-stnk"
+   }
+  }
+ },
+ "kawasaki-klx150": {
+  "release": "2023-02",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://otomotif.katadata.co.id/motor/new-kawasaki-klx-150-resmi-meluncur-hari-ini-cek-harganya-4386"
+   }
+  }
+ },
+ "kawasaki-klx150-s": {
+  "release": "2023-02",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.motorplus-online.com/read/253680715/kenapa-new-kawasaki-klx150-2023-masih-pakai-mesin-karburator"
+   }
+  }
+ },
+ "kawasaki-klx150-se": {
+  "release": "2023-02",
+  "speed": 105,
+  "kmpl": 31.8,
+  "acc": 21.7,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.idntimes.com/automotive/motorbike/kawasaki-indonesia-rilis-new-klx150-dibanderol-mulai-rp32-9-juta-00-7cdnt-4kj2jx"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/231118153/test-ride-kawasaki-klx-150bf-se-tanah-dan-aspal-oke (diuji pada KLX 150BF SE)"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/231118153/test-ride-kawasaki-klx-150bf-se-tanah-dan-aspal-oke (diuji pada KLX 150BF SE)"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/231118153/test-ride-kawasaki-klx-150bf-se-tanah-dan-aspal-oke (diuji pada KLX 150BF SE)"
+   }
+  }
+ },
+ "kawasaki-klx150-xpl": {
+  "release": "2026-06",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.apmotor.co.id/2026/06/kawasaki-klx150-xpl-resmi-meluncur.html"
+   }
+  }
+ },
+ "kawasaki-klx150sm": {
+  "release": "2023-03",
+  "kmpl": 34,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.oto.com/berita-motor/kawasaki-klx150sm-resmi-meluncur-mulai-rp369-juta-jadi-generasi-baru-dari-dtracker"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://www.gridoto.com/read/224141973/supermoto-kawasaki-ini-lebih-irit-bensin-dari-trail-cek-penyebabnya?page=all"
+   }
+  }
+ },
+ "kawasaki-klx150sm-se": {
+  "release": "2023-03",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.liputan6.com/otomotif/read/5233688/kawasaki-resmi-luncurkan-klx150sm-di-indonesia-harganya-rp-369-juta"
+   }
+  }
+ },
+ "kawasaki-klx230": {
+  "release": "2019-05",
+  "speed": 113.4,
+  "kmpl": 38.7,
+  "acc": 10.42,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://indoride.com/2019/05/23/kawasaki-klx-230-resmi-dirilis-produk-lokal-rasa-global-harga-rp-399-juta/"
+   },
+   "speed": {
+    "basis": "uji (data Racebox pada KLX230 S)",
+    "source": "https://www.gridoto.com/read/223737057/lincah-dan-responsif-begini-catatan-performa-kawasaki-klx230-s"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://otorider.com/berita/2020/tes-konsumsi-bbm-kawasaki-klx230-seberapa-irit-tesbjccgrit"
+   },
+   "acc": {
+    "basis": "uji (0-100 km/jam pada KLX230 S)",
+    "source": "https://www.gridoto.com/read/223737057/lincah-dan-responsif-begini-catatan-performa-kawasaki-klx230-s"
+   }
+  }
+ },
+ "kawasaki-klx230-df": {
+  "release": "2025-12",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://otomotif.kompas.com/read/2025/12/10/181200715/kawasaki-klx230-df-meluncur-harga-rp-66-jutaan"
+   }
+  }
+ },
+ "kawasaki-klx230-sherpa": {
+  "release": "2025-06",
+  "kmpl": 34.7,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://tmcblog.com/2025/06/19/resmi-klx230-sherpa-diluncurkan-di-prj-2025-untuk-pasar-indonesia/"
+   },
+   "kmpl": {
+    "basis": "klaim pabrikan (WMTC)",
+    "source": "https://sukabumiheadline.com/kawasaki-klx230-motor-trail-dengan-sherpa-shockbreaker-teleskopik-dijual-segini/"
+   }
+  }
+ },
+ "kawasaki-klx230r": {
+  "release": "2019-06",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://otomotifnet.gridoto.com/read/231759629/kawasaki-klx230r-resmi-dijual-di-indonesia-versi-offroad-segini-harganya"
+   }
+  }
+ },
+ "kawasaki-klx230sm": {
+  "release": "2022-06",
+  "speed": 120,
+  "kmpl": 30,
+  "acc": 11.2,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.naikmotor.com/199694/kawasaki-indonesia-resmi-rilis-klx230-2022-harga-mulai-rp479-juta/"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://www.gridoto.com/read/223535702/tes-performa-mesin-kawasaki-klx230sm-torsi-kuat-cocok-buat-perkotaan?page=all"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://www.gridoto.com/read/223535702/tes-performa-mesin-kawasaki-klx230sm-torsi-kuat-cocok-buat-perkotaan?page=all"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://www.gridoto.com/read/223535702/tes-performa-mesin-kawasaki-klx230sm-torsi-kuat-cocok-buat-perkotaan?page=all"
+   }
+  }
+ },
+ "kawasaki-klx250": {
+  "perf": {}
+ },
+ "kawasaki-kx112": {
+  "release": "2023-10",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://tmcblog.com/2023/10/05/kawasaki-indonesia-resmi-rilis-kx85-dan-kx112-mulai-663-juta-rupiah/"
+   }
+  }
+ },
+ "kawasaki-kx85": {
+  "release": "2023-10",
+  "perf": {
+   "release": {
+    "basis": "berita (peluncuran KX85 24 Model Year di Indonesia; berita tidak menyebut label 'L' secara khusus)",
+    "source": "https://www.oto.com/berita-motor/kawasaki-rilis-kx85-dan-kx112-harga-mulai-dari-rp63-jutaan"
+   }
+  }
+ },
+ "kawasaki-meguro-s1": {
+  "release": "2025-02",
+  "speed": 118,
+  "kmpl": 36,
+  "acc": 15.6,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://oto.detik.com/motor/d-7787312/kawasaki-luncurkan-motor-klasik-meguro-dan-w230-harga-rp-70-jutaan"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://www.startersmotor.nl/merken/kawasaki/w230-meguro/meguro-s1-w230.php"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://www.startersmotor.nl/merken/kawasaki/w230-meguro/meguro-s1-w230.php"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://www.startersmotor.nl/merken/kawasaki/w230-meguro/meguro-s1-w230.php"
+   }
+  }
+ },
+ "kawasaki-ninja-250": {
+  "release": "2017-11",
+  "kmpl": 25.5,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://autonetmagz.com/kawasaki-ninja-250-2018-resmi-meluncur-tembus-724-juta/63109/"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://www.gridoto.com/read/221015780/gimana-konsumsi-bbm-all-new-kawasaki-ninja-250-dibanding-pendahulunya"
+   }
+  }
+ },
+ "kawasaki-ninja-h2": {
+  "release": "2015-01",
+  "speed": 275,
+  "acc": 3.1,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://oto.detik.com/motor/d-2805755/kawasaki-ninja-h2-harganya-rp-580-juta-h2r-rp-1-miliar"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/231043180/test-ride-kawasaki-ninja-h2-mencapai-100-kmjam-dalam-3-detik"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://moas.muf.co.id/news/review-kawasaki-ninja-h2-tampil-buas-dengan-performa-ganas"
+   }
+  }
+ },
+ "kawasaki-ninja-zx-10r": {
+  "release": "2021-06",
+  "kmpl": 14.7,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://otomotif.kompas.com/read/2021/06/11/135100215/harga-kawasaki-ninja-zx-10r-di-indonesia-rp-520-juta"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/231043148/test-ride-kawasaki-ninja-zx-10r-cuma-sedikit-lebih-lambat-dari-ninja-h2"
+   }
+  }
+ },
+ "kawasaki-ninja-zx-25r": {
+  "release": "2020-07",
+  "speed": 192,
+  "kmpl": 19.8,
+  "acc": 5.4,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://kumparan.com/kumparanoto/kawasaki-ninja-zx-25r-resmi-meluncur-di-indonesia-paling-murah-rp-96-juta-1tmEDs8VgXG"
+   },
+   "speed": {
+    "basis": "uji (Gridoto, ZX-25R MY 2021, di lintasan)",
+    "source": "https://www.gridoto.com/read/223749592/kelebihan-dan-kekurangan-kawasaki-ninja-zx-25rr-test-ride-versi-paling-sporty?page=all"
+   },
+   "kmpl": {
+    "basis": "uji (Gridoto, ZX-25R MY 2021, pemakaian harian)",
+    "source": "https://www.gridoto.com/read/223749592/kelebihan-dan-kekurangan-kawasaki-ninja-zx-25rr-test-ride-versi-paling-sporty?page=all"
+   },
+   "acc": {
+    "basis": "uji (Gridoto, ZX-25R MY 2021, 0-100 km/jam dengan Racebox)",
+    "source": "https://www.gridoto.com/read/223749592/kelebihan-dan-kekurangan-kawasaki-ninja-zx-25rr-test-ride-versi-paling-sporty?page=all"
+   }
+  }
+ },
+ "kawasaki-ninja-zx-4r": {
+  "release": "2023-03",
+  "kmpl": 19.5,
+  "acc": 3.9,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://otomotif.kompas.com/read/2023/03/27/132100515/kawasaki-zx-4rr-resmi-meluncur-di-indonesia-harga-rp-239-juta"
+   },
+   "kmpl": {
+    "basis": "klaim pabrikan (WMTC, dikutip media untuk varian 2027)",
+    "source": "https://ridertua.com/2026/07/13/rilis-kawasaki-ninja-zx-4r-se-dan-zx-4rr/"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://www.slashgear.com/1934377/kawasaki-zx-4r-motorcycle-top-speed/"
+   }
+  }
+ },
+ "kawasaki-ninja-zx-6r": {
+  "release": "2011-07",
+  "speed": 248,
+  "kmpl": 16.67,
+  "acc": 3.6,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://oto.detik.com/motor/d-1677695/harga-kawasaki-ninja-zx-6r-selangit-sangat-pantas-di-indonesia"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://moas.muf.co.id/news/kawasaki-ninja-zx-6r-krt-edition-sportbike-rendah-emisi"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/231043337/test-ride-kawasaki-ninja-zx-6r-636-enak-main-atas"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/231043337/test-ride-kawasaki-ninja-zx-6r-636-enak-main-atas"
+   }
+  }
+ },
+ "kawasaki-ninja-e-1": {
+  "release": "2023-11",
+  "speed": 88,
+  "range": 72,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.liputan6.com/otomotif/read/5455890/motor-sport-listrik-kawasaki-ninja-e-1-dan-z-e-1-resmi-masuk-indonesia-segini-harganya"
+   },
+   "speed": {
+    "basis": "klaim pabrikan",
+    "source": "https://www.gridoto.com/read/223947247/kawasaki-ninja-e-1-dan-z-e-1-resmi-dijual-di-indonesia-harga-rp-100-jutaan"
+   },
+   "range": {
+    "basis": "klaim pabrikan",
+    "source": "https://www.gridoto.com/read/223947247/kawasaki-ninja-e-1-dan-z-e-1-resmi-dijual-di-indonesia-harga-rp-100-jutaan"
+   }
+  }
+ },
+ "kawasaki-stockman": {
+  "release": "2022-12",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://otomotif.kompas.com/read/2022/12/01/171200515/kejutan-kawasaki-di-akhir-tahun-rilis-stockman"
+   }
+  }
+ },
+ "kawasaki-versys-1100": {
+  "release": "2024-10",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://oto.detik.com/motor/d-7613878/kawasaki-versys-1100-baru-meluncur-harga-tembus-rp-400-jutaan"
+   }
+  }
+ },
+ "kawasaki-versys-650": {
+  "release": "2022-01",
+  "kmpl": 17.4,
+  "acc": 5.3,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.tempo.co/otomotif/new-kawasaki-versys-650-hadir-di-indonesia-harganya-hampir-rp-200-juta-433006"
+   },
+   "kmpl": {
+    "basis": "uji (tes media Otomotifnet, RON 92, dengan catatan: tes ini tampaknya untuk generasi Versys 650 sebelumnya, bukan spesifik model 2022)",
+    "source": "https://otomotifnet.gridoto.com/read/231043131/data-lengkap-test-ride-kawasaki-versys-650-ada-revisi-karakter-tenaga"
+   },
+   "acc": {
+    "basis": "uji (tes media Otomotifnet, 0-100 km/jam dengan Racelogic; dengan catatan: tes ini tampaknya untuk generasi sebelumnya, bukan spesifik model 2022)",
+    "source": "https://otomotifnet.gridoto.com/read/231043131/data-lengkap-test-ride-kawasaki-versys-650-ada-revisi-karakter-tenaga"
+   }
+  }
+ },
+ "kawasaki-versys-x-250": {
+  "release": "2016-11",
+  "kmpl": 26,
+  "acc": 8.3,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.suara.com/otomotif/2016/11/30/154246/kawasaki-motor-sport-adventure-250cc-tampil-debut-di-indonesia?page=all"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/231147961/hasil-lengkap-test-ride-kawasaki-versys-x-250-tourer-enggak-terlalu-kencang-tapi-nyaman-dan-lincah"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/231147961/hasil-lengkap-test-ride-kawasaki-versys-x-250-tourer-enggak-terlalu-kencang-tapi-nyaman-dan-lincah"
+   }
+  }
+ },
+ "kawasaki-vulcan-s": {
+  "release": "2026-04",
+  "kmpl": 18.6,
+  "acc": 4.8,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://garut60.pikiran-rakyat.com/headline/pr-38510174238/kawasaki-vulcan-s-2026-resmi-rilis-begini-spesifikasi-dan-harga-terbarunya"
+   },
+   "kmpl": {
+    "basis": "uji (tes harian Otomotifnet pada generasi sebelumnya, harga Rp 155 juta, bukan model 2026; pemakaian BBM RON 92 oleh satu pengendara)",
+    "source": "https://otomotifnet.gridoto.com/read/231043156/test-ride-kawasaki-vulcan-s-mudah-dikendalikan"
+   },
+   "acc": {
+    "basis": "uji (data tes 0-100 km/j Otomotifnet pada generasi sebelumnya, harga Rp 155 juta, bukan model 2026)",
+    "source": "https://otomotifnet.gridoto.com/read/231043156/test-ride-kawasaki-vulcan-s-mudah-dikendalikan"
+   }
+  }
+ },
+ "kawasaki-w175l": {
+  "release": "2017-11",
+  "speed": 110.1,
+  "kmpl": 39.3,
+  "acc": 16.3,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.tempo.co/otomotif/kawasaki-w175-bergaya-retro-resmi-diluncurkan-simak-harganya-1147830"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://www.gridoto.com/read/221010959/wow-test-akselerasi-kawasaki-w175-tempel-cb150r-tinggalkan-megapro"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://www.gridoto.com/read/221010960/iritnya-kawasaki-w175-sekali-full-tank-bisa-melaju-530-km"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://www.gridoto.com/read/221010959/wow-test-akselerasi-kawasaki-w175-tempel-cb150r-tinggalkan-megapro"
+   }
+  }
+ },
+ "kawasaki-w175-street": {
+  "release": "2025-12",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://otomotif.kompas.com/read/2025/12/24/162100615/kawasaki-rilis-w175-abs-dan-street-injeksi-harga-mulai-rp-38-5-juta"
+   }
+  }
+ },
+ "kawasaki-w230": {
+  "release": "2025-02",
+  "kmpl": 38.2,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://otomotif.kompas.com/read/2025/02/21/150100915/kawasaki-w230-rilis-di-iims-2025-motor-klasik-mesin-sohc-233-cc"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://www.crazywheels.it/34-kawasaki/28374-kawasaki-w230-2026-prova-38-kml-143kg-confronto-400cc (uji media Italia, bukan Indonesia; konsumsi campuran 38,2 km/liter)"
+   }
+  }
+ },
+ "kawasaki-w800": {
+  "release": "2016-00",
+  "speed": 177,
+  "kmpl": 20.9,
+  "acc": 6.12,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://beritamotor.net/giias-2016-kmi-resmi-luncurkan-kawasaki-w800-harga-rp-249-juta-berikut-spesifikasinya/"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://moas.muf.co.id/news/kawasaki-w800-cruiser-model-60-an-dengan-teknologi-terkini"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://moas.muf.co.id/news/kawasaki-w800-cruiser-model-60-an-dengan-teknologi-terkini"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://moas.muf.co.id/news/kawasaki-w800-cruiser-model-60-an-dengan-teknologi-terkini"
+   }
+  }
+ },
+ "kawasaki-z-e-1": {
+  "release": "2023-11",
+  "speed": 85,
+  "range": 72,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.autofun.co.id/berita-motor/kawasaki-ninja-e1-dan-z-e1-mengaspal-di-indonesia-harga-rp-140-jutaan-75644"
+   },
+   "speed": {
+    "basis": "klaim pabrikan",
+    "source": "https://www.kawasaki.com.au/en-au/motorcycle/electric/ev/z-e-1"
+   },
+   "range": {
+    "basis": "klaim pabrikan",
+    "source": "https://www.motorcyclenews.com/bike-reviews/kawasaki/z-e-1/2024/"
+   }
+  }
+ },
+ "kawasaki-z1000": {
+  "release": "2025-12",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://otomotif.katadata.co.id/motor/kawasaki-z1100-meluncur-di-indonesia-harga-nyaris-rp-400-juta-22126"
+   }
+  }
+ },
+ "kawasaki-z125-pro": {
+  "release": "2016-02",
+  "speed": 102,
+  "kmpl": 43.4,
+  "acc": 24.9,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.viva.co.id/otomotif/motor/739870-resmi-meluncur-di-indonesia-ini-harga-kawasaki-z125-pro"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/231126294/data-lengkap-test-ride-kawasaki-z125-pro-kecil-kecil-bisa-ngacir-juga?page=all"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/231126294/data-lengkap-test-ride-kawasaki-z125-pro-kecil-kecil-bisa-ngacir-juga?page=all"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/231126294/data-lengkap-test-ride-kawasaki-z125-pro-kecil-kecil-bisa-ngacir-juga?page=all"
+   }
+  }
+ },
+ "kawasaki-z900": {
+  "release": "2025-03",
+  "acc": 3.33,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://otomotif.kompas.com/read/2025/03/14/145318715/kawasaki-z900-dan-z900-se-resmi-meluncur-harga-di-bawah-rp-200-juta"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://motostatz.com/kawasaki-z900-acceleration-top-speed/"
+   }
+  }
+ },
+ "kawasaki-z900rs": {
+  "release": "2017-11",
+  "acc": 3.38,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.inews.id/otomotif/motor/mendarat-di-indonesia-ini-spesifikasi-kawasaki-z900rs"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://motostatz.com/kawasaki-z900rs-top-speed-acceleration/"
+   }
+  }
+ }
+}

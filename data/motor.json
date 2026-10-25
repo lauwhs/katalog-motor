@@ -46,14 +46,28 @@
    }
   ],
   "model_year": 2026,
-  "release": null,
-  "speed": null,
-  "kmpl": null,
+  "release": "2023-10",
+  "speed": "185-190",
+  "kmpl": 22.3,
   "acc": null,
   "range": null,
   "sum": "Eliminator 500 adalah street cruiser dengan mesin Parallel Twin 451 cc, rangka trellis, dan tinggi tempat duduk 735 mm. Tersedia dalam varian standar dan SE dengan harga mulai Rp 169.900.000 (Jakarta).",
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/eliminator/street-cruiser/eliminator",
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://disway.id/read/736825/new-kawasaki-eliminator-resmi-meluncur-di-indonesia-cruiser-500-cc-dibanderol-mulai-rp-165-jutaan"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://ridereverie.com/motorcycles/test-ride-kawasaki-eliminator-500-fun/"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://ridereverie.com/motorcycles/test-ride-kawasaki-eliminator-500-fun/"
+   }
+  }
  },
  {
   "id": "kawasaki-kle500",
@@ -74,14 +88,20 @@
    }
   ],
   "model_year": 2026,
-  "release": null,
+  "release": "2026-03",
   "speed": null,
   "kmpl": null,
   "acc": null,
   "range": null,
   "sum": "KLE500 adalah motor adventure bergaya rally bermesin Parallel Twin 451 cc fuel injection, dirancang untuk jalan raya maupun off-road. Tersedia dalam varian 2026 KLE500 dan 2026 KLE500 SE.",
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/kle/rally-adventure/kle500",
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://otomotif.kompas.com/read/2026/03/11/194100315/kawasaki-rilis-kle-500-dan-kle-500-se-harga-rp-140-jutaan"
+   }
+  }
  },
  {
   "id": "kawasaki-klx140r",
@@ -98,14 +118,20 @@
    }
   ],
   "model_year": 2026,
-  "release": null,
+  "release": "2021-06",
   "speed": null,
   "kmpl": null,
   "acc": null,
   "range": null,
   "sum": "Kawasaki KLX140R adalah motor off-road dirtbike dengan mesin 144 cc berpendingin udara, SOHC 4-tak single, dan electric start. Model ini tersedia dalam varian KLX140R, KLX140R L, dan KLX140R F.",
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/off-road/klx140r",
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.oto.com/berita-motor/kawasaki-klx140r-f-hadir-di-indonesia-dijual-rp-383-juta-tanpa-stnk"
+   }
+  }
  },
  {
   "id": "kawasaki-klx150",
@@ -138,14 +164,20 @@
    }
   ],
   "model_year": 2026,
-  "release": null,
+  "release": "2023-02",
   "speed": null,
   "kmpl": null,
   "acc": null,
   "range": null,
   "sum": "KLX150 adalah motor dual purpose 144 cc dengan mesin 4-tak single silinder berpendingin udara dan kapasitas tangki bensin 6,9 liter. Motor ini tersedia dalam beberapa varian dengan harga mulai Rp 35.000.000.",
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/dual-purpose-150/klx150",
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://otomotif.katadata.co.id/motor/new-kawasaki-klx-150-resmi-meluncur-hari-ini-cek-harganya-4386"
+   }
+  }
  },
  {
   "id": "kawasaki-klx150-s",
@@ -162,14 +194,20 @@
    }
   ],
   "model_year": 2026,
-  "release": null,
+  "release": "2023-02",
   "speed": null,
   "kmpl": null,
   "acc": null,
   "range": null,
   "sum": "Motor dual-purpose bermesin 144 cc berpendingin udara untuk penggunaan kota dan off-road, dengan gaya Racy MX dan lampu utama LED. MSRP-nya Rp 35.000.000 (Jakarta).",
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/dual-purpose-150/klx150-s",
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.motorplus-online.com/read/253680715/kenapa-new-kawasaki-klx150-2023-masih-pakai-mesin-karburator"
+   }
+  }
  },
  {
   "id": "kawasaki-klx150-se",
@@ -190,14 +228,32 @@
    }
   ],
   "model_year": 2026,
-  "release": null,
-  "speed": null,
-  "kmpl": null,
-  "acc": null,
+  "release": "2023-02",
+  "speed": 105,
+  "kmpl": 31.8,
+  "acc": 21.7,
   "range": null,
   "sum": "Kawasaki KLX150 SE adalah motor dual-purpose bermesin satu silinder 144 cc berpendingin udara, dirancang untuk penggunaan kota maupun off-road. Tersedia dalam varian 2026 KLX150 SE dan SE+.",
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/dual-purpose-150/klx150-se",
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.idntimes.com/automotive/motorbike/kawasaki-indonesia-rilis-new-klx150-dibanderol-mulai-rp32-9-juta-00-7cdnt-4kj2jx"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/231118153/test-ride-kawasaki-klx-150bf-se-tanah-dan-aspal-oke (diuji pada KLX 150BF SE)"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/231118153/test-ride-kawasaki-klx-150bf-se-tanah-dan-aspal-oke (diuji pada KLX 150BF SE)"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/231118153/test-ride-kawasaki-klx-150bf-se-tanah-dan-aspal-oke (diuji pada KLX 150BF SE)"
+   }
+  }
  },
  {
   "id": "kawasaki-klx150-xpl",
@@ -214,14 +270,20 @@
    }
   ],
   "model_year": 2027,
-  "release": null,
+  "release": "2026-06",
   "speed": null,
   "kmpl": null,
   "acc": null,
   "range": null,
   "sum": "Kawasaki KLX150 XPL adalah motor dual purpose bergaya overland dengan mesin 144 cc 4-tak injeksi, electric starter, dan kick starter. Harga MSRP-nya Rp 44.800.000 di Jakarta.",
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/dual-purpose-150/klx150-xpl",
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.apmotor.co.id/2026/06/kawasaki-klx150-xpl-resmi-meluncur.html"
+   }
+  }
  },
  {
   "id": "kawasaki-klx150sm",
@@ -242,14 +304,24 @@
    }
   ],
   "model_year": 2027,
-  "release": null,
+  "release": "2023-03",
   "speed": null,
-  "kmpl": null,
+  "kmpl": 34,
   "acc": null,
   "range": null,
   "sum": "Kawasaki KLX150SM adalah supermoto perkotaan bermesin silinder tunggal 144 cc berpendingin udara dengan rangka perimeter ringan dan roda 17 inci. Motor ini tersedia dalam beberapa tahun model dengan harga mulai Rp 39.100.000 (Jakarta).",
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/supermoto/klx150sm",
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.oto.com/berita-motor/kawasaki-klx150sm-resmi-meluncur-mulai-rp369-juta-jadi-generasi-baru-dari-dtracker"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://www.gridoto.com/read/224141973/supermoto-kawasaki-ini-lebih-irit-bensin-dari-trail-cek-penyebabnya?page=all"
+   }
+  }
  },
  {
   "id": "kawasaki-klx150sm-se",
@@ -266,14 +338,20 @@
    }
   ],
   "model_year": 2027,
-  "release": null,
+  "release": "2023-03",
   "speed": null,
   "kmpl": null,
   "acc": null,
   "range": null,
   "sum": "Kawasaki KLX150SM SE adalah supermoto perkotaan dengan mesin silinder tunggal 144 cc berpendingin udara, sasis ramping, dan suspensi Uni Trak. Motor ini ditawarkan dengan harga Rp 41.500.000 (Jakarta).",
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/supermoto/klx150sm-se",
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.liputan6.com/otomotif/read/5233688/kawasaki-resmi-luncurkan-klx150sm-di-indonesia-harganya-rp-369-juta"
+   }
+  }
  },
  {
   "id": "kawasaki-klx230",
@@ -290,14 +368,32 @@
    }
   ],
   "model_year": 2026,
-  "release": null,
-  "speed": null,
-  "kmpl": null,
-  "acc": null,
+  "release": "2019-05",
+  "speed": 113.4,
+  "kmpl": 38.7,
+  "acc": 10.42,
   "range": null,
   "sum": "Kawasaki KLX230 adalah motor dual-sport 233 cc berpendingin udara dengan injeksi bahan bakar, rangka perimeter ringan, dan suspensi long-travel untuk jalan raya maupun off-road. Varian KLX230 SE dijual dengan harga MSRP Rp 57.600.000 di Jakarta.",
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/dual-purpose-230-250/klx230",
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://indoride.com/2019/05/23/kawasaki-klx-230-resmi-dirilis-produk-lokal-rasa-global-harga-rp-399-juta/"
+   },
+   "speed": {
+    "basis": "uji (data Racebox pada KLX230 S)",
+    "source": "https://www.gridoto.com/read/223737057/lincah-dan-responsif-begini-catatan-performa-kawasaki-klx230-s"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://otorider.com/berita/2020/tes-konsumsi-bbm-kawasaki-klx230-seberapa-irit-tesbjccgrit"
+   },
+   "acc": {
+    "basis": "uji (0-100 km/jam pada KLX230 S)",
+    "source": "https://www.gridoto.com/read/223737057/lincah-dan-responsif-begini-catatan-performa-kawasaki-klx230-s"
+   }
+  }
  },
  {
   "id": "kawasaki-klx230-df",
@@ -314,14 +410,20 @@
    }
   ],
   "model_year": 2026,
-  "release": null,
+  "release": "2025-12",
   "speed": null,
   "kmpl": null,
   "acc": null,
   "range": null,
   "sum": "KLX230 DF adalah motor dual-purpose 233 cc berpendingin udara dengan injeksi bahan bakar, dirancang untuk berkendara di aspal maupun jalur off-road. Motor ini dilengkapi ABS yang bisa dinonaktifkan, jok rendah 845 mm, dan rangka perimeter.",
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/dual-purpose-230-250/klx230-df",
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://otomotif.kompas.com/read/2025/12/10/181200715/kawasaki-klx230-df-meluncur-harga-rp-66-jutaan"
+   }
+  }
  },
  {
   "id": "kawasaki-klx230-sherpa",
@@ -338,14 +440,24 @@
    }
   ],
   "model_year": 2026,
-  "release": null,
+  "release": "2025-06",
   "speed": null,
-  "kmpl": null,
+  "kmpl": 34.7,
   "acc": null,
   "range": null,
   "sum": "KLX230 SHERPA adalah motor dual-purpose berkapasitas 233 cc dengan rangka perimeter dan ban dual-purpose, dirancang untuk trekking dan berkendara di jalan raya maupun medan tanah. Harga MSRP varian S di Jakarta Rp 59.900.000.",
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/dual-purpose-230-250/klx230-sherpa",
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://tmcblog.com/2025/06/19/resmi-klx230-sherpa-diluncurkan-di-prj-2025-untuk-pasar-indonesia/"
+   },
+   "kmpl": {
+    "basis": "klaim pabrikan (WMTC)",
+    "source": "https://sukabumiheadline.com/kawasaki-klx230-motor-trail-dengan-sherpa-shockbreaker-teleskopik-dijual-segini/"
+   }
+  }
  },
  {
   "id": "kawasaki-klx230r",
@@ -362,14 +474,20 @@
    }
   ],
   "model_year": null,
-  "release": null,
+  "release": "2019-06",
   "speed": null,
   "kmpl": null,
   "acc": null,
   "range": null,
   "sum": "KLX230R adalah trail bike off-road dengan mesin 233 cc fuel-injected 4-tak, suspensi long-travel, dan berat isi 119 kg. Varian 2026 KLX230R S dijual mulai Rp 52.300.000 di Jakarta.",
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/off-road/klx230r",
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://otomotifnet.gridoto.com/read/231759629/kawasaki-klx230r-resmi-dijual-di-indonesia-versi-offroad-segini-harganya"
+   }
+  }
  },
  {
   "id": "kawasaki-klx230sm",
@@ -390,14 +508,32 @@
    }
   ],
   "model_year": 2026,
-  "release": null,
-  "speed": null,
-  "kmpl": null,
-  "acc": null,
+  "release": "2022-06",
+  "speed": 120,
+  "kmpl": 30,
+  "acc": 11.2,
   "range": null,
   "sum": "KLX230SM adalah sepeda motor supermoto ringan 233 cc dengan mesin air-cooled 4-tak single dan injeksi bahan bakar. Tersedia dalam varian 2026 KLX230SM dan KLX230SM SE mulai Rp57.500.000.",
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/supermoto/klx230sm",
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.naikmotor.com/199694/kawasaki-indonesia-resmi-rilis-klx230-2022-harga-mulai-rp479-juta/"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://www.gridoto.com/read/223535702/tes-performa-mesin-kawasaki-klx230sm-torsi-kuat-cocok-buat-perkotaan?page=all"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://www.gridoto.com/read/223535702/tes-performa-mesin-kawasaki-klx230sm-torsi-kuat-cocok-buat-perkotaan?page=all"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://www.gridoto.com/read/223535702/tes-performa-mesin-kawasaki-klx230sm-torsi-kuat-cocok-buat-perkotaan?page=all"
+   }
+  }
  },
  {
   "id": "kawasaki-klx250",
@@ -433,14 +569,20 @@
   "price": 74200000,
   "variants": [],
   "model_year": 2026,
-  "release": null,
+  "release": "2023-10",
   "speed": null,
   "kmpl": null,
   "acc": null,
   "range": null,
   "sum": "KX112 2026 adalah sepeda motor trail bermesin 2-tak 112 cc dengan pendingin cair dan kapasitas bensin 5,0 liter. MSRP-nya Rp 74.200.000 (Jakarta), dan spesifikasi serta harga dapat berubah.",
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/kx/kx-youth/kx112",
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://tmcblog.com/2023/10/05/kawasaki-indonesia-resmi-rilis-kx85-dan-kx112-mulai-663-juta-rupiah/"
+   }
+  }
  },
  {
   "id": "kawasaki-kx85",
@@ -457,14 +599,20 @@
    }
   ],
   "model_year": 2026,
-  "release": null,
+  "release": "2023-10",
   "speed": null,
   "kmpl": null,
   "acc": null,
   "range": null,
   "sum": "Sepeda motor 2-tak 84 cc model 2026 dengan rangka Perimeter, suspensi depan KYB inverted fork ø43 mm, dan rem cakram depan ø240 mm. MSRP Rp 71.100.000 (Jakarta).",
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/kx/kx-youth/kx85",
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "perf": {
+   "release": {
+    "basis": "berita (peluncuran KX85 24 Model Year di Indonesia; berita tidak menyebut label 'L' secara khusus)",
+    "source": "https://www.oto.com/berita-motor/kawasaki-rilis-kx85-dan-kx112-harga-mulai-dari-rp63-jutaan"
+   }
+  }
  },
  {
   "id": "kawasaki-meguro-s1",
@@ -481,14 +629,32 @@
    }
   ],
   "model_year": 2025,
-  "release": null,
-  "speed": null,
-  "kmpl": null,
-  "acc": null,
+  "release": "2025-02",
+  "speed": 118,
+  "kmpl": 36,
+  "acc": 15.6,
   "range": null,
   "sum": "Motor retro klasik 233 cc berpendingin udara yang terinspirasi dari Kawasaki 250 Meguro SG tahun 1964. Berat kosong 143 kg dengan tinggi tempat duduk 745 mm.",
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/meguro/retro-classic/meguro-s1",
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://oto.detik.com/motor/d-7787312/kawasaki-luncurkan-motor-klasik-meguro-dan-w230-harga-rp-70-jutaan"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://www.startersmotor.nl/merken/kawasaki/w230-meguro/meguro-s1-w230.php"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://www.startersmotor.nl/merken/kawasaki/w230-meguro/meguro-s1-w230.php"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://www.startersmotor.nl/merken/kawasaki/w230-meguro/meguro-s1-w230.php"
+   }
+  }
  },
  {
   "id": "kawasaki-ninja-250",
@@ -509,14 +675,24 @@
    }
   ],
   "model_year": 2027,
-  "release": null,
+  "release": "2017-11",
   "speed": null,
-  "kmpl": null,
+  "kmpl": 25.5,
   "acc": null,
   "range": null,
   "sum": "Kawasaki Ninja 250 adalah motor sport 249 cc parallel twin dengan rangka trellis ringan dan kapasitas tangki bensin 14 liter. Tersedia dalam beberapa varian tahun model 2025 hingga 2027, dengan varian ABS SE yang dilengkapi ABS dan KIPASS.",
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/ninja/sport/ninja-250",
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://autonetmagz.com/kawasaki-ninja-250-2018-resmi-meluncur-tembus-724-juta/63109/"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://www.gridoto.com/read/221015780/gimana-konsumsi-bbm-all-new-kawasaki-ninja-250-dibanding-pendahulunya"
+   }
+  }
  },
  {
   "id": "kawasaki-ninja-h2",
@@ -533,14 +709,28 @@
    }
   ],
   "model_year": 2026,
-  "release": null,
-  "speed": null,
+  "release": "2015-01",
+  "speed": 275,
   "kmpl": null,
-  "acc": null,
+  "acc": 3.1,
   "range": null,
   "sum": "Ninja H2 adalah motor hypersport dengan mesin supercharged 998 cc In-Line Four berdaya 243 PS. Harga MSRP di Jakarta Rp 890.500.000 untuk model 2026 dan 2025.",
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/ninja/hypersport/ninja-h2",
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://oto.detik.com/motor/d-2805755/kawasaki-ninja-h2-harganya-rp-580-juta-h2r-rp-1-miliar"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/231043180/test-ride-kawasaki-ninja-h2-mencapai-100-kmjam-dalam-3-detik"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://moas.muf.co.id/news/review-kawasaki-ninja-h2-tampil-buas-dengan-performa-ganas"
+   }
+  }
  },
  {
   "id": "kawasaki-ninja-zx-10r",
@@ -557,14 +747,24 @@
    }
   ],
   "model_year": 2025,
-  "release": null,
+  "release": "2021-06",
   "speed": null,
-  "kmpl": null,
+  "kmpl": 14.7,
   "acc": null,
   "range": null,
   "sum": "Kawasaki Ninja ZX-10R 2025 ABS KRT Edition adalah motor supersport bermesin 998 cc In-Line Four dengan mesin bertenaga 156,8 kW (213 PS) di 13.200 rpm. Motor ini dilengkapi winglet aerodinamis, suspensi Showa, rem Brembo M50, dan paket elektronik seperti KCMF, S-KTRC, dan KQS.",
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/ninja/supersport/ninja-zx-10r",
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://otomotif.kompas.com/read/2021/06/11/135100215/harga-kawasaki-ninja-zx-10r-di-indonesia-rp-520-juta"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/231043148/test-ride-kawasaki-ninja-zx-10r-cuma-sedikit-lebih-lambat-dari-ninja-h2"
+   }
+  }
  },
  {
   "id": "kawasaki-ninja-zx-25r",
@@ -593,14 +793,32 @@
    }
   ],
   "model_year": 2027,
-  "release": null,
-  "speed": null,
-  "kmpl": null,
-  "acc": null,
+  "release": "2020-07",
+  "speed": 192,
+  "kmpl": 19.8,
+  "acc": 5.4,
   "range": null,
   "sum": "Motor supersport 250 cc dengan mesin In-Line Four 249,8 cc, menghasilkan power maksimum 35,2 kW (47 PS) pada 15.500 rpm. Tersedia dalam beberapa varian dengan harga termurah Rp 111.100.000.",
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/ninja/supersport/ninja-zx-25r",
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://kumparan.com/kumparanoto/kawasaki-ninja-zx-25r-resmi-meluncur-di-indonesia-paling-murah-rp-96-juta-1tmEDs8VgXG"
+   },
+   "speed": {
+    "basis": "uji (Gridoto, ZX-25R MY 2021, di lintasan)",
+    "source": "https://www.gridoto.com/read/223749592/kelebihan-dan-kekurangan-kawasaki-ninja-zx-25rr-test-ride-versi-paling-sporty?page=all"
+   },
+   "kmpl": {
+    "basis": "uji (Gridoto, ZX-25R MY 2021, pemakaian harian)",
+    "source": "https://www.gridoto.com/read/223749592/kelebihan-dan-kekurangan-kawasaki-ninja-zx-25rr-test-ride-versi-paling-sporty?page=all"
+   },
+   "acc": {
+    "basis": "uji (Gridoto, ZX-25R MY 2021, 0-100 km/jam dengan Racebox)",
+    "source": "https://www.gridoto.com/read/223749592/kelebihan-dan-kekurangan-kawasaki-ninja-zx-25rr-test-ride-versi-paling-sporty?page=all"
+   }
+  }
  },
  {
   "id": "kawasaki-ninja-zx-4r",
@@ -617,14 +835,28 @@
    }
   ],
   "model_year": 2026,
-  "release": null,
+  "release": "2023-03",
   "speed": null,
-  "kmpl": null,
-  "acc": null,
+  "kmpl": 19.5,
+  "acc": 3.9,
   "range": null,
   "sum": "Supersport 400 cc dengan mesin 399 cc In-Line Four berpendingin cairan, berdaya 56,7 kW (77 PS) pada 14.500 rpm. MSRP Rp 248.000.000 (Jakarta), dan spesifikasi serta harga dapat berubah.",
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/ninja/supersport/ninja-zx-4r",
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://otomotif.kompas.com/read/2023/03/27/132100515/kawasaki-zx-4rr-resmi-meluncur-di-indonesia-harga-rp-239-juta"
+   },
+   "kmpl": {
+    "basis": "klaim pabrikan (WMTC, dikutip media untuk varian 2027)",
+    "source": "https://ridertua.com/2026/07/13/rilis-kawasaki-ninja-zx-4r-se-dan-zx-4rr/"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://www.slashgear.com/1934377/kawasaki-zx-4r-motorcycle-top-speed/"
+   }
+  }
  },
  {
   "id": "kawasaki-ninja-zx-6r",
@@ -645,14 +877,32 @@
    }
   ],
   "model_year": 2025,
-  "release": null,
-  "speed": null,
-  "kmpl": null,
-  "acc": null,
+  "release": "2011-07",
+  "speed": 248,
+  "kmpl": 16.67,
+  "acc": 3.6,
   "range": null,
   "sum": "Ninja ZX-6R adalah motor supersport bermesin 636 cc empat silinder segaris dengan desain fairing ala Ninja ZX-10R. Halaman ini juga mencantumkan varian 2025 KRT Edition dengan harga MSRP Rp 365.500.000.",
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/ninja/supersport/ninja-zx-6r",
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://oto.detik.com/motor/d-1677695/harga-kawasaki-ninja-zx-6r-selangit-sangat-pantas-di-indonesia"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://moas.muf.co.id/news/kawasaki-ninja-zx-6r-krt-edition-sportbike-rendah-emisi"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/231043337/test-ride-kawasaki-ninja-zx-6r-636-enak-main-atas"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/231043337/test-ride-kawasaki-ninja-zx-6r-636-enak-main-atas"
+   }
+  }
  },
  {
   "id": "kawasaki-ninja-e-1",
@@ -669,14 +919,24 @@
    }
   ],
   "model_year": 2025,
-  "release": null,
+  "release": "2023-11",
   "speed": 88,
   "kmpl": null,
   "acc": null,
-  "range": null,
+  "range": 72,
   "sum": "Kawasaki Ninja e-1 adalah sepeda motor listrik murni (EV) komuter ringan tanpa emisi, dengan dua baterai lithium-ion yang dapat dilepas. Kecepatan tertinggi 88 km/jam dalam Mode ROAD, dan 105 km/jam dengan e-boost.",
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/electric/ev/ninja-e-1",
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.liputan6.com/otomotif/read/5455890/motor-sport-listrik-kawasaki-ninja-e-1-dan-z-e-1-resmi-masuk-indonesia-segini-harganya"
+   },
+   "range": {
+    "basis": "klaim pabrikan",
+    "source": "https://www.gridoto.com/read/223947247/kawasaki-ninja-e-1-dan-z-e-1-resmi-dijual-di-indonesia-harga-rp-100-jutaan"
+   }
+  }
  },
  {
   "id": "kawasaki-stockman",
@@ -693,14 +953,20 @@
    }
   ],
   "model_year": 2025,
-  "release": null,
+  "release": "2022-12",
   "speed": null,
   "kmpl": null,
   "acc": null,
   "range": null,
   "sum": "Kawasaki STOCKMAN 2025 adalah motor off-road 233 cc berpendingin udara dengan mesin injeksi bahan bakar dan start elektrik, dirancang untuk trail riding dan pekerjaan pertanian. Harga MSRP di Jakarta Rp 59.100.000.",
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/stockman/stockman/stockman",
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://otomotif.kompas.com/read/2022/12/01/171200515/kejutan-kawasaki-di-akhir-tahun-rilis-stockman"
+   }
+  }
  },
  {
   "id": "kawasaki-versys-1100",
@@ -717,14 +983,20 @@
    }
   ],
   "model_year": null,
-  "release": null,
+  "release": "2024-10",
   "speed": null,
   "kmpl": null,
   "acc": null,
   "range": null,
   "sum": "Kawasaki Versys 1100 adalah sepeda motor touring bermesin in-line four 1.099 cc dengan tenaga 135 PS, dilengkapi suspensi long-travel, roda 17 inci, dan fitur elektronik seperti KTRC dan KIBS. Harga MSRP model 2026 adalah Rp 419.100.000 di Jakarta.",
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/versys/adventure-touring/versys-1100",
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://oto.detik.com/motor/d-7613878/kawasaki-versys-1100-baru-meluncur-harga-tembus-rp-400-jutaan"
+   }
+  }
  },
  {
   "id": "kawasaki-versys-650",
@@ -741,14 +1013,28 @@
    }
   ],
   "model_year": 2026,
-  "release": null,
+  "release": "2022-01",
   "speed": null,
-  "kmpl": null,
-  "acc": null,
+  "kmpl": 17.4,
+  "acc": 5.3,
   "range": null,
   "sum": "Versys 650 adalah motor touring bermesin Parallel Twin 649 cc dengan suspensi long-travel, roda 17 inci, dan Kawasaki TRaction Control (KTRC). Harga tercantum mulai Rp 241.900.000 (model 2025) dan Rp 245.700.000 (model 2026).",
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/versys/adventure-touring/versys-650",
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.tempo.co/otomotif/new-kawasaki-versys-650-hadir-di-indonesia-harganya-hampir-rp-200-juta-433006"
+   },
+   "kmpl": {
+    "basis": "uji (tes media Otomotifnet, RON 92, dengan catatan: tes ini tampaknya untuk generasi Versys 650 sebelumnya, bukan spesifik model 2022)",
+    "source": "https://otomotifnet.gridoto.com/read/231043131/data-lengkap-test-ride-kawasaki-versys-650-ada-revisi-karakter-tenaga"
+   },
+   "acc": {
+    "basis": "uji (tes media Otomotifnet, 0-100 km/jam dengan Racelogic; dengan catatan: tes ini tampaknya untuk generasi sebelumnya, bukan spesifik model 2022)",
+    "source": "https://otomotifnet.gridoto.com/read/231043131/data-lengkap-test-ride-kawasaki-versys-650-ada-revisi-karakter-tenaga"
+   }
+  }
  },
  {
   "id": "kawasaki-versys-x-250",
@@ -765,14 +1051,28 @@
    }
   ],
   "model_year": 2026,
-  "release": null,
+  "release": "2016-11",
   "speed": null,
-  "kmpl": null,
-  "acc": null,
+  "kmpl": 26,
+  "acc": 8.3,
   "range": null,
   "sum": "Kawasaki Versys-X 250 adalah motor adventure-touring dengan mesin 249 cc Parallel Twin berpendingin cair dan rangka backbone. Harga MSRP varian 2026 (NON-ABS) di Jakarta Rp 73.700.000.",
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/versys/adventure-touring/versys-x-250",
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.suara.com/otomotif/2016/11/30/154246/kawasaki-motor-sport-adventure-250cc-tampil-debut-di-indonesia?page=all"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/231147961/hasil-lengkap-test-ride-kawasaki-versys-x-250-tourer-enggak-terlalu-kencang-tapi-nyaman-dan-lincah"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/231147961/hasil-lengkap-test-ride-kawasaki-versys-x-250-tourer-enggak-terlalu-kencang-tapi-nyaman-dan-lincah"
+   }
+  }
  },
  {
   "id": "kawasaki-vulcan-s",
@@ -789,14 +1089,28 @@
    }
   ],
   "model_year": 2026,
-  "release": null,
+  "release": "2026-04",
   "speed": null,
-  "kmpl": null,
-  "acc": null,
+  "kmpl": 18.6,
+  "acc": 4.8,
   "range": null,
   "sum": "Vulcan S adalah sport cruiser bermesin 649 cc parallel-twin dengan rangka perimeter dan suspensi yang diturunkan dari sportbike. Motor ini dilengkapi ERGO-FIT untuk penyesuaian posisi berkendara serta ABS.",
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/vulcan/sport-cruiser/vulcan-s",
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://garut60.pikiran-rakyat.com/headline/pr-38510174238/kawasaki-vulcan-s-2026-resmi-rilis-begini-spesifikasi-dan-harga-terbarunya"
+   },
+   "kmpl": {
+    "basis": "uji (tes harian Otomotifnet pada generasi sebelumnya, harga Rp 155 juta, bukan model 2026; pemakaian BBM RON 92 oleh satu pengendara)",
+    "source": "https://otomotifnet.gridoto.com/read/231043156/test-ride-kawasaki-vulcan-s-mudah-dikendalikan"
+   },
+   "acc": {
+    "basis": "uji (data tes 0-100 km/j Otomotifnet pada generasi sebelumnya, harga Rp 155 juta, bukan model 2026)",
+    "source": "https://otomotifnet.gridoto.com/read/231043156/test-ride-kawasaki-vulcan-s-mudah-dikendalikan"
+   }
+  }
  },
  {
   "id": "kawasaki-w175l",
@@ -813,14 +1127,32 @@
    }
   ],
   "model_year": 2026,
-  "release": null,
-  "speed": null,
-  "kmpl": null,
-  "acc": null,
+  "release": "2017-11",
+  "speed": 110.1,
+  "kmpl": 39.3,
+  "acc": 16.3,
   "range": null,
   "sum": "Kawasaki W175 adalah motor retro klasik bermesin 177 cc dengan transmisi 5 kecepatan dan fitur ABS pada roda depan. Harga MSRP varian 2026 W175 ABS di Jakarta Rp 38.500.000.",
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/w/retro-classic/2024-w175l",
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.tempo.co/otomotif/kawasaki-w175-bergaya-retro-resmi-diluncurkan-simak-harganya-1147830"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://www.gridoto.com/read/221010959/wow-test-akselerasi-kawasaki-w175-tempel-cb150r-tinggalkan-megapro"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://www.gridoto.com/read/221010960/iritnya-kawasaki-w175-sekali-full-tank-bisa-melaju-530-km"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://www.gridoto.com/read/221010959/wow-test-akselerasi-kawasaki-w175-tempel-cb150r-tinggalkan-megapro"
+   }
+  }
  },
  {
   "id": "kawasaki-w175-street",
@@ -837,14 +1169,20 @@
    }
   ],
   "model_year": 2026,
-  "release": null,
+  "release": "2025-12",
   "speed": null,
   "kmpl": null,
   "acc": null,
   "range": null,
   "sum": "Kawasaki W175 STREET adalah motor retro classic bermesin 177 cc fuel injection dengan desain klasik dan velg bergaya jari-jari. Varian 2026 W175 STREET ABS dijual dengan MSRP Rp 38.900.000 di Jakarta.",
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/w/retro-classic/w175-street",
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://otomotif.kompas.com/read/2025/12/24/162100615/kawasaki-rilis-w175-abs-dan-street-injeksi-harga-mulai-rp-38-5-juta"
+   }
+  }
  },
  {
   "id": "kawasaki-w230",
@@ -861,14 +1199,24 @@
    }
   ],
   "model_year": 2025,
-  "release": null,
+  "release": "2025-02",
   "speed": null,
-  "kmpl": null,
+  "kmpl": 38.2,
   "acc": null,
   "range": null,
   "sum": "Motor sport retro 233 cc single-silinder berpendingin udara dengan desain klasik dari seri W Kawasaki. MSRP Rp 73.200.000 (Jakarta).",
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/w/retro-classic/w230",
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://otomotif.kompas.com/read/2025/02/21/150100915/kawasaki-w230-rilis-di-iims-2025-motor-klasik-mesin-sohc-233-cc"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://www.crazywheels.it/34-kawasaki/28374-kawasaki-w230-2026-prova-38-kml-143kg-confronto-400cc (uji media Italia, bukan Indonesia; konsumsi campuran 38,2 km/liter)"
+   }
+  }
  },
  {
   "id": "kawasaki-w800",
@@ -885,14 +1233,32 @@
    }
   ],
   "model_year": 2026,
-  "release": null,
-  "speed": null,
-  "kmpl": null,
-  "acc": null,
+  "release": "2016-00",
+  "speed": 177,
+  "kmpl": 20.9,
+  "acc": 6.12,
   "range": null,
   "sum": "Kawasaki W800 adalah motor retro classic bermesin 773 cc vertikal-twin dengan desain bergaya era 1960-an. Harga MSRP-nya Rp 322.500.000 (Jakarta) untuk model 2026 dan 2025.",
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/w/retro-classic/w800",
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://beritamotor.net/giias-2016-kmi-resmi-luncurkan-kawasaki-w800-harga-rp-249-juta-berikut-spesifikasinya/"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://moas.muf.co.id/news/kawasaki-w800-cruiser-model-60-an-dengan-teknologi-terkini"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://moas.muf.co.id/news/kawasaki-w800-cruiser-model-60-an-dengan-teknologi-terkini"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://moas.muf.co.id/news/kawasaki-w800-cruiser-model-60-an-dengan-teknologi-terkini"
+   }
+  }
  },
  {
   "id": "kawasaki-z-e-1",
@@ -909,14 +1275,24 @@
    }
   ],
   "model_year": 2025,
-  "release": null,
+  "release": "2023-11",
   "speed": 85,
   "kmpl": null,
   "acc": null,
-  "range": null,
+  "range": 72,
   "sum": "Z e-1 adalah sepeda motor listrik murni (EV) komuter dari Kawasaki dengan dua baterai lithium-ion yang dapat dilepas, mode ROAD/ECO, dan fitur e-boost. Kecepatan tertinggi dalam Mode ROAD adalah 85 km/jam.",
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/electric/ev/z-e-1",
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.autofun.co.id/berita-motor/kawasaki-ninja-e1-dan-z-e1-mengaspal-di-indonesia-harga-rp-140-jutaan-75644"
+   },
+   "range": {
+    "basis": "klaim pabrikan",
+    "source": "https://www.motorcyclenews.com/bike-reviews/kawasaki/z-e-1/2024/"
+   }
+  }
  },
  {
   "id": "kawasaki-z1000",
@@ -933,14 +1309,20 @@
    }
   ],
   "model_year": 2026,
-  "release": null,
+  "release": "2025-12",
   "speed": null,
   "kmpl": null,
   "acc": null,
   "range": null,
   "sum": "Kawasaki Z1100 2026 adalah supernaked flagship dengan mesin 1.099 cc In-Line Four berpendingin cair dan tenaga maksimum 100 kW (136 PS) pada 9.000 rpm. Harga MSRP di Jakarta Rp 399.900.000 dengan kapasitas tangki bensin 17 liter.",
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/z/supernaked/z1000",
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://otomotif.katadata.co.id/motor/kawasaki-z1100-meluncur-di-indonesia-harga-nyaris-rp-400-juta-22126"
+   }
+  }
  },
  {
   "id": "kawasaki-z125-pro",
@@ -957,14 +1339,32 @@
    }
   ],
   "model_year": 2026,
-  "release": null,
-  "speed": null,
-  "kmpl": null,
-  "acc": null,
+  "release": "2016-02",
+  "speed": 102,
+  "kmpl": 43.4,
+  "acc": 24.9,
   "range": null,
   "sum": "Kawasaki Z125 PRO adalah naked bike 125 cc bermesin fuel-injected dengan transmisi manual empat kecepatan dan gaya streetfighter yang agresif. Harga MSRP-nya Rp 52.500.000 (Jakarta).",
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/z/mini-naked/z125-pro",
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.viva.co.id/otomotif/motor/739870-resmi-meluncur-di-indonesia-ini-harga-kawasaki-z125-pro"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/231126294/data-lengkap-test-ride-kawasaki-z125-pro-kecil-kecil-bisa-ngacir-juga?page=all"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/231126294/data-lengkap-test-ride-kawasaki-z125-pro-kecil-kecil-bisa-ngacir-juga?page=all"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/231126294/data-lengkap-test-ride-kawasaki-z125-pro-kecil-kecil-bisa-ngacir-juga?page=all"
+   }
+  }
  },
  {
   "id": "kawasaki-z900",
@@ -985,14 +1385,24 @@
    }
   ],
   "model_year": 2026,
-  "release": null,
+  "release": "2025-03",
   "speed": null,
   "kmpl": null,
-  "acc": null,
+  "acc": 3.33,
   "range": null,
   "sum": "Z900 adalah supernaked dengan mesin In-Line Four 948 cc liquid cooled, tersedia dalam varian Z900 dan Z900 SE. Motor ini dilengkapi IMU-enhanced ABS, KTRC, KCMF, dan KQS.",
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/z/supernaked/z900",
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://otomotif.kompas.com/read/2025/03/14/145318715/kawasaki-z900-dan-z900-se-resmi-meluncur-harga-di-bawah-rp-200-juta"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://motostatz.com/kawasaki-z900-acceleration-top-speed/"
+   }
+  }
  },
  {
   "id": "kawasaki-z900rs",
@@ -1013,13 +1423,23 @@
    }
   ],
   "model_year": 2026,
-  "release": null,
+  "release": "2017-11",
   "speed": null,
   "kmpl": null,
-  "acc": null,
+  "acc": 3.38,
   "range": null,
   "sum": "Z900RS adalah motor retro sport bermesin In-Line Four 948 cc yang terinspirasi dari Z1, dengan desain tangki teardrop dan silencer megaphone. Tersedia dalam varian standar dan CAFE dengan harga mulai Rp 360.900.000.",
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/z/retro-sport/z900rs",
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.inews.id/otomotif/motor/mendarat-di-indonesia-ini-spesifikasi-kawasaki-z900rs"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://motostatz.com/kawasaki-z900rs-top-speed-acceleration/"
+   }
+  }
  }
 ]
