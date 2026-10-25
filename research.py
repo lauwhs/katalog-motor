@@ -14,7 +14,7 @@ MODEL = os.getenv("RESEARCH_MODEL", "claude-haiku-5-5")
 ROOT = Path(__file__).parent
 DATA = ROOT / "data"
 OUT = DATA / "research.json"
-SKIP = {"motor.json", "overrides.json", "enriched.json", "research.json", "articles.json"}
+SKIP = {"motor.json", "overrides.json", "enriched.json", "research.json", "articles.json", "commons.json"}
 SPEC_LABELS = {"tenaga": "Tenaga", "torsi": "Torsi", "bobot": "Bobot", "tinggi_jok": "Tinggi jok",
                "tangki": "Tangki BBM", "transmisi": "Transmisi", "rem": "Rem", "suspensi": "Suspensi",
                "ban": "Ban", "fitur": "Fitur"}

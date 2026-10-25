@@ -94,6 +94,58 @@ def latest_variants(urls):
     return sorted(u for u in urls if yr(u) == top)[:4], (top or None)
 
 
+def find_image(html, page_url, slug):
+    """Cari foto produk di halaman: og:image dulu, lalu gambar yang namanya cocok dengan model."""
+    soup = BeautifulSoup(html, "html.parser")
+    for attrs in ({"property": "og:image"}, {"name": "twitter:image"}):
+        t = soup.find("meta", attrs=attrs)
+        if t and t.get("content"):
+            return urljoin(page_url, t["content"].strip())
+    key = re.sub(r"[^a-z0-9]", "", re.sub(r"^\d{4}-", "", slug.lower()))
+    for img in soup.find_all("img"):
+        src = img.get("data-src") or img.get("src") or ""
+        if not src or src.startswith("data:"):
+            continue
+        in_src = key in re.sub(r"[^a-z0-9]", "", src.lower())
+        in_alt = key in re.sub(r"[^a-z0-9]", "", (img.get("alt") or "").lower())
+        if key and (in_src or in_alt):
+            return urljoin(page_url, src)
+    return None
+
+
+GTAGS = [(r"meter|speedo|dash|panel|instrument|cluster", "Panel instrumen"), (r"head ?light|head ?lamp|tail|lamp|light|led", "Lampu"),
+         (r"suspen|fork|shock|swingarm", "Suspensi"), (r"wheel|tire|tyre|velg|rim|brake|disc", "Roda dan rem"),
+         (r"exhaust|muffler|knalpot|silencer", "Knalpot"), (r"engine|mesin|cylinder|radiator", "Mesin"), (r"seat|jok|saddle", "Jok")]
+JUNK = re.compile(r"logo|icon|sprite|banner|flag|avatar|facebook|instagram|youtube|tiktok|twitter|\.svg|\.gif|placeholder|loading|arrow|btn|button", re.I)
+
+
+def find_gallery(html, page_url):
+    """Kumpulkan foto-foto di isi halaman model (di luar menu, header, dan footer)."""
+    soup = BeautifulSoup(html, "html.parser")
+    for t in soup(["nav", "header", "footer", "aside", "script", "style", "noscript"]):
+        t.decompose()
+    root = soup.find("main") or soup.body or soup
+    out, seen = [], set()
+    for img in root.find_all("img"):
+        src = img.get("data-src") or img.get("data-lazy-src") or img.get("src") or ""
+        if not src and img.get("srcset"):
+            src = img["srcset"].split(",")[0].split()[0]
+        if not src or src.startswith("data:") or JUNK.search(src):
+            continue
+        url = urljoin(page_url, src.strip())
+        if url in seen:
+            continue
+        seen.add(url)
+        cap = (img.get("alt") or img.get("title") or "").strip()
+        if not cap:
+            fig = img.find_parent("figure")
+            cap = fig.get_text(" ", strip=True) if fig else ""
+        hay = cap + " " + url.rsplit("/", 1)[-1]
+        tag = next((lab for rx, lab in GTAGS if re.search(rx, hay, re.I)), "Foto")
+        out.append({"url": url, "caption": cap[:90], "tag": tag})
+    return out[:14]
+
+
 def page_text(html):
     soup = BeautifulSoup(html, "html.parser")
     for t in soup(["script", "style", "nav", "footer", "noscript"]):
@@ -135,10 +187,15 @@ def main():
         variants, year = latest_variants(variant_urls)
         key = model_url
         try:
-            texts = []
+            texts, image, gallery = [], None, []
             for u in [model_url] + variants:
                 try:
-                    texts.append(page_text(get(u))[:7000])
+                    html = get(u)
+                    texts.append(page_text(html)[:7000])
+                    image = image or find_image(html, u, parts[5])
+                    for g in find_gallery(html, u):
+                        if all(g["url"] != x["url"] for x in gallery):
+                            gallery.append(g)
                 except Exception as e:
                     print("  lewati halaman", u, e)
             if not texts:
@@ -196,11 +253,22 @@ def main():
             "release": None, "speed": data.get("speed"), "kmpl": data.get("kmpl"),
             "acc": data.get("acc"), "range": data.get("range_km"),
             "sum": data.get("summary") or "",
+            "image": image, "image_credit": "Kawasaki Motor Indonesia", "gallery": gallery[:14],
             "source": model_url, "checked": date.today().isoformat(),
         }
         item.update({k: v for k, v in overrides.get(item["id"], {}).items() if v is not None})
         result.append(item)
 
+    from collections import Counter
+    pakai = Counter(x["image"] for x in result if x.get("image"))
+    for x in result:                     # gambar yang dipakai banyak motor = logo/gambar umum, buang
+        if x.get("image") and pakai[x["image"]] > 3:
+            x["image"] = None
+    gpakai = Counter(g["url"] for x in result for g in x.get("gallery", []))
+    for x in result:                     # foto yang muncul di banyak motor = gambar umum/menu, buang
+        x["gallery"] = [g for g in x.get("gallery", []) if gpakai[g["url"]] <= 3 and g["url"] != x.get("image")]
+    print(f"Galeri foto: {sum(len(x['gallery']) for x in result)} foto untuk {sum(1 for x in result if x['gallery'])} motor")
+    print(f"Gambar ditemukan untuk {sum(1 for x in result if x.get('image'))} dari {len(result)} motor")
     if len(result) < MIN_MODELS // 2:
         sys.exit(f"Hanya {len(result)} motor berhasil diekstrak. Data lama tidak ditimpa. Cek pesan GAGAL di atas.")
     OUT.parent.mkdir(exist_ok=True)

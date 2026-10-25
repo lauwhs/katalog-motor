@@ -16,7 +16,7 @@ FIELDS = ["release", "speed", "kmpl", "acc", "range"]
 ROOT = Path(__file__).parent
 DATA = ROOT / "data"
 OUT = DATA / "enriched.json"
-SKIP = {"motor.json", "overrides.json", "enriched.json", "research.json", "articles.json"}
+SKIP = {"motor.json", "overrides.json", "enriched.json", "research.json", "articles.json", "commons.json"}
 
 PROMPT = """Cari di web data berikut untuk motor {brand} {name} yang dijual resmi di Indonesia (cc: {cc}, mesin: {engine}).
 

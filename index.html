@@ -30,9 +30,14 @@ button.p{background:var(--acc);color:var(--accink);border-color:var(--acc)}
 .top select{width:auto}
 .list{display:grid;gap:10px}
 a{color:var(--acc)}
-.item{display:grid;grid-template-columns:1fr auto;gap:4px 16px;background:var(--card);border:1px solid var(--line);border-radius:6px;padding:14px;text-decoration:none;color:inherit}
+.item{display:grid;grid-template-columns:112px 1fr auto;align-items:center;gap:4px 16px;background:var(--card);border:1px solid var(--line);border-radius:6px;padding:14px;text-decoration:none;color:inherit}
 a.item{color:inherit}
 .item:hover{border-color:var(--acc)}
+.th{width:112px;height:76px;background:var(--bg);border-radius:4px;display:flex;align-items:center;justify-content:center;overflow:hidden;color:var(--mut);font-size:1.6rem}
+.th img{width:100%;height:100%;object-fit:contain}
+figure{margin:14px 0;background:var(--bg);border-radius:6px;padding:8px;text-align:center}
+figure img{max-width:100%;max-height:340px;object-fit:contain}
+figcaption{font-size:.8rem;color:var(--mut)}
 .item h3{font-size:1.4rem;font-weight:700}
 .meta{color:var(--mut);font-size:.88rem}
 .price{font-family:"Barlow Condensed",sans-serif;font-size:1.5rem;font-weight:700;text-align:right}
@@ -48,6 +53,11 @@ a.item{color:inherit}
 .art p{max-width:68ch}
 .art h2,.art h3{margin:22px 0 6px}
 .art h3{font-size:1.25rem}
+.gal{display:grid;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:10px;margin:10px 0}
+.gal a{display:block;text-decoration:none;color:inherit;border:1px solid var(--line);border-radius:6px;overflow:hidden;background:var(--bg)}
+.gal img{width:100%;height:120px;object-fit:cover;display:block}
+.gal span{display:block;padding:6px 8px;font-size:.78rem;color:var(--mut);line-height:1.35}
+.gal b{display:block;color:var(--ink);font-weight:500}
 .empty{padding:30px;text-align:center;color:var(--mut)}
 </style>
 </head>
@@ -72,9 +82,11 @@ const SORTS={
 const F={q:"",sort:"price-asc",body:"",engine:"",brand:"",maxPrice:1e12,minSpeed:0};
 const uniq=k=>[...new Set(DATA.map(d=>d[k]))].sort();
 const opt=(arr,v)=>'<option value="">Semua</option>'+arr.map(x=>`<option${x===v?" selected":""}>${x}</option>`).join("");
+const safe=u=>/^https?:\/\//.test(u||"")?u:"";
+const thumb=d=>safe(d.image)?`<img src="${safe(d.image)}" alt="${d.brand} ${d.name}" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.textContent='🏍️'">`:"🏍️";
 function list(){
  const r=DATA.filter(d=>(!F.body||d.body===F.body)&&(!F.engine||d.engine===F.engine)&&(!F.brand||d.brand===F.brand)&&d.price<=F.maxPrice&&(F.minSpeed==0||d.speed>=F.minSpeed)&&(d.brand+" "+d.name).toLowerCase().includes(F.q.toLowerCase())).sort(SORTS[F.sort][1]);
- document.getElementById("res").innerHTML=r.length?r.map(d=>`<a class="item" href="#/${d.id}"><div><h3>${d.brand} ${d.name}</h3><div class="meta"><span class="tag">${d.body}</span><span class="tag">${d.engine}</span>${rel(d)}</div></div><div class="price">${rp(d.price)}</div><div class="specs"><span><b>Top speed</b> ${d.speed} km/jam</span><span><b>BBM</b> ${d.kmpl?d.kmpl+" km/l":"-"}</span><span><b>0-100</b> ${d.acc?d.acc+" dtk":"-"}</span></div></a>`).join(""):'<div class="empty">Tidak ada motor yang cocok. Longgarkan filter di sebelah kiri.</div>';
+ document.getElementById("res").innerHTML=r.length?r.map(d=>`<a class="item" href="#/${d.id}"><div class="th">${thumb(d)}</div><div><h3>${d.brand} ${d.name}</h3><div class="meta"><span class="tag">${d.body}</span><span class="tag">${d.engine}</span>${rel(d)}</div></div><div class="price">${rp(d.price)}</div><div class="specs"><span><b>Top speed</b> ${d.speed} km/jam</span><span><b>BBM</b> ${d.kmpl?d.kmpl+" km/l":"-"}</span><span><b>0-100</b> ${d.acc?d.acc+" dtk":"-"}</span></div></a>`).join(""):'<div class="empty">Tidak ada motor yang cocok. Longgarkan filter di sebelah kiri.</div>';
  document.getElementById("cnt").textContent=r.length+" motor";
 }
 function home(){
@@ -99,6 +111,16 @@ let ART=null,RES=null;
 const getJ=async u=>{try{return await (await fetch(u)).json()}catch(e){return {}}};
 const LBL={tenaga:"Tenaga",torsi:"Torsi",bobot:"Bobot",tinggi_jok:"Tinggi jok",tangki:"Tangki BBM",transmisi:"Transmisi",rem:"Rem",suspensi:"Suspensi",ban:"Ban",fitur:"Fitur"};
 const okUrl=u=>/^https?:\/\//.test(u)?u:"#";
+let COM=null;
+async function loadGal(d){
+ const el=document.getElementById("galeri");if(!el)return;
+ const off=(d.gallery||[]).filter(g=>safe(g.url)).map(g=>`<a href="${esc(g.url)}" target="_blank" rel="noopener"><img src="${esc(g.url)}" alt="${esc(g.caption||g.tag)}" loading="lazy" referrerpolicy="no-referrer" onerror="this.closest('a').remove()"><span><b>${esc(g.tag)}</b>${esc(g.caption)}<br>Foto: ${esc(d.image_credit||d.brand)}</span></a>`);
+ if(off.length)el.innerHTML=`<h2>Galeri resmi</h2><div class="gal">${off.join("")}</div>`;
+ if(!COM)COM=await getJ("data/commons.json");
+ const cc=(COM[d.id]||[]).filter(g=>safe(g.url)).map(g=>`<a href="${esc(safe(g.page)||g.url)}" target="_blank" rel="noopener"><img src="${esc(g.url)}" alt="${esc(g.title)}" loading="lazy" onerror="this.closest('a').remove()"><span><b>${esc(g.tag)}</b>Foto: ${esc(g.author)} / Wikimedia Commons, ${esc(g.license)}</span></a>`);
+ const cur=document.getElementById("galeri");if(!cur)return;
+ if(cc.length)cur.insertAdjacentHTML("beforeend",`<h2>Foto komunitas (Wikimedia Commons)</h2><div class="gal">${cc.join("")}</div><p class="meta">Foto berlisensi bebas. Klik foto untuk melihat pembuat dan lisensinya.</p>`);
+}
 async function loadArt(id){
  if(!document.getElementById("artikel"))return;
  if(!ART)ART=await getJ("data/articles.json");
@@ -115,10 +137,10 @@ async function loadArt(id){
 function detail(id){
  const d=DATA.find(x=>x.id===id);if(!d){home();return}
  document.title=d.brand+" "+d.name+" | Katalog Motor Indonesia";
- document.getElementById("app").innerHTML=`<p><button onclick="location.hash=''">Kembali ke daftar</button></p><article class="art"><h1>${d.brand} ${d.name}</h1><p class="meta"><span class="tag">${d.body}</span><span class="tag">${d.engine}</span>${rel(d)}</p><p>${d.sum}</p>
+ document.getElementById("app").innerHTML=`<p><button onclick="location.hash=''">Kembali ke daftar</button></p><article class="art"><h1>${d.brand} ${d.name}</h1><p class="meta"><span class="tag">${d.body}</span><span class="tag">${d.engine}</span>${rel(d)}</p>${safe(d.image)?`<figure><img src="${safe(d.image)}" alt="${d.brand} ${d.name}" referrerpolicy="no-referrer" onerror="this.parentNode.remove()"><figcaption>Foto: ${d.image_credit||d.brand} (sumber: situs resmi)</figcaption></figure>`:""}<p>${d.sum}</p>
  <div class="grid"><div><small>Harga</small><strong>${rp(d.price)}</strong></div><div><small>Mesin</small><strong>${d.cc?d.cc+" cc":d.engine}</strong></div><div><small>Top speed</small><strong>${d.speed?d.speed+" km/jam":"-"}</strong></div><div><small>Konsumsi BBM</small><strong>${d.kmpl?d.kmpl+" km/l":"-"}</strong></div><div><small>${d.range?"Jangkauan":"Akselerasi 0-100"}</small><strong>${d.range?d.range+" km":(d.acc?d.acc+" dtk":"-")}</strong></div></div>
- <div id="artikel"></div>${d.variants&&d.variants.length?`<h2>Varian dan harga</h2><div class="grid">${d.variants.map(v=>`<div><small>${v.name}</small><strong>${rp(v.price)}</strong></div>`).join("")}</div>`:""}${d.perf?`<p class="meta">Data tambahan dicari otomatis dari web, bukan klaim resmi Kawasaki. ${Object.entries(d.perf).map(([k,v])=>v?`<a href="${v.source}" rel="noopener" target="_blank">${({release:"Tanggal rilis",speed:"Top speed",kmpl:"Konsumsi BBM",acc:"Akselerasi",range:"Jangkauan"})[k]} (${v.basis||"sumber"})</a>`:"").filter(Boolean).join(", ")}. Mohon periksa kembali sebelum dijadikan dasar membeli.</p>`:""}<p class="meta">Harga MSRP Jakarta. Sumber: <a href="${d.source}" rel="noopener" target="_blank">situs resmi Kawasaki Indonesia</a>, dicek ${d.checked}. Artikel ulasan lengkap menyusul.</p></article>`;
- scrollTo(0,0);loadArt(id);
+ <div id="galeri"></div><div id="artikel"></div>${d.variants&&d.variants.length?`<h2>Varian dan harga</h2><div class="grid">${d.variants.map(v=>`<div><small>${v.name}</small><strong>${rp(v.price)}</strong></div>`).join("")}</div>`:""}${d.perf?`<p class="meta">Data tambahan dicari otomatis dari web, bukan klaim resmi Kawasaki. ${Object.entries(d.perf).map(([k,v])=>v?`<a href="${v.source}" rel="noopener" target="_blank">${({release:"Tanggal rilis",speed:"Top speed",kmpl:"Konsumsi BBM",acc:"Akselerasi",range:"Jangkauan"})[k]} (${v.basis||"sumber"})</a>`:"").filter(Boolean).join(", ")}. Mohon periksa kembali sebelum dijadikan dasar membeli.</p>`:""}<p class="meta">Harga MSRP Jakarta. Sumber: <a href="${d.source}" rel="noopener" target="_blank">situs resmi Kawasaki Indonesia</a>, dicek ${d.checked}. Artikel ulasan lengkap menyusul.</p></article>`;
+ scrollTo(0,0);loadGal(d);loadArt(id);
 }
 function route(){const h=location.hash.replace("#/","");h?detail(h):(document.title="Katalog Motor Indonesia",home())}
 addEventListener("hashchange",route);
