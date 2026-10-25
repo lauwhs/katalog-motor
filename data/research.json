@@ -3183,5 +3183,88 @@
    }
   ],
   "dicek": "2026-10-25"
+ },
+ "kawasaki-klx150-se": {
+  "specs": {
+   "tenaga": {
+    "value": "8,6 kW (12 PS) pada 8.000 rpm",
+    "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/dual-purpose-150/klx150-se/2026-klx150-se"
+   },
+   "torsi": {
+    "value": "11,3 Nm pada 6.500 rpm",
+    "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/dual-purpose-150/klx150-se/2026-klx150-se"
+   },
+   "bobot": {
+    "value": "118 kg (berat kosong, resmi; berat kering 112 kg)",
+    "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/dual-purpose-150/klx150-se/2026-klx150-se"
+   },
+   "tinggi_jok": {
+    "value": "865 mm",
+    "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/dual-purpose-150/klx150-se/2026-klx150-se"
+   },
+   "tangki": {
+    "value": "6,9 liter",
+    "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/dual-purpose-150/klx150-se/2026-klx150-se"
+   },
+   "transmisi": {
+    "value": "Manual 5 percepatan, kopling wet multi-disc, sistem final drive rantai",
+    "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/dual-purpose-150/klx150-se/2026-klx150-se"
+   },
+   "rem": {
+    "value": "Depan cakram petal ø240 mm kaliper twin-piston; belakang cakram petal ø190 mm kaliper single-piston",
+    "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/dual-purpose-150/klx150-se/2026-klx150-se"
+   },
+   "suspensi": {
+    "value": "Depan: inverted fork ø35 mm dengan travel 185 mm; suspensi belakang tidak tercantum di halaman resmi ini",
+    "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/dual-purpose-150/klx150-se"
+   },
+   "fitur": {
+    "value": "Lampu utama LED, panel instrumen digital, starter elektrik dan kick, skid plate, hand covers, frame covers, velg 21 inci depan dan 18 inci belakang",
+    "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/dual-purpose-150/klx150-se"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Autofun (ulasan KLX150 2021, model standar, bukan khusus SE)",
+    "url": "https://www.autofun.co.id/berita-motor/ini-kelebihan-dan-kekurangan-kawasaki-klx150-2021-pelopor-motor-trail-150-cc-di-indonesia-23097",
+    "kelebihan": [
+     "Tampilan dinilai menarik dan tidak membosankan",
+     "Suspensi depan upside-down terasa empuk khas motor trail",
+     "Suspensi belakang lebih fleksibel berkat setelan lima titik",
+     "Mesin dinilai tangguh dan tidak merepotkan perawatannya"
+    ],
+    "kekurangan": [
+     "Fitur sederhana dengan panel analog dan indikator dasar",
+     "Teknologi mesin tidak berubah dan output tenaga-torsi paling rendah di kelasnya",
+     "Karburator vakum sering dikeluhkan, tenaga hilang saat tanjakan terjal"
+    ]
+   },
+   {
+    "media": "GridOto (ulasan KLX 150 bekas, bukan khusus SE)",
+    "url": "https://www.gridoto.com/read/223336292/beli-kawasaki-klx-150-bekas-enggak-rugi-ini-kelebihan-dan-kekurangannya-jika-diadu-dengan-para-rivalnya",
+    "kelebihan": [
+     "Biaya perawatan sistem karburator dinilai lebih murah dibanding injeksi",
+     "Tenaga dinilai lebih baik dari Honda CRF150L pada kondisi standar",
+     "Bobot dinilai lebih ringan saat dikendarai"
+    ],
+    "kekurangan": [
+     "Masih memakai karburator sehingga perbaikan injeksi tidak berlaku",
+     "Dibandingkan Yamaha WR155R dinilai kurang setara karena klep dan gigi lebih sedikit"
+    ]
+   },
+   {
+    "media": "MUF Online Autoshow (perbandingan KLX 150 vs Yamaha WR 155)",
+    "url": "https://moas.muf.co.id/news/adu-kawasaki-klx-150-vs-yamaha-wr-155-fungsi-atau-efisiensi",
+    "kelebihan": [
+     "Wheelbase lebih kecil membuatnya lebih enak melibas medan berat",
+     "Ground clearance disebut mencapai 255 mm"
+    ],
+    "kekurangan": [
+     "Daya maksimum hanya 8,6 kW, di bawah WR 155 yang 12,3 kW",
+     "Kapasitas tangki 6,9 liter lebih kecil dari WR 155 (8,1 liter)"
+    ]
+   }
+  ],
+  "dicek": "2026-10-25"
  }
 }
