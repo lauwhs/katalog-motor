@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Katalog Motor Indonesia</title>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Barlow:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#f2f4f6;--card:#fff;--ink:#16212b;--mut:#5d6b78;--line:#d9dee3;--acc:#c8102e;--accink:#fff;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#10161c;--card:#19222b;--ink:#e8edf1;--mut:#97a5b1;--line:#2b3641;--acc:#ff4d63;--accink:#10161c}}
+:root[data-theme="dark"]{--bg:#10161c;--card:#19222b;--ink:#e8edf1;--mut:#97a5b1;--line:#2b3641;--acc:#ff4d63;--accink:#10161c}
+*{box-sizing:border-box}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 Barlow,system-ui,sans-serif}
+h1,h2,h3{font-family:"Barlow Condensed","Arial Narrow",sans-serif;margin:0;line-height:1.1}
+.wrap{max-width:1100px;margin:0 auto;padding:20px 16px 48px}
+header h1{font-size:clamp(2rem,6vw,3.2rem);font-weight:700}
+header p{color:var(--mut);margin:6px 0 0;max-width:60ch}
+.notice{background:var(--card);border-left:4px solid var(--acc);padding:10px 14px;margin:16px 0;font-size:.9rem;color:var(--mut)}
+.layout{display:grid;grid-template-columns:260px 1fr;gap:20px;align-items:start}
+@media(max-width:760px){.layout{grid-template-columns:1fr}}
+aside{background:var(--card);border:1px solid var(--line);padding:14px;border-radius:6px}
+label{display:block;font-size:.85rem;color:var(--mut);margin:12px 0 4px}
+select,input[type=search]{width:100%;padding:8px;border:1px solid var(--line);border-radius:4px;background:var(--bg);color:var(--ink);font:inherit}
+input[type=range]{width:100%;accent-color:var(--acc)}
+button{font:inherit;cursor:pointer;border:1px solid var(--line);background:var(--bg);color:var(--ink);padding:8px 12px;border-radius:4px}
+button.p{background:var(--acc);color:var(--accink);border-color:var(--acc)}
+:focus-visible{outline:3px solid var(--acc);outline-offset:2px}
+.top{display:flex;gap:10px;align-items:center;justify-content:space-between;flex-wrap:wrap;margin-bottom:12px}
+.top select{width:auto}
+.list{display:grid;gap:10px}
+a{color:var(--acc)}
+.item{display:grid;grid-template-columns:1fr auto;gap:4px 16px;background:var(--card);border:1px solid var(--line);border-radius:6px;padding:14px;text-decoration:none;color:inherit}
+a.item{color:inherit}
+.item:hover{border-color:var(--acc)}
+.item h3{font-size:1.4rem;font-weight:700}
+.meta{color:var(--mut);font-size:.88rem}
+.price{font-family:"Barlow Condensed",sans-serif;font-size:1.5rem;font-weight:700;text-align:right}
+.specs{grid-column:1/-1;display:flex;flex-wrap:wrap;gap:6px 16px;font-size:.88rem}
+.specs span b{font-weight:500;color:var(--mut)}
+.tag{display:inline-block;border:1px solid var(--line);border-radius:3px;padding:0 6px;font-size:.78rem;color:var(--mut);margin-right:4px}
+.art{background:var(--card);border:1px solid var(--line);border-radius:6px;padding:20px}
+.art h1{font-size:2.4rem}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin:16px 0}
+.grid div{border:1px solid var(--line);padding:10px;border-radius:4px}
+.grid small{display:block;color:var(--mut)}
+.grid strong{font-family:"Barlow Condensed",sans-serif;font-size:1.3rem}
+.art p{max-width:68ch}
+.empty{padding:30px;text-align:center;color:var(--mut)}
+</style>
+</head>
+<body>
+<div class="wrap" id="app"></div>
+<script>
+// price = rupiah, release = YYYY-MM rilis resmi di Indonesia, speed = km/jam, kmpl = km/liter, acc = detik 0-100 km/jam
+let DATA=[];
+const rp=n=>n?"Rp "+(n/1e6).toLocaleString("id-ID",{maximumFractionDigits:1})+" juta":"-";
+const bln=d=>new Date(d+"-01").toLocaleDateString("id-ID",{month:"long",year:"numeric"});
+const rel=d=>d.release?"Rilis "+bln(d.release):(d.model_year?"Model "+d.model_year:"");
+const nl=(f,dir)=>(a,b)=>{const x=f(a),y=f(b);if(x==null&&y==null)return 0;if(x==null)return 1;if(y==null)return -1;return dir*(x<y?-1:x>y?1:0)};
+const SORTS={
+ "price-asc":["Harga terendah",nl(d=>d.price,1)],
+ "price-desc":["Harga tertinggi",nl(d=>d.price,-1)],
+ "rel-desc":["Rilis terbaru di Indonesia",nl(d=>d.release||(d.model_year?d.model_year+"-00":null),-1)],
+ "rel-asc":["Rilis terlama di Indonesia",nl(d=>d.release||(d.model_year?d.model_year+"-00":null),1)],
+ "speed-desc":["Top speed tertinggi",nl(d=>d.speed,-1)],
+ "kmpl-desc":["Paling irit",nl(d=>d.kmpl||null,-1)],
+ "acc-asc":["Akselerasi tercepat",nl(d=>d.acc||null,1)]
+};
+const F={q:"",sort:"price-asc",body:"",engine:"",brand:"",maxPrice:1e12,minSpeed:0};
+const uniq=k=>[...new Set(DATA.map(d=>d[k]))].sort();
+const opt=(arr,v)=>'<option value="">Semua</option>'+arr.map(x=>`<option${x===v?" selected":""}>${x}</option>`).join("");
+function list(){
+ const r=DATA.filter(d=>(!F.body||d.body===F.body)&&(!F.engine||d.engine===F.engine)&&(!F.brand||d.brand===F.brand)&&d.price<=F.maxPrice&&(F.minSpeed==0||d.speed>=F.minSpeed)&&(d.brand+" "+d.name).toLowerCase().includes(F.q.toLowerCase())).sort(SORTS[F.sort][1]);
+ document.getElementById("res").innerHTML=r.length?r.map(d=>`<a class="item" href="#/${d.id}"><div><h3>${d.brand} ${d.name}</h3><div class="meta"><span class="tag">${d.body}</span><span class="tag">${d.engine}</span>${rel(d)}</div></div><div class="price">${rp(d.price)}</div><div class="specs"><span><b>Top speed</b> ${d.speed} km/jam</span><span><b>BBM</b> ${d.kmpl?d.kmpl+" km/l":"-"}</span><span><b>0-100</b> ${d.acc?d.acc+" dtk":"-"}</span></div></a>`).join(""):'<div class="empty">Tidak ada motor yang cocok. Longgarkan filter di sebelah kiri.</div>';
+ document.getElementById("cnt").textContent=r.length+" motor";
+}
+function home(){
+ document.getElementById("app").innerHTML=`<header><h1>Katalog Motor Indonesia</h1><p>Motor resmi yang masih dijual di Indonesia. Urutkan dan saring sesuai kebutuhan.</p></header>
+ <div class="notice">Saat ini baru memuat merek Kawasaki (${DATA.length} motor). Harga adalah MSRP Jakarta dari situs resmi, diperbarui ${DATA.length?DATA[0].checked:"-"}. Merek lain menyusul.</div>
+ <div class="layout"><aside><label for="q">Cari</label><input id="q" type="search" placeholder="Contoh: Vario" value="${F.q}">
+ <label for="b">Bodi</label><select id="b">${opt(uniq("body"),F.body)}</select>
+ <label for="e">Mesin</label><select id="e">${opt(uniq("engine"),F.engine)}</select>
+ <label for="m">Merek</label><select id="m">${opt(uniq("brand"),F.brand)}</select>
+ <label for="p">Harga maksimal</label><select id="p">${[[1e12,"Semua harga"],[50e6,"Rp 50 juta"],[100e6,"Rp 100 juta"],[200e6,"Rp 200 juta"],[400e6,"Rp 400 juta"]].map(([v,t])=>`<option value="${v}"${v===F.maxPrice?" selected":""}>${t}</option>`).join("")}</select>
+ <label for="s">Top speed minimal: <span id="sv"></span></label><input id="s" type="range" min="0" max="300" step="10" value="${F.minSpeed}"><div class="meta">Data top speed baru tersedia untuk sebagian motor.</div>
+ <p><button id="rst">Reset filter</button></p></aside>
+ <main><div class="top"><span id="cnt" class="meta"></span><label style="margin:0">Urutkan <select id="o">${Object.entries(SORTS).map(([k,v])=>`<option value="${k}"${k===F.sort?" selected":""}>${v[0]}</option>`).join("")}</select></label></div><div class="list" id="res"></div></main></div>`;
+ const bind=(id,key,fn)=>document.getElementById(id).addEventListener("input",e=>{F[key]=fn?fn(e.target.value):e.target.value;labels();list()});
+ const labels=()=>{sv.textContent=F.minSpeed+" km/jam"};
+ bind("q","q");bind("b","body");bind("e","engine");bind("m","brand");bind("o","sort");bind("p","maxPrice",Number);bind("s","minSpeed",Number);
+ rst.onclick=()=>{Object.assign(F,{q:"",sort:"price-asc",body:"",engine:"",brand:"",maxPrice:1e12,minSpeed:0});home()};
+ labels();list();
+}
+function detail(id){
+ const d=DATA.find(x=>x.id===id);if(!d){home();return}
+ document.title=d.brand+" "+d.name+" | Katalog Motor Indonesia";
+ document.getElementById("app").innerHTML=`<p><button onclick="location.hash=''">Kembali ke daftar</button></p><article class="art"><h1>${d.brand} ${d.name}</h1><p class="meta"><span class="tag">${d.body}</span><span class="tag">${d.engine}</span>${rel(d)}</p><p>${d.sum}</p>
+ <div class="grid"><div><small>Harga</small><strong>${rp(d.price)}</strong></div><div><small>Mesin</small><strong>${d.cc?d.cc+" cc":d.engine}</strong></div><div><small>Top speed</small><strong>${d.speed?d.speed+" km/jam":"-"}</strong></div><div><small>Konsumsi BBM</small><strong>${d.kmpl?d.kmpl+" km/l":"-"}</strong></div><div><small>${d.range?"Jangkauan":"Akselerasi 0-100"}</small><strong>${d.range?d.range+" km":(d.acc?d.acc+" dtk":"-")}</strong></div></div>
+ ${d.variants&&d.variants.length?`<h2>Varian dan harga</h2><div class="grid">${d.variants.map(v=>`<div><small>${v.name}</small><strong>${rp(v.price)}</strong></div>`).join("")}</div>`:""}<p class="meta">Harga MSRP Jakarta. Sumber: <a href="${d.source}" rel="noopener" target="_blank">situs resmi Kawasaki Indonesia</a>, dicek ${d.checked}. Artikel ulasan lengkap menyusul.</p></article>`;
+ scrollTo(0,0);
+}
+function route(){const h=location.hash.replace("#/","");h?detail(h):(document.title="Katalog Motor Indonesia",home())}
+addEventListener("hashchange",route);
+(window.__DATA?Promise.resolve(window.__DATA):fetch("data/motor.json").then(r=>r.json())).then(x=>{DATA=x;route()}).catch(()=>{document.getElementById("app").innerHTML="<p>Gagal memuat data motor.</p>"});
+</script>
+</body>
+</html>
