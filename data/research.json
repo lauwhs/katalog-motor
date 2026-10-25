@@ -2758,5 +2758,430 @@
    }
   ],
   "dicek": "2026-10-25"
+ },
+ "kawasaki-klx150sm": {
+  "specs": {
+   "tenaga": {
+    "value": "12 PS (8,6 kW) pada 8.000 rpm",
+    "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/supermoto/klx150sm/2025-klx150sm"
+   },
+   "torsi": {
+    "value": "11,3 Nm pada 6.500 rpm",
+    "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/supermoto/klx150sm/2025-klx150sm"
+   },
+   "bobot": {
+    "value": "119 kg",
+    "source": "https://otomotif.katadata.co.id/motor/harga-dan-spesifikasi-kawasaki-klx-150-sm-pengganti-d-tracker-4919"
+   },
+   "tinggi_jok": {
+    "value": "840 mm (Otomotifnet menyebut 830 mm untuk varian SE)",
+    "source": "https://otomotif.katadata.co.id/motor/harga-dan-spesifikasi-kawasaki-klx-150-sm-pengganti-d-tracker-4919"
+   },
+   "tangki": {
+    "value": "6,9 liter",
+    "source": "https://otomotif.katadata.co.id/motor/harga-dan-spesifikasi-kawasaki-klx-150-sm-pengganti-d-tracker-4919"
+   },
+   "transmisi": {
+    "value": "Manual 5 percepatan, kopling basah multi-plat",
+    "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/supermoto/klx150sm/2025-klx150sm"
+   },
+   "rem": {
+    "value": "Cakram depan 300 mm semi-floating dengan kaliper 2 piston; cakram belakang 220 mm model petal",
+    "source": "https://otomotif.katadata.co.id/motor/harga-dan-spesifikasi-kawasaki-klx-150-sm-pengganti-d-tracker-4919"
+   },
+   "suspensi": {
+    "value": "Depan upside-down 35 mm; belakang Uni-Trak single shock dengan preload adjustable; travel 175 mm",
+    "source": "https://otomotif.katadata.co.id/motor/harga-dan-spesifikasi-kawasaki-klx-150-sm-pengganti-d-tracker-4919"
+   },
+   "ban": {
+    "value": "Pelek 17 inci; depan 100/80-17, belakang 120/70-17 (ban aspal)",
+    "source": "https://otomotifnet.gridoto.com/read/233728329/kawasaki-klx-150-sm-supermoto-resmi-dijual-harga-rp-30-jutaan"
+   },
+   "fitur": {
+    "value": "Lampu depan LED, speedometer full digital dengan info lengkap",
+    "source": "https://otomotifnet.gridoto.com/read/234005927/kawasaki-klx-150-sm-menggoda-supermoto-dengan-nikmat-dunia-ini"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Radar Banyumas (Disway)",
+    "url": "https://radarbanyumas.disway.id/motor/read/146697/kelebihan-dan-kekurangan-kawasaki-klx-150-sm-yang-harus-tahu-sebelum-beli",
+    "kelebihan": [
+     "Rangka perimeter ringan mendukung manuver tajam dan responsif",
+     "Bobot sekitar 119 kg dinilai mudah dikendalikan pemula",
+     "Desain supermoto dinilai menarik dan modern",
+     "Suspensi dan rem dinilai cukup kompeten"
+    ],
+    "kekurangan": [
+     "Tangki 6,9 liter dinilai kecil",
+     "Tinggi jok 840 mm dinilai agak tinggi bagi sebagian pengendara",
+     "Mesin karburator dinilai kurang efisien dibanding injeksi",
+     "Harga dinilai premium untuk kelas 150 cc"
+    ]
+   },
+   {
+    "media": "Urban Jogja",
+    "url": "https://www.urbanjogja.com/otomotif/69210284337/perhatikan-sebelum-membeli-inilah-kelebihan-dan-kekurangan-kawasaki-klx-150sm",
+    "kelebihan": [
+     "Karakter supermoto dinilai menyenangkan",
+     "Kemampuan on-off road dinilai cukup baik"
+    ],
+    "kekurangan": [
+     "Spion bulat dinilai kurang selaras dengan desain motor",
+     "Disarankan memakai BBM RON 92, sehingga harus selalu tersedia"
+    ]
+   },
+   {
+    "media": "Otomotifnet.com (GridOto)",
+    "url": "https://otomotifnet.gridoto.com/read/234005925/kawasaki-klx-150-sm-ternyata-seirit-ini-full-tank-bisa-tempuh-jakarta-garut",
+    "kelebihan": [
+     "Konsumsi bensin tergolong irit, satu tangki bisa dibawa ke Garut",
+     "Nafas mesin dinilai lebih panjang sehingga top speed lebih tinggi"
+    ],
+    "kekurangan": [
+     "Tarikan awal dinilai tidak seringan versi trail",
+     "Masih mengandalkan karburator"
+    ]
+   }
+  ],
+  "dicek": "2026-10-25"
+ },
+ "kawasaki-klx230sm": {
+  "specs": {
+   "tenaga": {
+    "value": "18 PS pada 8.000 rpm",
+    "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/dual-purpose-230-250/klx230/2027-klx230sm"
+   },
+   "torsi": {
+    "value": "18,0 Nm pada 6.400 rpm",
+    "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/dual-purpose-230-250/klx230/2027-klx230sm"
+   },
+   "bobot": {
+    "value": "135 kg (berat kosong); 128 kg (berat kering)",
+    "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/dual-purpose-230-250/klx230/2027-klx230sm"
+   },
+   "tinggi_jok": {
+    "value": "840 mm",
+    "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/dual-purpose-230-250/klx230/2027-klx230sm"
+   },
+   "tangki": {
+    "value": "7,6 liter",
+    "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/dual-purpose-230-250/klx230/2027-klx230sm"
+   },
+   "transmisi": {
+    "value": "6 percepatan, tipe return; kopling wet multi-disc manual",
+    "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/dual-purpose-230-250/klx230/2027-klx230sm"
+   },
+   "rem": {
+    "value": "Depan cakram ø300 mm dengan kaliper dua piston; belakang cakram ø220 mm",
+    "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/dual-purpose-230-250/klx230/2027-klx230sm"
+   },
+   "suspensi": {
+    "value": "Depan inverted fork ø37 mm, travel 188 mm; belakang single shock Uni-Trak dengan preload adjustable, travel 223 mm",
+    "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/dual-purpose-230-250/klx230/2027-klx230sm"
+   },
+   "ban": {
+    "value": "Depan 110/70-17; belakang 120/70-17 (ban jalan raya)",
+    "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/dual-purpose-230-250/klx230/2027-klx230sm"
+   },
+   "fitur": {
+    "value": "Velg 17 inci, konektivitas smartphone via aplikasi RIDEOLOGY, teknologi ERGO-FIT, mesin injeksi 233 cc, starter elektrik",
+    "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/dual-purpose-230-250/klx230/2027-klx230sm"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Prabumulihpos (Disway) - Kelebihan dan Kekurangan Kawasaki KLX230SM 2026",
+    "url": "https://prabumulihpos.disway.id/otomotif/read/660096/kelebihan-dan-kekurangan-kawasaki-klx230sm-2026-supermoto-lincah-dengan-karakter-fun-to-ride",
+    "kelebihan": [
+     "Handling lincah berkat velg 17 inci dan ban aspal lebar",
+     "Torsi kuat membuat akselerasi responsif di putaran bawah hingga menengah",
+     "Posisi berkendara tegak nyaman untuk perjalanan jauh",
+     "Ground clearance tinggi aman untuk jalan rusak dan polisi tidur"
+    ],
+    "kekurangan": [
+     "Pendingin udara kurang agresif jika dipacu terus di putaran tinggi",
+     "Perlindungan dari angin minim karena tanpa fairing atau windshield",
+     "Tinggi jok kurang ramah bagi pengendara bertubuh pendek",
+     "Harga lebih mahal dibanding motor sport 150 cc"
+    ]
+   },
+   {
+    "media": "Motorplus - Motor Kawasaki KLX 230 SM 2022 Review Dipakai Harian",
+    "url": "https://www.motorplus-online.com/read/253516784/motor-kawasaki-klx-230-sm-2022-review-dipakai-harian-mesinnya-ganas?page=all",
+    "kelebihan": [
+     "Tarikan bawah mesin kuat, enak untuk menyalip dan menanjak",
+     "Suspensi empuk namun tetap stabil saat menikung dan mengerem mendadak",
+     "Ground clearance 230 mm membuat aman melewati polisi tidur"
+    ],
+    "kekurangan": [
+     "Putaran stasioner tinggi membuat agak berisik saat berhenti",
+     "Engine brake saat gas ditutup terasa kurang"
+    ]
+   },
+   {
+    "media": "GridOto - Tes Performa Mesin Kawasaki KLX230SM, Torsi Kuat Cocok Buat Perkotaan",
+    "url": "https://www.gridoto.com/read/223535702/tes-performa-mesin-kawasaki-klx230sm-torsi-kuat-cocok-buat-perkotaan?page=all",
+    "kelebihan": [
+     "Torsi terasa kuat dan responsif sejak putaran rendah, nyaman untuk stop and go",
+     "Rasio gigi 1 sampai 5 yang rapat membuat akselerasi terasa menyenangkan",
+     "Suara mesin kini lebih senyap dibanding generasi sebelumnya",
+     "Suhu mesin tidak terlalu panas, nyaman saat macet"
+    ],
+    "kekurangan": [
+     "Keluhan putaran stasioner tinggi masih sama seperti generasi lama",
+     "Engine brake saat gas ditutup masih minim",
+     "Getaran muncul di putaran tinggi, terasa di setang dan jok"
+    ]
+   }
+  ],
+  "dicek": "2026-10-25"
+ },
+ "kawasaki-ninja-zx-10r": {
+  "specs": {
+   "tenaga": {
+    "value": "206 PS (151,2 kW) pada 13.000 rpm",
+    "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/ninja/supersport/ninja-zx-10r/2026-ninja-zx-10r"
+   },
+   "torsi": {
+    "value": "110,0 Nm (11,2 kgfm) pada 11.400 rpm",
+    "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/ninja/supersport/ninja-zx-10r/2026-ninja-zx-10r"
+   },
+   "bobot": {
+    "value": "207 kg (berat kosong, data resmi edisi 2025 ABS KRT)",
+    "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/ninja/supersport/ninja-zx-10r/2025-ninja-zx-10r-abs-krt-edition"
+   },
+   "tinggi_jok": {
+    "value": "835 mm (data resmi edisi 2025 ABS KRT)",
+    "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/ninja/supersport/ninja-zx-10r/2025-ninja-zx-10r-abs-krt-edition"
+   },
+   "tangki": {
+    "value": "17 liter",
+    "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/ninja/supersport/ninja-zx-10r/2025-ninja-zx-10r-abs-krt-edition"
+   },
+   "transmisi": {
+    "value": "6 percepatan tipe return, kopling basah multi-plat manual, penggerak rantai",
+    "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/ninja/supersport/ninja-zx-10r/2026-ninja-zx-10r"
+   },
+   "rem": {
+    "value": "Depan cakram ganda semi-floating 330 mm Brembo dengan kaliper 4-piston, dilengkapi ABS dan KIBS",
+    "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/ninja/supersport/ninja-zx-10r/2025-ninja-zx-10r-abs-krt-edition"
+   },
+   "suspensi": {
+    "value": "Showa kelas premium",
+    "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/ninja/supersport/ninja-zx-10r"
+   },
+   "ban": {
+    "value": "Depan 120/70ZR17, belakang 190/55ZR17",
+    "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/ninja/supersport/ninja-zx-10r/2025-ninja-zx-10r-abs-krt-edition"
+   },
+   "fitur": {
+    "value": "Cruise control elektronik, quick shifter, S-KTRC, launch control, power modes, konektivitas smartphone, IMU",
+    "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/ninja/supersport/ninja-zx-10r/2025-ninja-zx-10r-abs-krt-edition"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Oto.com",
+    "url": "https://www.oto.com/motor-baru/kawasaki/ninja-zx10-r/faq/apa-kelebihan-dan-kekurangan-kawasaki-ninja-zx10-r",
+    "kelebihan": [
+     "Fitur lengkap untuk kebutuhan balap",
+     "Tenaga dan torsi dinilai besar",
+     "Traction control, launch control, dan ABS tersedia",
+     "Tampilan Ninja dinilai keren"
+    ],
+    "kekurangan": [
+     "Bobot dinilai berat",
+     "Model dinilai sudah lama tidak berganti",
+     "Desain dinilai mirip Ninja 250 yang berkelas pemula",
+     "Tenaga disebut sedikit berkurang dibanding versi sebelumnya"
+    ]
+   },
+   {
+    "media": "MotorBesar.com",
+    "url": "https://motorbesar.com/blog/kawasaki-ninja-zx-10r/",
+    "kelebihan": [
+     "Membawa karakter dan teknologi balap WSBK ke jalan raya",
+     "Karakter mesin bertenaga dan agresif di putaran atas",
+     "Sistem elektronik membantu menyalurkan tenaga besar dengan aman"
+    ],
+    "kekurangan": [
+     "Dinilai tidak ramah untuk pemula",
+     "Posisi berkendara dinilai kurang nyaman untuk harian dan macet",
+     "Biaya servis, ban, dan asuransi dinilai mahal"
+    ]
+   },
+   {
+    "media": "Zigwheels",
+    "url": "https://www.zigwheels.co.id/motovaganza/kawasaki-ninja-zx-10r-my-2021-mengaspal-paling-murah-di-kelasnya/",
+    "kelebihan": [
+     "Harga OTR Jakarta Rp520 juta disebut termurah di kelas superbike 1 liter saat peluncuran",
+     "Layar TFT 4,3 inci dan konektivitas aplikasi Rideology"
+    ],
+    "kekurangan": []
+   }
+  ],
+  "dicek": "2026-10-25"
+ },
+ "kawasaki-versys-1100": {
+  "specs": {
+   "tenaga": {
+    "value": "135 PS (99,0 kW) pada 9.000 rpm",
+    "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/versys/adventure-touring/versys-1100/2026-versys-1100"
+   },
+   "torsi": {
+    "value": "112,0 Nm (11,4 kgfm) pada 7.600 rpm",
+    "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/versys/adventure-touring/versys-1100/2026-versys-1100"
+   },
+   "bobot": {
+    "value": "255 kg (berat kosong)",
+    "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/versys/adventure-touring/versys-1100/2026-versys-1100"
+   },
+   "tinggi_jok": {
+    "value": "840 mm",
+    "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/versys/adventure-touring/versys-1100/2026-versys-1100"
+   },
+   "tangki": {
+    "value": "21 liter",
+    "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/versys/adventure-touring/versys-1100/2025-versys-1100"
+   },
+   "transmisi": {
+    "value": "Manual 6 percepatan dengan kopling assist dan slipper",
+    "source": "https://www.mobil123.com/berita/pilih-mana-kawasaki-versys-1100-vs-honda-africa-twin-1100-selisih-rp200-jutaan-139731/139731"
+   },
+   "rem": {
+    "value": "Depan: cakram ganda semi-floating 310 mm dengan kaliper radial monoblok 4-piston; belakang: cakram tunggal 260 mm dengan kaliper single-piston",
+    "source": "https://otomotifnet.gridoto.com/read/234377000/kawasaki-versys-1100-tahun-2026-sekarang-dijual-segini"
+   },
+   "suspensi": {
+    "value": "Depan: garpu terbalik 43 mm dengan pengaturan rebound dan preload; belakang: tipe horizontal back-link dengan shock gas",
+    "source": "https://otomotifnet.gridoto.com/read/234377000/kawasaki-versys-1100-tahun-2026-sekarang-dijual-segini"
+   },
+   "ban": {
+    "value": "Depan 120/70ZR17; belakang 180/55ZR17",
+    "source": "https://otomotifnet.gridoto.com/read/234377000/kawasaki-versys-1100-tahun-2026-sekarang-dijual-segini"
+   },
+   "fitur": {
+    "value": "Assist & slipper clutch, electronic cruise control, KCMF, KTRC, KIBS/ABS, power mode, IMU, dual throttle valves, indikator irit, port USB-C, Ergo-Fit",
+    "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/versys/adventure-touring/versys-1100/2025-versys-1100"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Otomotifnet.com (GridOto)",
+    "url": "https://otomotifnet.gridoto.com/read/234377000/kawasaki-versys-1100-tahun-2026-sekarang-dijual-segini",
+    "kelebihan": [
+     "Tenaga di putaran menengah terasa lebih padat dibanding generasi sebelumnya",
+     "Respons gas presisi dan suara mesin dinilai membuat berkendara makin seru",
+     "Rasio gigi atas dinilai hemat dan nyaman untuk melaju di jalan bebas hambatan",
+     "Pengereman depan dinilai bertenaga berkat cakram ganda dan kaliper monoblok"
+    ],
+    "kekurangan": []
+   },
+   {
+    "media": "Liputan6.com",
+    "url": "https://www.liputan6.com/otomotif/read/5721728/kawasaki-versys-1100-dapat-penyegaran-siap-debut-di-pasar-global",
+    "kelebihan": [
+     "Rem depan Brembo di varian SE dinilai kuat",
+     "Suspensi semi-elektronik Showa Skyhook disebut membantu meredam getaran",
+     "Posisi duduk bisa ditingkatkan dengan Ergo-Fit yang tersedia sebagai opsi"
+    ],
+    "kekurangan": []
+   },
+   {
+    "media": "Mobil123",
+    "url": "https://www.mobil123.com/berita/pilih-mana-kawasaki-versys-1100-vs-honda-africa-twin-1100-selisih-rp200-jutaan-139731/139731",
+    "kelebihan": [
+     "Tenaga puncak dinilai lebih tinggi dibanding Honda Africa Twin 1100",
+     "Daftar fitur elektroniknya dinilai lebih lengkap dibanding pesaing"
+    ],
+    "kekurangan": [
+     "Transmisi masih kopling manual, kurang praktis dibanding dual clutch Africa Twin",
+     "Torsi di putaran rendah kalah dibanding Africa Twin untuk jalur off-road",
+     "Pilihan warna hanya satu jenis"
+    ]
+   }
+  ],
+  "dicek": "2026-10-25"
+ },
+ "kawasaki-w175-street": {
+  "specs": {
+   "tenaga": {
+    "value": "13 PS (9,6 kW) pada 7.500 rpm",
+    "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/w/retro-classic/w175-street/2026-w175-street"
+   },
+   "torsi": {
+    "value": "13,3 Nm pada 6.000 rpm",
+    "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/w/retro-classic/w175-street/2026-w175-street"
+   },
+   "bobot": {
+    "value": "135 kg (berat kosong)",
+    "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/w/retro-classic/w175-street"
+   },
+   "tinggi_jok": {
+    "value": "785 mm (disebut sebagai angka resmi)",
+    "source": "https://supernews.co.id/kawasaki-w175-street/"
+   },
+   "tangki": {
+    "value": "12 liter",
+    "source": "https://supernews.co.id/kawasaki-w175-street/"
+   },
+   "transmisi": {
+    "value": "Manual 5 percepatan, tipe return",
+    "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/w/retro-classic/w175-street"
+   },
+   "rem": {
+    "value": "Depan cakram ø270 mm dengan ABS; belakang tromol",
+    "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/w/retro-classic/w175-street"
+   },
+   "suspensi": {
+    "value": "Depan teleskopik ø30 mm; belakang dual shock dengan preload dapat diatur",
+    "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/w/retro-classic/w175-street"
+   },
+   "ban": {
+    "value": "Tubeless; depan 80/100-17, belakang 100/90-17",
+    "source": "https://jualkawasaki.com/product/w175-street-abs/"
+   },
+   "fitur": {
+    "value": "Mesin 177 cc fuel injection, ABS roda depan, velg cast gaya jari-jari 17 inci",
+    "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/w/retro-classic/w175-street/2026-w175-street"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "SuperNews",
+    "url": "https://supernews.co.id/kawasaki-w175-street/",
+    "kelebihan": [
+     "ABS di roda depan dinilai jarang ada pada motor retro kelas entry-menengah",
+     "Bobot ringan sehingga nyaman dipakai harian di kota",
+     "Karakter retro yang kuat dan sederhana"
+    ],
+    "kekurangan": [
+     "Tenaga 13 PS cocok untuk santai, bukan untuk ngebut",
+     "Rem belakang masih tromol, dinilai sebagai kompromi"
+    ]
+   },
+   {
+    "media": "Oto.com",
+    "url": "https://www.oto.com/berita-motor/mau-beli-kawasaki-w175-catat-empat-kekurangan-ini-galeri-foto-2119458",
+    "kelebihan": [
+     "Tampilan klasik dengan lampu depan dan spion berbentuk bulat"
+    ],
+    "kekurangan": [
+     "Panel instrumen tidak menampilkan indikator bahan bakar",
+     "Tidak dilengkapi kick starter sebagai cadangan saat aki lemah"
+    ]
+   },
+   {
+    "media": "Musianapedia (Pikiran Rakyat)",
+    "url": "https://musianapedia.pikiran-rakyat.com/otomotif/pr-22610055579/motor-retro-rasa-modern-kawasaki-w175-abs-street-2026-hadir-dengan-abs-dan-velg-racing?page=all",
+    "kelebihan": [
+     "Velg racing dengan ban tubeless terlihat lebih modern dan praktis",
+     "Injeksi, ABS, dan indikator bahan bakar membuat lebih praktis dari generasi sebelumnya"
+    ],
+    "kekurangan": []
+   }
+  ],
+  "dicek": "2026-10-25"
  }
 }
