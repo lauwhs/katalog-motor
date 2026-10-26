@@ -16,6 +16,9 @@ jobs:
       - run: python scrape_kawasaki.py
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      - run: python verify_images.py
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
       - run: python enrich.py
         continue-on-error: true
         env:
