@@ -7,6 +7,7 @@
   "engine": "Bensin",
   "cc": 249,
   "price": 79400000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "D-Tracker X",
@@ -80,6 +81,7 @@
   "engine": "Bensin",
   "cc": 451,
   "price": 169900000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "Eliminator 500 SE",
@@ -176,6 +178,7 @@
   "engine": "Bensin",
   "cc": 451,
   "price": 149900000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "KLE500",
@@ -268,6 +271,7 @@
   "engine": "Bensin",
   "cc": 144,
   "price": 41800000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "KLX140R F",
@@ -356,6 +360,7 @@
   "engine": "Bensin",
   "cc": 144,
   "price": 35000000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "KLX150",
@@ -430,6 +435,7 @@
   "engine": "Bensin",
   "cc": 144,
   "price": 35000000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "KLX150 S",
@@ -518,6 +524,7 @@
   "engine": "Bensin",
   "cc": 144,
   "price": 39100000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "KLX150 SE",
@@ -610,6 +617,7 @@
   "engine": "Bensin",
   "cc": 144,
   "price": 44800000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "KLX150 XPL",
@@ -698,6 +706,7 @@
   "engine": "Bensin",
   "cc": 144,
   "price": 39100000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "KLX150SM",
@@ -790,6 +799,7 @@
   "engine": "Bensin",
   "cc": 144,
   "price": 41500000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "KLX150SM SE",
@@ -878,6 +888,7 @@
   "engine": "Bensin",
   "cc": 233,
   "price": 57600000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "KLX230 SE",
@@ -946,6 +957,7 @@
   "engine": "Bensin",
   "cc": 233,
   "price": 66200000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "KLX230 DF",
@@ -1034,6 +1046,7 @@
   "engine": "Bensin",
   "cc": 233,
   "price": 59900000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "KLX230 SHERPA S",
@@ -1122,6 +1135,7 @@
   "engine": "Bensin",
   "cc": 233,
   "price": 52300000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "KLX230R S",
@@ -1160,6 +1174,7 @@
   "engine": "Bensin",
   "cc": 233,
   "price": 57500000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "KLX230SM",
@@ -1252,6 +1267,7 @@
   "engine": "Bensin",
   "cc": 249,
   "price": 78100000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "KLX250",
@@ -1325,6 +1341,7 @@
   "engine": "Bensin",
   "cc": 112,
   "price": 74200000,
+  "price_type": "MSRP Jakarta",
   "variants": [],
   "model_year": 2026,
   "release": null,
@@ -1408,6 +1425,7 @@
   "engine": "Bensin",
   "cc": 84,
   "price": 71100000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "KX85 L",
@@ -1491,6 +1509,7 @@
   "engine": "Bensin",
   "cc": 233,
   "price": 79800000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "MEGURO S1",
@@ -1579,6 +1598,7 @@
   "engine": "Bensin",
   "cc": 249,
   "price": 70200000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "NINJA 250",
@@ -1671,6 +1691,7 @@
   "engine": "Bensin",
   "cc": 998,
   "price": 890500000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "Ninja H2",
@@ -1759,6 +1780,7 @@
   "engine": "Bensin",
   "cc": 998,
   "price": 572200000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "NINJA ZX-10R ABS KRT Edition",
@@ -1847,6 +1869,7 @@
   "engine": "Bensin",
   "cc": 249.8,
   "price": 113100000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "Ninja ZX-25RR",
@@ -1947,6 +1970,7 @@
   "engine": "Bensin",
   "cc": 399,
   "price": 248000000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "Ninja ZX-4RR",
@@ -2035,6 +2059,7 @@
   "engine": "Bensin",
   "cc": 636,
   "price": 309000000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "Ninja ZX-6R",
@@ -2127,6 +2152,7 @@
   "engine": "Listrik",
   "cc": 0,
   "price": 150600000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "Ninja e-1",
@@ -2215,6 +2241,7 @@
   "engine": "Bensin",
   "cc": 233,
   "price": 59100000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "STOCKMAN",
@@ -2298,6 +2325,7 @@
   "engine": "Bensin",
   "cc": 1099,
   "price": 419100000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "Versys 1100",
@@ -2341,6 +2369,7 @@
   "engine": "Bensin",
   "cc": 649,
   "price": 245700000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "Versys 650",
@@ -2429,6 +2458,7 @@
   "engine": "Bensin",
   "cc": 249,
   "price": 73700000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "VERSYS-X 250 (NON-ABS)",
@@ -2512,6 +2542,7 @@
   "engine": "Bensin",
   "cc": 649,
   "price": 227400000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "Vulcan S",
@@ -2600,6 +2631,7 @@
   "engine": "Bensin",
   "cc": 177,
   "price": 38500000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "W175 ABS",
@@ -2688,6 +2720,7 @@
   "engine": "Bensin",
   "cc": 177,
   "price": 38900000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "W175 STREET ABS",
@@ -2761,6 +2794,7 @@
   "engine": "Bensin",
   "cc": 233,
   "price": 73200000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "W230",
@@ -2849,6 +2883,7 @@
   "engine": "Bensin",
   "cc": 773,
   "price": 322500000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "W800",
@@ -2937,6 +2972,7 @@
   "engine": "Listrik",
   "cc": 0,
   "price": 147700000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "Z e-1",
@@ -3025,6 +3061,7 @@
   "engine": "Bensin",
   "cc": 1099,
   "price": 399900000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "Z1100",
@@ -3113,6 +3150,7 @@
   "engine": "Bensin",
   "cc": 125,
   "price": 52500000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "Z125 PRO",
@@ -3186,6 +3224,7 @@
   "engine": "Bensin",
   "cc": 948,
   "price": 225000000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "Z900",
@@ -3278,6 +3317,7 @@
   "engine": "Bensin",
   "cc": 948,
   "price": 360900000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "Z900RS",

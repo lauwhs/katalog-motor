@@ -1,5 +1,2787 @@
 [
  {
+  "id": "honda-adv-160",
+  "brand": "Honda",
+  "name": "ADV160",
+  "body": "Matic",
+  "engine": "Bensin",
+  "cc": 156.9,
+  "price": 37890000,
+  "price_type": "OTR Jakarta",
+  "variants": [],
+  "model_year": 2022,
+  "release": "2022-07",
+  "speed": 121,
+  "kmpl": 39.1,
+  "acc": 17.4,
+  "range": null,
+  "sum": "Honda ADV160 adalah skutik bergaya adventure dengan mesin 156,9 cc berpendingin cairan dan sistem PGM-FI. Tersedia dalam varian CBS, ABS, dan RoadSync, dengan fitur seperti LED headlight, panel TFT 5 inci, dan bagasi 30 liter.",
+  "specs": {
+   "tenaga": "11,8 kW (16 PS) / 8.500 rpm",
+   "torsi": "14,7 Nm (1,5 kgf.m) / 6.500 rpm",
+   "bobot": "133 kg (CBS & ABS) / 134 kg (Honda RoadSync)",
+   "tinggi_jok": "780 mm",
+   "tangki": "8,1 liter",
+   "transmisi": "Otomatis, V-Matic",
+   "rem": "Wavy disc depan dan belakang; Triple Pots Hydraulic Combi Brake System (CBS) / ABS & Honda RoadSync",
+   "suspensi": "Depan teleskopik; belakang ganda dengan tabung",
+   "ban": "Depan 110/80-14M/C Tubeless; belakang 130/70-13M/C Tubeless",
+   "fitur": "Honda RoadSync (tipe RoadSync), TFT panel meter 5 inci (RoadSync), LED headlight, USB Type-C charger 5V 3A, bagasi 30 liter, windscreen dapat diatur 2 tingkat, Emergency Stop Signal (ABS)"
+  },
+  "image": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/product-thumbnail-400x300px-1-08092025-030705.png",
+  "image_credit": "Astra Honda Motor",
+  "gallery": [
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/geotag-adv-800x8004px-pass-beam-switch-08092025-031602.png",
+    "caption": "New Pass Beam Switch",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/feature-tft-panel-meter-11092025-031521.jpg",
+    "caption": "New 5” TFT Panel Meter",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/geotag-adv-800x8004px-windscreen-08092025-031653.png",
+    "caption": "Adjustable Windscreen",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/geotag-adv-800x8004px-multi-function-switch-08092025-031714.png",
+    "caption": "New Multi-Function Switch",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/geotag-adv-800x8004px-led-headlight-08092025-031735.png",
+    "caption": "LED Headlight",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/geotag-adv-800x8004px-usb-charger-type-c-08092025-031752.png",
+    "caption": "New USB Type-C Charger",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/geotag-adv-800x8004px-abs-08092025-031813.png",
+    "caption": "Wavy Disc Brake",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/geotag-adv-800x8004px-semi-dual-purpose-tire-08092025-031834.png",
+    "caption": "Semi Dual Purpose Tire",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/geotag-adv-800x8004px-jok-08092025-031850.png",
+    "caption": "Extra Large Luggage Box",
+    "tag": "Jok dan bagasi"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/geotag-adv-800x8004px-led-backlight-08092025-031906.png",
+    "caption": "LED Taillight & Emergency Stop Signal.",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/geotag-adv-800x8004px-subtank-rear-suspension-08092025-031927.png",
+    "caption": "Subtank Rear Suspension",
+    "tag": "Suspensi"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.astra-honda.com/product/adv-160",
+  "checked": "2026-10-26",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://m.jpnn.com/news/honda-adv160-resmi-melantai-di-indonesia-bawa-fitur-canggih-sebegini-harganya"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://www.autofun.co.id/berita-motor/uji-performa-dan-akselerasi-honda-adv-160-mesin-responsif-hingga-top-speed-121-kmjam-65063"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://www.autofun.co.id/berita-motor/uji-performa-dan-akselerasi-honda-adv-160-mesin-responsif-hingga-top-speed-121-kmjam-65063"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://www.gridoto.com/read/223442123/komparasi-akselerasi-honda-adv-160-vs-adv-150-bukti-mesin-baru-160-cc-lebih-bertenaga?page=all"
+   }
+  }
+ },
+ {
+  "id": "honda-beat",
+  "brand": "Honda",
+  "name": "BeAT",
+  "body": "Matic",
+  "engine": "Bensin",
+  "cc": 109.5,
+  "price": 19380000,
+  "price_type": "OTR Jakarta",
+  "variants": [],
+  "model_year": 2026,
+  "release": "2008-00",
+  "speed": 105,
+  "kmpl": 52.9,
+  "acc": null,
+  "range": null,
+  "sum": "Honda BeAT adalah motor matik bermesin 109,5 cc dengan sistem injeksi PGM-FI dan panel meter digital. Harga resminya Rp19.380.000, dengan tiga tipe yang tersedia: CBS, CBS-ISS, dan Deluxe Smart Key.",
+  "specs": {
+   "tenaga": "6.6 kW (9.0 PS) / 7.500 rpm",
+   "torsi": "9.2 N.m (0.94 kgf.m) / 6000 rpm",
+   "bobot": "88 kg (Tipe CBS); 87 kg (Tipe CBS-ISS & Deluxe Smart Key)",
+   "tinggi_jok": "742 mm",
+   "tangki": "4,2 L",
+   "transmisi": "Otomatis, V-Matic",
+   "rem": "Depan: cakram hidrolik piston tunggal; Belakang: tromol; Combi Brake System",
+   "suspensi": "Depan: teleskopik; Belakang: lengan ayun dengan peredam kejut tunggal",
+   "ban": "Depan 80/90-14 M/C Tubeless; Belakang 90/90-14 M/C Tubeless",
+   "fitur": "Combined Digital Panel Meter, Tuas Pengunci Rem, Smart Key (tipe Deluxe), Power Charger 12 W, Functional Hook, Lampu LED, Standar Samping Otomatis, Bagasi 12 L, Anti Theft Alarm (tipe CBS dan CBS-ISS)"
+  },
+  "image": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/new-thumbnail-beat-1-26062026-055630.png",
+  "image_credit": "Astra Honda Motor",
+  "gallery": [
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/ahm-fitur1-digital-speedo-honda-beat-400x300-31052024-015115-03062024-045932.jpg",
+    "caption": "Combined Digital Panel Meter",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/ahm-fitur9-rem-tangan-honda-beat-400x300-31052024-015147-03062024-050007.jpg",
+    "caption": "Tuas Pengunci Rem",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/ahm-fitur4-smart-key-honda-beat-400x300-31052024-015205-03062024-050042.jpg",
+    "caption": "Smart Key",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/ahm-fitur2-power-charger-honda-beat-400x300-31052024-015224-03062024-050123.jpg",
+    "caption": "Power Charger",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/ahm-fitur5-gantungan-honda-beat-400x300-31052024-015242-03062024-050208.jpg",
+    "caption": "Functional Hook",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/ahm-fitur3-head-lamp-honda-beat-400x300-24072025-021050.jpg",
+    "caption": "Sistem Pencahayaan LED",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/ahm-fitur6-standard-otomatis-honda-beat-400x300-31052024-015324-03062024-050329.jpg",
+    "caption": "Standar Samping Otomatis",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/ahm-fitur8-bagasi-honda-beat-400x300-31052024-015346-03062024-050412.jpg",
+    "caption": "Bagasi Pas 12L",
+    "tag": "Jok dan bagasi"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/geotag-800x800-26062026-031455.png",
+    "caption": "Anti Theft Alarm",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.astra-honda.com/product/beat",
+  "checked": "2026-10-26",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://oto.detik.com/motor/d-7374773/dijuluki-motor-sejuta-umat-segini-populasi-honda-beat-di-indonesia"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://www.autofun.co.id/berita-motor/mesin-honda-beat-2022-dianggap-lemot-begini-catatan-akselerasinya-32700"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://www.autofun.co.id/berita-motor/mesin-honda-beat-2022-dianggap-lemot-begini-catatan-akselerasinya-32700"
+   }
+  }
+ },
+ {
+  "id": "honda-x-adv",
+  "brand": "Honda",
+  "name": "BeAT",
+  "body": "Lainnya",
+  "engine": "Bensin",
+  "cc": null,
+  "price": 19380000,
+  "price_type": "OTR Jakarta",
+  "variants": [],
+  "model_year": null,
+  "release": "2024-06",
+  "speed": null,
+  "kmpl": 57.5,
+  "acc": null,
+  "range": null,
+  "sum": "BeAT adalah model terbaru (2026) dengan panel meter digital dan lampu indikator ECO, dilengkapi fitur keamanan seperti Anti Theft Alarm dan Smart Key pada tipe tertentu. Bagasi berkapasitas 12 liter dan Power Charger hadir untuk menunjang kebutuhan harian.",
+  "specs": {
+   "fitur": "Combined Digital Panel Meter dengan lampu indikator ECO; Tuas Pengunci Rem; Smart Key (tersedia pada tipe Deluxe Smart Key); Power Charger (maks. 12 W / 12V 1A); Functional Hook di depan; Sistem Pencahayaan LED; Standar Samping Otomatis; Bagasi Pas 12L; Anti Theft Alarm (tersedia pada tipe CBS dan CBS-ISS)"
+  },
+  "image": "https://imagewebsite.astra-honda.com/uploads/product-category/icon/bigbike-category-icon-grey.svg",
+  "image_credit": "Astra Honda Motor",
+  "gallery": [],
+  "trusted_images": true,
+  "source": "https://www.astra-honda.com/product/",
+  "checked": "2026-10-26",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.cnnindonesia.com/otomotif/20240603151807-595-1105230/irit-banget-konsumsi-bbm-all-new-honda-beat-60-km-per-liter"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://www.autofun.co.id/berita-motor/dibuat-lebih-ringan-seberapa-irit-honda-beat-2025-81441"
+   }
+  }
+ },
+ {
+  "id": "honda-beat-street",
+  "brand": "Honda",
+  "name": "BeAT Street",
+  "body": "Matic",
+  "engine": "Bensin",
+  "cc": 109.5,
+  "price": 20251000,
+  "price_type": "OTR Jakarta",
+  "variants": [],
+  "model_year": 2024,
+  "release": "2024-06",
+  "speed": null,
+  "kmpl": 52,
+  "acc": null,
+  "range": null,
+  "sum": "BeAT Street adalah motor matic Honda bermesin 4 langkah 109,5cc dengan sistem injeksi PGM-FI, dibanderol mulai Rp 20.251.000. Dilengkapi fitur seperti Tuas Pengunci Rem, Digital Panel Meter, Sistem Pencahayaan LED, dan Standar Samping Otomatis.",
+  "specs": {
+   "tenaga": "6,6 kW (9,0 PS) / 7.500 rpm",
+   "torsi": "9,2 N.m (0,94 kgf.m) / 6000 rpm",
+   "bobot": "89 kg (berat kosong)",
+   "tinggi_jok": "742 mm",
+   "tangki": "4,2 L",
+   "transmisi": "Otomatis, V-Matic",
+   "rem": "Depan: Cakram Hidrolik, Piston Tunggal; Belakang: Tromol; Combi Brake System",
+   "suspensi": "Depan: Teleskopik; Belakang: Lengan Ayun dengan Peredam Kejut Tunggal",
+   "ban": "Depan: 100/90-12 59J Tubeless; Belakang: 110/90-12 64J Tubeless",
+   "fitur": "Tuas Pengunci Rem, Digital Panel Meter, Anti Theft Alarm, Naked Handlebar, Sistem Pencahayaan LED, Bagasi Pas 12L, Standar Samping Otomatis"
+  },
+  "image": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/new-thumbnail-beat-street-1-26062026-055644.png",
+  "image_credit": "Astra Honda Motor",
+  "gallery": [
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/produk-feature-700x700pxl-1-24072025-011923.jpg",
+    "caption": "Tuas Pengunci Rem",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/part-konten-brown-700x700-digital-panel-meter-31052024-013214-03062024-080150.jpg",
+    "caption": "Digital Panel Meter",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/anti-theft-alarm-system-03062024-030140-03062024-080233.jpg",
+    "caption": "Anti Theft Alarm",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/part-konten-brown-700x700-naked-handle-bar-31052024-013222-03062024-080306.jpg",
+    "caption": "Naked Handlebar",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/part-konten-brown-700x700-secure-key-shetter-31052024-013329-03062024-080334.jpg",
+    "caption": "Anti Theft Alarm",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/produk-feature-700x700pxl-2-24072025-012015.jpg",
+    "caption": "Sistem Pencahayaan LED",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/produk-feature-700x700pxl-3-24072025-012021.jpg",
+    "caption": "Bagasi Pas 12L",
+    "tag": "Jok dan bagasi"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/ahm-fitur6-standard-otomatis-honda-beat-400x300-31052024-015324-03062024-050329-26062026-074512.webp",
+    "caption": "Standar Samping Otomatis",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.astra-honda.com/product/beat-street",
+  "checked": "2026-10-26",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.gridoto.com/read/224101344/generasi-barunya-lahir-inilah-10-model-honda-beat-yang-ada-di-indonesia?page=all"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://www.motorplus-online.com/read/254143489/benarkah-konsumsi-bbm-honda-beat-klaim-pabrikan-606-kmliter-dites-ulang-ternyata-hasilnya-segini?page=all"
+   }
+  }
+ },
+ {
+  "id": "honda-cb-150-verza",
+  "brand": "Honda",
+  "name": "CB150 Verza",
+  "body": "Sport",
+  "engine": "Bensin",
+  "cc": 149.15,
+  "price": 24460000,
+  "price_type": "OTR Jakarta",
+  "variants": [
+   {
+    "name": "CB150 Verza SW Masculine Black",
+    "price": 24460000
+   },
+   {
+    "name": "CB150 Verza CW Macho Matte Black",
+    "price": 24460000
+   },
+   {
+    "name": "CB150 Verza CW Bold Red",
+    "price": 24460000
+   }
+  ],
+  "model_year": null,
+  "release": "2018-02",
+  "speed": null,
+  "kmpl": 43.5,
+  "acc": null,
+  "range": null,
+  "sum": "Honda CB150 Verza ditenagai mesin 150cc PGM-FI 4 langkah SOHC dengan desain shroud baru dan lampu depan bulat modern. Tersedia dalam tiga varian dengan pilihan sistem rem SW dan CW.",
+  "specs": {
+   "tenaga": "9,59 kW (13,04 PS) / 8.500 rpm",
+   "torsi": "12,73 Nm (1,30 kgf.m) / 6.000 rpm",
+   "bobot": "129 kg (Cast Wheel) dan 128 kg (Spoke Wheel)",
+   "tinggi_jok": "773 mm",
+   "tangki": "12,2 L",
+   "transmisi": "5 tingkat kecepatan, manual, multiple wet clutch",
+   "rem": "Depan: cakram hidrolik piston ganda; Belakang: tromol",
+   "suspensi": "Depan: teleskopik; Belakang: adjustable dual rear suspension",
+   "ban": "Depan: 80/100-17 M/C 46P; Belakang: 100/90-17 M/C 55P",
+   "fitur": "Lampu depan bulat multireflector, panelmeter digital, shroud baru, muffler hitam, Secure Key Shutter, suspensi belakang adjustable"
+  },
+  "image": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/verza-product-thumbnail-400x300px-2-24042025-082912.png",
+  "image_credit": "Astra Honda Motor",
+  "gallery": [
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/verza-geotag-800x800px-2-1-15042025-041531.jpg",
+    "caption": "Modern Round Head Lamp",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/verza-geotag-800x800px-3-15042025-041548.jpg",
+    "caption": "Digital Panelmeter",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/verza-geotag-800x800px-4-15042025-041604.jpg",
+    "caption": "Though Shroud",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/verza-geotag-800x800px-5-15042025-041618.jpg",
+    "caption": "Tough & Efficient 150cc PGM-FI",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/verza-geotag-800x800px-6-15042025-041634.jpg",
+    "caption": "Sporty Muffler",
+    "tag": "Knalpot"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/verza-geotag-800x800px-7-15042025-041650.jpg",
+    "caption": "Secure Key Shutter",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/verza-geotag-800x800px-8-15042025-041700.jpg",
+    "caption": "Adjustable Dual Rear Suspension",
+    "tag": "Suspensi"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.astra-honda.com/product/cb-150-verza",
+  "checked": "2026-10-26",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://radarpati.jawapos.com/amp/tekno/2607240007/bukan-sekadar-nama-ini-arti-verza-pada-honda-cb150-verza-dan-sejarah-perubahannya"
+   },
+   "kmpl": {
+    "basis": "klaim pabrikan",
+    "source": "https://www.tempo.co/otomotif/test-ride-honda-cb150-verza-ringan-cocok-untuk-komuter-967652"
+   }
+  }
+ },
+ {
+  "id": "honda-cb-150-r",
+  "brand": "Honda",
+  "name": "CB150R Streetfire",
+  "body": "Sport",
+  "engine": "Bensin",
+  "cc": 149.16,
+  "price": 34880000,
+  "price_type": "OTR Jakarta",
+  "variants": [
+   {
+    "name": "CB150R Streetfire - STD Stinger Red Black",
+    "price": 34880000
+   },
+   {
+    "name": "CB150R Streetfire - STD Macho Black",
+    "price": 34880000
+   },
+   {
+    "name": "CB150R Streetfire - SE Fury Matte Red",
+    "price": 34880000
+   },
+   {
+    "name": "CB150R Streetfire - SE Fury Amored Matte Grey",
+    "price": 34880000
+   },
+   {
+    "name": "CB150R Streetfire - SE Raptor Matte Black",
+    "price": 34880000
+   }
+  ],
+  "model_year": null,
+  "release": "2021-05",
+  "speed": 125,
+  "kmpl": 40.5,
+  "acc": 13.5,
+  "range": null,
+  "sum": "Motor sport 150 cc bermesin 4 langkah DOHC 4 katup dengan injeksi PGM-FI dan transmisi manual 6 kecepatan. Tersedia dalam varian STD dan SE dengan pilihan warna yang beragam.",
+  "specs": {
+   "tenaga": "12,4 kW (16,9 PS) / 9.000 rpm",
+   "torsi": "14,5 Nm (1,48 kgf.m) / 7.000 rpm",
+   "bobot": "134 kg (Standard) & 135 kg (Special Edition)",
+   "tinggi_jok": "795 mm",
+   "tangki": "12 Liter",
+   "transmisi": "Manual, 6 Kecepatan",
+   "rem": "Depan: Wavy Disc Brake; Belakang: Wavy Disc Brake",
+   "suspensi": "Depan: Showa 37mm Inverted Telescopic; Belakang: Lengan ayun dengan suspensi tunggal (Pro-Link)",
+   "ban": "Depan: 100/80-17M/C 52P, Tubeless; Belakang: 130/70-17M/C 62P, Tubeless",
+   "fitur": "LED Taillight, Bigger Fuel Tank, Tapered Handle Bar, Full Digital Panelmeter, LED Headlight, Inverted Front Suspension, Front Shroud, Wavy Disc Brake, DOHC 6-Speed Engine"
+  },
+  "image": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/cb1504-550x413px-r1-22112024-041458.png",
+  "image_credit": "Astra Honda Motor",
+  "gallery": [
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/3-9-07052021-090351.jpg",
+    "caption": "LED Taillight",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/9-9-07052021-090359.jpg",
+    "caption": "Bigger Fuel Tank",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/2-13-07052021-090405.jpg",
+    "caption": "Tapered Handle Bar",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/6-7-07052021-090408.jpg",
+    "caption": "Full Digital Panelmeter",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/4-9-07052021-090412.jpg",
+    "caption": "LED Headlight",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/5-11-07052021-090416.jpg",
+    "caption": "Inverted Front Suspension",
+    "tag": "Suspensi"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/7-8-07052021-090420.jpg",
+    "caption": "Front Shroud",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/1-11-07052021-090424.jpg",
+    "caption": "Wavy Disc Brake",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/8-9-07052021-090428.jpg",
+    "caption": "DOHC 6-Speed Engine",
+    "tag": "Mesin"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.astra-honda.com/product/cb-150-r",
+  "checked": "2026-10-26",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.carmudi.co.id/journal/all-new-honda-cb150r-streetfire-meluncur-simak-ubahan-dan-harganya/"
+   },
+   "speed": {
+    "basis": "klaim pabrikan",
+    "source": "https://otomotifnet.gridoto.com/read/232684731/mesin-tak-berubah-segini-top-speed-dan-konsumsi-bensin-all-new-cb150r"
+   },
+   "kmpl": {
+    "basis": "klaim pabrikan",
+    "source": "https://otomotifnet.gridoto.com/read/232684731/mesin-tak-berubah-segini-top-speed-dan-konsumsi-bensin-all-new-cb150r"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/231115160/data-lengkap-test-ride-all-new-honda-cb150r-versus-cb150r-old"
+   }
+  }
+ },
+ {
+  "id": "honda-cb-150-x",
+  "brand": "Honda",
+  "name": "CB150X",
+  "body": "Sport",
+  "engine": "Bensin",
+  "cc": 149.16,
+  "price": 35220000,
+  "price_type": "OTR Jakarta",
+  "variants": [
+   {
+    "name": "CB150X - Amazon Matte Green",
+    "price": 35220000
+   },
+   {
+    "name": "CB150X - Mandala Red",
+    "price": 35220000
+   },
+   {
+    "name": "CB150X - Sahara Matte Brown",
+    "price": 35220000
+   },
+   {
+    "name": "CB150X - Volcano Matte Black (SE)",
+    "price": 35220000
+   }
+  ],
+  "model_year": 2021,
+  "release": "2021-11",
+  "speed": 117.5,
+  "kmpl": 45.3,
+  "acc": 15,
+  "range": null,
+  "sum": "Motor sport 150cc berpendingin cairan dengan mesin 4 langkah DOHC 4 katup dan sistem injeksi PGM-FI. Tampilannya bergaya adventure dengan high windscreen, lampu LED, dan wavy disc brake.",
+  "specs": {
+   "tenaga": "11,5 kW (15,6 PS) / 9.000 rpm",
+   "torsi": "13,8 Nm (1,41 kgf.m) / 7.000 rpm",
+   "bobot": "139 kg (berat kosong)",
+   "tinggi_jok": "817 mm",
+   "tangki": "12 Liter",
+   "transmisi": "Manual, 6 Kecepatan",
+   "rem": "Depan: Wavy Disc Brake; Belakang: Wavy Disc Brake",
+   "suspensi": "Depan: Showa 37mm Inverted Telescopic, stroke 150mm; Belakang: Lengan ayun dengan suspensi tunggal (Pro-Link)",
+   "ban": "Depan: 100/80-17M/C 52P Tubeless; Belakang: 130/70-17M/C 62P Tubeless",
+   "fitur": "Full Digital Panelmeter, High Windscreen, LED Headlight, LED Taillight, Inverted Front Suspension, Tapered Handlebar, Adventure Style Undercowl, Wavy Disc Brake"
+  },
+  "image": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/fa-ahm-sport-mid-thumbnail-550x413px-21112024-100503.png",
+  "image_credit": "Astra Honda Motor",
+  "gallery": [
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/full-digital-panel-meter-10-12112021-081441.jpg",
+    "caption": "Full Digital Panelmeter",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/high-windscreen-2-12112021-081501.jpg",
+    "caption": "High Windscreen",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/led-headlight-11-12112021-081545.jpg",
+    "caption": "LED Headlight",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/inverted-front-suspension-9-12112021-081602.jpg",
+    "caption": "Inverted Front Suspension",
+    "tag": "Suspensi"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/new-led-tailight-1-12112021-081621.jpg",
+    "caption": "LED Taillight",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/tapered-handlebar-2-12112021-081644.jpg",
+    "caption": "Tapered Handlebar",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/adventure-style-undercowl-1-12112021-081704.jpg",
+    "caption": "Adventure Style Undercowl",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/wavy-disc-brake-9-09122021-022919.jpg",
+    "caption": "Wavy Disc Brake",
+    "tag": "Roda dan rem"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.astra-honda.com/product/cb-150-x",
+  "checked": "2026-10-26",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://oto.detik.com/motor/d-5808006/honda-cb150x-resmi-meluncur-di-indonesia-segini-harganya"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/233290213/honda-cb150x-dites-ketahuan-karakter-aslinya-ini-plus-dan-minusnya?page=all"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/233290213/honda-cb150x-dites-ketahuan-karakter-aslinya-ini-plus-dan-minusnya?page=all"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/233290213/honda-cb150x-dites-ketahuan-karakter-aslinya-ini-plus-dan-minusnya?page=all"
+   }
+  }
+ },
+ {
+  "id": "honda-cbr-150-r",
+  "brand": "Honda",
+  "name": "CBR150R",
+  "body": "Sport",
+  "engine": "Bensin",
+  "cc": 149.16,
+  "price": 39270000,
+  "price_type": "OTR Jakarta",
+  "variants": [],
+  "model_year": null,
+  "release": "2021-01",
+  "speed": 142,
+  "kmpl": 42.1,
+  "acc": null,
+  "range": null,
+  "sum": "Honda CBR150R adalah motor sport 150cc 4-tak DOHC dengan sistem injeksi PGM-FI. Motor ini dilengkapi lampu LED, panel digital penuh, serta opsi rem ABS.",
+  "specs": {
+   "tenaga": "12,6 kW (17,1 PS / 9.000 rpm)",
+   "torsi": "14,4 Nm (1.47 kgf.m / 7.000 rpm)",
+   "bobot": "137 kg (Non ABS) / 139 kg (ABS)",
+   "tinggi_jok": "782 mm",
+   "tangki": "12 Liter",
+   "transmisi": "Manual, 6 percepatan",
+   "rem": "Wavy Disc Brake, Wavy Disc Brake-ABS (opsional)",
+   "suspensi": "Depan: Inverted Telescopic; Belakang: Lengan ayun suspensi tunggal (Pro-Link)",
+   "fitur": "LED headlight dan taillight, Full Digital Panelmeter, Assist/Slipper Clutch, Emergency Stop Signal (tipe ABS)"
+  },
+  "image": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/thumbnail-cbr150r-550x413px-tr-new-2-21112024-100742.png",
+  "image_credit": "Astra Honda Motor",
+  "gallery": [
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/led-tailight-11-24112022-071301.jpg",
+    "caption": "LED Tailight",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/spidometer-1-24112022-071327.jpg",
+    "caption": "Full Digital Panelmeter",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/clickable-feature-cbr150r-headlight-700x700px-23102024-070749.jpg",
+    "caption": "LED Headlight",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/clickable-feature-cbr150r-frontsuspension-700x700px-23102024-070759.jpg",
+    "caption": "SFF-BP Inverted Front Suspension",
+    "tag": "Suspensi"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/anti-lock-brake-2-24112022-071621.jpg",
+    "caption": "Anti-Lock Braking System",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/assist-superclutch-1-24112022-071655.jpg",
+    "caption": "Assist/Slipper Clutch",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/clickable-feature-cbr150r-engine-700x700px-23102024-070924.jpg",
+    "caption": "DOHC 6-Speed Engine",
+    "tag": "Mesin"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/emergency-stop-signal-4-24112022-071807.jpg",
+    "caption": "Emergency Stop Signal",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.astra-honda.com/product/cbr-150-r",
+  "checked": "2026-10-26",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.motorplus-online.com/read/252506304/motor-baru-all-new-honda-cbr150r-resmi-meluncur-di-indonesia"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/232551769/all-new-honda-cbr150r-dites-konsumsi-bensin-handling-sampai-top-speed?page=all"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/232551769/all-new-honda-cbr150r-dites-konsumsi-bensin-handling-sampai-top-speed?page=all"
+   }
+  }
+ },
+ {
+  "id": "honda-cbr-250-rr",
+  "brand": "Honda",
+  "name": "CBR250RR",
+  "body": "Sport",
+  "engine": "Bensin",
+  "cc": 249.7,
+  "price": 74785000,
+  "price_type": "OTR Jakarta",
+  "variants": [
+   {
+    "name": "CBR250RR - STD Black Freedom",
+    "price": 74785000
+   },
+   {
+    "name": "CBR250RR - STD Mat Gunpowder Black Metallic",
+    "price": 74785000
+   },
+   {
+    "name": "CBR250RR - SP Mystique Blue",
+    "price": 74785000
+   },
+   {
+    "name": "CBR250RR - SP QS Bravery Red Black",
+    "price": 74785000
+   },
+   {
+    "name": "CBR250RR - SP QS Tricolor",
+    "price": 74785000
+   },
+   {
+    "name": "CBR250RR - SP QS Honda Racing Red",
+    "price": 74785000
+   }
+  ],
+  "model_year": null,
+  "release": "2016-07",
+  "speed": 181,
+  "kmpl": 26.5,
+  "acc": 5.8,
+  "range": null,
+  "sum": "Honda CBR250RR adalah motor sport bermesin parallel twin 249,7 cc dengan tampilan fairing yang lebih besar. Motor ini dilengkapi tiga mode berkendara dengan throttle by wire, Assist/Slipper Clutch, dan Quick Shifter.",
+  "specs": {
+   "tenaga": "28,5 kW (38,7 PS) / 12.500 rpm (STD); 31 kW (42 PS) / 13.000 rpm (SP | SP QS)",
+   "torsi": "23,3 Nm (2,4 kgf.m) / 11.000 rpm (STD); 25 Nm (2,5 kgf.m) / 11.000 rpm (SP | SP QS)",
+   "bobot": "166 kg (STD), 168 kg (SP | SP QS)",
+   "tinggi_jok": "790 mm",
+   "tangki": "14,5 liter",
+   "transmisi": "Manual, 6 speed",
+   "rem": "Depan: Hydraulic Disc, Dual Piston; Belakang: Hydraulic Disc, Single Piston",
+   "suspensi": "Depan: Inverted Telescopic Front Suspension; Belakang: Aluminum Swing Arm (5 Adjustable Mono Suspension with Pro-Link System)",
+   "ban": "Depan: 110/70-17 54S (Tubeless); Belakang: 140/70-17 66S (Tubeless)",
+   "fitur": "3 Step Riding Mode with Throttle By Wire, Assist/Slipper Clutch, Quick Shifter, All LED Lighting System dengan Hazard Lamp, Inverted Front Suspension SFF-BP"
+  },
+  "image": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/thumbnail-cbr-550x413px-r1-2611-26112024-080056.png",
+  "image_credit": "Astra Honda Motor",
+  "gallery": [
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/clickable-feature-big-bike-appearance-800x800-ys-2-19092022-075548.jpg",
+    "caption": "New! Big Bike Appearance​",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/clickable-feature-3-step-riding-mode-800x800-ys-2-19092022-075610.jpg",
+    "caption": "3 Step Riding Mode with Throttle By Wire",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/clickable-feature-new-hazard-lamp-front-800x800-ys-3-19092022-075756.jpg",
+    "caption": "All LED Lighting System​",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/clickable-feature-suspensi-800x800-ys-1-19092022-075813.jpg",
+    "caption": "New! Inverted Front Suspension SFF-BP​",
+    "tag": "Suspensi"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/clickable-feature-assist-slipper-clucth-800x800-ys-2-19092022-075826.jpg",
+    "caption": "Assist/Slipper Clutch​",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/clickable-feature-engine-800x800-ys-1-19092022-075850.jpg",
+    "caption": "New! Powerful Engine with Higher Power​",
+    "tag": "Mesin"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/clickable-feature-new-hazard-lamp-back-800x800-ys-2-19092022-080007.jpg",
+    "caption": "New! All LED Lighting System with Hazard Lamp​",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/clickable-feature-quick-shifter-800x800-ys-2-19092022-083615.jpg",
+    "caption": "Quick Shifter​",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.astra-honda.com/product/cbr-250-rr",
+  "checked": "2026-10-26",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://otorider.com/berita/2026/jejak-perjalanan-10-tahun-honda-cbr250rr-dari-world-premiere-belum-berubah-wujud-jejdfbgdjud"
+   },
+   "speed": {
+    "basis": "uji (top speed spidometer, versi SP; Racelogic 171,1 km/jam)",
+    "source": "https://otomotifnet.gridoto.com/read/232353223/honda-cbr250rr-sp-dites-lengkap-konsumsi-bensin-hingga-performa?page=all"
+   },
+   "kmpl": {
+    "basis": "uji (konsumsi rata-rata di spidometer setelah ±400 km, versi SP)",
+    "source": "https://otomotifnet.gridoto.com/read/232353223/honda-cbr250rr-sp-dites-lengkap-konsumsi-bensin-hingga-performa?page=all"
+   },
+   "acc": {
+    "basis": "uji (0-100 km/jam, versi SP, diukur Racelogic)",
+    "source": "https://otomotifnet.gridoto.com/read/232353223/honda-cbr250rr-sp-dites-lengkap-konsumsi-bensin-hingga-performa?page=all"
+   }
+  }
+ },
+ {
+  "id": "honda-crf-150-l",
+  "brand": "Honda",
+  "name": "CRF150L",
+  "body": "Sport",
+  "engine": "Bensin",
+  "cc": 149.15,
+  "price": 38905000,
+  "price_type": "OTR Jakarta",
+  "variants": [
+   {
+    "name": "CRF150L- Extreme Black",
+    "price": 38905000
+   },
+   {
+    "name": "CRF150L- Extreme Red",
+    "price": 38905000
+   },
+   {
+    "name": "CRF150L- Extreme Green",
+    "price": 38905000
+   },
+   {
+    "name": "CRF150L- Extreme White",
+    "price": 38905000
+   }
+  ],
+  "model_year": null,
+  "release": "2017-11",
+  "speed": 103,
+  "kmpl": 42.3,
+  "acc": 20.6,
+  "range": null,
+  "sum": "Motor 150cc PGM-Fi dengan suspensi depan inverted 37 mm dan ban dual purpose 21/18 inci untuk berkendara di jalan raya maupun off-road. Tersedia dalam warna Extreme Black, Red, Green, dan White.",
+  "specs": {
+   "tenaga": "9,51 kW / 8.000 rpm",
+   "torsi": "12,43 Nm / 6.500 rpm",
+   "bobot": "122 kg (berat kosong)",
+   "tinggi_jok": "869 mm",
+   "tangki": "7,2 L",
+   "transmisi": "Manual, Multiplate Wet Clutch; pola perpindahan 1 – N – 2 – 3 – 4 – 5",
+   "rem": "Depan cakram hidrolik wavy 240 mm; belakang cakram hidrolik wavy 220 mm",
+   "suspensi": "Depan inverted telescopic (diameter 37 mm, stroke 225 mm); belakang monosuspension Pro-Link (axle travel 207 mm)",
+   "ban": "Depan 2.75-21 45P (ban dalam); belakang 4.1-18 59P (ban dalam)",
+   "fitur": "Digital panel meter, velg aluminium, rem wavy disc, Pro-Link rear suspension, spakbor belakang plug & play, lampu belakang sporty"
+  },
+  "image": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/revproduct-thumbnail-crf150l-400x300px-28072025-020216.png",
+  "image_credit": "Astra Honda Motor",
+  "gallery": [
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/geotag-spedoometer-crf150l-800x800px-28072025-020634.jpg",
+    "caption": "Digital Panel Meter",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/geotag-front-fork-crf150l-800x800px-28072025-020629.jpg",
+    "caption": "Long Travel Inverted Front Fork",
+    "tag": "Suspensi"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/geotag-rims-crf150l-800x800px-14072025-071334-1-28072025-023002.webp",
+    "caption": "Aluminium Rims",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/feature-9-2-25102021-095546-11072025-092431-1-28072025-023009.webp",
+    "caption": "Wavy Disc Brake",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/geotag-feature-engine-crf150l-800x800px-1-28072025-023018.jpg",
+    "caption": "Responsive Engine 150cc PGM-Fi",
+    "tag": "Mesin"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/geotag-suspension-crf150l-800x800px-1-28072025-023029.jpg",
+    "caption": "Pro-Link Rear Suspension",
+    "tag": "Suspensi"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/feature-2-5-25102021-095644-11072025-092519-1-28072025-023037.webp",
+    "caption": "Plug & Play Rear Fender",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/feature-8-12062023-25102021-095528-17072025-062936-2-28072025-023047.webp",
+    "caption": "Front Tire & Rear Tire",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/feature-1-1-25102021-095615-17072025-092254-1-28072025-023058.webp",
+    "caption": "Taillight",
+    "tag": "Lampu"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.astra-honda.com/product/crf-150-l",
+  "checked": "2026-10-26",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.rappler.com/world/indonesia/187887-honda-crf-150l-harga-rp-31-8-juta/"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://www.motorplus-online.com/read/251222618/penasaran-dengan-tenaga-honda-crf150l-ini-hasil-tes-akselerasinya?page=all"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://www.gridoto.com/read/221009472/dipakai-harian-ini-rekor-konsumsi-bensin-honda-crf150l-versi-gridoto"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://www.gridoto.com/read/221009012/hasil-tes-akselerasi-honda-crf150l-lebih-kencang-dari-kawasaki-klx-150bf"
+   }
+  }
+ },
+ {
+  "id": "honda-crf-250-rally",
+  "brand": "Honda",
+  "name": "CRF250 RALLY",
+  "body": "Sport",
+  "engine": "Bensin",
+  "cc": 249.6,
+  "price": 99750000,
+  "price_type": "OTR Jakarta",
+  "variants": [
+   {
+    "name": "CRF250 RALLY - Extreme Red",
+    "price": 99750000
+   }
+  ],
+  "model_year": null,
+  "release": "2025-06",
+  "speed": 128.4,
+  "kmpl": 31.3,
+  "acc": 8.92,
+  "range": null,
+  "sum": "Honda CRF250 RALLY adalah motor Sport bermesin 249,6cc 4-tak DOHC dengan tenaga 18,3 kW dan torsi 23,1 Nm. Motor ini dilengkapi suspensi Showa, rem cakram depan-belakang, dan panel indikator full digital.",
+  "specs": {
+   "tenaga": "18,3 kW / 9.000 rpm",
+   "torsi": "23,1 Nm / 6.500 rpm",
+   "bobot": "152 kg (curb weight)",
+   "tinggi_jok": "893 mm",
+   "tangki": "12,8 L",
+   "transmisi": "6-speed Manual",
+   "rem": "Depan: 296mm Floating Wave Disc dengan dual-piston caliper; Belakang: 220mm Wave Disc dengan single-piston caliper",
+   "suspensi": "Depan: Showa Inverted Telescopic 43mm; Belakang: Showa Pro-Link",
+   "ban": "Depan 80/100-21M/C (51P); Belakang 120/80-18M/C (62P)",
+   "fitur": "Full Digital Panel Meter, LED Headlight, 250cc DOHC Assist/Slipper Clutch, Aluminium Swing Arm, Handguard"
+  },
+  "image": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/crf-250-web-banner-product-thumbnail-400x300px-16062025-032317.png",
+  "image_credit": "Astra Honda Motor",
+  "gallery": [
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/crf-250-web-banner-geotag-800x800px-3-16062025-033612.jpg",
+    "caption": "Full Digital Panel Meter",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/crf-250-web-banner-geotag-800x800px-2-16062025-033628.jpg",
+    "caption": "LED Headlight",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/crf-250-web-banner-geotag-800x800px-4-16062025-033649.jpg",
+    "caption": "Fuel Tank",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/crf-250-web-banner-geotag-800x800px-6-16062025-033710.jpg",
+    "caption": "250cc DOHC Engine With Assist/Slipper Clutch",
+    "tag": "Mesin"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/crf-250-web-banner-geotag-800x800px-1-16062025-033731.jpg",
+    "caption": "Aluminium Swing Arm",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/crf-250-web-banner-geotag-800x800px-7-16062025-033755.jpg",
+    "caption": "Handguard",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.astra-honda.com/product/crf-250-rally",
+  "checked": "2026-10-26",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://otomotif.kompas.com/read/2025/06/16/185634415/ahm-luncurkan-crf250-rally-dan-crf250l-simak-harganya"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://www.autofun.co.id/berita-motor/test-ride-honda-crf250-rally-semakin-mahal-tapi-banyak-penggemar-65965"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://www.autofun.co.id/berita-motor/test-ride-honda-crf250-rally-semakin-mahal-tapi-banyak-penggemar-65965"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://www.autofun.co.id/berita-motor/test-ride-honda-crf250-rally-semakin-mahal-tapi-banyak-penggemar-65965"
+   }
+  }
+ },
+ {
+  "id": "honda-crf-250-l",
+  "brand": "Honda",
+  "name": "CRF250L",
+  "body": "Sport",
+  "engine": "Bensin",
+  "cc": 249.67,
+  "price": 94350000,
+  "price_type": "OTR Jakarta",
+  "variants": [
+   {
+    "name": "CRF250L Extreme Red",
+    "price": 94350000
+   }
+  ],
+  "model_year": 2023,
+  "release": "2023-02",
+  "speed": 138,
+  "kmpl": 29.5,
+  "acc": 10.9,
+  "range": null,
+  "sum": "Motor sport 250cc 4-tak berpendingin cairan dengan mesin DOHC 4 katup dan injeksi PGM-FI. Dilengkapi suspensi Showa, rangka semi-double cradle, panel digital full, dan lampu LED.",
+  "specs": {
+   "tenaga": "18,3 kW / 9.000 rpm",
+   "torsi": "23,0 Nm / 6.500 rpm",
+   "bobot": "142 kg (curb mass)",
+   "tinggi_jok": "882 mm",
+   "tangki": "7,8 liter",
+   "transmisi": "6-speed manual",
+   "rem": "Depan: cakram wavy 256 mm, dual piston; Belakang: cakram wavy 220 mm, single piston",
+   "suspensi": "Depan: Showa 43 mm inverted telescopic; Belakang: Showa 260 mm axle travel dengan Pro-Link dan lengan ayun aluminium",
+   "ban": "Depan: 80/100-21M/C 51P; Belakang: 120/80-18M/C 62P",
+   "fitur": "Lengan ayun aluminium Pro-Link, tangki slim, handguard, panel meter full digital, lampu LED, mesin 250cc DOHC dengan assist/slipper clutch"
+  },
+  "image": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/crf250l-web-banner-product-thumbnail-400x300px-16062025-091255.png",
+  "image_credit": "Astra Honda Motor",
+  "gallery": [
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/crf250l-web-banner-geotag-800x800px-1-16062025-091629.jpg",
+    "caption": "Aluminium Swing Arm With Pro Link",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/crf250l-web-banner-geotag-800x800px-4-16062025-091646.jpg",
+    "caption": "Slim Fuel Tank",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/crf250l-web-banner-geotag-800x800px-5-16062025-091706.jpg",
+    "caption": "Handguard",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/crf250l-web-banner-geotag-800x800px-3-16062025-091728.jpg",
+    "caption": "Full Digital Panel Meter",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/crf250l-web-banner-geotag-800x800px-2-16062025-091747.jpg",
+    "caption": "LED Headlight",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/crf250l-web-banner-geotag-800x800px-6-16062025-091808.jpg",
+    "caption": "250cc DOHC Engine With Assist/Slipper Clutch",
+    "tag": "Mesin"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.astra-honda.com/product/crf-250-l",
+  "checked": "2026-10-26",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.liputan6.com/otomotif/read/5209019/honda-crf250l-resmi-meluncur-di-iims-2023-harga-rp-79-jutaan"
+   },
+   "speed": {
+    "basis": "uji (top speed spidometer 138 km/jam; Racebox 128,4 km/jam; uji lain di autofun menulis 131 spidometer dan 120,7 Racebox, sehingga angka bervariasi)",
+    "source": "https://www.gridoto.com/read/223944877/test-ride-honda-crf250l-2023-bukan-sekedar-crf-rally-telanjang?page=all"
+   },
+   "kmpl": {
+    "basis": "uji (rata-rata konsumsi dari panel instrumen setelah lebih dari 500 km; uji lain menulis 23,7 full to full dan 34,8 di panel)",
+    "source": "https://www.gridoto.com/read/223945824/dipakai-jalan-di-segala-medan-segini-konsumsi-bensin-honda-crf250l"
+   },
+   "acc": {
+    "basis": "uji (0-100 km/jam; uji autofun menulis 10,88 detik, uji gridoto menulis 8,91 detik sehingga hasilnya tidak konsisten)",
+    "source": "https://otorider.com/berita/2024/tes-akselerasi-honda-crf250l-seberapa-kencang-tesciihbang"
+   }
+  }
+ },
+ {
+  "id": "honda-honda-ct125",
+  "brand": "Honda",
+  "name": "CT125",
+  "body": "Bebek",
+  "engine": "Bensin",
+  "cc": 124,
+  "price": 83500000,
+  "price_type": "OTR Jakarta",
+  "variants": [
+   {
+    "name": "CT125 - Glowing Red",
+    "price": 83500000
+   },
+   {
+    "name": "CT125 - Matte Fresco Brown",
+    "price": 83500000
+   }
+  ],
+  "model_year": null,
+  "release": "2020-08",
+  "speed": null,
+  "kmpl": 63,
+  "acc": null,
+  "range": null,
+  "sum": "Honda CT125 adalah motor bebek trekking dengan mesin 124 cc berpendingin udara dan lampu full LED. Motor ini dilengkapi ABS, panel digital, dan tangki bahan bakar 5,1 liter.",
+  "specs": {
+   "tenaga": "6,76 kW / 6250 rpm",
+   "torsi": "10,9 Nm / 4.750 rpm",
+   "bobot": "116 kg",
+   "tinggi_jok": "800 mm",
+   "tangki": "5,1 L",
+   "transmisi": "Manual, 4-Speed",
+   "rem": "Depan 220 mm Hydraulic Disc; Belakang 190 mm Hydraulic Disc; ABS 1 Channel",
+   "suspensi": "Depan Telescopic; Belakang Twin Rear Suspension",
+   "ban": "Depan 80/90-17 M/C 44P; Belakang 80/90-17 M/C 50P",
+   "fitur": "Digital Panel Meter, All LED Lighting System, ABS, Large Rear Carrier, Double Disc Brake"
+  },
+  "image": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/productthumbnail-copy-09092026-074822.png",
+  "image_credit": "Astra Honda Motor",
+  "gallery": [
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/geotag800x800pxl-01-09092026-033400.jpg",
+    "caption": "Digital Panel Meter",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/geotag800x800pxl-03-09092026-033555.jpg",
+    "caption": "All LED Lighting System",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/geotag800x800pxl-02-09092026-033640.jpg",
+    "caption": "ABS Brake",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/geotag800x800pxl-04-09092026-033726.jpg",
+    "caption": "5,3 Fuel Tank",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/geotag800x800pxl-05-09092026-033826.jpg",
+    "caption": "Large Rear Carrier",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/geotag800x800pxl-06-09092026-033901.jpg",
+    "caption": "Double Disc Brake",
+    "tag": "Roda dan rem"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.astra-honda.com/product/honda-ct125",
+  "checked": "2026-10-26",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.gridoto.com/read/222296871/resmi-masuk-indonesia-bebek-trail-honda-ct125-harganya-setara-cbr250rr"
+   },
+   "kmpl": {
+    "basis": "klaim pabrikan",
+    "source": "https://oto.detik.com/motor/d-6782047/iritnya-konsumsi-bbm-motor-honda-ct125-baru-full-tank-bisa-pp-jakarta-bandung"
+   }
+  }
+ },
+ {
+  "id": "honda-cuve",
+  "brand": "Honda",
+  "name": "CUV e:",
+  "body": "Lainnya",
+  "engine": "Listrik",
+  "cc": 0,
+  "price": 54450000,
+  "price_type": "OTR Jakarta",
+  "variants": [
+   {
+    "name": "CUV e:",
+    "price": 54450000
+   },
+   {
+    "name": "CUV e: RoadSync Duo",
+    "price": 54450000
+   }
+  ],
+  "model_year": 2024,
+  "release": "2024-10",
+  "speed": 83,
+  "kmpl": null,
+  "acc": null,
+  "range": 80.7,
+  "sum": "Honda CUV e: adalah motor listrik dengan motor Direct Drive 6 kW dan baterai Honda Mobile Power Pack e: yang dapat ditukar (swappable). Tersedia dalam varian standar dan varian CUV e: RoadSync Duo dengan panel TFT 7 inci serta konektivitas RoadSync Duo.",
+  "specs": {
+   "tenaga": "6 kW / 3.500 rpm",
+   "torsi": "22 Nm / 2.300 rpm",
+   "bobot": "117 kg (CUV e:); 118 kg (CUV e: RoadSync Duo)",
+   "tinggi_jok": "761 mm",
+   "rem": "Depan: Cakram Hidrolik; Belakang: Tromol; Sistem Combi Brake System (CBS)",
+   "suspensi": "Depan: Teleskopik; Belakang: Suspensi Tunggal",
+   "ban": "Depan: 100/90-12 59J; Belakang: 110/90-12 64J",
+   "fitur": "Riding Mode (ECON, Standard, Sport) dengan Reverse Assist; Honda Smart Key System; Functional Hook; TFT Panel Meter 7 inci (5 inci pada tipe standar); RoadSync Duo (hanya varian RoadSync Duo); Honda Mobile Power Pack e: (x2) dengan Battery Safety-Lock; USB Type-C Charger; Switch Control; All LED Lighting System"
+  },
+  "image": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/a01-p01-2025-cuve-mat-pearl-crater-white-rh-side-std-1-08102024-044120-09102024-053635.png",
+  "image_credit": "Astra Honda Motor",
+  "gallery": [
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/a25-p13-2025-cuve-pearl-jubilee-white-handle-swich-rh-1-09102024-060452.jpg",
+    "caption": "Riding Mode",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/a27-p10-2025-cuve-mat-pearl-crater-white-smart-key-1-09102024-060512.jpg",
+    "caption": "Honda Smart Key System",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/a20-p10-2025-cuve-mat-pearl-crater-white-luggage-hook-1-09102024-060535.jpg",
+    "caption": "Functional Hook",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/a23-p10-2025-cuve-mat-pearl-crater-white-around-handle-1-09102024-060607.jpg",
+    "caption": "TFT Panel Meter with RoadSync Duo*",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/a18-p10-2025-cuve-mat-pearl-crater-white-luggage-box-with-mpp-removal-process-1-09102024-060630.jpg",
+    "caption": "Honda Mobile Power Pack e: (x2) with Battery Safety-Lock",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/a19-p10-2025-cuve-mat-pearl-crater-white-inner-pocket-1-09102024-060650.jpg",
+    "caption": "USB Type-C Charger",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/a24-p04-2025-cuve-pearl-jubilee-white-handle-swich-lh-1-09102024-060707.jpg",
+    "caption": "Switch Control",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/thumnail-honda-cuv-e-feature-slide20ai-8-1-09102024-060730.jpg",
+    "caption": "6 kW - Direct Drive Motor",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/700x700-02-1-09102024-060750.jpg",
+    "caption": "All LED Lighting System",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/700x700-03-1-09102024-060800.jpg",
+    "caption": "LED Tail Light",
+    "tag": "Lampu"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.astra-honda.com/product/cuve",
+  "checked": "2026-10-26",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.gridoto.com/read/224163456/punya-jarak-tempuh-sampai-80-km-begini-fitur-dan-spek-motor-listrik-honda-cuv-e"
+   }
+  }
+ },
+ {
+  "id": "honda-em1e",
+  "brand": "Honda",
+  "name": "EM1 e:",
+  "body": "Bebek",
+  "engine": "Listrik",
+  "cc": 0,
+  "price": 40000000,
+  "price_type": "OTR Jakarta",
+  "variants": [
+   {
+    "name": "EM1 e:",
+    "price": 40000000
+   },
+   {
+    "name": "EM1 e: PLUS",
+    "price": 40000000
+   }
+  ],
+  "model_year": 2023,
+  "release": "2023-08",
+  "speed": 45,
+  "kmpl": null,
+  "acc": null,
+  "range": 41.1,
+  "sum": "Motor listrik Honda EM1 e: dengan motor In-Wheel Brushless 1,7 kW dan jarak tempuh 41,1 km (WMTC Mode), tersedia dalam varian EM1 e: dan EM1 e: PLUS.",
+  "specs": {
+   "tenaga": "1,7 kW/540 rpm",
+   "torsi": "90 Nm/25 rpm",
+   "bobot": "94 kg (EM1 e:), 96 kg (EM1 e: PLUS)",
+   "tinggi_jok": "740 mm",
+   "rem": "Depan: Cakram Hidrolik; Belakang: Tromol; Sistem Combi Brake System",
+   "suspensi": "Depan: Teleskopik; Belakang: Suspensi Belakang Ganda",
+   "ban": "Depan 90/90-12 44J; Belakang 100/90-10 56J",
+   "fitur": "Battery Safety-Lock, Spacious Flat Floor, USB Power Charger, All LED Lighting System, Full Digital Panel meter, LED Tailight, Rear Carrier"
+  },
+  "image": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/em1-silver-samping-400x300-tr-21122023-045018.png",
+  "image_credit": "Astra Honda Motor",
+  "gallery": [
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/em1-fitur-batterysafetylock-700x700-tr-2-11082023-072939-21122023-045649.jpg",
+    "caption": "Battery Safety-Lock",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/em1-fitur-spaciousflatfloor-700x700-tr-2-11082023-072958-21122023-045700.jpg",
+    "caption": "Spacious Flat Floor",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/em1-fitur-usb-700x700-tr-2-11082023-073110-21122023-045709.jpg",
+    "caption": "USB Power Charger",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/em1-fitur-all-led-700x700-tr-2-11082023-073127-1-21122023-045720.jpg",
+    "caption": "All LED Lighting System",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/em1-fitur-speedometer-700x700-tr-2-11082023-073146-21122023-045810.jpg",
+    "caption": "Full Digital Panel meter",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/em1-fitur-led-tailight-700x700-tr-2-11082023-072919-21122023-045852.jpg",
+    "caption": "LED Tailight",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/new-rear-carrier-em1-plus-700x700-tr-21122023-045932.jpg",
+    "caption": "Rear Carrier​",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.astra-honda.com/product/em1e",
+  "checked": "2026-10-26",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://oto.detik.com/motor/d-6871120/honda-luncurkan-motor-listrik-di-indonesia-em1-e-harga-mulai-rp-40-juta"
+   }
+  }
+ },
+ {
+  "id": "honda-forza",
+  "brand": "Honda",
+  "name": "Forza",
+  "body": "Matic",
+  "engine": "Bensin",
+  "cc": 249,
+  "price": 98950000,
+  "price_type": "OTR Jakarta",
+  "variants": [],
+  "model_year": 2019,
+  "release": "2018-08",
+  "speed": 139,
+  "kmpl": 30,
+  "acc": 13.9,
+  "range": null,
+  "sum": "Honda Forza adalah skutik matic 249 cc dengan mesin eSP+ berpendingin cairan dan fuel injection. Motor ini dilengkapi panel TFT 5 inch, ABS 2 channel, serta Honda Smart Key System.",
+  "specs": {
+   "tenaga": "17 kW / 7.750 rpm",
+   "torsi": "24 Nm / 6250 rpm",
+   "bobot": "186 kg",
+   "tinggi_jok": "780 mm",
+   "tangki": "11.7 L",
+   "transmisi": "Automatic",
+   "rem": "Depan: Hydraulic, Single 256mm Disc; Belakang: Hydraulic, Single 240mm Disc; ABS 2 Channel",
+   "suspensi": "Depan: Telescopic; Belakang: Swing Arm with Twin Suspension",
+   "ban": "Depan: 120/70-15M/C 56P; Belakang: 140/70-14M/C 62P",
+   "fitur": "Emergency Stop Signal, panel TFT 5 inch, windscreen elektrik, USB Type-C, lampu LED, bagasi besar, multi-function switch, Honda Smart Key System"
+  },
+  "image": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/product-thumbnail-forza-400x300rev-1-16072025-031300.png",
+  "image_credit": "Astra Honda Motor",
+  "gallery": [
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/geotag-forza-800x800px-07-16072025-032738.jpg",
+    "caption": "Emergency Stop Signal (ESS)",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/geotag-forza-800x800px-03-16072025-032756.jpg",
+    "caption": "New 5 Inch TFT Panel Meter",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/geotag-forza-800x800px-02-16072025-032817.jpg",
+    "caption": "Electrically Adjustable Wind Screen",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/geotag-forza-800x800px-04-16072025-032829.jpg",
+    "caption": "USB Type-C Charger",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/geotag-forza-800x800px-05-16072025-032849.jpg",
+    "caption": "All LED Lighting System​",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/geotag-forza-800x800px-06-16072025-033014.jpg",
+    "caption": "Extra Large Luggage Box with New LED",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/geotag-forza-800x800px-08-16072025-033038.jpg",
+    "caption": "New Multi-Function Switch",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/honda-smart-key-system-11-16072025-104155.png",
+    "caption": "Honda Smart Key System",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.astra-honda.com/product/forza",
+  "checked": "2026-10-26",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://otomotif.kompas.com/read/2018/08/04/142200515/berapa-konsumsi-bahan-bakar-honda-forza-250-"
+   },
+   "speed": {
+    "basis": "uji (Forza 250 model 2021)",
+    "source": "https://otomotifnet.gridoto.com/read/233034024/konsumsi-bensin-honda-forza-250-2021-kecepatan-0-100-kmjam-cuma-butuh-waktu-segini?page=all"
+   },
+   "kmpl": {
+    "basis": "uji (Forza 250 model 2021, 1.000 km, angka average di spidometer)",
+    "source": "https://otomotifnet.gridoto.com/read/233034024/konsumsi-bensin-honda-forza-250-2021-kecepatan-0-100-kmjam-cuma-butuh-waktu-segini?page=all"
+   },
+   "acc": {
+    "basis": "uji (Forza 250 model 2021)",
+    "source": "https://otomotifnet.gridoto.com/read/233034024/konsumsi-bensin-honda-forza-250-2021-kecepatan-0-100-kmjam-cuma-butuh-waktu-segini?page=all"
+   }
+  }
+ },
+ {
+  "id": "honda-supra-gtr-150",
+  "brand": "Honda",
+  "name": "GTR 150",
+  "body": "Bebek",
+  "engine": "Bensin",
+  "cc": 149.16,
+  "price": 27390000,
+  "price_type": "OTR Jakarta",
+  "variants": [
+   {
+    "name": "Supra GTR 150 Sporty",
+    "price": 27390000
+   },
+   {
+    "name": "Supra GTR 150 Exclusive",
+    "price": 27390000
+   }
+  ],
+  "model_year": null,
+  "release": null,
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Motor bebek 150 cc dengan mesin DOHC 4 katup berpendingin cairan, 6 kecepatan, dan panel digital. Dilengkapi rem cakram depan-belakang serta ban tubeless lebar.",
+  "specs": {
+   "tenaga": "12,0 kW (16,3 PS) / 9.000 rpm",
+   "torsi": "14,2 Nm (1,45 kgf.m) / 6.500 rpm",
+   "bobot": "119 kg",
+   "tinggi_jok": "780 mm",
+   "tangki": "4.5 Liter",
+   "transmisi": "Manual, 6 Kecepatan",
+   "rem": "Cakram Hidrolik (depan & belakang)",
+   "suspensi": "Depan: Teleskopik; Belakang: Lengan Ayun dengan Suspensi Tunggal",
+   "ban": "Depan 90/80-17 46P (Tubeless); Belakang 120/70-17 58P (Tubeless)",
+   "fitur": "Panel digital full, suspensi depan lebih besar, body cover dengan striping agresif, lampu belakang slim dengan rear winker terpisah"
+  },
+  "image": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/supra-gtr-150-4-27052021-092133.png",
+  "image_credit": "Astra Honda Motor",
+  "gallery": [
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/digital-panel-meter-6-16042021-015612.jpg",
+    "caption": "Digital Panel Meter",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/big-front-suspension-1-16042021-015618.jpg",
+    "caption": "Big Front Suspension",
+    "tag": "Suspensi"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/front-wide-tubeless-tire-disc-brake-1-16042021-015623.jpg",
+    "caption": "Front Wide Tubeless Tire & Disc Brake",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/new-generation-dohc-6-speed-engine-1-16042021-015627.jpg",
+    "caption": "New Generation DOHC 6 Speed- Engine",
+    "tag": "Mesin"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/layered-body-cover-with-aggressive-striping-1-16042021-015637.jpg",
+    "caption": "Layered Body Cover with Aggressive Striping",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/tail-light-seperated-rear-winker-1-16042021-015641.jpg",
+    "caption": "Tail Light & Seperated Rear Winker",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/rear-wide-tubeless-tire-disc-brake-1-16042021-015645.jpg",
+    "caption": "Rear Wide Tubeless Tire & Disc Brake",
+    "tag": "Roda dan rem"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.astra-honda.com/product/supra-gtr-150",
+  "checked": "2026-10-26"
+ },
+ {
+  "id": "honda-genio",
+  "brand": "Honda",
+  "name": "Genio",
+  "body": "Matic",
+  "engine": "Bensin",
+  "cc": 109.55,
+  "price": 20600000,
+  "price_type": "OTR Jakarta",
+  "variants": [
+   {
+    "name": "Genio CBS",
+    "price": 20600000
+   },
+   {
+    "name": "Genio CBS-ISS",
+    "price": 20600000
+   },
+   {
+    "name": "Genio CBS Special Color",
+    "price": 20600000
+   }
+  ],
+  "model_year": 2020,
+  "release": null,
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Honda Genio adalah skuter matic berkapasitas 109,55 cc dengan panel meter digital, lampu depan LED, dan bagasi 14 liter. Tersedia dalam varian CBS, CBS-ISS, dan CBS Special Color.",
+  "specs": {
+   "tenaga": "6,6 kW (9,0 PS) / 7.500 rpm",
+   "torsi": "9,3 Nm (0,95 kgf.m) / 5.500 rpm",
+   "bobot": "92 kg (Tipe CBS); 93 kg (Tipe CBS-ISS)",
+   "tinggi_jok": "744 mm",
+   "tangki": "4,2 L",
+   "transmisi": "Otomatis, V-Matic",
+   "rem": "Depan: cakram hidrolik piston tunggal; Belakang: tromol; Combi Brake System",
+   "suspensi": "Depan: telescopic; Belakang: swing arm dengan suspensi tunggal",
+   "ban": "Depan: 100/90-12 59J (tubeless); Belakang: 110/90-12 64J (tubeless)",
+   "fitur": "Panel meter digital dengan eco indicator, lampu depan LED, power charger di rak depan, bagasi 14 L, pengaman kunci kontak dengan tombol pembuka jok"
+  },
+  "image": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/thumbnail-genio-new-3-29102025-075221.png",
+  "image_credit": "Astra Honda Motor",
+  "gallery": [
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/09-geotag-800x800-1-29102025-032110.jpg",
+    "caption": "Panel Meter Digital dengan Eco Indicator",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/09-geotag-800x800-2-29102025-032115.jpg",
+    "caption": "Lampu Depan LED",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/09-geotag-800x800-3-29102025-032126.jpg",
+    "caption": "Ban & Velg 12 dengan desain yang Retro",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/09-geotag-800x800-4-29102025-032139.jpg",
+    "caption": "Pengaman Kunci Kontak dengan Tombol Pembuka Jok",
+    "tag": "Jok dan bagasi"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/09-geotag-800x800-5-29102025-032152.jpg",
+    "caption": "Power Charger di Rak Depan",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/09-geotag-800x800-6-29102025-032203.jpg",
+    "caption": "Bagasi Luas 14 Liter",
+    "tag": "Jok dan bagasi"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.astra-honda.com/product/genio",
+  "checked": "2026-10-26"
+ },
+ {
+  "id": "honda-cb500f",
+  "brand": "Honda",
+  "name": "ICON e:",
+  "body": "Lainnya",
+  "engine": "Listrik",
+  "cc": 0,
+  "price": 28000000,
+  "price_type": "OTR Jakarta",
+  "variants": [],
+  "model_year": null,
+  "release": null,
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "ICON e: adalah motor listrik tahun 2024 dengan baterai yang dapat dilepas dan sistem pencahayaan LED di semua titik. Harganya Rp 28.000.000 dan dilengkapi U-Box berkapasitas 26 liter.",
+  "specs": {
+   "fitur": "Lampu LED semua titik, baterai dapat dilepas (Detachable Battery), charging connector, USB power charger (5V 2.1A), panel meter full digital dengan mode ECON dan indikator baterai, U-Box 26 liter, secure key shutter dengan seat opener, functional hook, LED tail light"
+  },
+  "image": "https://imagewebsite.astra-honda.com/uploads/product-category/icon/bigbike-category-icon-grey.svg",
+  "image_credit": "Astra Honda Motor",
+  "gallery": [],
+  "trusted_images": true,
+  "source": "https://www.astra-honda.com/product/",
+  "checked": "2026-10-26"
+ },
+ {
+  "id": "honda-cbr1000rr-r",
+  "brand": "Honda",
+  "name": "ICON e:",
+  "body": "Lainnya",
+  "engine": "Listrik",
+  "cc": 0,
+  "price": 28000000,
+  "price_type": "OTR Jakarta",
+  "variants": [],
+  "model_year": null,
+  "release": null,
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "ICON e: (2024) adalah motor listrik dengan baterai yang dapat dilepas dan lampu LED di semua titik pencahayaan. Dilengkapi U-Box besar 26 liter, panel digital penuh, dan pengisian daya USB.",
+  "specs": {
+   "fitur": "All LED Lighting System; Secure key shutter with seat opener; Functional Hook; Detachable Battery; Charging Connector; LED Tail Light; U-Box 26 liter; USB Power Charger (5V 2.1A); Full Digital Panel Meter dengan mode ECON"
+  },
+  "image": "https://imagewebsite.astra-honda.com/uploads/product-category/icon/bigbike-category-icon-grey.svg",
+  "image_credit": "Astra Honda Motor",
+  "gallery": [],
+  "trusted_images": true,
+  "source": "https://www.astra-honda.com/product/",
+  "checked": "2026-10-26"
+ },
+ {
+  "id": "honda-icone",
+  "brand": "Honda",
+  "name": "ICON e:",
+  "body": "Lainnya",
+  "engine": "Listrik",
+  "cc": 0,
+  "price": 28000000,
+  "price_type": "OTR Jakarta",
+  "variants": [],
+  "model_year": 2024,
+  "release": null,
+  "speed": 55,
+  "kmpl": null,
+  "acc": null,
+  "range": 53,
+  "sum": "ICON e: adalah motor listrik Honda dengan motor in-wheel brushless 1.81 kW dan baterai Lithium-Ion 48 V 30.6 Ah yang dapat dilepas. Motor ini memiliki jarak tempuh maksimal 53 km (WMTC Mode) dan kecepatan maksimal 55 km/jam.",
+  "specs": {
+   "tenaga": "1.81 kW / 618 rpm (Power Maksimal); Rated Power 1.5 kW",
+   "torsi": "85 Nm / 110 rpm",
+   "bobot": "89 kg (Berat Kosong); berat baterai 11.4 kg",
+   "tinggi_jok": "742 mm",
+   "rem": "Depan: Cakram Hidrolik; Belakang: Tromol; Sistem Combi Brake System (CBS)",
+   "suspensi": "Depan: Teleskopik; Belakang: Suspensi Belakang Ganda",
+   "ban": "Depan: 90/90 - 12 443; Belakang: 100/90 - 10 563",
+   "fitur": "Lampu LED (depan, belakang, sein); Secure key shutter dengan seat opener; Functional Hook; Baterai dapat dilepas; Charging Connector; U-Box 26 liter; USB Power Charger (5V 2.1A); Full Digital Panel Meter dengan mode ECON dan indikator baterai"
+  },
+  "image": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/ahm-light-sideview-blue-4-08102024-032201-09102024-051105.png",
+  "image_credit": "Astra Honda Motor",
+  "gallery": [
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/thumnail-honda-icon-feature-slide19-1-09102024-052606.jpg",
+    "caption": "All LED Lighting System",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/thumnail-honda-icon-feature-slide19-2-09102024-052628.jpg",
+    "caption": "Secure key shutter with seat opener",
+    "tag": "Jok dan bagasi"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/thumnail-honda-icon-feature-slide19-3-09102024-052650.jpg",
+    "caption": "Functional Hook",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/thumnail-honda-icon-feature-slide19-4-09102024-052714.jpg",
+    "caption": "Detachable Battery",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/thumnail-honda-icon-feature-slide19-5-09102024-052744.jpg",
+    "caption": "Charging Connector",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/honda-icon-e-feature-tailight-update-min-05062025-050610.jpg",
+    "caption": "LED Tail Light",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/thumnail-honda-icon-feature-slide19-7-09102024-052848.jpg",
+    "caption": "Large U-Box 26 Liter",
+    "tag": "Jok dan bagasi"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/thumnail-honda-icon-feature-slide19-8-09102024-052911.jpg",
+    "caption": "USB Power Charger",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/thumnail-honda-icon-feature-slide19-9-09102024-052929.jpg",
+    "caption": "Full Digital Panel Meter",
+    "tag": "Panel instrumen"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.astra-honda.com/product/icone",
+  "checked": "2026-10-26"
+ },
+ {
+  "id": "honda-honda-monkey",
+  "brand": "Honda",
+  "name": "Monkey",
+  "body": "Sport",
+  "engine": "Bensin",
+  "cc": 124,
+  "price": 88094000,
+  "price_type": "OTR Jakarta",
+  "variants": [],
+  "model_year": 2026,
+  "release": null,
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Honda Monkey 2026 ditenagai mesin 124 cc 4-tak SOHC berpendingin udara dengan PGM-FI, dilengkapi lampu full LED, ABS satu channel, dan suspensi upside down. Harga resminya mulai Rp 88.094.000.",
+  "specs": {
+   "tenaga": "6,9 kW / 6.750 rpm",
+   "torsi": "11 Nm / 5.500 rpm",
+   "bobot": "104 kg",
+   "tinggi_jok": "775 mm",
+   "tangki": "5,6 liter",
+   "transmisi": "Manual, 5-speed",
+   "rem": "Depan: hidrolik cakram tunggal 220 mm dengan ABS; Belakang: hidrolik cakram tunggal 190 mm",
+   "suspensi": "Depan: Showa 31 mm inverted telescopic fork; Belakang: Showa twin shock",
+   "ban": "Depan 120/80-12 65J; Belakang 130/80-12 69J",
+   "fitur": "All LED lighting system, Anti Theft Alarm & Answer Back System, Digital panelmeter, ABS with IMU, Inverted front suspension"
+  },
+  "image": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/product-thumbnail-16-17092026-043741.png",
+  "image_credit": "Astra Honda Motor",
+  "gallery": [
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/feature-monkey-led-800x800-tr-3-13022025-050300.jpg",
+    "caption": "All LED Lighting System",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/alarm-key-6-17092026-083523.png",
+    "caption": "Anti Theft Alarm & Answer Back System​",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/digital-panelmeter-8-17092026-083420.png",
+    "caption": "Digital Panelmeter​",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/abs-1-17092026-083502.png",
+    "caption": "ABS with Inertial Measurement Unit​",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/led-light-8-17092026-083347.png",
+    "caption": "All LED Lighting System",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/suspension-2-7-17092026-083259.png",
+    "caption": "Inverted Front Suspension​",
+    "tag": "Suspensi"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.astra-honda.com/product/honda-monkey",
+  "checked": "2026-10-26"
+ },
+ {
+  "id": "honda-pcx",
+  "brand": "Honda",
+  "name": "PCX160",
+  "body": "Matic",
+  "engine": "Bensin",
+  "cc": 156.9,
+  "price": 35000000,
+  "price_type": "OTR Jakarta",
+  "variants": [
+   {
+    "name": "PCX - CBS",
+    "price": 35000000
+   },
+   {
+    "name": "PCX - ABS",
+    "price": 35000000
+   },
+   {
+    "name": "PCX - ABS RoadSync",
+    "price": 35000000
+   }
+  ],
+  "model_year": null,
+  "release": null,
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Honda PCX160 adalah skutik bermesin 4-langkah 156,9 cc eSP+ dengan tiga pilihan varian, yaitu CBS, ABS, dan ABS RoadSync. Motor ini dilengkapi lampu LED, TFT Panel Meter 5 inci, bagasi 30 liter, dan Honda Smart Key System.",
+  "specs": {
+   "tenaga": "11,8 kW (16 PS) / 8.500 rpm",
+   "torsi": "14,7 Nm (1,5 kgf.m) / 6.500 rpm",
+   "bobot": "132 kg (CBS), 132 kg (ABS) & 133 kg (RoadSync)",
+   "tinggi_jok": "764 mm",
+   "tangki": "8,1 liter",
+   "transmisi": "Otomatis, V-Matic",
+   "rem": "Depan: Cakram hidrolik (CBS: Triple Pots Hydraulic, Combi Brake System; ABS & RoadSync: Anti Lock Braking System); Belakang: Cakram Hidrolik",
+   "suspensi": "Depan: Teleskopik; Belakang: Suspensi ganda (CBS & ABS), suspensi ganda dengan tabung (RoadSync)",
+   "ban": "Depan 110/70 - 14 M/C Tubeless; Belakang 130/70 - 13 M/C Tubeless",
+   "fitur": "New LED Taillight Design, Subtank Rear Suspension (RoadSync), 30 Liter Extra Large Luggage Box, New Handle Bar Cover, Multi-Function Switch (RoadSync), Pass Beam Switch (RoadSync), 5 inch TFT Panel Meter (RoadSync), USB Type-C Charger (5V 3A), Honda Smart Key System, New LED Headlight Design, Anti-Lock Braking System (ABS & RoadSync), More Comfortable Foot Area"
+  },
+  "image": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/product-thumbnail-400x300-4-11022026-041017.png",
+  "image_credit": "Astra Honda Motor",
+  "gallery": [
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/new-taillight-design-800x800px-06122024-031401.jpg",
+    "caption": "New LED Taillight Design",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/subtank-rear-suspension-800x800px-06122024-031423.jpg",
+    "caption": "Subtank Rear Suspension",
+    "tag": "Suspensi"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/30-liter-extra-large-luggage-box-800x800px-06122024-031450.jpg",
+    "caption": "30 Liter Extra Large Luggage Box",
+    "tag": "Jok dan bagasi"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/new-handlebar-cover-800x800px-06122024-031509.jpg",
+    "caption": "New Handle Bar Cover",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/multi-function-switch-800x800px-06122024-031540.jpg",
+    "caption": "Multi-Function Switch",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/pass-beam-switch-800x800px-06122024-031604.jpg",
+    "caption": "Pass Beam Switch",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/5-inch-tft-panel-meter-800x800px-06122024-031705.jpg",
+    "caption": "5 inch TFT Panel Meter",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/usb-type-c-charger-800x800px-06122024-031729.jpg",
+    "caption": "USB Type-C Charger",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/smart-key-system-800x800px-06122024-031753.jpg",
+    "caption": "Honda Smart Key System",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/new-led-headlight-design-800x800px-06122024-031820.jpg",
+    "caption": "New LED Headlight Design",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/anti-lock-braking-system-abs-800x800px-06122024-031852.jpg",
+    "caption": "Anti-Lock Braking System (ABS)",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/more-comfortable-foot-area-800x800px-06122024-031913.jpg",
+    "caption": "More Comfortable Foot Area",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.astra-honda.com/product/pcx",
+  "checked": "2026-10-26"
+ },
+ {
+  "id": "honda-revo-x",
+  "brand": "Honda",
+  "name": "Revo",
+  "body": "Bebek",
+  "engine": "Bensin",
+  "cc": 109.17,
+  "price": 18085000,
+  "price_type": "OTR Jakarta",
+  "variants": [
+   {
+    "name": "Revo X",
+    "price": 18085000
+   },
+   {
+    "name": "Revo Fit",
+    "price": 18085000
+   }
+  ],
+  "model_year": null,
+  "release": null,
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Honda Revo ditenagai mesin SOHC 4 langkah 109,17 cc berpendingin udara dengan injeksi PGM-FI. Dilengkapi panel meter modern, rem cakram depan, dan bagasi 7 liter.",
+  "specs": {
+   "tenaga": "6,56 kW (8,91 PS) / 7.500 rpm",
+   "torsi": "8,76 Nm (0,86 kgf.m) / 6.000 rpm",
+   "bobot": "97,5 kg",
+   "tangki": "4 Liter",
+   "transmisi": "4 Kecepatan, pola N-1-2-3-4-N",
+   "rem": "Depan: cakram hidrolik piston tunggal; Belakang: tromol",
+   "suspensi": "Depan: teleskopik; Belakang: lengan ayun dengan suspensi ganda",
+   "ban": "Depan 70/90-17 M/C 38; Belakang 80/90-17 M/C 44P",
+   "fitur": "Panel meter modern, kunci kontak bermagnet otomatis, lampu depan sporti, rem cakram, bagasi 7 liter, tangki 4,0 L dengan tutup praktis, lampu belakang dinamis, pijakan kaki belakang sporti, knalpot sporti"
+  },
+  "image": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/thmbnail-product-2-24012022-110536.png",
+  "image_credit": "Astra Honda Motor",
+  "gallery": [
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/panel-meter-modern-1-16042021-013234.jpg",
+    "caption": "Panel Meter Modern",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/pengaman-kunci-kontak-bermagnet-otomatis-1-16042021-013238.jpg",
+    "caption": "Pengaman Kunci Kontak Bermagnet Otomatis",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/lampu-depan-lampu-sein-sporti-3-24012022-110439.jpeg",
+    "caption": "Lampu Depan & Lampu Sein Sporti",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/rem-cakram-1-16042021-013248.jpg",
+    "caption": "Rem Cakram",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/bagasi-7-liter-1-16042021-013258.jpg",
+    "caption": "Bagasi 7 Liter",
+    "tag": "Jok dan bagasi"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/tangki-bensin-4-0-l-dengan-tempat-penutup-bensin-1-16042021-013304.jpg",
+    "caption": "Tangki bensin 4,0 L dengan tempat penutup bensin",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/lampu-belakang-dinamis-1-16042021-013309.jpg",
+    "caption": "Lampu Belakang Dinamis",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/pijakan-kaki-belakang-sporti-1-16042021-013312.jpg",
+    "caption": "Pijakan Kaki Belakang Sporti",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/knalpot-sporti-1-16042021-013316.jpg",
+    "caption": "Knalpot Sporti",
+    "tag": "Knalpot"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.astra-honda.com/product/revo-x",
+  "checked": "2026-10-26"
+ },
+ {
+  "id": "honda-st125-dax",
+  "brand": "Honda",
+  "name": "ST125 Dax",
+  "body": "Sport",
+  "engine": "Bensin",
+  "cc": 124,
+  "price": 84500000,
+  "price_type": "OTR Jakarta",
+  "variants": [
+   {
+    "name": "ST125 Dax Candy Energy Orange",
+    "price": 84500000
+   },
+   {
+    "name": "ST125 Dax Pearl Shining Black",
+    "price": 84500000
+   }
+  ],
+  "model_year": 2022,
+  "release": null,
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Honda ST125 Dax adalah motor sport 124 cc berpendingin udara dengan mesin 4-tak SOHC 2-katup dan sistem injeksi PGM-FI. Motor ini dilengkapi panel digital, lampu full LED, serta ABS satu channel dengan IMU.",
+  "specs": {
+   "tenaga": "6,6 kW / 7.000 rpm",
+   "torsi": "10,4 Nm / 5.000 rpm",
+   "bobot": "107 kg",
+   "tinggi_jok": "778 mm",
+   "tangki": "3.8 liter",
+   "transmisi": "Manual, 4-speed",
+   "rem": "Depan: hidraulik single disc 220 mm dengan ABS; Belakang: hidraulik single disc 190 mm",
+   "suspensi": "Depan: Showa 31 mm inverted telescopic fork; Belakang: Showa twin shock",
+   "ban": "Depan: 120/70-12 51L; Belakang: 130/70-12 56L",
+   "fitur": "Digital panel meter, lampu depan dan belakang full LED, ABS dengan IMU, rem belakang cakram"
+  },
+  "image": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/st1215daxproductthumbnail400x300-3-02092026-070543.png",
+  "image_credit": "Astra Honda Motor",
+  "gallery": [
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/feature-1-6-08082022-114743.jpg",
+    "caption": "Digital Panel Meter",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/st1215daxgeotag2-800x800-01092026-085032.jpg",
+    "caption": "All LED Lighting System​",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/st1215daxgeotag3-800x800-01092026-085024.jpg",
+    "caption": "Inverted Front Suspension​",
+    "tag": "Suspensi"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/feature-4-10-08082022-114822-01092026-085009.jpg",
+    "caption": "ABS with Inertial Measurement Unit",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/feature-6-7-08082022-114834.jpg",
+    "caption": "Rear Disc Brake",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/st1215daxgeotag1-800x800-1-01092026-091609.jpg",
+    "caption": "​All LED Lighting System​",
+    "tag": "Lampu"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.astra-honda.com/product/st125-dax",
+  "checked": "2026-10-26"
+ },
+ {
+  "id": "honda-scoopy",
+  "brand": "Honda",
+  "name": "Scoopy",
+  "body": "Matic",
+  "engine": "Bensin",
+  "cc": 109.5,
+  "price": 23376000,
+  "price_type": "OTR Jakarta",
+  "variants": [
+   {
+    "name": "Fashion",
+    "price": 23376000
+   },
+   {
+    "name": "Prestige",
+    "price": 23376000
+   },
+   {
+    "name": "Stylish",
+    "price": 23376000
+   }
+  ],
+  "model_year": null,
+  "release": null,
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Honda Scoopy adalah skutik matic bermesin 109,5 cc dengan desain retro dan lampu LED Crystal Block. Dilengkapi fitur seperti Honda Smart Key System pada tipe Stylish dan Prestige, serta console box 4 liter.",
+  "specs": {
+   "tenaga": "6,6 kW (9,0 PS) / 7.500 rpm",
+   "torsi": "9,2 Nm (0,94 kgf.m) / 6.000 rpm",
+   "bobot": "94 kg (STD) dan 93 kg (Smart Key)",
+   "tinggi_jok": "746 mm",
+   "tangki": "4,2 Liter",
+   "transmisi": "Otomatis, V-Matic",
+   "rem": "Depan: Cakram hidrolik piston tunggal; Belakang: Tromol; Sistem Combi Brake System (CBS)",
+   "suspensi": "Depan: Teleskopik; Belakang: Lengan ayun dengan peredam kejut tunggal",
+   "ban": "Depan 100/90-12 (Tubeless); Belakang 110/90-12 (Tubeless)",
+   "fitur": "New LED Crystal Block Headlight; Console Box 4L dengan bukaan tekan; Functional Hook; Honda Smart Key System (Stylish & Prestige); Digital Panel Meter (Smart Key); USB Type-C Charger 5V 3A; New Taillight & Winker Design"
+  },
+  "image": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/product-thumbnail-400x300-copy-1-13112025-030828.png",
+  "image_credit": "Astra Honda Motor",
+  "gallery": [
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/geotags-800x800-5-13112025-031323.jpg",
+    "caption": "New LED Crystal Block Headlight",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/geotags-800x800-4-13112025-031339.jpg",
+    "caption": "Console Box",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/geotags-800x800-3-13112025-031401.jpg",
+    "caption": "Functional Hook",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/geotags-800x800-2-13112025-031425.jpg",
+    "caption": "Honda Smart Key System",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/geotags-800x800-1-13112025-031431.jpg",
+    "caption": "Digital Panel Meter",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/new-honda-scoopy-usb-type-c-charger-700x700px-05112024-031156.jpg",
+    "caption": "USB Type-C Charger in Console Box",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/geotags-800x800-6-13112025-031504.jpg",
+    "caption": "New Taillight & Winker Design",
+    "tag": "Lampu"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.astra-honda.com/product/scoopy",
+  "checked": "2026-10-26"
+ },
+ {
+  "id": "honda-sonic-150-r",
+  "brand": "Honda",
+  "name": "Sonic 150R",
+  "body": "Sport",
+  "engine": "Bensin",
+  "cc": 149.16,
+  "price": 28965000,
+  "price_type": "OTR Jakarta",
+  "variants": [
+   {
+    "name": "Sonic 150R Activo Black",
+    "price": 28965000
+   },
+   {
+    "name": "Sonic 150R Energetic Red",
+    "price": 28965000
+   },
+   {
+    "name": "Sonic 150R Aggresso Matte Black",
+    "price": 28965000
+   },
+   {
+    "name": "Sonic 150R Honda Racing Red",
+    "price": 28965000
+   }
+  ],
+  "model_year": null,
+  "release": null,
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Honda Sonic 150R adalah motor sport 150cc 4 langkah DOHC dengan 6 kecepatan dan pendingin cairan. Motor ini menonjolkan desain fairing yang mudah dilepas-pasang, panel meter digital, serta rem cakram depan dan belakang.",
+  "specs": {
+   "tenaga": "11.8 kW (16.0 PS) / 9.000 rpm",
+   "torsi": "13.5 Nm (1.38 kgf.m) / 6.500 rpm",
+   "bobot": "114 kg",
+   "tinggi_jok": "762 mm",
+   "tangki": "4 liter",
+   "transmisi": "Manual, 6 kecepatan",
+   "rem": "Cakram hidrolik depan dan belakang",
+   "suspensi": "Depan teleskopik; belakang lengan ayun dengan suspensi tunggal",
+   "ban": "Depan 70/90-17 38P (tubeless); belakang 80/90-17 50P (tubeless)",
+   "fitur": "Clip-on handle bar, digital panel meter, LED headlight, pendingin liquid-cooled dengan kipas otomatis, plug & play fairing, rangka twin perimeter, slim seat with solid grip"
+  },
+  "image": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/sonic-150r-550x413px-r1-22112024-041432.png",
+  "image_credit": "Astra Honda Motor",
+  "gallery": [
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/clip-on-handle-bar-1-16042021-014745.jpg",
+    "caption": "Clip on Handle Bar",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/digital-panel-meter-5-16042021-014749.jpg",
+    "caption": "Digital Panel Meter",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/shard-led-headlight-1-16042021-014753.jpg",
+    "caption": "Shard LED Headlight",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/liquid-cooled-with-auto-fan-1-16042021-014757.jpg",
+    "caption": "Liquid-Cooled With Auto Fan",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/front-and-rear-disc-brake-1-16042021-014801.jpg",
+    "caption": "Front and Rear Disc Brake",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/plug-play-fairing-1-16042021-014804.jpg",
+    "caption": "Plug & Play Fairing",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/generation-150cc-6-speed-dohc-engine-1-16042021-014808.jpg",
+    "caption": "Generation 150cc 6-Speed DOHC Engine",
+    "tag": "Mesin"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/rear-monoshock-1-16042021-014813.jpg",
+    "caption": "Rear Monoshock",
+    "tag": "Suspensi"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/twin-perimeter-frame-1-16042021-014817.jpg",
+    "caption": "Twin Perimeter Frame",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/slim-seat-with-solid-grip-2-16042021-014831.jpg",
+    "caption": "Slim Seat with Solid Grip",
+    "tag": "Jok dan bagasi"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.astra-honda.com/product/sonic-150-r",
+  "checked": "2026-10-26"
+ },
+ {
+  "id": "honda-stylo-160",
+  "brand": "Honda",
+  "name": "Stylo 160",
+  "body": "Matic",
+  "engine": "Bensin",
+  "cc": 156.9,
+  "price": 29695000,
+  "price_type": "OTR Jakarta",
+  "variants": [
+   {
+    "name": "Stylo 160 ABS Special",
+    "price": 29695000
+   },
+   {
+    "name": "Stylo 160 ABS",
+    "price": 29695000
+   },
+   {
+    "name": "Stylo 160 CBS",
+    "price": 29695000
+   }
+  ],
+  "model_year": null,
+  "release": null,
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Honda Stylo 160 adalah skutik matic 156,9 cc dengan mesin 4 langkah, 4 katup, dan pendingin cairan. Tersedia dalam varian ABS Special, ABS, dan CBS, dengan fitur panel digital penuh, lampu LED, dan Honda Smartkey System.",
+  "specs": {
+   "tenaga": "11,3 kW (15,4 PS) / 8.500 rpm",
+   "torsi": "13,8 Nm (1,5 kgf.m) / 7.000 rpm",
+   "bobot": "118 kg (ABS) & 115 kg (CBS)",
+   "tinggi_jok": "768 mm",
+   "tangki": "5 liter",
+   "transmisi": "Otomatis, V-Matic",
+   "rem": "Depan 220 mm cakram hidrolik (ABS) / 190 mm cakram hidrolik (CBS); Belakang 220 mm cakram hidrolik (ABS) / tromol (CBS); sistem ABS & CBS",
+   "suspensi": "Depan teleskopik; belakang swing arm dengan suspensi tunggal",
+   "ban": "Depan 110/90-12 M/C Tubeless; Belakang 130/80-12 M/C Tubeless",
+   "fitur": "Full digital panel meter, All LED lighting, Honda Smartkey System, Pop-up center hook, USB charger 5V 2,1A, ABS (tipe ABS)"
+  },
+  "image": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/stylo-royal-violet-400x300pxl-1-23092026-024521.png",
+  "image_credit": "Astra Honda Motor",
+  "gallery": [
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/1-full-digital-panel-meter-23092026-023329.webp",
+    "caption": "Full Digital Panel Meter",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/2-all-led-lighting-system-23092026-023335.webp",
+    "caption": "All LED Lighting System",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/3-all-led-lighting-system-23092026-023341.webp",
+    "caption": "All LED Lighting System",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/4-anti-lock-braking-system-23092026-023346.webp",
+    "caption": "Anti Lock Braking System",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/5-ban-velg-12-inci-23092026-023351.webp",
+    "caption": "Ban & Velg 12 Inci",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/6-honda-smartkey-system-23092026-023356.webp",
+    "caption": "Honda Smartkey System",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/7-pop-up-center-hook-23092026-023403.webp",
+    "caption": "Pop-up Center Hook",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/8-pop-up-center-hook-23092026-023508.webp",
+    "caption": "Center Console with USB Charger",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/9-all-led-lighting-system-23092026-023514.webp",
+    "caption": "All LED Lighting System",
+    "tag": "Lampu"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.astra-honda.com/product/stylo-160",
+  "checked": "2026-10-26"
+ },
+ {
+  "id": "honda-super-cub-c125",
+  "brand": "Honda",
+  "name": "Supercub C125",
+  "body": "Lainnya",
+  "engine": "Bensin",
+  "cc": 124,
+  "price": 80241000,
+  "price_type": "OTR Jakarta",
+  "variants": [
+   {
+    "name": "Supercub C125",
+    "price": 80241000
+   }
+  ],
+  "model_year": null,
+  "release": null,
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Honda Supercub C125 adalah motor Cub 124 cc berpendingin udara dengan sistem injeksi PGM-FI. Motor ini dilengkapi Honda Smart Key System, lampu full LED, dan harga resmi Rp80.241.000.",
+  "specs": {
+   "tenaga": "7,2 kW / 7.500 rpm",
+   "torsi": "10,4 nM / 6.250 rpm",
+   "bobot": "110 kg",
+   "tinggi_jok": "780 mm",
+   "tangki": "3,7 L",
+   "transmisi": "Manual, 4-speed",
+   "rem": "Depan: Hydraulic Disc; Belakang: Mechanical Leading Trailing",
+   "suspensi": "Depan: Telescopic Front Suspension; Belakang: Twin Rear Suspension",
+   "ban": "Depan: 70/90-17 M/C 38P (Tubeless); Belakang: 80/90-17 M/C 50P (Tubeless)",
+   "fitur": "Seat Electric Opener, Honda Smart Key System, Combined Digital Panel Meter, All LED Lighting System, V-Shaped Cast Wheels & Tubeless Tires"
+  },
+  "image": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/400x300-pxl-03052024-061642-1-10052024-062406.png",
+  "image_credit": "Astra Honda Motor",
+  "gallery": [
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/super-cub-feature-1-1-02082021-074050.png",
+    "caption": "Seat Electric Opener",
+    "tag": "Jok dan bagasi"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/super-cub-feature-5-1-02082021-074117.png",
+    "caption": "Honda Smart Key System",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/super-cub-feature-3-1-02082021-074145.png",
+    "caption": "Combined Digital Panel Meter",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/super-cub-feature-7-1-02082021-074227.png",
+    "caption": "All LED Lighting System",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/super-cub-feature-8-1-02082021-074247.png",
+    "caption": "All LED Lighting System",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/super-cub-feature-6-1-02082021-074308.png",
+    "caption": "Passenger Seat Bracket* & Pillion Step",
+    "tag": "Jok dan bagasi"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/super-cub-feature-2-1-02082021-074517.png",
+    "caption": "V-Shaped Cast Wheels & Tubeless Tires",
+    "tag": "Roda dan rem"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.astra-honda.com/product/super-cub-c125",
+  "checked": "2026-10-26"
+ },
+ {
+  "id": "honda-supra-x-125-fi",
+  "brand": "Honda",
+  "name": "Supra X 125 FI",
+  "body": "Bebek",
+  "engine": "Bensin",
+  "cc": 124.89,
+  "price": 21500000,
+  "price_type": "OTR Jakarta",
+  "variants": [
+   {
+    "name": "Supra X 125 Spoke FI",
+    "price": 21500000
+   },
+   {
+    "name": "Supra X 125 CW FI",
+    "price": 21500000
+   }
+  ],
+  "model_year": null,
+  "release": null,
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Supra X 125 FI adalah motor bebek 125 cc dengan mesin 4-langkah SOHC berteknologi PGM-FI. Motor ini dilengkapi panelmeter modern, utility box 7 liter, dan rem cakram depan-belakang.",
+  "specs": {
+   "tenaga": "7,40 kW (10,1 PS) / 8.000 rpm",
+   "torsi": "9,30 Nm (0,95 kgf.m) / 4.000 rpm",
+   "bobot": "106 kg (CW), 103 kg (SW)",
+   "tangki": "4 Liter",
+   "transmisi": "4 Speed, Rotary, pola N-1-2-3-4-N",
+   "rem": "Depan: Cakram hidrolik piston tunggal; Belakang: Cakram hidrolik piston tunggal (CW) / Tromol (SW)",
+   "suspensi": "Depan: Teleskopik; Belakang: Lengan ayun dengan suspensi ganda",
+   "ban": "Depan 70/90-17 M/C 38P; Belakang 80/90-17 M/C 44P",
+   "fitur": "Modern Panel Meter, Auto Secure Key Shutter with Seat Opener, Functional Hook, Dual Keen Winker & Position Light, Sporty Front & Rear Disc Brake, Utility Box 7 Liter, Innovative Power Charger, Sharp LED Tail Light"
+  },
+  "image": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/thumbnail-new-supra-x-5-04032022-102907.png",
+  "image_credit": "Astra Honda Motor",
+  "gallery": [
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/modern-panel-meter-1-16042021-014521.jpg",
+    "caption": "Modern Panel Meter",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/auto-secure-key-shutter-with-seat-opener-1-16042021-014525.jpg",
+    "caption": "Auto Secure Key Shutter with Seat Opener",
+    "tag": "Jok dan bagasi"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/functional-hook-3-16042021-014529.jpg",
+    "caption": "Functional Hook",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/untitled-9-1-04032022-102153.jpg",
+    "caption": "Dual Keen Winker & Position Light",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/sporty-front-rear-disc-brake-1-16042021-014537.jpg",
+    "caption": "Sporty Front & Rear Disc Brake",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/utility-box-7-liter-1-16042021-014540.jpg",
+    "caption": "Utility Box (7 Liter)",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/untitled-8-1-04032022-102252.jpg",
+    "caption": "Innovative Power Charger",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/untitled-7-2-04032022-102359.jpg",
+    "caption": "Sharp Led Tail Light",
+    "tag": "Lampu"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.astra-honda.com/product/supra-x-125-fi",
+  "checked": "2026-10-26"
+ },
+ {
+  "id": "honda-vario-125",
+  "brand": "Honda",
+  "name": "Vario 125",
+  "body": "Matic",
+  "engine": "Bensin",
+  "cc": 124.8,
+  "price": 24810000,
+  "price_type": "OTR Jakarta",
+  "variants": [
+   {
+    "name": "Vario 125 CBS",
+    "price": 24810000
+   },
+   {
+    "name": "Vario 125 CBS-ISS",
+    "price": 24810000
+   },
+   {
+    "name": "Vario 125 Street",
+    "price": 24810000
+   }
+  ],
+  "model_year": null,
+  "release": null,
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Vario 125 adalah motor matic 125cc berpendingin cairan dengan mesin 4-tak PGM-FI dan transmisi otomatis V-Matic, tersedia dalam varian CBS, CBS-ISS, dan Street. Dilengkapi panel digital penuh, lampu LED, bagasi 18 liter, dan Honda Smart Key System pada varian CBS-ISS dan Street.",
+  "specs": {
+   "tenaga": "8,2 kW (11,1 PS) / 8.500 rpm",
+   "torsi": "10,8 Nm (1,1 kgf.m) / 5.000 rpm",
+   "bobot": "111 kg (tercatat 112 kg untuk Vario 125)",
+   "tinggi_jok": "769 mm",
+   "tangki": "5,5 liter",
+   "transmisi": "Otomatis, V-Matic",
+   "rem": "Depan: Wavy Disc; Belakang: Drum; sistem CBS (Combi Brake System)",
+   "suspensi": "Depan: Telescopic; Belakang: Swing Arm dengan single suspension",
+   "ban": "Depan: 90/80-14M/C 43P Tubeless; Belakang: 100/80-14M/C 48P Tubeless",
+   "fitur": "Full digital panelmeter; USB Charger Type C 5V 3A di Console Box; Honda Smart Key System (CBS-ISS & Street); lampu LED; functional hook; bagasi 18 liter"
+  },
+  "image": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/sideview-advance-blue-400x300pxl-copy-1-07042026-080202.png",
+  "image_credit": "Astra Honda Motor",
+  "gallery": [
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/1-70-05122025-011034.jpg",
+    "caption": "Full digital Panelmeter",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/6-36-05122025-011048.jpg",
+    "caption": "USB Charger in Console Box",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/2-65-05122025-011109.jpg",
+    "caption": "Honda Smart Key System",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/5-44-05122025-011140.jpg",
+    "caption": "Sistem pencahayaan LED",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/3-46-05122025-011155.jpg",
+    "caption": "Functional Hook",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/7-28-05122025-011209.jpg",
+    "caption": "Bagasi Luas 18L",
+    "tag": "Jok dan bagasi"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/4-48-05122025-011223.jpg",
+    "caption": "Sistem Pencahayaan LED",
+    "tag": "Lampu"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.astra-honda.com/product/vario-125",
+  "checked": "2026-10-26"
+ },
+ {
+  "id": "honda-vario-evo-160",
+  "brand": "Honda",
+  "name": "Vario Evo 160",
+  "body": "Matic",
+  "engine": "Bensin",
+  "cc": 156.9,
+  "price": 28525000,
+  "price_type": "OTR Jakarta",
+  "variants": [],
+  "model_year": 2026,
+  "release": null,
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Vario Evo 160 adalah skutik matik Honda dengan mesin 4 langkah eSP+ 156,9 cc, tersedia dalam varian ABS, CBS Nitro, dan CBS. Dilengkapi Honda Smart Key System, panel digital full, lampu LED, dan bagasi 18 liter.",
+  "specs": {
+   "tenaga": "11,3 kW (15,4 PS) / 8.500 rpm",
+   "torsi": "14,0 Nm (1,4 kgf,m) / 6.500 rpm",
+   "bobot": "CBS: 116 kg | ABS: 118 kg",
+   "tinggi_jok": "778 mm",
+   "tangki": "5,5 liter",
+   "transmisi": "Otomatis, V-Matic",
+   "rem": "Depan: cakram hidrolik piston tunggal; Belakang: CBS tromol; Sistem ABS & CBS",
+   "suspensi": "Depan: teleskopik; Belakang: swing arm suspensi tunggal",
+   "ban": "Depan 100/80-14M/C Tubeless; Belakang 120/70-14M/C Tubeless",
+   "fitur": "ABS (khusus tipe ABS), All LED Lighting, Full Digital Panel Meter, Pop-up Center Hook, USB Type-C (5V 3A), Honda Smart Key System, Bagasi 18 liter"
+  },
+  "image": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/product-thumbnail-400x300px-7-24062026-031501.png",
+  "image_credit": "Astra Honda Motor",
+  "gallery": [
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/geotag-abs-400x250px-24062026-030816.jpg",
+    "caption": "Anti-lock Braking System (ABS)",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/geotag-backlamp-400x250px-24062026-030845.jpg",
+    "caption": "All LED Lighting System",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/geotag-digital-panelmeter-400x250px-24062026-030908.jpg",
+    "caption": "Full Digital Panel Meter",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/geotag-functional-hook-opened-400x250px-24062026-030931.jpg",
+    "caption": "Pop-up Center Hook",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/geotag-headlamp-400x250px-24062026-030957.jpg",
+    "caption": "All LED Lighting System",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/geotag-powercharger-400x250px-24062026-031038.jpg",
+    "caption": "New USB Type-C Charger",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/geotag-rear-disk-brake-400x250px-24062026-031104.jpg",
+    "caption": "Rear Disc Brake",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/geotag-smart-key-400x250px-24062026-031125.jpg",
+    "caption": "Honda Smart Key System",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://asset.astra-honda.com/uploads/product/feature/geotag-u-box-helm-400x250px-24062026-031144.jpg",
+    "caption": "Bagasi Luas",
+    "tag": "Jok dan bagasi"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.astra-honda.com/product/vario-evo-160",
+  "checked": "2026-10-26"
+ },
+ {
   "id": "kawasaki-d-tracker-x",
   "brand": "Kawasaki",
   "name": "D-Tracker X",
@@ -7,6 +2789,7 @@
   "engine": "Bensin",
   "cc": 249,
   "price": 79400000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "D-Tracker X",
@@ -80,6 +2863,7 @@
   "engine": "Bensin",
   "cc": 451,
   "price": 169900000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "Eliminator 500 SE",
@@ -190,6 +2974,7 @@
   "engine": "Bensin",
   "cc": 451,
   "price": 149900000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "KLE500",
@@ -288,6 +3073,7 @@
   "engine": "Bensin",
   "cc": 144,
   "price": 41800000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "KLX140R F",
@@ -382,6 +3168,7 @@
   "engine": "Bensin",
   "cc": 144,
   "price": 35000000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "KLX150",
@@ -462,6 +3249,7 @@
   "engine": "Bensin",
   "cc": 144,
   "price": 35000000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "KLX150 S",
@@ -556,6 +3344,7 @@
   "engine": "Bensin",
   "cc": 144,
   "price": 39100000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "KLX150 SE",
@@ -666,6 +3455,7 @@
   "engine": "Bensin",
   "cc": 144,
   "price": 44800000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "KLX150 XPL",
@@ -760,6 +3550,7 @@
   "engine": "Bensin",
   "cc": 144,
   "price": 39100000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "KLX150SM",
@@ -862,6 +3653,7 @@
   "engine": "Bensin",
   "cc": 144,
   "price": 41500000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "KLX150SM SE",
@@ -956,6 +3748,7 @@
   "engine": "Bensin",
   "cc": 233,
   "price": 57600000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "KLX230 SE",
@@ -1042,6 +3835,7 @@
   "engine": "Bensin",
   "cc": 233,
   "price": 66200000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "KLX230 DF",
@@ -1136,6 +3930,7 @@
   "engine": "Bensin",
   "cc": 233,
   "price": 59900000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "KLX230 SHERPA S",
@@ -1234,6 +4029,7 @@
   "engine": "Bensin",
   "cc": 233,
   "price": 52300000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "KLX230R S",
@@ -1278,6 +4074,7 @@
   "engine": "Bensin",
   "cc": 233,
   "price": 57500000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "KLX230SM",
@@ -1388,6 +4185,7 @@
   "engine": "Bensin",
   "cc": 249,
   "price": 78100000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "KLX250",
@@ -1461,6 +4259,7 @@
   "engine": "Bensin",
   "cc": 112,
   "price": 74200000,
+  "price_type": "MSRP Jakarta",
   "variants": [],
   "model_year": 2026,
   "release": "2023-10",
@@ -1550,6 +4349,7 @@
   "engine": "Bensin",
   "cc": 84,
   "price": 71100000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "KX85 L",
@@ -1639,6 +4439,7 @@
   "engine": "Bensin",
   "cc": 233,
   "price": 79800000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "MEGURO S1",
@@ -1745,6 +4546,7 @@
   "engine": "Bensin",
   "cc": 249,
   "price": 70200000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "NINJA 250",
@@ -1847,6 +4649,7 @@
   "engine": "Bensin",
   "cc": 998,
   "price": 890500000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "Ninja H2",
@@ -1949,6 +4752,7 @@
   "engine": "Bensin",
   "cc": 998,
   "price": 572200000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "NINJA ZX-10R ABS KRT Edition",
@@ -2047,6 +4851,7 @@
   "engine": "Bensin",
   "cc": 249.8,
   "price": 113100000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "Ninja ZX-25RR",
@@ -2165,6 +4970,7 @@
   "engine": "Bensin",
   "cc": 399,
   "price": 248000000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "Ninja ZX-4RR",
@@ -2267,6 +5073,7 @@
   "engine": "Bensin",
   "cc": 636,
   "price": 309000000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "Ninja ZX-6R",
@@ -2377,6 +5184,7 @@
   "engine": "Listrik",
   "cc": 0,
   "price": 150600000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "Ninja e-1",
@@ -2475,6 +5283,7 @@
   "engine": "Bensin",
   "cc": 233,
   "price": 59100000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "STOCKMAN",
@@ -2564,6 +5373,7 @@
   "engine": "Bensin",
   "cc": 1099,
   "price": 419100000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "Versys 1100",
@@ -2613,6 +5423,7 @@
   "engine": "Bensin",
   "cc": 649,
   "price": 245700000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "Versys 650",
@@ -2715,6 +5526,7 @@
   "engine": "Bensin",
   "cc": 249,
   "price": 73700000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "VERSYS-X 250 (NON-ABS)",
@@ -2812,6 +5624,7 @@
   "engine": "Bensin",
   "cc": 649,
   "price": 227400000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "Vulcan S",
@@ -2914,6 +5727,7 @@
   "engine": "Bensin",
   "cc": 177,
   "price": 38500000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "W175 ABS",
@@ -3020,6 +5834,7 @@
   "engine": "Bensin",
   "cc": 177,
   "price": 38900000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "W175 STREET ABS",
@@ -3099,6 +5914,7 @@
   "engine": "Bensin",
   "cc": 233,
   "price": 73200000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "W230",
@@ -3197,6 +6013,7 @@
   "engine": "Bensin",
   "cc": 773,
   "price": 322500000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "W800",
@@ -3303,6 +6120,7 @@
   "engine": "Listrik",
   "cc": 0,
   "price": 147700000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "Z e-1",
@@ -3401,6 +6219,7 @@
   "engine": "Bensin",
   "cc": 1099,
   "price": 399900000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "Z1100",
@@ -3495,6 +6314,7 @@
   "engine": "Bensin",
   "cc": 125,
   "price": 52500000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "Z125 PRO",
@@ -3586,6 +6406,7 @@
   "engine": "Bensin",
   "cc": 948,
   "price": 225000000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "Z900",
@@ -3688,6 +6509,7 @@
   "engine": "Bensin",
   "cc": 948,
   "price": 360900000,
+  "price_type": "MSRP Jakarta",
   "variants": [
    {
     "name": "Z900RS",

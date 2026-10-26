@@ -596,5 +596,329 @@
     "source": "https://motostatz.com/kawasaki-z900rs-top-speed-acceleration/"
    }
   }
+ },
+ "honda-adv-160": {
+  "release": "2022-07",
+  "speed": 121,
+  "kmpl": 39.1,
+  "acc": 17.4,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://m.jpnn.com/news/honda-adv160-resmi-melantai-di-indonesia-bawa-fitur-canggih-sebegini-harganya"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://www.autofun.co.id/berita-motor/uji-performa-dan-akselerasi-honda-adv-160-mesin-responsif-hingga-top-speed-121-kmjam-65063"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://www.autofun.co.id/berita-motor/uji-performa-dan-akselerasi-honda-adv-160-mesin-responsif-hingga-top-speed-121-kmjam-65063"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://www.gridoto.com/read/223442123/komparasi-akselerasi-honda-adv-160-vs-adv-150-bukti-mesin-baru-160-cc-lebih-bertenaga?page=all"
+   }
+  }
+ },
+ "honda-beat": {
+  "release": "2008-00",
+  "speed": 105,
+  "kmpl": 52.9,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://oto.detik.com/motor/d-7374773/dijuluki-motor-sejuta-umat-segini-populasi-honda-beat-di-indonesia"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://www.autofun.co.id/berita-motor/mesin-honda-beat-2022-dianggap-lemot-begini-catatan-akselerasinya-32700"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://www.autofun.co.id/berita-motor/mesin-honda-beat-2022-dianggap-lemot-begini-catatan-akselerasinya-32700"
+   }
+  }
+ },
+ "honda-x-adv": {
+  "release": "2024-06",
+  "kmpl": 57.5,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.cnnindonesia.com/otomotif/20240603151807-595-1105230/irit-banget-konsumsi-bbm-all-new-honda-beat-60-km-per-liter"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://www.autofun.co.id/berita-motor/dibuat-lebih-ringan-seberapa-irit-honda-beat-2025-81441"
+   }
+  }
+ },
+ "honda-beat-street": {
+  "release": "2024-06",
+  "kmpl": 52,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.gridoto.com/read/224101344/generasi-barunya-lahir-inilah-10-model-honda-beat-yang-ada-di-indonesia?page=all"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://www.motorplus-online.com/read/254143489/benarkah-konsumsi-bbm-honda-beat-klaim-pabrikan-606-kmliter-dites-ulang-ternyata-hasilnya-segini?page=all"
+   }
+  }
+ },
+ "honda-cb-150-verza": {
+  "release": "2018-02",
+  "kmpl": 43.5,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://radarpati.jawapos.com/amp/tekno/2607240007/bukan-sekadar-nama-ini-arti-verza-pada-honda-cb150-verza-dan-sejarah-perubahannya"
+   },
+   "kmpl": {
+    "basis": "klaim pabrikan",
+    "source": "https://www.tempo.co/otomotif/test-ride-honda-cb150-verza-ringan-cocok-untuk-komuter-967652"
+   }
+  }
+ },
+ "honda-cb-150-r": {
+  "release": "2021-05",
+  "speed": 125,
+  "kmpl": 40.5,
+  "acc": 13.5,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.carmudi.co.id/journal/all-new-honda-cb150r-streetfire-meluncur-simak-ubahan-dan-harganya/"
+   },
+   "speed": {
+    "basis": "klaim pabrikan",
+    "source": "https://otomotifnet.gridoto.com/read/232684731/mesin-tak-berubah-segini-top-speed-dan-konsumsi-bensin-all-new-cb150r"
+   },
+   "kmpl": {
+    "basis": "klaim pabrikan",
+    "source": "https://otomotifnet.gridoto.com/read/232684731/mesin-tak-berubah-segini-top-speed-dan-konsumsi-bensin-all-new-cb150r"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/231115160/data-lengkap-test-ride-all-new-honda-cb150r-versus-cb150r-old"
+   }
+  }
+ },
+ "honda-cb-150-x": {
+  "release": "2021-11",
+  "speed": 117.5,
+  "kmpl": 45.3,
+  "acc": 15,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://oto.detik.com/motor/d-5808006/honda-cb150x-resmi-meluncur-di-indonesia-segini-harganya"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/233290213/honda-cb150x-dites-ketahuan-karakter-aslinya-ini-plus-dan-minusnya?page=all"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/233290213/honda-cb150x-dites-ketahuan-karakter-aslinya-ini-plus-dan-minusnya?page=all"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/233290213/honda-cb150x-dites-ketahuan-karakter-aslinya-ini-plus-dan-minusnya?page=all"
+   }
+  }
+ },
+ "honda-cbr-150-r": {
+  "release": "2021-01",
+  "speed": 142,
+  "kmpl": 42.1,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.motorplus-online.com/read/252506304/motor-baru-all-new-honda-cbr150r-resmi-meluncur-di-indonesia"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/232551769/all-new-honda-cbr150r-dites-konsumsi-bensin-handling-sampai-top-speed?page=all"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/232551769/all-new-honda-cbr150r-dites-konsumsi-bensin-handling-sampai-top-speed?page=all"
+   }
+  }
+ },
+ "honda-cbr-250-rr": {
+  "release": "2016-07",
+  "speed": 181,
+  "kmpl": 26.5,
+  "acc": 5.8,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://otorider.com/berita/2026/jejak-perjalanan-10-tahun-honda-cbr250rr-dari-world-premiere-belum-berubah-wujud-jejdfbgdjud"
+   },
+   "speed": {
+    "basis": "uji (top speed spidometer, versi SP; Racelogic 171,1 km/jam)",
+    "source": "https://otomotifnet.gridoto.com/read/232353223/honda-cbr250rr-sp-dites-lengkap-konsumsi-bensin-hingga-performa?page=all"
+   },
+   "kmpl": {
+    "basis": "uji (konsumsi rata-rata di spidometer setelah ±400 km, versi SP)",
+    "source": "https://otomotifnet.gridoto.com/read/232353223/honda-cbr250rr-sp-dites-lengkap-konsumsi-bensin-hingga-performa?page=all"
+   },
+   "acc": {
+    "basis": "uji (0-100 km/jam, versi SP, diukur Racelogic)",
+    "source": "https://otomotifnet.gridoto.com/read/232353223/honda-cbr250rr-sp-dites-lengkap-konsumsi-bensin-hingga-performa?page=all"
+   }
+  }
+ },
+ "honda-crf-150-l": {
+  "release": "2017-11",
+  "speed": 103,
+  "kmpl": 42.3,
+  "acc": 20.6,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.rappler.com/world/indonesia/187887-honda-crf-150l-harga-rp-31-8-juta/"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://www.motorplus-online.com/read/251222618/penasaran-dengan-tenaga-honda-crf150l-ini-hasil-tes-akselerasinya?page=all"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://www.gridoto.com/read/221009472/dipakai-harian-ini-rekor-konsumsi-bensin-honda-crf150l-versi-gridoto"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://www.gridoto.com/read/221009012/hasil-tes-akselerasi-honda-crf150l-lebih-kencang-dari-kawasaki-klx-150bf"
+   }
+  }
+ },
+ "honda-crf-250-rally": {
+  "release": "2025-06",
+  "speed": 128.4,
+  "kmpl": 31.3,
+  "acc": 8.92,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://otomotif.kompas.com/read/2025/06/16/185634415/ahm-luncurkan-crf250-rally-dan-crf250l-simak-harganya"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://www.autofun.co.id/berita-motor/test-ride-honda-crf250-rally-semakin-mahal-tapi-banyak-penggemar-65965"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://www.autofun.co.id/berita-motor/test-ride-honda-crf250-rally-semakin-mahal-tapi-banyak-penggemar-65965"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://www.autofun.co.id/berita-motor/test-ride-honda-crf250-rally-semakin-mahal-tapi-banyak-penggemar-65965"
+   }
+  }
+ },
+ "honda-crf-250-l": {
+  "release": "2023-02",
+  "speed": 138,
+  "kmpl": 29.5,
+  "acc": 10.9,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.liputan6.com/otomotif/read/5209019/honda-crf250l-resmi-meluncur-di-iims-2023-harga-rp-79-jutaan"
+   },
+   "speed": {
+    "basis": "uji (top speed spidometer 138 km/jam; Racebox 128,4 km/jam; uji lain di autofun menulis 131 spidometer dan 120,7 Racebox, sehingga angka bervariasi)",
+    "source": "https://www.gridoto.com/read/223944877/test-ride-honda-crf250l-2023-bukan-sekedar-crf-rally-telanjang?page=all"
+   },
+   "kmpl": {
+    "basis": "uji (rata-rata konsumsi dari panel instrumen setelah lebih dari 500 km; uji lain menulis 23,7 full to full dan 34,8 di panel)",
+    "source": "https://www.gridoto.com/read/223945824/dipakai-jalan-di-segala-medan-segini-konsumsi-bensin-honda-crf250l"
+   },
+   "acc": {
+    "basis": "uji (0-100 km/jam; uji autofun menulis 10,88 detik, uji gridoto menulis 8,91 detik sehingga hasilnya tidak konsisten)",
+    "source": "https://otorider.com/berita/2024/tes-akselerasi-honda-crf250l-seberapa-kencang-tesciihbang"
+   }
+  }
+ },
+ "honda-honda-ct125": {
+  "release": "2020-08",
+  "kmpl": 63,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.gridoto.com/read/222296871/resmi-masuk-indonesia-bebek-trail-honda-ct125-harganya-setara-cbr250rr"
+   },
+   "kmpl": {
+    "basis": "klaim pabrikan",
+    "source": "https://oto.detik.com/motor/d-6782047/iritnya-konsumsi-bbm-motor-honda-ct125-baru-full-tank-bisa-pp-jakarta-bandung"
+   }
+  }
+ },
+ "honda-cuve": {
+  "release": "2024-10",
+  "speed": 83,
+  "range": 80.7,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.gridoto.com/read/224163456/punya-jarak-tempuh-sampai-80-km-begini-fitur-dan-spek-motor-listrik-honda-cuv-e"
+   },
+   "speed": {
+    "basis": "klaim pabrikan",
+    "source": "https://www.astra-honda.com/article/ahm-luncurkan-honda-icon-e-dan-cuv-e"
+   },
+   "range": {
+    "basis": "klaim pabrikan",
+    "source": "https://www.astra-honda.com/article/ahm-luncurkan-honda-icon-e-dan-cuv-e"
+   }
+  }
+ },
+ "honda-em1e": {
+  "release": "2023-08",
+  "speed": 48,
+  "range": 43,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://oto.detik.com/motor/d-6871120/honda-luncurkan-motor-listrik-di-indonesia-em1-e-harga-mulai-rp-40-juta"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://www.otoplus-online.com/post/apakah-motor-listrik-honda-em1-e-plus-layak-dibeli-ini-jawabannya"
+   },
+   "range": {
+    "basis": "uji",
+    "source": "https://www.otoplus-online.com/post/apakah-motor-listrik-honda-em1-e-plus-layak-dibeli-ini-jawabannya"
+   }
+  }
+ },
+ "honda-forza": {
+  "release": "2018-08",
+  "speed": 139,
+  "kmpl": 30,
+  "acc": 13.9,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://otomotif.kompas.com/read/2018/08/04/142200515/berapa-konsumsi-bahan-bakar-honda-forza-250-"
+   },
+   "speed": {
+    "basis": "uji (Forza 250 model 2021)",
+    "source": "https://otomotifnet.gridoto.com/read/233034024/konsumsi-bensin-honda-forza-250-2021-kecepatan-0-100-kmjam-cuma-butuh-waktu-segini?page=all"
+   },
+   "kmpl": {
+    "basis": "uji (Forza 250 model 2021, 1.000 km, angka average di spidometer)",
+    "source": "https://otomotifnet.gridoto.com/read/233034024/konsumsi-bensin-honda-forza-250-2021-kecepatan-0-100-kmjam-cuma-butuh-waktu-segini?page=all"
+   },
+   "acc": {
+    "basis": "uji (Forza 250 model 2021)",
+    "source": "https://otomotifnet.gridoto.com/read/233034024/konsumsi-bensin-honda-forza-250-2021-kecepatan-0-100-kmjam-cuma-butuh-waktu-segini?page=all"
+   }
+  }
  }
 }
