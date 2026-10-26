@@ -107,17 +107,25 @@ def main():
         for p in as_list(get_json(f"{BASE}/api/v1/product?category={c['id']}")):
             if p.get("redirect_link"):           # nama lama yang dialihkan ke model lain
                 continue
-            products.setdefault(p["slug"], (c, p))
+            key = p.get("slug") or slug(p.get("title") or "")   # beberapa motor tidak punya slug
+            if not key:
+                continue
+            p["slug"] = key
+            products.setdefault(key, (c, p))
     print(f"Ditemukan {len(products)} model motor Honda")
     if len(products) < MIN_MODELS:
         sys.exit(f"Hanya {len(products)} model (minimal {MIN_MODELS}). API mungkin berubah, data lama dibiarkan.")
 
     result, new_cache, first = [], {}, True
-    for sl, (cat, p) in sorted(products.items()):
+    for sl, (cat, p) in sorted(products.items(), key=lambda kv: str(kv[0])):
         price_list = (p.get("prices") or {}).get("value") or 0
         api_url = (p.get("url") or {}).get("api") or f"{BASE}/api/v1/product/{sl}"
         try:
-            detail = get_json(api_url)
+            try:
+                detail = get_json(api_url)
+            except Exception as e:                  # detail gagal dibuka: pakai data daftar saja
+                print("  detail tidak tersedia untuk", sl, "-", e)
+                detail = {}
             if first:
                 print("Kunci JSON detail:", list(detail.keys()) if isinstance(detail, dict) else type(detail))
                 first = False
@@ -157,7 +165,7 @@ def main():
             "speed": data.get("speed"), "kmpl": data.get("kmpl"), "acc": data.get("acc"), "range": data.get("range_km"),
             "sum": data.get("summary") or "", "specs": specs,
             "image": p.get("thumbnail"), "image_credit": "Astra Honda Motor", "gallery": gallery_of(p), "trusted_images": True,
-            "source": f"{BASE}/product/{sl}", "checked": date.today().isoformat(),
+            "source": (p.get("url") or {}).get("web") or f"{BASE}/product/{sl}", "checked": date.today().isoformat(),
         }
         item.update({k: v for k, v in overrides.get(item["id"], {}).items() if v is not None})
         result.append(item)
