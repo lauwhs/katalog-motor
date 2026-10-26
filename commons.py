@@ -11,7 +11,7 @@ from pathlib import Path
 import requests
 
 API = "https://commons.wikimedia.org/w/api.php"
-HEADERS = {"User-Agent": "KatalogMotorBot/1.0 (gunardigunawan99@gmail.com)"}   # TODO: isi email kamu (aturan Wikimedia)
+HEADERS = {"User-Agent": "KatalogMotorBot/1.0 (isi-email-kamu@contoh.com)"}   # TODO: isi email kamu (aturan Wikimedia)
 DATA = Path(__file__).parent / "data"
 OUT = DATA / "commons.json"
 SKIP = {"motor.json", "overrides.json", "enriched.json", "research.json", "articles.json", "commons.json"}
@@ -23,6 +23,8 @@ TAGS = [(r"meter|speedo|dash|panel|instrument|cluster", "Panel instrumen"),
         (r"exhaust|muffler|silencer", "Knalpot"),
         (r"engine|cylinder|radiator", "Mesin"),
         (r"seat|saddle", "Jok")]
+BAD_CAT = re.compile(r"automobile|\bcars?\b|kei car|hatchback|coupe|coupé|sedan|roadster|convertible|cabriolet|truck|minivan|\bsuv\b", re.I)
+GOOD_CAT = re.compile(r"motorcycle|motorbike|scooter|moped|underbone|motocross|enduro|supermoto", re.I)
 CUT = {"abs", "krt", "se", "edition", "performance", "standard", "special", "plus", "cafe"}
 norm = lambda s: re.sub(r"[^a-z0-9]", "", s.lower())
 
@@ -52,6 +54,9 @@ def parse_pages(js, brand, name):
         meta = info.get("extmetadata") or {}
         title = p.get("title", "")
         lic = (meta.get("LicenseShortName") or {}).get("value", "")
+        cats = " ".join(x.get("title", "") for x in p.get("categories", []))
+        if BAD_CAT.search(cats) and not GOOD_CAT.search(cats):      # mis. "Honda Beat" yang ternyata mobil
+            continue
         if not (LICENSE_OK.match(lic) and info.get("mime") in ("image/jpeg", "image/png") and key in norm(title)):
             continue
         author = re.sub(r"<[^>]+>", "", (meta.get("Artist") or {}).get("value", "")).strip() or "Kontributor Wikimedia"
@@ -64,7 +69,7 @@ def parse_pages(js, brand, name):
 def search(brand, name):
     r = requests.get(API, headers=HEADERS, timeout=30, params={
         "action": "query", "format": "json", "generator": "search", "gsrsearch": f"{brand} {name}",
-        "gsrnamespace": 6, "gsrlimit": 20, "prop": "imageinfo", "iiprop": "url|extmetadata|mime",
+        "gsrnamespace": 6, "gsrlimit": 20, "prop": "imageinfo|categories", "iiprop": "url|extmetadata|mime", "cllimit": "max", "clshow": "!hidden",
         "iiurlwidth": 800})
     r.raise_for_status()
     return parse_pages(r.json(), brand, name)

@@ -21,13 +21,13 @@ PROMPT = """Foto ini ditemukan di halaman produk motor {brand} {name} (kategori 
 Balas HANYA JSON: {{"jenis": "sama" | "bagian" | "lain" | "bukan_motor", "label": "Foto" | "Panel instrumen" | "Lampu" | "Suspensi" | "Roda dan rem" | "Knalpot" | "Mesin" | "Jok" | "Lainnya"}}
 - sama: foto motor utuh yang tampak sesuai {name} (bentuk dan kategori {body}).
 - bagian: foto close-up bagian motor (meter, lampu, suspensi, roda, knalpot, mesin, jok) yang tidak bertentangan dengan model ini.
-- lain: tampak motor yang jelas berbeda jenis atau model (misalnya motor sport padahal model ini trail), ATV, UTV, side-by-side, jet ski, atau produk lain.
+- lain: tampak kendaraan yang jelas berbeda: MOBIL (termasuk mobil yang kebetulan bernama sama dengan motor ini), motor dengan jenis atau model berbeda (misalnya motor sport padahal model ini matic), ATV, UTV, side-by-side, jet ski, atau produk lain.
 - bukan_motor: logo, ikon, banner teks, peta, orang tanpa motor, dan sejenisnya.
 Untuk "sama", isi label "Foto"."""
 
 
 def fetch(url):
-    r = requests.get(url, headers={**HEADERS, "Referer": "https://www.kawasaki-motor.co.id/"}, timeout=30)
+    r = requests.get(url, headers={**HEADERS, "Referer": url.split("/")[0] + "//" + url.split("/")[2] + "/"}, timeout=30)
     r.raise_for_status()
     ctype = r.headers.get("content-type", "").split(";")[0].strip().lower()
     if ctype not in ("image/jpeg", "image/png", "image/webp", "image/gif") or len(r.content) > 4_500_000:
@@ -60,11 +60,47 @@ def apply(m, verdict):
     m["gallery"] = [{"url": g["url"], "caption": g["caption"], "tag": g["tag"]} for g in keep if g is not utama][:12]
 
 
+def filter_commons(motors, commons, cache, classify_fn):
+    """Periksa foto Wikimedia Commons: buang yang bukan motor ini (mobil, motor lain, dsb.)."""
+    by_id = {m["id"]: m for m in motors}
+    for mid, photos in commons.items():
+        m = by_id.get(mid)
+        if not m:
+            continue
+        keep = []
+        for g in photos:
+            if g["url"] not in cache:
+                try:
+                    cache[g["url"]] = classify_fn(m, g["url"])
+                    print(f"{m['name']} (Commons): {cache[g['url']]['jenis']}  {g['url'][-45:]}")
+                except Exception as e:
+                    print(f"{m['name']} (Commons): gagal periksa {g['url'][-45:]} ({e})")
+                    continue
+                time.sleep(0.3)
+            r = cache[g["url"]]
+            if r["jenis"] in ("sama", "bagian"):
+                keep.append({**g, "tag": r["label"] if r["label"] not in ("Foto", "Lainnya") else g.get("tag", "Foto")})
+        commons[mid] = keep
+    return commons
+
+
 def main():
     if not os.getenv("ANTHROPIC_API_KEY"):
         sys.exit("ANTHROPIC_API_KEY belum diatur")
     client = anthropic.Anthropic()
     cache = json.loads(CACHE.read_text(encoding="utf-8")) if CACHE.exists() else {}
+    if "--commons" in sys.argv:                      # hanya periksa foto Wikimedia Commons
+        motors = []
+        for f in sorted(DATA.glob("*.json")):
+            if f.name not in SKIP and not f.name.startswith("."):
+                motors += json.loads(f.read_text(encoding="utf-8"))
+        cf = DATA / "commons.json"
+        if cf.exists():
+            com = filter_commons(motors, json.loads(cf.read_text(encoding="utf-8")), cache, lambda m, u: classify(client, m, u))
+            cf.write_text(json.dumps(com, ensure_ascii=False, indent=1), encoding="utf-8")
+            CACHE.write_text(json.dumps(cache, ensure_ascii=False), encoding="utf-8")
+            print("Foto Commons setelah diperiksa:", sum(len(x) for x in com.values()), "foto untuk", sum(1 for x in com.values() if x), "motor")
+        return
     for f in sorted(DATA.glob("*.json")):
         if f.name in SKIP or f.name.startswith("."):
             continue
