@@ -20,14 +20,9 @@
   "acc": null,
   "range": null,
   "sum": "Kawasaki D-Tracker X adalah motor supermoto 249 cc satu silinder dengan mesin injeksi DOHC 4-katup, velg 17 inci, dan suspensi inverted fork ø43 mm. Harga MSRP-nya Rp 79.400.000 di Jakarta untuk model 2026.",
-  "image": null,
+  "image": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2021/192a60db-57d2-4aaa-8399-6abaee02ae68.jpg?w=750",
   "image_credit": "Kawasaki Motor Indonesia",
   "gallery": [
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2021/192a60db-57d2-4aaa-8399-6abaee02ae68.jpg?w=750",
-    "caption": "D-TRACKER X",
-    "tag": "Foto"
-   },
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5230/6e6ff714-1807-4d99-a202-208c83940f76.jpg?w=640",
     "caption": "Image of 2026 D-TRACKER X in action",
@@ -75,7 +70,7 @@
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/d-tracker/supermoto/d-tracker-x",
-  "checked": "2026-10-25"
+  "checked": "2026-10-26"
  },
  {
   "id": "kawasaki-eliminator",
@@ -106,14 +101,9 @@
   "acc": null,
   "range": null,
   "sum": "Eliminator 500 adalah street cruiser dengan mesin Parallel Twin 451 cc, rangka trellis, dan tinggi tempat duduk 735 mm. Tersedia dalam varian standar dan SE dengan harga mulai Rp 169.900.000 (Jakarta).",
-  "image": null,
+  "image": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2059/84b4c3c5-7934-4761-8956-48f4654d5469.jpg?w=750",
   "image_credit": "Kawasaki Motor Indonesia",
   "gallery": [
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2059/84b4c3c5-7934-4761-8956-48f4654d5469.jpg?w=750",
-    "caption": "ELIMINATOR",
-    "tag": "Foto"
-   },
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5198/95ebc6f4-6a38-4954-9f63-13468dc39c7c.jpg?w=640",
     "caption": "Image of 2026 ELIMINATOR 500 SE in action",
@@ -155,33 +145,28 @@
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1116/b7d37702-382e-4fe9-9ddf-7e412eec30ab.jpg?w=800",
-    "caption": "EASY",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5078/ae65e199-db54-44fd-9a46-831353e5670a.png",
+    "caption": "",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1116/5e9820a3-4517-4911-9bea-370cfd037c06.jpg?w=800",
-    "caption": "EASY",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5198/2951756d-8b88-429a-a341-bc9a42e020a1.png?w=675",
+    "caption": "Metallic Matte Carbon Gray / Flat Ebony",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1116/598fd747-6518-431f-86b2-fe87cd447b98.jpg?w=800",
-    "caption": "EASY",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5198/2bead3d9-8f43-4164-9bc2-0c63ab9f1a53.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 ELIMINATOR 500 SE",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1116/8b42dcdf-ad3d-498c-b9c7-cdc742ca0c5c.jpg?w=800",
-    "caption": "EASY",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1116/ab714502-4a4e-441b-8f48-1c1402870aa1.jpg?w=800",
-    "caption": "EASY",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5198/29148034-1d2d-45dc-88f7-c8b627507cc6.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 ELIMINATOR 500 SE",
     "tag": "Foto"
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/eliminator/street-cruiser/eliminator",
-  "checked": "2026-10-25"
+  "checked": "2026-10-26"
  },
  {
   "id": "kawasaki-kle500",
@@ -208,14 +193,9 @@
   "acc": null,
   "range": null,
   "sum": "KLE500 adalah motor adventure bergaya rally bermesin Parallel Twin 451 cc fuel injection, dirancang untuk jalan raya maupun off-road. Tersedia dalam varian 2026 KLE500 dan 2026 KLE500 SE.",
-  "image": null,
+  "image": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2087/fda604ef-9d4f-4b16-b67e-96cea71b4e9e.jpg?w=750",
   "image_credit": "Kawasaki Motor Indonesia",
   "gallery": [
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2087/fda604ef-9d4f-4b16-b67e-96cea71b4e9e.jpg?w=750",
-    "caption": "KLE500",
-    "tag": "Foto"
-   },
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5231/d307b7d9-76b3-45af-9c31-1e59d7d4fcc4.jpg?w=640",
     "caption": "Image of 2026 KLE500 in action",
@@ -237,53 +217,48 @@
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1247/5dff43b7-115b-4210-a001-37b7d59009fe.jpg?w=800",
-    "caption": "BEST PACKAGE FOR OFF-PAVEMENT EXPLORATION",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5231/c8f79fdc-b58a-4a1d-84a8-778c3cf80553.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KLE500",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1247/0c6662ee-307e-4e44-9feb-1f826360b57c.jpg?w=800",
-    "caption": "BEST PACKAGE FOR OFF-PAVEMENT EXPLORATION",
-    "tag": "Foto"
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5231/a0b36ab0-ce40-4744-8db9-3a7f94979e05.png?w=510&h=340&mode=crop",
+    "caption": "2026 KLE500",
+    "tag": "Lampu"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1247/51cc2bd5-879d-4818-9605-231b4a4c615b.jpg?w=800",
-    "caption": "BEST PACKAGE FOR OFF-PAVEMENT EXPLORATION",
-    "tag": "Foto"
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5231/37f6362a-1ca4-4616-8c7c-de276c377e75.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KLE500",
+    "tag": "Lampu"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1247/7103c065-6b03-41f2-bcdf-d36ec1b6403b.jpg?w=800",
-    "caption": "BEST PACKAGE FOR OFF-PAVEMENT EXPLORATION",
-    "tag": "Foto"
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5231/73ac3a2f-750a-407c-a180-6329fed0006b.png?w=510&h=340&mode=crop",
+    "caption": "2026 KLE500",
+    "tag": "Lampu"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1247/cadaf21e-3eeb-4910-b376-2cb98028b052.jpg?w=800",
-    "caption": "BEST PACKAGE FOR OFF-PAVEMENT EXPLORATION",
-    "tag": "Foto"
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5231/ee4445c8-dda3-4130-b668-5e664e7e8505.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KLE500",
+    "tag": "Panel instrumen"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1247/83c0565f-36fe-4d02-90d4-7774ef116af0.jpg?w=800",
-    "caption": "BEST PACKAGE FOR OFF-PAVEMENT EXPLORATION",
-    "tag": "Foto"
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5231/24d2a327-fb62-48a6-8ab1-715b735dea81.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KLE500",
+    "tag": "Panel instrumen"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1247/f122a5a9-85b6-49e8-bb2c-e0cfec5dd6df.jpg?w=800",
-    "caption": "BEST PACKAGE FOR OFF-PAVEMENT EXPLORATION",
-    "tag": "Foto"
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5231/ecc1e7de-002f-46ef-80e3-f3a7c45e9016.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KLE500",
+    "tag": "Jok"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1247/6454e8ad-6b44-42cb-b8c8-10bb4cd7c232.png?w=800",
-    "caption": "RALLY-INSPIRED STYLE",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1247/7f131e5d-0c83-49ae-b62b-d49a8d4f5da7.jpg?w=800",
-    "caption": "RALLY-INSPIRED STYLE",
-    "tag": "Foto"
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5231/0fef71eb-e567-4894-83ae-9ca1a4307ad8.png?w=510&h=340&mode=crop",
+    "caption": "2026 KLE500",
+    "tag": "Lainnya"
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/kle/rally-adventure/kle500",
-  "checked": "2026-10-25"
+  "checked": "2026-10-26"
  },
  {
   "id": "kawasaki-klx140r",
@@ -306,37 +281,12 @@
   "acc": null,
   "range": null,
   "sum": "Kawasaki KLX140R adalah motor off-road dirtbike dengan mesin 144 cc berpendingin udara, SOHC 4-tak single, dan electric start. Model ini tersedia dalam varian KLX140R, KLX140R L, dan KLX140R F.",
-  "image": null,
+  "image": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2032/4f9e2600-d4fb-461a-a106-73b1919cf15a.jpg?w=750",
   "image_credit": "Kawasaki Motor Indonesia",
   "gallery": [
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2032/4f9e2600-d4fb-461a-a106-73b1919cf15a.jpg?w=750",
-    "caption": "KLX140R",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5183/217efccd-71d7-4915-8fef-176137ddce9e.jpg?w=640",
-    "caption": "Image of 2026 KLX140R F in action",
-    "tag": "Foto"
-   },
-   {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5183/705030ed-982b-456c-b5c6-1faa0ff621b5.png?w=767",
     "caption": "KLX140R F",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1185/6b5890d0-0d0e-4e49-904b-35895b09f4e4.jpg?w=800",
-    "caption": "CONFIDENT HANDLING",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1185/eadaff29-3a88-4a80-9e63-4860fe864919.jpg?w=800",
-    "caption": "SMOOTH POWER",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1185/8794d8a0-2828-49c1-b006-b8755c0ab9a1.jpg?w=800",
-    "caption": "RELIABLE BRAKING",
     "tag": "Foto"
    },
    {
@@ -378,10 +328,25 @@
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5183/67bbde7f-a76c-4629-b2a1-74abf1b260f7.jpg?w=510&h=340&mode=crop",
     "caption": "2026 KLX140R F",
     "tag": "Foto"
+   },
+   {
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5183/ad184323-0ec4-4833-a1bb-262cab3ceffb.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KLX140R F",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5183/51aa1024-be79-467d-980f-ed0fc46aa626.jpg",
+    "caption": "2026 KLX140R F",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5183/f86c0b4e-2b04-4e48-89dc-d3fa036cc480.jpg",
+    "caption": "2026 KLX140R F",
+    "tag": "Foto"
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/off-road/klx140r",
-  "checked": "2026-10-25"
+  "checked": "2026-10-26"
  },
  {
   "id": "kawasaki-klx150",
@@ -420,44 +385,9 @@
   "acc": null,
   "range": null,
   "sum": "KLX150 adalah motor dual purpose 144 cc dengan mesin 4-tak single silinder berpendingin udara dan kapasitas tangki bensin 6,9 liter. Motor ini tersedia dalam beberapa varian dengan harga mulai Rp 35.000.000.",
-  "image": null,
+  "image": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5189/f255b492-f849-4089-872d-2b961a700b46.png?w=675",
   "image_credit": "Kawasaki Motor Indonesia",
   "gallery": [
-   {
-    "url": "https://www.kawasaki-motor.co.id/Content/Images/PageNotFound/thumb_moto.jpg",
-    "caption": "",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://www.kawasaki-motor.co.id/Content/Images/PageNotFound/thumb_atv.jpg",
-    "caption": "",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://www.kawasaki-motor.co.id/Content/Images/PageNotFound/thumb_sideXside.jpg",
-    "caption": "",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://www.kawasaki-motor.co.id/Content/Images/PageNotFound/thumb_watercraft.jpg",
-    "caption": "",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://www.kawasaki-motor.co.id/Content/Images/PageNotFound/moto_guy-xxl@2x.jpg",
-    "caption": "",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://www.kawasaki-motor.co.id/Content/Images/PageNotFound/dealer_locator_map-xxl@2x.jpg",
-    "caption": "",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5189/f255b492-f849-4089-872d-2b961a700b46.png?w=675",
-    "caption": "Lime Green",
-    "tag": "Foto"
-   },
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5189/cb9a29a8-a443-4627-b419-06ded21bdb2b.jpg?w=510&h=340&mode=crop",
     "caption": "2026 KLX150",
@@ -487,15 +417,10 @@
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5189/c0514518-b210-470b-b9d8-1ae9d6abe91c.jpg",
     "caption": "2026 KLX150",
     "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5181/4ad20148-cf01-4fa3-897f-aea09cdd42c0.png?w=600",
-    "caption": "",
-    "tag": "Foto"
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/dual-purpose-150/klx150",
-  "checked": "2026-10-25"
+  "checked": "2026-10-26"
  },
  {
   "id": "kawasaki-klx150-s",
@@ -518,14 +443,9 @@
   "acc": null,
   "range": null,
   "sum": "Motor dual-purpose bermesin 144 cc berpendingin udara untuk penggunaan kota dan off-road, dengan gaya Racy MX dan lampu utama LED. MSRP-nya Rp 35.000.000 (Jakarta).",
-  "image": null,
+  "image": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2054/405e7e16-c727-40e0-ab6b-5632434ca55a.jpg?w=750",
   "image_credit": "Kawasaki Motor Indonesia",
   "gallery": [
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2054/405e7e16-c727-40e0-ab6b-5632434ca55a.jpg?w=750",
-    "caption": "KLX150 S",
-    "tag": "Foto"
-   },
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5181/233ca015-d64d-49b2-b98d-441387ecc8af.jpg?w=640",
     "caption": "Image of 2026 KLX150 S in action",
@@ -537,63 +457,58 @@
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1183/8659a8eb-7795-4a2f-97f7-712a2b03df54.jpg?w=800",
-    "caption": "MESIN YANG KUAT DAN DAPAT DIANDALKAN UNTUK BERKENDARA OFF-ROAD",
-    "tag": "Mesin"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1183/6707ede3-e4f7-4856-9c0c-76028dd42638.jpg?w=800",
-    "caption": "MESIN YANG KUAT DAN DAPAT DIANDALKAN UNTUK BERKENDARA OFF-ROAD",
-    "tag": "Mesin"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1183/380a62e7-5bdf-4d22-b526-80534fe99abd.jpg?w=800",
-    "caption": "MESIN YANG KUAT DAN DAPAT DIANDALKAN UNTUK BERKENDARA OFF-ROAD",
-    "tag": "Mesin"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1183/f97ea4e5-b02e-40f6-8681-e2a9f832c50e.jpg?w=800",
-    "caption": "MESIN YANG KUAT DAN DAPAT DIANDALKAN UNTUK BERKENDARA OFF-ROAD",
-    "tag": "Mesin"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1183/1cd6bcec-631f-42d9-a651-e9d0cc181e4a.jpg?w=800",
-    "caption": "SLIM, LIGHTWEIGHT CHASSIS FOR ALL-DAY BUSH EXPLORATION",
-    "tag": "Lampu"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1183/add0afd4-9add-4dcf-971b-8bccf7d122db.jpg?w=800",
-    "caption": "SLIM, LIGHTWEIGHT CHASSIS FOR ALL-DAY BUSH EXPLORATION",
-    "tag": "Lampu"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1183/e281668c-af7c-45b9-9105-8b3d161816f0.jpg?w=800",
-    "caption": "SLIM, LIGHTWEIGHT CHASSIS FOR ALL-DAY BUSH EXPLORATION",
-    "tag": "Lampu"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1183/19e1cf7a-44f9-4eee-844a-eba5dd1121e3.jpg?w=800",
-    "caption": "SLIM, LIGHTWEIGHT CHASSIS FOR ALL-DAY BUSH EXPLORATION",
-    "tag": "Lampu"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1142/56324519-a6e3-4c52-aa40-7cd958bd3526.jpg?w=800",
-    "caption": "SLIM, LIGHTWEIGHT CHASSIS FOR ALL-DAY BUSH EXPLORATION",
-    "tag": "Lampu"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1183/383e0362-c40d-4c5e-9c9a-c1a9239e15c0.jpg?w=800",
-    "caption": "RACY MX STYLING",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5181/a0ec4d8f-5a99-4b91-9b6d-4194e4a47aa4.png?w=675",
+    "caption": "Ebony",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1183/7f13b043-416d-4bfa-b0a8-a3e376d372f7.jpg?w=800",
-    "caption": "RACY MX STYLING",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5181/c0f3954e-42c6-4093-b66e-c6ee95f41822.png?w=675",
+    "caption": "Lime Green",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5181/e6e32804-7b01-4d11-8478-e4e0ce69c5e9.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KLX150 S",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5181/4ceb10c1-ebb8-4dc3-ac10-c3b9e0ed4875.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KLX150 S",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5181/243f016e-243e-4e45-a855-28702dd87ea9.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KLX150 S",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5181/3d0c0784-c1eb-455e-98ca-79cdb05524ed.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KLX150 S",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5181/6d5e53bb-6f52-440a-a588-ba8cbe584071.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KLX150 S",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5181/10e5fb99-d51a-491a-a1e6-e80c0e4511e7.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KLX150 S",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5181/e6e32804-7b01-4d11-8478-e4e0ce69c5e9.jpg",
+    "caption": "2026 KLX150 S",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5181/4ceb10c1-ebb8-4dc3-ac10-c3b9e0ed4875.jpg",
+    "caption": "2026 KLX150 S",
     "tag": "Foto"
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/dual-purpose-150/klx150-s",
-  "checked": "2026-10-25"
+  "checked": "2026-10-26"
  },
  {
   "id": "kawasaki-klx150-se",
@@ -620,14 +535,9 @@
   "acc": null,
   "range": null,
   "sum": "Kawasaki KLX150 SE adalah motor dual-purpose bermesin satu silinder 144 cc berpendingin udara, dirancang untuk penggunaan kota maupun off-road. Tersedia dalam varian 2026 KLX150 SE dan SE+.",
-  "image": null,
+  "image": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2053/c8502168-affe-4a3d-b9f8-452346067f92.jpg?w=750",
   "image_credit": "Kawasaki Motor Indonesia",
   "gallery": [
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2053/c8502168-affe-4a3d-b9f8-452346067f92.jpg?w=750",
-    "caption": "KLX150 SE",
-    "tag": "Foto"
-   },
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5182/eb74eb3b-1c7c-48c0-a7c4-447040c3c244.jpg?w=640",
     "caption": "Image of 2026 KLX150 SE+ in action",
@@ -649,53 +559,48 @@
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1183/8659a8eb-7795-4a2f-97f7-712a2b03df54.jpg?w=800",
-    "caption": "MESIN YANG KUAT DAN DAPAT DIANDALKAN UNTUK BERKENDARA OFF-ROAD",
-    "tag": "Mesin"
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5191/315e64f0-d9af-4894-bfd0-21e5408811dd.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KLX150 SE",
+    "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1183/6707ede3-e4f7-4856-9c0c-76028dd42638.jpg?w=800",
-    "caption": "MESIN YANG KUAT DAN DAPAT DIANDALKAN UNTUK BERKENDARA OFF-ROAD",
-    "tag": "Mesin"
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5191/f94e5a39-50dd-4ec1-b598-803786b17a25.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KLX150 SE",
+    "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1183/380a62e7-5bdf-4d22-b526-80534fe99abd.jpg?w=800",
-    "caption": "MESIN YANG KUAT DAN DAPAT DIANDALKAN UNTUK BERKENDARA OFF-ROAD",
-    "tag": "Mesin"
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5191/7f6a472f-3655-4af9-8777-75da16c500b1.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KLX150 SE",
+    "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1183/f97ea4e5-b02e-40f6-8681-e2a9f832c50e.jpg?w=800",
-    "caption": "MESIN YANG KUAT DAN DAPAT DIANDALKAN UNTUK BERKENDARA OFF-ROAD",
-    "tag": "Mesin"
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5191/950b2d0c-c425-4167-b537-5d2f5eb1ea91.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KLX150 SE",
+    "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1183/1cd6bcec-631f-42d9-a651-e9d0cc181e4a.jpg?w=800",
-    "caption": "SLIM, LIGHTWEIGHT CHASSIS FOR ALL-DAY BUSH EXPLORATION",
-    "tag": "Lampu"
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5191/d776b99c-d9bf-453e-8d53-c43f85aa00c3.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KLX150 SE",
+    "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1183/add0afd4-9add-4dcf-971b-8bccf7d122db.jpg?w=800",
-    "caption": "SLIM, LIGHTWEIGHT CHASSIS FOR ALL-DAY BUSH EXPLORATION",
-    "tag": "Lampu"
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5191/e64c5514-10dc-46e4-bf4e-2170b3e6b6d7.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KLX150 SE",
+    "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1183/e281668c-af7c-45b9-9105-8b3d161816f0.jpg?w=800",
-    "caption": "SLIM, LIGHTWEIGHT CHASSIS FOR ALL-DAY BUSH EXPLORATION",
-    "tag": "Lampu"
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5191/315e64f0-d9af-4894-bfd0-21e5408811dd.jpg",
+    "caption": "2026 KLX150 SE",
+    "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1183/19e1cf7a-44f9-4eee-844a-eba5dd1121e3.jpg?w=800",
-    "caption": "SLIM, LIGHTWEIGHT CHASSIS FOR ALL-DAY BUSH EXPLORATION",
-    "tag": "Lampu"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1142/56324519-a6e3-4c52-aa40-7cd958bd3526.jpg?w=800",
-    "caption": "SLIM, LIGHTWEIGHT CHASSIS FOR ALL-DAY BUSH EXPLORATION",
-    "tag": "Lampu"
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5191/f94e5a39-50dd-4ec1-b598-803786b17a25.jpg",
+    "caption": "2026 KLX150 SE",
+    "tag": "Foto"
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/dual-purpose-150/klx150-se",
-  "checked": "2026-10-25"
+  "checked": "2026-10-26"
  },
  {
   "id": "kawasaki-klx150-xpl",
@@ -718,14 +623,9 @@
   "acc": null,
   "range": null,
   "sum": "Kawasaki KLX150 XPL adalah motor dual purpose bergaya overland dengan mesin 144 cc 4-tak injeksi, electric starter, dan kick starter. Harga MSRP-nya Rp 44.800.000 di Jakarta.",
-  "image": null,
+  "image": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2090/6f367fb4-a60e-4e70-85f6-eea1afdd6eb6.jpg?w=750",
   "image_credit": "Kawasaki Motor Indonesia",
   "gallery": [
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2090/6f367fb4-a60e-4e70-85f6-eea1afdd6eb6.jpg?w=750",
-    "caption": "KLX150 XPL",
-    "tag": "Foto"
-   },
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5247/7f3e6a39-bacc-415d-ac91-0e2a81af7ed6.jpg?w=640",
     "caption": "Image of 2027 KLX150 XPL in action",
@@ -737,63 +637,58 @@
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1259/3577d53f-4d00-4ab0-9418-b31621222a69.jpg?w=800",
-    "caption": "Perlengkapan Petualangan Tangguh dengan Gaya Kustom",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5247/06f6951f-c3cc-40d2-8a46-f6497dbe21ac.jpg?w=675",
+    "caption": "Lime Green / Ebony",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1259/412ff776-5801-4f94-a889-ebba8d2a6095.jpg?w=800",
-    "caption": "Perlengkapan Petualangan Tangguh dengan Gaya Kustom",
-    "tag": "Foto"
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5247/0a5e55ca-150b-41f4-9ab2-3bc9e06271d7.jpg?w=510&h=340&mode=crop",
+    "caption": "2027 2027 KLX150 XPL",
+    "tag": "Panel instrumen"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1259/e2cbfff6-4bc7-4c6d-ba77-9e9093df6434.jpg?w=800",
-    "caption": "Perlengkapan Petualangan Tangguh dengan Gaya Kustom",
-    "tag": "Foto"
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5247/64fa475d-e075-427e-b04c-2205f2b315a6.jpg?w=510&h=340&mode=crop",
+    "caption": "2027 2027 KLX150 XPL",
+    "tag": "Panel instrumen"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1259/97aab2ab-52c3-4f36-a993-aa6b53e35ea7.jpg?w=800",
-    "caption": "Perlengkapan Petualangan Tangguh dengan Gaya Kustom",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1259/aa3436a4-73d2-48a1-858b-7921d3a8e531.jpg?w=800",
-    "caption": "Perlengkapan Petualangan Tangguh dengan Gaya Kustom",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1259/8809ec15-2e42-43e8-a71a-4a140849878d.jpg?w=800",
-    "caption": "Perlengkapan Petualangan Tangguh dengan Gaya Kustom",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1259/b8e0ef31-cafa-4f2f-b70d-cc32b5eabd47.jpg?w=800",
-    "caption": "MESIN BERTENAGA DAN ANDAL YANG DISESUAIKAN UNTUK MEDAN OFF-ROAD",
-    "tag": "Mesin"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1259/f2a08686-e6a3-4001-9db9-c4dfd0517e12.jpg?w=800",
-    "caption": "MESIN BERTENAGA DAN ANDAL YANG DISESUAIKAN UNTUK MEDAN OFF-ROAD",
-    "tag": "Mesin"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1259/709b6076-60e7-4819-85c7-1ddd45c227bc.jpg?w=800",
-    "caption": "MESIN BERTENAGA DAN ANDAL YANG DISESUAIKAN UNTUK MEDAN OFF-ROAD",
-    "tag": "Mesin"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1259/2aa325b4-8a98-4b7d-afa7-a4e2a7e48941.jpg?w=800",
-    "caption": "MESIN BERTENAGA DAN ANDAL YANG DISESUAIKAN UNTUK MEDAN OFF-ROAD",
-    "tag": "Mesin"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1259/5ee69629-b252-4023-af16-53f67ed5fa07.jpg?w=800",
-    "caption": "SLIM, LIGHTWEIGHT CHASSIS FOR ALL-DAY BUSH EXPLORATION",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5247/c84554d8-6c6a-49e6-94d1-755f4065ba8d.png?w=510&h=340&mode=crop",
+    "caption": "2027 2027 KLX150 XPL",
     "tag": "Lampu"
+   },
+   {
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5247/526d80d8-7921-460e-a0b7-3afa9e9df2f4.jpg?w=510&h=340&mode=crop",
+    "caption": "2027 2027 KLX150 XPL",
+    "tag": "Lainnya"
+   },
+   {
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5247/98fea162-6ae7-4401-a39f-807217ee927a.jpg?w=510&h=340&mode=crop",
+    "caption": "2027 2027 KLX150 XPL",
+    "tag": "Mesin"
+   },
+   {
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5247/9b910021-5d75-41b3-bdce-8373d3f9e1fd.png?w=510&h=340&mode=crop",
+    "caption": "2027 2027 KLX150 XPL",
+    "tag": "Mesin"
+   },
+   {
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5247/e070fb22-0e1c-4509-b5fd-0836b2237874.png?w=510&h=340&mode=crop",
+    "caption": "2027 2027 KLX150 XPL",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5247/51d1f2a2-2085-4891-919a-f7027fe99469.jpg?w=510&h=340&mode=crop",
+    "caption": "2027 2027 KLX150 XPL",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5247/5e4440b2-612b-4871-af53-4a0022adea24.jpg?w=510&h=340&mode=crop",
+    "caption": "2027 2027 KLX150 XPL",
+    "tag": "Foto"
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/dual-purpose-150/klx150-xpl",
-  "checked": "2026-10-25"
+  "checked": "2026-10-26"
  },
  {
   "id": "kawasaki-klx150sm",
@@ -820,14 +715,9 @@
   "acc": null,
   "range": null,
   "sum": "Kawasaki KLX150SM adalah supermoto perkotaan bermesin silinder tunggal 144 cc berpendingin udara dengan rangka perimeter ringan dan roda 17 inci. Motor ini tersedia dalam beberapa tahun model dengan harga mulai Rp 39.100.000 (Jakarta).",
-  "image": null,
+  "image": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2056/662e94d8-3dfc-4aba-8ca1-033a7cc42ea4.jpg?w=750",
   "image_credit": "Kawasaki Motor Indonesia",
   "gallery": [
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2056/662e94d8-3dfc-4aba-8ca1-033a7cc42ea4.jpg?w=750",
-    "caption": "KLX150SM",
-    "tag": "Foto"
-   },
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5236/75992ee9-28e3-4222-8546-9e3ea9bfe541.jpg?w=640",
     "caption": "Image of 2027 KLX150SM in action",
@@ -859,43 +749,38 @@
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1191/da05c9f4-4db3-415e-a8f5-3ca356a8fbd5.jpg?w=800",
-    "caption": "SPORTY, QUICK-REVVING ENGINE",
-    "tag": "Mesin"
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5188/cb0e76de-5d0e-42de-a5a9-0e5d26582abd.png?w=675",
+    "caption": "Battle Gray / Ebony",
+    "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1191/77d775ee-efa6-445e-ba71-328b82f1c2a3.jpg?w=800",
-    "caption": "SPORTY, QUICK-REVVING ENGINE",
-    "tag": "Mesin"
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5188/418b3c23-ad2c-4840-99ad-41cb7a252dcd.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KLX150SM",
+    "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1191/3a7bcdd9-667d-4071-9023-6d1686dc6954.jpg?w=800",
-    "caption": "SPORTY, QUICK-REVVING ENGINE",
-    "tag": "Mesin"
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5188/437f74ad-770e-47c3-b9fe-d5d680d03a67.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KLX150SM",
+    "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1191/cf0f50a6-36f5-4c47-bc86-05d9e132e123.jpg?w=800",
-    "caption": "SPORTY, QUICK-REVVING ENGINE",
-    "tag": "Mesin"
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5188/22f3640a-3d29-464b-ad99-561fe8422dbd.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KLX150SM",
+    "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1191/37e7b589-49b6-4ada-9e90-d116b7dcd7e5.png?w=800",
-    "caption": "SLIM, LIGHTWEIGHT CHASSIS WITH 17” WHEELS",
-    "tag": "Lampu"
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5188/418b3c23-ad2c-4840-99ad-41cb7a252dcd.jpg",
+    "caption": "2026 KLX150SM",
+    "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1191/f14f3772-fed8-4c3b-954f-1dc8421fc3ae.jpg?w=800",
-    "caption": "SLIM, LIGHTWEIGHT CHASSIS WITH 17” WHEELS",
-    "tag": "Lampu"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1191/10674e3e-5f23-482f-b8ea-d7a85d50c834.jpg?w=800",
-    "caption": "SLIM, LIGHTWEIGHT CHASSIS WITH 17” WHEELS",
-    "tag": "Lampu"
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5188/437f74ad-770e-47c3-b9fe-d5d680d03a67.jpg",
+    "caption": "2026 KLX150SM",
+    "tag": "Foto"
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/supermoto/klx150sm",
-  "checked": "2026-10-25"
+  "checked": "2026-10-26"
  },
  {
   "id": "kawasaki-klx150sm-se",
@@ -918,14 +803,9 @@
   "acc": null,
   "range": null,
   "sum": "Kawasaki KLX150SM SE adalah supermoto perkotaan dengan mesin silinder tunggal 144 cc berpendingin udara, sasis ramping, dan suspensi Uni Trak. Motor ini ditawarkan dengan harga Rp 41.500.000 (Jakarta).",
-  "image": null,
+  "image": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2057/4e83ac3a-4759-4b77-b696-769aecd74783.jpg?w=750",
   "image_credit": "Kawasaki Motor Indonesia",
   "gallery": [
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2057/4e83ac3a-4759-4b77-b696-769aecd74783.jpg?w=750",
-    "caption": "KLX150SM SE",
-    "tag": "Foto"
-   },
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5238/83060c94-8889-426c-b985-60dced13a300.jpg?w=640",
     "caption": "Image of 2027 KLX150SM SE in action",
@@ -957,43 +837,38 @@
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1191/da05c9f4-4db3-415e-a8f5-3ca356a8fbd5.jpg?w=800",
-    "caption": "SPORTY, QUICK-REVVING ENGINE",
-    "tag": "Mesin"
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5238/e21f92ee-2192-496e-b9a5-cdedde89d691.png?w=675",
+    "caption": "Ebony",
+    "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1191/77d775ee-efa6-445e-ba71-328b82f1c2a3.jpg?w=800",
-    "caption": "SPORTY, QUICK-REVVING ENGINE",
-    "tag": "Mesin"
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5238/2610c166-322a-481c-ad4f-7b6a89e2a788.png?w=675",
+    "caption": "Neon Green / Ebony",
+    "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1191/3a7bcdd9-667d-4071-9023-6d1686dc6954.jpg?w=800",
-    "caption": "SPORTY, QUICK-REVVING ENGINE",
-    "tag": "Mesin"
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5238/c1fb4d5a-f59a-4f32-8495-6be612326fd3.png?w=675",
+    "caption": "Battle Gray",
+    "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1191/cf0f50a6-36f5-4c47-bc86-05d9e132e123.jpg?w=800",
-    "caption": "SPORTY, QUICK-REVVING ENGINE",
-    "tag": "Mesin"
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5238/5a569136-e74e-41c6-b61b-4c73b4173993.png?w=675",
+    "caption": "Bright White",
+    "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1191/37e7b589-49b6-4ada-9e90-d116b7dcd7e5.png?w=800",
-    "caption": "SLIM, LIGHTWEIGHT CHASSIS WITH 17” WHEELS",
-    "tag": "Lampu"
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5238/b184ac84-64c0-4633-bc68-4c2e7701ae44.jpg?w=510&h=340&mode=crop",
+    "caption": "2027 KLX150SM SE+",
+    "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1191/f14f3772-fed8-4c3b-954f-1dc8421fc3ae.jpg?w=800",
-    "caption": "SLIM, LIGHTWEIGHT CHASSIS WITH 17” WHEELS",
-    "tag": "Lampu"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1191/10674e3e-5f23-482f-b8ea-d7a85d50c834.jpg?w=800",
-    "caption": "SLIM, LIGHTWEIGHT CHASSIS WITH 17” WHEELS",
-    "tag": "Lampu"
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5238/60dff744-55d4-485b-af68-fcffd5f80ea1.jpg?w=510&h=340&mode=crop",
+    "caption": "2027 KLX150SM SE+",
+    "tag": "Foto"
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/supermoto/klx150sm-se",
-  "checked": "2026-10-25"
+  "checked": "2026-10-26"
  },
  {
   "id": "kawasaki-klx230",
@@ -1016,14 +891,9 @@
   "acc": null,
   "range": null,
   "sum": "Kawasaki KLX230 adalah motor dual-sport 233 cc berpendingin udara dengan injeksi bahan bakar, rangka perimeter ringan, dan suspensi long-travel untuk jalan raya maupun off-road. Varian KLX230 SE dijual dengan harga MSRP Rp 57.600.000 di Jakarta.",
-  "image": null,
+  "image": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/88/bdebb596-2133-4e8f-a9ff-6e495b441bbd.jpg?w=750",
   "image_credit": "Kawasaki Motor Indonesia",
   "gallery": [
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/88/bdebb596-2133-4e8f-a9ff-6e495b441bbd.jpg?w=750",
-    "caption": "KLX230",
-    "tag": "Foto"
-   },
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5187/47d6c356-cd71-49be-b218-2edc1d62cbd8.jpg?w=640",
     "caption": "Image of 2026 KLX230 SE in action",
@@ -1035,63 +905,38 @@
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1189/14510a9a-9242-459b-ae11-97684eaf8c2f.jpg?w=800",
-    "caption": "STEADY POWER",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5187/d9e9a485-e5f7-4def-874d-0692fceadcd9.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KLX230 SE",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1189/b08bb8ca-1028-495c-9acf-dd67d1852b62.jpg?w=800",
-    "caption": "STEADY POWER",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5187/e1a2548a-9855-4669-84b6-4402e45268da.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KLX230 SE",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1189/e65bca2d-8da5-48c1-bbeb-3b8f2edbb815.jpg?w=800",
-    "caption": "STEADY POWER",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5187/9a042edb-3fe8-4979-9b54-2b1dfc4e47af.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KLX230 SE",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1120/4683c687-d538-425b-8f25-14692ab26a16.jpg?w=800",
-    "caption": "RUGGED CHASSIS",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5187/d9e9a485-e5f7-4def-874d-0692fceadcd9.jpg",
+    "caption": "2026 KLX230 SE",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1120/b2c42ee3-96b6-43f1-ae80-7db010da897d.jpg?w=800",
-    "caption": "RUGGED CHASSIS",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5187/e1a2548a-9855-4669-84b6-4402e45268da.jpg",
+    "caption": "2026 KLX230 SE",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1189/3a5f1415-f142-41aa-bd9c-85ee97c86d19.jpg?w=800",
-    "caption": "RUGGED CHASSIS",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1120/94093c45-ccd6-4cb4-8ddf-f05f3d36e9af.jpg?w=800",
-    "caption": "HIGH-PERFORMANCE CAPABILITY",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1120/e8c42a3f-d810-4a9b-a40e-64817b591628.jpg?w=800",
-    "caption": "HIGH-PERFORMANCE CAPABILITY",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1120/4144c132-5483-4a7a-9fd7-da839d3be11e.jpg?w=800",
-    "caption": "HIGH-PERFORMANCE CAPABILITY",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1120/10bd9b0e-c324-4380-ab11-5e0cc19b5914.jpg?w=800",
-    "caption": "HIGH-PERFORMANCE CAPABILITY",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1189/2aa17a2a-87d4-450f-939c-5ebc5af05bcf.jpg?w=800",
-    "caption": "DUAL-SPORT CAPABILITY",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5187/9a042edb-3fe8-4979-9b54-2b1dfc4e47af.jpg",
+    "caption": "2026 KLX230 SE",
     "tag": "Foto"
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/dual-purpose-230-250/klx230",
-  "checked": "2026-10-25"
+  "checked": "2026-10-26"
  },
  {
   "id": "kawasaki-klx230-df",
@@ -1114,14 +959,9 @@
   "acc": null,
   "range": null,
   "sum": "KLX230 DF adalah motor dual-purpose 233 cc berpendingin udara dengan injeksi bahan bakar, dirancang untuk berkendara di aspal maupun jalur off-road. Motor ini dilengkapi ABS yang bisa dinonaktifkan, jok rendah 845 mm, dan rangka perimeter.",
-  "image": null,
+  "image": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2082/a2928af8-523d-40e0-818d-804d3e3beff0.jpg?w=750",
   "image_credit": "Kawasaki Motor Indonesia",
   "gallery": [
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2082/a2928af8-523d-40e0-818d-804d3e3beff0.jpg?w=750",
-    "caption": "KLX230 DF",
-    "tag": "Foto"
-   },
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5204/27285b6d-6f4f-4f8f-8c56-52712bcc6996.jpg?w=640",
     "caption": "Image of 2026 KLX230 DF in action",
@@ -1133,63 +973,58 @@
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1210/efa8c4aa-a0e9-41a9-b739-4cf5c0d545de.jpg?w=800",
-    "caption": "ACCOMMODATING",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5204/cb78ca8d-165b-4feb-9b84-d8dc6a16976c.png?w=675",
+    "caption": "Medium Cloudy Gray",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1210/01f1c602-e737-4009-85ee-b187030332fc.jpg?w=800",
-    "caption": "ACCOMMODATING",
-    "tag": "Foto"
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5204/b54925ea-4b57-4d2c-91a8-402ba3958db1.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KLX230 DF",
+    "tag": "Panel instrumen"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1210/9d1cff27-804b-4b53-bdd9-934cfaee2218.jpg?w=800",
-    "caption": "ACCOMMODATING",
-    "tag": "Foto"
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5204/efcf6e73-5627-4f54-932f-89c19771bb54.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KLX230 DF",
+    "tag": "Lampu"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1210/7db55033-0496-4e57-b1ef-63a9fbcfcbb2.jpg?w=800",
-    "caption": "ACCOMMODATING",
-    "tag": "Foto"
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5204/3798155a-0f73-418e-a3c8-4ce62889ee84.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KLX230 DF",
+    "tag": "Panel instrumen"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1210/2ce8f916-10e8-4a88-8d0b-d42128ff043c.jpg?w=800",
-    "caption": "ACCOMMODATING",
-    "tag": "Foto"
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5204/1d0ac710-fe4e-439b-8d45-bf5ac11a8dd3.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KLX230 DF",
+    "tag": "Lainnya"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1210/3c7fabbc-6be0-48fd-88f4-f60497403452.jpg?w=800",
-    "caption": "ACCOMMODATING",
-    "tag": "Foto"
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5204/251d0361-b098-4d1c-9cca-9d07fc445149.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KLX230 DF",
+    "tag": "Lainnya"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1210/5c7c62ef-21fe-4295-b4e7-b0f6a99576eb.jpg?w=800",
-    "caption": "ACCOMMODATING",
-    "tag": "Foto"
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5204/588e77f2-7d00-406e-8f5c-6f521edac8c0.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KLX230 DF",
+    "tag": "Lainnya"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1210/9484d9c1-f957-4bd4-9fc0-a11c31f901ac.jpg?w=800",
-    "caption": "TOUGH",
-    "tag": "Foto"
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5204/66cbec0b-3ca8-4048-9768-ba7eb56bcc00.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KLX230 DF",
+    "tag": "Mesin"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1210/737f2da8-8822-4d2a-95e5-d4aff942eb2e.jpg?w=800",
-    "caption": "TOUGH",
-    "tag": "Foto"
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5204/360b4351-2841-4fbe-a448-400d4a3f67f9.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KLX230 DF",
+    "tag": "Mesin"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1210/a37f8e41-6336-46c7-b869-526ed9a94140.jpg?w=800",
-    "caption": "TOUGH",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1210/054a0b18-1399-4b11-a59e-1065ef7195a9.jpg?w=800",
-    "caption": "TOUGH",
-    "tag": "Foto"
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5204/e8622f2f-72e7-4a91-8b95-416764107d40.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KLX230 DF",
+    "tag": "Lainnya"
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/dual-purpose-230-250/klx230-df",
-  "checked": "2026-10-25"
+  "checked": "2026-10-26"
  },
  {
   "id": "kawasaki-klx230-sherpa",
@@ -1212,14 +1047,9 @@
   "acc": null,
   "range": null,
   "sum": "KLX230 SHERPA adalah motor dual-purpose berkapasitas 233 cc dengan rangka perimeter dan ban dual-purpose, dirancang untuk trekking dan berkendara di jalan raya maupun medan tanah. Harga MSRP varian S di Jakarta Rp 59.900.000.",
-  "image": null,
+  "image": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2079/15939cc7-5f1d-4bd2-93fb-f4cf77bab779.jpg?w=750",
   "image_credit": "Kawasaki Motor Indonesia",
   "gallery": [
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2079/15939cc7-5f1d-4bd2-93fb-f4cf77bab779.jpg?w=750",
-    "caption": "KLX230 SHERPA",
-    "tag": "Foto"
-   },
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5180/1c88c46f-d4bb-4ecd-a0f0-a8c2e7a45165.jpg?w=640",
     "caption": "Image of 2026 KLX230 SHERPA S in action",
@@ -1231,63 +1061,58 @@
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1182/d3ad4a3d-1aaa-4521-ac76-b47ecb94cd37.jpg?w=800",
-    "caption": "ACCOMMODATING",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5180/2deb87dc-e1dc-4055-bf1f-8c56fd6ec0a2.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KLX230 SHERPA S",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1182/49fd9556-dc04-49c3-8f88-9ef3406f8c56.jpg?w=800",
-    "caption": "ACCOMMODATING",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5180/ba96f1c0-8c0d-465b-9505-64fc59139ae1.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KLX230 SHERPA S",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1182/277d972e-eab4-44f5-8be1-141d5d28d9c5.jpg?w=800",
-    "caption": "ACCOMMODATING",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5180/956c808b-0869-4ac6-9d7d-d0a95d126f89.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KLX230 SHERPA S",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1182/0b399805-3030-4182-9ba2-3b0f414015dd.jpg?w=800",
-    "caption": "ACCOMMODATING",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5180/0793e8f6-3ef7-4db2-b52a-4b1ad7714ca9.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KLX230 SHERPA S",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1182/2561b24f-2c1e-4a5f-8aed-bac6f9bd1691.jpg?w=800",
-    "caption": "ACCOMMODATING",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5180/bb796d83-78eb-40c2-8695-d9364c308fe0.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KLX230 SHERPA S",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1182/f88236c5-7613-44cd-a984-52c4d02833be.jpg?w=800",
-    "caption": "ACCOMMODATING",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5180/1bfe5549-1bf6-4ae5-9ee2-868d50b9123e.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KLX230 SHERPA S",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1182/4ab29cdd-b442-4d60-91a7-15985ee80694.jpg?w=800",
-    "caption": "TOUGH",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5180/3cc1fc14-60da-4869-a1d0-2afae6eef8aa.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KLX230 SHERPA S",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1182/ed2d63f6-50be-48c9-a375-0d926308f0ea.jpg?w=800",
-    "caption": "TOUGH",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5180/7b0ac2b9-7da4-4afa-9b45-374c753d50de.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KLX230 SHERPA S",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1182/d630c01d-a07d-4e00-adfd-89e341333dd5.jpg?w=800",
-    "caption": "TOUGH",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5180/6569d9ca-31c2-4e87-8d29-41e40da6f313.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KLX230 SHERPA S",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1182/ae7e0143-dd72-42fc-a590-720b2f028d23.jpg?w=800",
-    "caption": "TOUGH",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1182/7d4d402b-ffcb-431a-83f1-b82024b1242b.jpg?w=800",
-    "caption": "TOUGH",
-    "tag": "Foto"
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5180/a160439f-cd1d-4327-a3af-1f612a0095c5.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KLX230 SHERPA S",
+    "tag": "Panel instrumen"
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/dual-purpose-230-250/klx230-sherpa",
-  "checked": "2026-10-25"
+  "checked": "2026-10-26"
  },
  {
   "id": "kawasaki-klx230r",
@@ -1310,14 +1135,9 @@
   "acc": null,
   "range": null,
   "sum": "KLX230R adalah trail bike off-road dengan mesin 233 cc fuel-injected 4-tak, suspensi long-travel, dan berat isi 119 kg. Varian 2026 KLX230R S dijual mulai Rp 52.300.000 di Jakarta.",
-  "image": null,
+  "image": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/89/f8c63fb6-4839-45df-a1ae-3c07a0270dcd.jpg?w=750",
   "image_credit": "Kawasaki Motor Indonesia",
   "gallery": [
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/89/f8c63fb6-4839-45df-a1ae-3c07a0270dcd.jpg?w=750",
-    "caption": "KLX230R",
-    "tag": "Foto"
-   },
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5178/f56a0df6-5551-4bb0-beef-3cf675c00f19.jpg?w=640",
     "caption": "Image of 2026 KLX230R S in action",
@@ -1327,60 +1147,10 @@
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5178/21a7ff57-3bdd-425b-8d52-90244bdebdd6.png?w=767",
     "caption": "KLX230R S",
     "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1181/b9a2f095-ba1a-41d4-a029-1cad6394f965.jpg?w=800",
-    "caption": "CAPABLE OFF-ROAD PERFORMANCE",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1181/cd058609-f12b-47f5-bccd-165a720ea142.jpg?w=800",
-    "caption": "CAPABLE OFF-ROAD PERFORMANCE",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1181/c04b849c-40b2-4606-8283-9a122608ce8f.jpg?w=800",
-    "caption": "CAPABLE OFF-ROAD PERFORMANCE",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1181/647b694d-548e-45ac-bb9d-3ef12a5e1a36.jpg?w=800",
-    "caption": "CAPABLE OFF-ROAD PERFORMANCE",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1181/2052549a-63f4-46d0-8ab2-d695ea8d2be7.jpg?w=800",
-    "caption": "CAPABLE OFF-ROAD PERFORMANCE",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1181/b87fcabd-17d4-4e01-a52a-23a437942477.jpg?w=800",
-    "caption": "COMPACT, LIGHTWEIGHT, MANOEUVRABLE",
-    "tag": "Lampu"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1181/2ccc3040-d740-4325-b0f3-a6528725d021.jpg?w=800",
-    "caption": "COMPACT, LIGHTWEIGHT, MANOEUVRABLE",
-    "tag": "Lampu"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1181/daa4aacf-36f0-48e4-9c12-c9d95a9579b6.jpg?w=800",
-    "caption": "COMPACT, LIGHTWEIGHT, MANOEUVRABLE",
-    "tag": "Lampu"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1181/241c7f8c-b1c6-40ad-b4e9-b45bf70d0323.jpg?w=800",
-    "caption": "COMPACT, LIGHTWEIGHT, MANOEUVRABLE",
-    "tag": "Lampu"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1181/d7ec0266-a25a-4cbf-9018-afa8fbc32fed.jpg?w=800",
-    "caption": "COMPACT, LIGHTWEIGHT, MANOEUVRABLE",
-    "tag": "Lampu"
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/off-road/klx230r",
-  "checked": "2026-10-25"
+  "checked": "2026-10-26"
  },
  {
   "id": "kawasaki-klx230sm",
@@ -1407,14 +1177,9 @@
   "acc": null,
   "range": null,
   "sum": "KLX230SM adalah sepeda motor supermoto ringan 233 cc dengan mesin air-cooled 4-tak single dan injeksi bahan bakar. Tersedia dalam varian 2026 KLX230SM dan KLX230SM SE mulai Rp57.500.000.",
-  "image": null,
+  "image": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2051/6fe97066-17ca-449c-9289-fb50ebecba37.jpg?w=750",
   "image_credit": "Kawasaki Motor Indonesia",
   "gallery": [
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2051/6fe97066-17ca-449c-9289-fb50ebecba37.jpg?w=750",
-    "caption": "KLX230SM",
-    "tag": "Foto"
-   },
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5206/db800531-f11e-475d-8c8d-22b0e19ad501.jpg?w=640",
     "caption": "Image of 2026 KLX230SM in action",
@@ -1436,53 +1201,48 @@
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1192/fe136651-7ada-4693-8520-2639526f8d09.jpg?w=800",
-    "caption": "SUPERMOTO FUN",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5206/f8309892-5df2-4f01-a181-d1d5f75ca9bd.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KLX230SM",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1192/a293f3d3-22e9-48db-bc41-ae70b703c177.jpg?w=800",
-    "caption": "SUPERMOTO FUN",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5206/deb2986b-3c7f-45bb-8d9f-9696c4bc8ce2.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KLX230SM",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1192/4ba1835b-b77c-4aa7-aecc-1d7c509c7bff.jpg?w=800",
-    "caption": "SUPERMOTO FUN",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5206/c64a1abe-6ce3-416d-a3bd-7b64cba6de76.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KLX230SM",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1192/7a257fb1-1105-4dcd-b335-4af459976a1b.jpg?w=800",
-    "caption": "SUPERMOTO FUN",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5206/f12f1f54-899f-443d-993e-6cc1ee7d16d5.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KLX230SM",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1192/b318e51e-f277-45a0-836a-1120212d8758.jpg?w=800",
-    "caption": "SUPERMOTO FUN",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5206/20d9dc6d-ac7a-4474-b266-30d47621be02.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KLX230SM",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1192/99a9d84b-acc0-44d3-ab08-ee3842dd593a.jpg?w=800",
-    "caption": "SUPERMOTO-TUNED PERFORMANCE",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5206/61ec86d5-bbf0-44b3-922a-3670e1fa45ef.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KLX230SM",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1192/eb718943-4e19-4f01-b524-17d575f3f07f.jpg?w=800",
-    "caption": "SUPERMOTO-TUNED PERFORMANCE",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5206/238f7b88-c0db-4b77-9d5b-0d72243aa883.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KLX230SM",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1192/81ce9c08-18f5-4448-809d-c1435199a11d.jpg?w=800",
-    "caption": "SUPERMOTO-TUNED PERFORMANCE",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1192/a82f2997-db6a-4c35-8a21-ef4ec7d935b3.jpg?w=800",
-    "caption": "SUPERMOTO-TUNED PERFORMANCE",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5206/ef4455b8-68cf-4edb-9ce5-6aaf9d8520a4.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KLX230SM",
     "tag": "Foto"
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/supermoto/klx230sm",
-  "checked": "2026-10-25"
+  "checked": "2026-10-26"
  },
  {
   "id": "kawasaki-klx250",
@@ -1505,14 +1265,9 @@
   "acc": null,
   "range": null,
   "sum": "KLX250 adalah motor dual-purpose 249 cc satu silinder 4-tak fuel-injected yang dirancang untuk on-road dan off-road. Harga MSRP-nya Rp 78.100.000 (Jakarta) dengan ground clearance 285 mm.",
-  "image": null,
+  "image": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/54/e368e9ce-b5ec-48cf-ab73-59053c176ac7.jpg?w=750",
   "image_credit": "Kawasaki Motor Indonesia",
   "gallery": [
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/54/e368e9ce-b5ec-48cf-ab73-59053c176ac7.jpg?w=750",
-    "caption": "KLX250",
-    "tag": "Foto"
-   },
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5213/b55a480f-0a1e-4f1f-a176-aa5271c40334.jpg?w=640",
     "caption": "Image of 2026 KLX250 in action",
@@ -1522,21 +1277,6 @@
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5102/74febc73-a588-4eef-8196-17d4a15192a7.png?w=767",
     "caption": "KLX250",
     "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1107/90de2ee0-2d89-4e4a-b672-f33a83a44d29.jpg?w=800",
-    "caption": "EXCEPTIONAL POWER",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1107/16d0cb2f-d6f2-4b5d-813f-34fdac7b58da.jpg?w=800",
-    "caption": "UNPARALLELED VERSATILITY",
-    "tag": "Lampu"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1107/8987cfe1-fa0a-40b6-bdff-aed688a19922.jpg?w=800",
-    "caption": "CAPABLE SUSPENSION",
-    "tag": "Suspensi"
    },
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5102/2164bc62-7e76-4d6f-8d4b-8d416ccf59b1.png?w=675",
@@ -1572,15 +1312,10 @@
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5102/b0886e30-ece8-4b15-85c9-6d5e62975108.jpg",
     "caption": "2024 KLX250",
     "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5180/0ebd297e-b5e8-4d03-9517-bc383a4d972b.png?w=600",
-    "caption": "",
-    "tag": "Foto"
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/dual-purpose-230-250/klx250",
-  "checked": "2026-10-25"
+  "checked": "2026-10-26"
  },
  {
   "id": "kawasaki-kx112",
@@ -1598,44 +1333,9 @@
   "acc": null,
   "range": null,
   "sum": "KX112 2026 adalah sepeda motor trail bermesin 2-tak 112 cc dengan pendingin cair dan kapasitas bensin 5,0 liter. MSRP-nya Rp 74.200.000 (Jakarta), dan spesifikasi serta harga dapat berubah.",
-  "image": null,
+  "image": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5233/9b2a2671-1218-46db-a2bd-52f47a79a2dd.png?w=675",
   "image_credit": "Kawasaki Motor Indonesia",
   "gallery": [
-   {
-    "url": "https://www.kawasaki-motor.co.id/Content/Images/PageNotFound/thumb_moto.jpg",
-    "caption": "",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://www.kawasaki-motor.co.id/Content/Images/PageNotFound/thumb_atv.jpg",
-    "caption": "",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://www.kawasaki-motor.co.id/Content/Images/PageNotFound/thumb_sideXside.jpg",
-    "caption": "",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://www.kawasaki-motor.co.id/Content/Images/PageNotFound/thumb_watercraft.jpg",
-    "caption": "",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://www.kawasaki-motor.co.id/Content/Images/PageNotFound/moto_guy-xxl@2x.jpg",
-    "caption": "",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://www.kawasaki-motor.co.id/Content/Images/PageNotFound/dealer_locator_map-xxl@2x.jpg",
-    "caption": "",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5233/9b2a2671-1218-46db-a2bd-52f47a79a2dd.png?w=675",
-    "caption": "Lime Green",
-    "tag": "Foto"
-   },
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5233/977886c1-2426-4322-98e9-8960915b7c43.jpg?w=510&h=340&mode=crop",
     "caption": "2026 KX112",
@@ -1670,10 +1370,35 @@
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5233/1ac80587-cf3a-4560-8b19-45344b67876e.jpg?w=510&h=340&mode=crop",
     "caption": "2026 KX112",
     "tag": "Foto"
+   },
+   {
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5233/60820e32-7292-40d9-a691-e2c1098d304e.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KX112",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5233/c9890a16-49a3-4ca1-8c60-4831f2dc38f8.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KX112",
+    "tag": "Lainnya"
+   },
+   {
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5233/4b303316-6691-474b-a02b-49a1b0c20aac.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KX112",
+    "tag": "Suspensi"
+   },
+   {
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5233/9c7d75ed-bc4e-445a-8cc5-8cfed66e4b99.png?w=510&h=340&mode=crop",
+    "caption": "2026 KX112",
+    "tag": "Suspensi"
+   },
+   {
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5233/ae9581e6-bca3-4583-b247-35d4c6d8fe11.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KX112",
+    "tag": "Roda dan rem"
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/kx/kx-youth/kx112",
-  "checked": "2026-10-25"
+  "checked": "2026-10-26"
  },
  {
   "id": "kawasaki-kx85",
@@ -1696,82 +1421,67 @@
   "acc": null,
   "range": null,
   "sum": "Sepeda motor 2-tak 84 cc model 2026 dengan rangka Perimeter, suspensi depan KYB inverted fork ø43 mm, dan rem cakram depan ø240 mm. MSRP Rp 71.100.000 (Jakarta).",
-  "image": null,
+  "image": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5234/82e03929-b733-4712-aea1-48478fce96c1.jpg?w=510&h=340&mode=crop",
   "image_credit": "Kawasaki Motor Indonesia",
   "gallery": [
    {
-    "url": "https://www.kawasaki-motor.co.id/Content/Images/PageNotFound/thumb_moto.jpg",
-    "caption": "",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://www.kawasaki-motor.co.id/Content/Images/PageNotFound/thumb_atv.jpg",
-    "caption": "",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://www.kawasaki-motor.co.id/Content/Images/PageNotFound/thumb_sideXside.jpg",
-    "caption": "",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://www.kawasaki-motor.co.id/Content/Images/PageNotFound/thumb_watercraft.jpg",
-    "caption": "",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://www.kawasaki-motor.co.id/Content/Images/PageNotFound/moto_guy-xxl@2x.jpg",
-    "caption": "",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://www.kawasaki-motor.co.id/Content/Images/PageNotFound/dealer_locator_map-xxl@2x.jpg",
-    "caption": "",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://www.kawasaki-motor.co.id/Content/Images/360.jpg",
-    "caption": "360",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5234/82e03929-b733-4712-aea1-48478fce96c1.jpg?w=510&h=340&mode=crop",
-    "caption": "2026 KX85 L",
-    "tag": "Foto"
-   },
-   {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5234/37a7705f-99ef-4631-833a-8a7f2b2546a2.jpg?w=510&h=340&mode=crop",
     "caption": "2026 KX85 L",
-    "tag": "Foto"
+    "tag": "Lainnya"
    },
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5234/2c583159-48de-4c7a-b3f6-3a8c6c3a42d7.jpg?w=510&h=340&mode=crop",
     "caption": "2026 KX85 L",
-    "tag": "Foto"
+    "tag": "Suspensi"
    },
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5234/94d87167-4f4b-4aa7-9649-cd96a941c4ef.jpg?w=510&h=340&mode=crop",
     "caption": "2026 KX85 L",
-    "tag": "Foto"
+    "tag": "Roda dan rem"
    },
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5234/7eda4648-091e-422f-bee9-2922fdce408b.jpg?w=510&h=340&mode=crop",
     "caption": "2026 KX85 L",
-    "tag": "Foto"
+    "tag": "Suspensi"
    },
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5234/7f5c6901-e9ef-4236-b30a-6a2c52fd1a37.jpg?w=510&h=340&mode=crop",
     "caption": "2026 KX85 L",
-    "tag": "Foto"
+    "tag": "Mesin"
    },
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5234/3b26f253-9e34-4da8-8edb-91e2004ff1fa.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KX85 L",
+    "tag": "Lainnya"
+   },
+   {
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5234/92d7ffe1-5118-423c-bce4-301faccb6b77.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KX85 L",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5234/556430f5-fcfc-473f-939d-14ded9dd366c.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KX85 L",
+    "tag": "Suspensi"
+   },
+   {
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5234/d62cf7f0-d01c-442e-bc73-8b8c9339038d.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KX85 L",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5234/8bc225fb-6dbc-492b-8626-f45c6f95bc9a.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 KX85 L",
+    "tag": "Lainnya"
+   },
+   {
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5234/3572736b-4e11-4d9d-824e-3d8a75e6291a.jpg?w=510&h=340&mode=crop",
     "caption": "2026 KX85 L",
     "tag": "Foto"
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/kx/kx-youth/kx85",
-  "checked": "2026-10-25"
+  "checked": "2026-10-26"
  },
  {
   "id": "kawasaki-meguro-s1",
@@ -1794,14 +1504,9 @@
   "acc": null,
   "range": null,
   "sum": "Motor retro klasik 233 cc berpendingin udara yang terinspirasi dari Kawasaki 250 Meguro SG tahun 1964. Berat kosong 143 kg dengan tinggi tempat duduk 745 mm.",
-  "image": null,
+  "image": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2068/3d6f30aa-b279-4c8c-84f3-29b4f053547d.jpg?w=750",
   "image_credit": "Kawasaki Motor Indonesia",
   "gallery": [
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2068/3d6f30aa-b279-4c8c-84f3-29b4f053547d.jpg?w=750",
-    "caption": "MEGURO S1",
-    "tag": "Foto"
-   },
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5185/91521d46-7268-4c5c-9ae8-6be60a91b03b.jpg?w=640",
     "caption": "Image of 2026 MEGURO S1 in action",
@@ -1823,53 +1528,48 @@
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1163/e8f2ad1a-1d00-4a98-8820-1b1bce278f13.jpg?w=800",
-    "caption": "LOOKS INSPIRED BY PAST MEGURO MODELS",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5166/64964589-30e3-40a5-850f-3e1c5d16d014.png",
+    "caption": "",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1163/7ea5fa67-2def-4306-8534-a133d2dad3fe.jpg?w=800",
-    "caption": "LOOKS INSPIRED BY PAST MEGURO MODELS",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5166/b2eec5a4-5aba-42de-b439-5fabcfc175ea.png",
+    "caption": "",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1163/f3e09891-6268-4bee-81a1-c1453a5173b9.jpg?w=800",
-    "caption": "LOOKS INSPIRED BY PAST MEGURO MODELS",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5166/54c0f5c7-a208-481e-a752-7eb0d6a130eb.png?w=675",
+    "caption": "Ebony",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1163/c11c615c-576b-4ea1-93ad-b9315e2be8fb.jpg?w=800",
-    "caption": "LOOKS INSPIRED BY PAST MEGURO MODELS",
-    "tag": "Foto"
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5166/b7877168-586b-4182-a653-0b796f0c9643.jpg?w=510&h=340&mode=crop",
+    "caption": "2025 MEGURO S1",
+    "tag": "Panel instrumen"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1163/46ccae20-18da-4623-8e58-e5aa6448027f.jpg?w=800",
-    "caption": "LOOKS INSPIRED BY PAST MEGURO MODELS",
-    "tag": "Foto"
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5166/f442b0c4-f97a-4cd4-a541-6713b7f11a53.jpg?w=510&h=340&mode=crop",
+    "caption": "2025 MEGURO S1",
+    "tag": "Lampu"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1163/c18c0555-e6f7-43a6-ac03-905185f05359.jpg?w=800",
-    "caption": "UNIQUE MEGURO RIDE FEEL",
-    "tag": "Foto"
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5166/eecb5e68-1cf9-4e9c-87ce-825b5f48d5d7.jpg?w=510&h=340&mode=crop",
+    "caption": "2025 MEGURO S1",
+    "tag": "Panel instrumen"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1163/df3f7d56-9123-42e4-8b24-e6bf36c9b7a2.jpg?w=800",
-    "caption": "UNIQUE MEGURO RIDE FEEL",
-    "tag": "Foto"
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5166/70fa1473-82c1-47ed-9104-0a19ff3c666a.jpg?w=510&h=340&mode=crop",
+    "caption": "2025 MEGURO S1",
+    "tag": "Lainnya"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1163/96df4500-c442-4700-8d31-b9a1c33d00e1.jpg?w=800",
-    "caption": "UNIQUE MEGURO RIDE FEEL",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1163/1dc77f23-38e1-4924-bc69-58c0e0b6e1df.jpg?w=800",
-    "caption": "UNIQUE MEGURO RIDE FEEL",
-    "tag": "Foto"
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5166/ffa6c041-7ab4-4bbd-bd2d-735580ee1b87.jpg?w=510&h=340&mode=crop",
+    "caption": "2025 MEGURO S1",
+    "tag": "Mesin"
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/meguro/retro-classic/meguro-s1",
-  "checked": "2026-10-25"
+  "checked": "2026-10-26"
  },
  {
   "id": "kawasaki-ninja-250",
@@ -1896,14 +1596,9 @@
   "acc": null,
   "range": null,
   "sum": "Kawasaki Ninja 250 adalah motor sport 249 cc parallel twin dengan rangka trellis ringan dan kapasitas tangki bensin 14 liter. Tersedia dalam beberapa varian tahun model 2025 hingga 2027, dengan varian ABS SE yang dilengkapi ABS dan KIPASS.",
-  "image": null,
+  "image": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2007/778e64ab-c3a0-4aca-92ad-8ee4481eb37b.jpg?w=750",
   "image_credit": "Kawasaki Motor Indonesia",
   "gallery": [
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2007/778e64ab-c3a0-4aca-92ad-8ee4481eb37b.jpg?w=750",
-    "caption": "NINJA 250",
-    "tag": "Foto"
-   },
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5265/bb752894-72ef-4b37-8f6b-4b95017c4c2e.jpg?w=640",
     "caption": "Image of 2027 NINJA 250 in action",
@@ -1963,15 +1658,10 @@
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5153/b595bf0b-39f1-4428-877b-1bcfcad8095a.png?w=767",
     "caption": "NINJA 250",
     "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1229/344b59b4-26dd-4832-bb7c-1c5b3044ed08.jpg?w=800",
-    "caption": "EXCITING POWER",
-    "tag": "Foto"
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/ninja/sport/ninja-250",
-  "checked": "2026-10-25"
+  "checked": "2026-10-26"
  },
  {
   "id": "kawasaki-ninja-h2",
@@ -1994,14 +1684,9 @@
   "acc": null,
   "range": null,
   "sum": "Ninja H2 adalah motor hypersport dengan mesin supercharged 998 cc In-Line Four berdaya 243 PS. Harga MSRP di Jakarta Rp 890.500.000 untuk model 2026 dan 2025.",
-  "image": null,
+  "image": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2030/3e1289e8-bff2-4071-93fd-731d2a5ecfe8.jpg?w=750",
   "image_credit": "Kawasaki Motor Indonesia",
   "gallery": [
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2030/3e1289e8-bff2-4071-93fd-731d2a5ecfe8.jpg?w=750",
-    "caption": "NINJA H2",
-    "tag": "Foto"
-   },
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5239/b11bf9d2-3b96-4d83-9523-baa2f1bbd853.jpg?w=640",
     "caption": "Image of 2026 NINJA H2 in action",
@@ -2023,53 +1708,48 @@
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1070/5038af27-7183-4c55-b7d6-7eb4b704107f.jpg?w=800",
-    "caption": "SUPERCHARGED POWER",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5239/f93125b6-bd39-4e41-b110-a05945544677.png?w=675",
+    "caption": "Mirror Coated Spark Black",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1070/97bd0f4b-3bca-4d1b-8cd3-670575453b5e.jpg?w=800",
-    "caption": "SUPERCHARGED POWER",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5104/9481a547-907c-466d-b954-6290de298db6.jpg?w=510&h=340&mode=crop",
+    "caption": "2024 NINJA H2",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1070/c0fc3df0-8262-4af4-b393-499aa4f974fa.jpg?w=800",
-    "caption": "SUPERCHARGED POWER",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5104/04d63892-1ee0-4a37-9653-1cb139f27edf.jpg?w=510&h=340&mode=crop",
+    "caption": "2024 NINJA H2",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1070/d70484ac-eabe-40d9-b275-ecb9fd36e800.jpg?w=800",
-    "caption": "SUPERCHARGED POWER",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5104/1af29f45-8dc0-494b-bb6f-2282efa6817d.jpg?w=510&h=340&mode=crop",
+    "caption": "2024 NINJA H2",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1070/81a2a60c-af69-45ec-9d86-386102b65f8d.jpg?w=800",
-    "caption": "SUPERCHARGED POWER",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5104/144712ef-c409-42aa-8e67-6d16666457a0.jpg?w=510&h=340&mode=crop",
+    "caption": "2024 NINJA H2",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1070/82a89590-9b11-4b88-b976-6746457e5e51.jpg?w=800",
-    "caption": "PERFORMANCE",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5104/7a8b01e6-b9f0-4c35-bb41-5f59f1b3730b.jpg?w=510&h=340&mode=crop",
+    "caption": "2024 NINJA H2",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1070/89612f79-4916-46b6-bf40-13cf77506eab.jpg?w=800",
-    "caption": "PERFORMANCE",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5104/12c99533-6b87-41be-8e3b-884f4dede782.jpg?w=510&h=340&mode=crop",
+    "caption": "2024 NINJA H2",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1070/4a96be79-511a-469e-a095-62cec431b0ed.jpg?w=800",
-    "caption": "PERFORMANCE",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1070/e57fd63d-bc87-4a42-a840-fec9fbe2bfc1.jpg?w=800",
-    "caption": "PERFORMANCE",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5104/65f257e7-d602-4fa4-8c17-cfb335c13e04.jpg?w=510&h=340&mode=crop",
+    "caption": "2024 NINJA H2",
     "tag": "Foto"
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/ninja/hypersport/ninja-h2",
-  "checked": "2026-10-25"
+  "checked": "2026-10-26"
  },
  {
   "id": "kawasaki-ninja-zx-10r",
@@ -2092,14 +1772,9 @@
   "acc": null,
   "range": null,
   "sum": "Kawasaki Ninja ZX-10R 2025 ABS KRT Edition adalah motor supersport bermesin 998 cc In-Line Four dengan mesin bertenaga 156,8 kW (213 PS) di 13.200 rpm. Motor ini dilengkapi winglet aerodinamis, suspensi Showa, rem Brembo M50, dan paket elektronik seperti KCMF, S-KTRC, dan KQS.",
-  "image": null,
+  "image": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2044/059b8072-7449-42ec-81a9-c5d384cf3cfe.jpg?w=750",
   "image_credit": "Kawasaki Motor Indonesia",
   "gallery": [
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2044/059b8072-7449-42ec-81a9-c5d384cf3cfe.jpg?w=750",
-    "caption": "NINJA ZX-10R",
-    "tag": "Foto"
-   },
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5124/8938dbb6-b685-4aff-a7f9-3cf7291b1b43.jpg?w=640",
     "caption": "Image of 2025 NINJA ZX-10R ABS KRT EDITION in action",
@@ -2131,43 +1806,38 @@
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1255/449235d6-b83d-4321-8892-bafe5a652e65.jpg?w=800",
-    "caption": "DIRANCANG UNTUK AERODINAMIS",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5005/5cd7f56f-7d45-4b6d-8cde-b7f5047e935a.png",
+    "caption": "",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1255/65b9a2a5-b8b3-4c88-bd3c-8abe2eeb7ec6.jpg?w=800",
-    "caption": "DIRANCANG UNTUK AERODINAMIS",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5005/996946c1-4714-4b76-a8d6-e99e56b2cad5.png",
+    "caption": "",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1255/b0a27500-4ebf-4dd5-878a-7cd8dcd313b3.jpg?w=800",
-    "caption": "DIRANCANG UNTUK AERODINAMIS",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5124/ee309a3c-9dab-4ad7-84c4-fe125c2d924f.png?w=675",
+    "caption": "Lime Green / Ebony / Pearl Blizzard White",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1255/5ad545f8-9512-499a-a7ae-ef03ec870343.jpg?w=800",
-    "caption": "DIRANCANG UNTUK AERODINAMIS",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5124/59cbf831-5091-4702-9818-53efb9c4f992.jpg?w=510&h=340&mode=crop",
+    "caption": "2025 NINJA ZX-10R ABS KRT EDITION",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1255/3369afbd-18e2-4ff6-b956-b6908e631e40.jpg?w=800",
-    "caption": "BUILDING ON WORLDSBK-PROVEN PERFORMANCE",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5124/824443f2-e830-4c9c-869c-263b829727f4.jpg?w=510&h=340&mode=crop",
+    "caption": "2025 NINJA ZX-10R ABS KRT EDITION",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1255/2f239062-ce99-4f7a-9d62-f2dcb967c7ba.jpg?w=800",
-    "caption": "BUILDING ON WORLDSBK-PROVEN PERFORMANCE",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1255/d7ed027f-6699-4c8f-a8f6-91b4b3a5b021.jpg?w=800",
-    "caption": "BUILDING ON WORLDSBK-PROVEN PERFORMANCE",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5124/f175c84c-e18d-42df-89ac-0b498dee0b33.jpg?w=510&h=340&mode=crop",
+    "caption": "2025 NINJA ZX-10R ABS KRT EDITION",
     "tag": "Foto"
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/ninja/supersport/ninja-zx-10r",
-  "checked": "2026-10-25"
+  "checked": "2026-10-26"
  },
  {
   "id": "kawasaki-ninja-zx-25r",
@@ -2202,14 +1872,9 @@
   "acc": null,
   "range": null,
   "sum": "Motor supersport 250 cc dengan mesin In-Line Four 249,8 cc, menghasilkan power maksimum 35,2 kW (47 PS) pada 15.500 rpm. Tersedia dalam beberapa varian dengan harga termurah Rp 111.100.000.",
-  "image": null,
+  "image": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2046/5724bb4c-4fd4-4aa1-9faf-7df7aa15eab9.jpg?w=750",
   "image_credit": "Kawasaki Motor Indonesia",
   "gallery": [
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2046/5724bb4c-4fd4-4aa1-9faf-7df7aa15eab9.jpg?w=750",
-    "caption": "NINJA ZX-25R",
-    "tag": "Foto"
-   },
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5269/ddd86487-bd0a-4392-b502-ab837f1f5241.jpg?w=640",
     "caption": "Image of 2027 NINJA ZX-25RR in action",
@@ -2269,15 +1934,10 @@
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5222/37edd22a-83c5-475d-83ad-bd97c9725542.png?w=767",
     "caption": "NINJA ZX-25RR",
     "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5157/ebc29f50-6511-454b-b7cc-8867dde264ea.jpg?w=640",
-    "caption": "Image of 2025 NINJA ZX-25RR KRT EDITION  in action",
-    "tag": "Foto"
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/ninja/supersport/ninja-zx-25r",
-  "checked": "2026-10-25"
+  "checked": "2026-10-26"
  },
  {
   "id": "kawasaki-ninja-zx-4r",
@@ -2300,14 +1960,9 @@
   "acc": null,
   "range": null,
   "sum": "Supersport 400 cc dengan mesin 399 cc In-Line Four berpendingin cairan, berdaya 56,7 kW (77 PS) pada 14.500 rpm. MSRP Rp 248.000.000 (Jakarta), dan spesifikasi serta harga dapat berubah.",
-  "image": null,
+  "image": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2058/8f941ec5-2060-457c-8515-e2fa513a4d31.jpg?w=750",
   "image_credit": "Kawasaki Motor Indonesia",
   "gallery": [
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2058/8f941ec5-2060-457c-8515-e2fa513a4d31.jpg?w=750",
-    "caption": "NINJA ZX-4RR",
-    "tag": "Foto"
-   },
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5217/92f64741-1eb9-46af-83db-c2b258b2d2e7.jpg?w=640",
     "caption": "Image of 2026 NINJA ZX-4RR in action",
@@ -2329,53 +1984,48 @@
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1228/38346230-c9dc-4c49-9b60-198906124600.jpg?w=800",
-    "caption": "CLASS-LEADING ENGINE PERFORMANCE",
-    "tag": "Mesin"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1228/e14e057f-9f45-469c-acfa-04926a61a8c7.jpg?w=800",
-    "caption": "CLASS-LEADING ENGINE PERFORMANCE",
-    "tag": "Mesin"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1140/99878a7f-aa3d-4732-8dcf-6998469bd06a.jpg?w=800",
-    "caption": "CLASS-LEADING ENGINE PERFORMANCE",
-    "tag": "Mesin"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1228/5c0d193d-af00-49b7-936d-4be60b9dec7d.jpg?w=800",
-    "caption": "CLASS-LEADING ENGINE PERFORMANCE",
-    "tag": "Mesin"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1228/9292353e-92ef-47fd-8265-8f0ffad1a9f0.jpg?w=800",
-    "caption": "ULTRA-COMPACT NIMBLE SUPERSPORT CHASSIS",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5217/b365207c-d38f-46c5-a74a-f4cdb9b3c7c2.png?w=675",
+    "caption": "Lime Green",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1228/0a199f1c-1ca6-4cce-95f2-c341b9bf4eb5.jpg?w=800",
-    "caption": "ULTRA-COMPACT NIMBLE SUPERSPORT CHASSIS",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5217/44d99487-9d86-40fd-b0f9-f9f4a82889af.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 NINJA ZX-4RR",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1228/1b78b01f-29e1-4267-affd-5c46859fce9f.jpg?w=800",
-    "caption": "ULTRA-COMPACT NIMBLE SUPERSPORT CHASSIS",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5217/9c318de4-89da-49f9-8f3a-abe338e4fc9f.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 NINJA ZX-4RR",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1228/dc20c2d0-a426-44be-bce3-db5f7303294e.jpg?w=800",
-    "caption": "ULTRA-COMPACT NIMBLE SUPERSPORT CHASSIS",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5217/f8244917-0f7c-4154-b383-1260b2c6948e.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 NINJA ZX-4RR",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1228/c2baa0ca-8ca3-4851-80c7-5dc7c7eb6c0d.jpg?w=800",
-    "caption": "ULTRA-COMPACT NIMBLE SUPERSPORT CHASSIS",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5217/15634319-8f02-4135-ab2e-1f4c41523949.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 NINJA ZX-4RR",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5217/937cbd54-99ad-4646-9623-4051d536e4a9.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 NINJA ZX-4RR",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5217/6880c67d-2177-4f57-b340-d4a924441285.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 NINJA ZX-4RR",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5217/d30fbcfd-1395-4d74-a497-44c9e171e6d3.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 NINJA ZX-4RR",
     "tag": "Foto"
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/ninja/supersport/ninja-zx-4r",
-  "checked": "2026-10-25"
+  "checked": "2026-10-26"
  },
  {
   "id": "kawasaki-ninja-zx-6r",
@@ -2402,14 +2052,9 @@
   "acc": null,
   "range": null,
   "sum": "Ninja ZX-6R adalah motor supersport bermesin 636 cc empat silinder segaris dengan desain fairing ala Ninja ZX-10R. Halaman ini juga mencantumkan varian 2025 KRT Edition dengan harga MSRP Rp 365.500.000.",
-  "image": null,
+  "image": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2036/0de998c6-6819-4f4f-9f22-9624d84e8096.jpg?w=750",
   "image_credit": "Kawasaki Motor Indonesia",
   "gallery": [
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2036/0de998c6-6819-4f4f-9f22-9624d84e8096.jpg?w=750",
-    "caption": "NINJA ZX-6R",
-    "tag": "Foto"
-   },
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5195/bed0534f-390d-4428-ab63-52cb23098b34.jpg?w=640",
     "caption": "Image of 2026 NINJA ZX-6R in action",
@@ -2441,43 +2086,38 @@
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1197/8528480b-f875-4a88-92fc-078e3cb7d47d.jpg?w=800",
-    "caption": "SMOOTH, FLOWING NINJA ZX STYLING",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5125/cec76359-af0b-4d3b-ad6d-73c07f1460f7.png?w=675",
+    "caption": "Lime Green / Ebony / Pearl Blizzard White",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1197/3781baf3-91ba-4386-b8d1-554ffd59ff92.jpg?w=800",
-    "caption": "SMOOTH, FLOWING NINJA ZX STYLING",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5125/ad2da2c2-6e89-44a3-b297-d4dddd534050.jpg?w=510&h=340&mode=crop",
+    "caption": "2025 NINJA ZX-6R KRT EDITION",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1197/50492350-2e9d-4d5b-a929-52a4e7d35623.jpg?w=800",
-    "caption": "SMOOTH, FLOWING NINJA ZX STYLING",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5125/599df079-43a9-489c-8391-6f27dd106a2b.jpg?w=510&h=340&mode=crop",
+    "caption": "2025 NINJA ZX-6R KRT EDITION",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1197/4e5c1a43-f473-47d9-8a50-3ecc80f93e3a.jpg?w=800",
-    "caption": "SMOOTH, FLOWING NINJA ZX STYLING",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5125/03eb21d1-e495-4672-b8c9-a869a924925f.jpg?w=510&h=340&mode=crop",
+    "caption": "2025 NINJA ZX-6R KRT EDITION",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1197/f5d477f9-17c7-470f-991b-647223850178.jpg?w=800",
-    "caption": "PERFORMANCE OPTIMISED FOR STREET-RIDING EXHILARATION",
-    "tag": "Foto"
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5125/2d01f4ee-35bf-412a-a474-c5cb8b3658ae.jpg?w=510&h=340&mode=crop",
+    "caption": "2025 NINJA ZX-6R KRT EDITION",
+    "tag": "Lampu"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1197/4ed9b4b2-3988-463e-b301-a183cde1c159.jpg?w=800",
-    "caption": "PERFORMANCE OPTIMISED FOR STREET-RIDING EXHILARATION",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1197/2d0e40e8-ad4e-452b-855b-44815040bb60.jpg?w=800",
-    "caption": "PERFORMANCE OPTIMISED FOR STREET-RIDING EXHILARATION",
-    "tag": "Foto"
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5125/fae140de-f2cb-402f-818e-8639d15d843f.jpg?w=510&h=340&mode=crop",
+    "caption": "2025 NINJA ZX-6R KRT EDITION",
+    "tag": "Lampu"
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/ninja/supersport/ninja-zx-6r",
-  "checked": "2026-10-25"
+  "checked": "2026-10-26"
  },
  {
   "id": "kawasaki-ninja-e-1",
@@ -2500,14 +2140,9 @@
   "acc": null,
   "range": null,
   "sum": "Kawasaki Ninja e-1 adalah sepeda motor listrik murni (EV) komuter ringan tanpa emisi, dengan dua baterai lithium-ion yang dapat dilepas. Kecepatan tertinggi 88 km/jam dalam Mode ROAD, dan 105 km/jam dengan e-boost.",
-  "image": null,
+  "image": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2061/0dbc2e91-5d3b-4b5f-b1ac-dde8002ef57f.jpg?w=750",
   "image_credit": "Kawasaki Motor Indonesia",
   "gallery": [
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2061/0dbc2e91-5d3b-4b5f-b1ac-dde8002ef57f.jpg?w=750",
-    "caption": "Ninja e-1",
-    "tag": "Foto"
-   },
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5146/9eec8415-c368-4ff2-8e1d-9d5794cfccc8.jpg?w=640",
     "caption": "Image of 2025 NINJA e-1 in action",
@@ -2519,63 +2154,58 @@
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1136/010d7fbc-8477-413a-934e-504ad98e6115.jpg?w=800",
-    "caption": "ELECTRIC POWER",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5146/43c542a7-f3ea-460a-90d9-7476d194e805.png?w=675",
+    "caption": "Metallic Bright Silver / Metallic Matte Lime Green / Ebony",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1136/79cbab20-ea33-4e64-8776-09b280b44442.jpg?w=800",
-    "caption": "ELECTRIC POWER",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5146/1af59b73-dbb9-44a1-9e6c-e7f65ef3a8c9.jpg?w=510&h=340&mode=crop",
+    "caption": "2025 NINJA e-1",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1136/cfcff22d-37eb-46ea-bbab-9637a049dcff.jpg?w=800",
-    "caption": "ELECTRIC POWER",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5146/1e6ffb7e-1410-4416-a96f-a1bcff6a4a79.jpg?w=510&h=340&mode=crop",
+    "caption": "2025 NINJA e-1",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1136/a05fea93-fff3-4ad6-9900-251f79b4abff.jpg?w=800",
-    "caption": "ELECTRIC POWER",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5146/858d7cb5-d252-4365-a50f-80b60aa707c0.jpg?w=510&h=340&mode=crop",
+    "caption": "2025 NINJA e-1",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com?w=800",
-    "caption": "ELECTRIC POWER",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5146/db3af3e1-59fb-4b32-b1fe-f12ecc0795de.jpg?w=510&h=340&mode=crop",
+    "caption": "2025 NINJA e-1",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1136/01e4171a-3fac-427f-a3e9-f00f5a1fbe06.jpg?w=800",
-    "caption": "ELECTRIC POWER",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5146/614b5ea3-7db9-4106-9a18-8e16caebe951.jpg?w=510&h=340&mode=crop",
+    "caption": "2025 NINJA e-1",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1136/6a6f4a3b-d9b2-4454-b019-ae5933253308.jpg?w=800",
-    "caption": "DUAL REMOVABLE BATTERIES",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5146/c7a1d1c0-7f90-467d-8ec1-2e9f77383f9c.png?w=510&h=340&mode=crop",
+    "caption": "2025 NINJA e-1",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5146/e7509cfa-0c88-4e5a-8830-feecc4868196.jpg?w=510&h=340&mode=crop",
+    "caption": "2025 NINJA e-1",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1136/6f4e02a4-a709-4a62-9960-3945a7f65481.jpg?w=800",
-    "caption": "DUAL REMOVABLE BATTERIES",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5146/73eda3f2-5d62-4cd4-8925-2a06ecd2dc74.jpg?w=510&h=340&mode=crop",
+    "caption": "2025 NINJA e-1",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1136/7ee53772-aab7-4fdf-abd0-32ebb124957e.jpg?w=800",
-    "caption": "DUAL REMOVABLE BATTERIES",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1136/6d67ae50-cbad-4d54-a2c7-12fb00ab2421.jpg?w=800",
-    "caption": "DUAL REMOVABLE BATTERIES",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1136/83b36585-40d1-40e0-8c61-29be15b2ce56.jpg?w=800",
-    "caption": "DUAL REMOVABLE BATTERIES",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5146/28f0deeb-888f-46f1-b63f-37363643bde6.png?w=510&h=340&mode=crop",
+    "caption": "2025 NINJA e-1",
     "tag": "Foto"
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/electric/ev/ninja-e-1",
-  "checked": "2026-10-25"
+  "checked": "2026-10-26"
  },
  {
   "id": "kawasaki-stockman",
@@ -2598,14 +2228,9 @@
   "acc": null,
   "range": null,
   "sum": "Kawasaki STOCKMAN 2025 adalah motor off-road 233 cc berpendingin udara dengan mesin injeksi bahan bakar dan start elektrik, dirancang untuk trail riding dan pekerjaan pertanian. Harga MSRP di Jakarta Rp 59.100.000.",
-  "image": null,
+  "image": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2052/6763dac9-d667-4ca1-88c7-053484288ac0.jpg?w=750",
   "image_credit": "Kawasaki Motor Indonesia",
   "gallery": [
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2052/6763dac9-d667-4ca1-88c7-053484288ac0.jpg?w=750",
-    "caption": "STOCKMAN",
-    "tag": "Foto"
-   },
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5160/f7e765d9-8635-48bb-aeee-cbb829c05f56.jpg?w=640",
     "caption": "Image of 2025 STOCKMAN in action",
@@ -2617,63 +2242,53 @@
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1148/662bfbb3-d305-42c9-a401-59959a91a31c.jpg?w=800",
-    "caption": "FRIENDLY & RELIABLE",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5160/b4411fc8-bbcf-4b5e-b573-b395677375d5.png?w=675",
+    "caption": "Olive Green",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1148/89cf9490-5e5c-45f8-b051-358aad1c5a31.jpg?w=800",
-    "caption": "FRIENDLY & RELIABLE",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5160/fc148c49-800c-46c5-b094-840273caf8d2.jpg?w=510&h=340&mode=crop",
+    "caption": "2025 STOCKMAN",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1148/f2c7828d-ff8b-4425-b992-cee5a2f4d873.jpg?w=800",
-    "caption": "FRIENDLY & RELIABLE",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5160/b46e32ba-a0b6-4ba6-b25c-e5bcaec4f29f.png?w=510&h=340&mode=crop",
+    "caption": "2025 STOCKMAN",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1148/78d557bc-f2c7-4499-8832-de49d7511630.jpg?w=800",
-    "caption": "COMPACT, LIGHTWEIGHT, MANOEUVRABLE",
-    "tag": "Lampu"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1148/73d9c521-84db-421c-9a6f-f101e8998d96.jpg?w=800",
-    "caption": "COMPACT, LIGHTWEIGHT, MANOEUVRABLE",
-    "tag": "Lampu"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1148/82ff7ab9-01b8-46d3-ad41-246e0495ce5f.jpg?w=800",
-    "caption": "COMPACT, LIGHTWEIGHT, MANOEUVRABLE",
-    "tag": "Lampu"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1148/48d9a0d9-4729-48e3-8ce8-8519a0a0cccb.jpg?w=800",
-    "caption": "COMPACT, LIGHTWEIGHT, MANOEUVRABLE",
-    "tag": "Lampu"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1148/136aec3c-66a8-42ae-8122-1d17055be8f6.jpg?w=800",
-    "caption": "COMPACT, LIGHTWEIGHT, MANOEUVRABLE",
-    "tag": "Lampu"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1148/a0487a33-fac0-4502-bca9-4fb3fcfcc06f.jpg?w=800",
-    "caption": "COMPACT, LIGHTWEIGHT, MANOEUVRABLE",
-    "tag": "Lampu"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1148/68d43457-cd28-4731-9638-183725109b8e.jpg?w=800",
-    "caption": "CONVENIENT FEATURES AND ESSENTIAL EQUIPMENT",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5160/8213a9c8-9fa1-4c2f-a888-7059f8330149.jpg?w=510&h=340&mode=crop",
+    "caption": "2025 STOCKMAN",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1148/d3514016-9bdd-4516-8e86-462015341066.jpg?w=800",
-    "caption": "CONVENIENT FEATURES AND ESSENTIAL EQUIPMENT",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5160/640e9861-fb56-498b-b1fc-809841dd847f.png?w=510&h=340&mode=crop",
+    "caption": "2025 STOCKMAN",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5160/bcb655c6-b146-402d-a333-6b108fb68884.png?w=510&h=340&mode=crop",
+    "caption": "2025 STOCKMAN",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5160/40e8637b-7467-4ba0-9910-95f33b016c24.jpg?w=510&h=340&mode=crop",
+    "caption": "2025 STOCKMAN",
+    "tag": "Lainnya"
+   },
+   {
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5160/49598b8a-351c-4c22-aa8d-ce66e40db7bc.png?w=510&h=340&mode=crop",
+    "caption": "2025 STOCKMAN",
+    "tag": "Lainnya"
+   },
+   {
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5160/abe46f09-a2a3-49e5-bdbd-bb6b61d08c15.jpg?w=510&h=340&mode=crop",
+    "caption": "2025 STOCKMAN",
     "tag": "Foto"
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/stockman/stockman/stockman",
-  "checked": "2026-10-25"
+  "checked": "2026-10-26"
  },
  {
   "id": "kawasaki-versys-1100",
@@ -2696,14 +2311,9 @@
   "acc": null,
   "range": null,
   "sum": "Kawasaki Versys 1100 adalah sepeda motor touring bermesin in-line four 1.099 cc dengan tenaga 135 PS, dilengkapi suspensi long-travel, roda 17 inci, dan fitur elektronik seperti KTRC dan KIBS. Harga MSRP model 2026 adalah Rp 419.100.000 di Jakarta.",
-  "image": null,
+  "image": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2066/bbcda287-8ca2-4b2c-a743-c6ea3943355a.jpg?w=750",
   "image_credit": "Kawasaki Motor Indonesia",
   "gallery": [
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2066/bbcda287-8ca2-4b2c-a743-c6ea3943355a.jpg?w=750",
-    "caption": "VERSYS 1100",
-    "tag": "Foto"
-   },
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5200/2fe51db5-1717-4fb0-8c91-8b95e604761c.jpg?w=640",
     "caption": "Image of 2026 VERSYS 1100 in action",
@@ -2715,63 +2325,13 @@
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1153/ed24d4b4-71aa-439d-af66-5ee2ba5b2780.jpg?w=800",
-    "caption": "FUN TO RIDE",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1153/f6d75c5f-186d-49df-8647-f131c4a564e3.jpg?w=800",
-    "caption": "FUN TO RIDE",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1153/fe8a352b-626e-4dc9-9314-ef6cf9a148be.jpg?w=800",
-    "caption": "FUN TO RIDE",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1153/5ca130de-4d21-44c4-ac22-91351d964bc4.jpg?w=800",
-    "caption": "FUN TO RIDE",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1153/7c2b94d6-64f8-467a-a2f6-f64ad1d20f39.jpg?w=800",
-    "caption": "FUN TO RIDE",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1153/d6511bb9-1d34-4e15-a4cc-a35c0813f21b.jpg?w=800",
-    "caption": "TOURING COMFORT AND PERFORMANCE",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1153/9bc1d0d1-cfe5-4ef8-aca0-369538aa7ef0.jpg?w=800",
-    "caption": "TOURING COMFORT AND PERFORMANCE",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1153/8fd2537b-ebb2-4541-a342-aa0e64265608.png?w=800",
-    "caption": "TOURING COMFORT AND PERFORMANCE",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1203/21119466-9188-4264-b38a-055e23e186af.jpg?w=800",
-    "caption": "TOURING COMFORT AND PERFORMANCE",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1153/a174c3cc-5a0b-49dd-aa8b-58e21ac3e02f.jpg?w=800",
-    "caption": "TOURING COMFORT AND PERFORMANCE",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1153/1b0fe843-9996-411e-a58b-0ad4393f34b2.jpg?w=800",
-    "caption": "TOURING COMFORT AND PERFORMANCE",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5164/354f6c47-6df5-44d9-b6f5-02ccff21f132.png",
+    "caption": "",
     "tag": "Foto"
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/versys/adventure-touring/versys-1100",
-  "checked": "2026-10-25"
+  "checked": "2026-10-26"
  },
  {
   "id": "kawasaki-versys-650",
@@ -2794,19 +2354,9 @@
   "acc": null,
   "range": null,
   "sum": "Versys 650 adalah motor touring bermesin Parallel Twin 649 cc dengan suspensi long-travel, roda 17 inci, dan Kawasaki TRaction Control (KTRC). Harga tercantum mulai Rp 241.900.000 (model 2025) dan Rp 245.700.000 (model 2026).",
-  "image": null,
+  "image": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/34/d787cdd3-d8cd-46cf-be5a-9d16ee516c07.jpg?w=750",
   "image_credit": "Kawasaki Motor Indonesia",
   "gallery": [
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/34/d787cdd3-d8cd-46cf-be5a-9d16ee516c07.jpg?w=750",
-    "caption": "VERSYS 650",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5199/1835593a-abfb-40f9-bc12-aaa76504cf80.jpg?w=640",
-    "caption": "Image of 2026 VERSYS 650 in action",
-    "tag": "Foto"
-   },
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5199/1b3612bc-130f-4e92-ae5a-2458610ebf99.png?w=767",
     "caption": "VERSYS 650",
@@ -2843,33 +2393,33 @@
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1202/93ea825e-37bb-4fc4-8dcd-5e3ea02067b1.jpg?w=800",
-    "caption": "FUN PACKAGE ON WINDING ROADS",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5011/9625cee8-c3d3-45e8-86e8-9a79bff47c93.png",
+    "caption": "",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1202/671fdcda-3c79-464d-b2e5-a9cdf761056c.jpg?w=800",
-    "caption": "FUN PACKAGE ON WINDING ROADS",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5011/7489d505-50c0-4bc4-8484-ba5c58eafe37.png",
+    "caption": "",
+    "tag": "Lainnya"
+   },
+   {
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5199/a3621977-d646-4ab4-91ce-a3c99926c19a.png?w=675",
+    "caption": "Metallic Deep Blue/ Metallic Spark Black",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1202/d2deae78-980f-41c7-b601-8d2a11648830.jpg?w=800",
-    "caption": "FUN PACKAGE ON WINDING ROADS",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5199/00677752-bbb8-404a-bf85-a91af335c177.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 VERSYS 650",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1202/e8d9a655-1df0-4022-a1fd-a9f792261bae.jpg?w=800",
-    "caption": "FUN PACKAGE ON WINDING ROADS",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1202/a041b0d9-bb9a-4255-8335-11d07291cca5.jpg?w=800",
-    "caption": "FUN PACKAGE ON WINDING ROADS",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5199/2a0fd61a-9adc-4df1-836d-718a5f626d09.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 VERSYS 650",
     "tag": "Foto"
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/versys/adventure-touring/versys-650",
-  "checked": "2026-10-25"
+  "checked": "2026-10-26"
  },
  {
   "id": "kawasaki-versys-x-250",
@@ -2892,14 +2442,9 @@
   "acc": null,
   "range": null,
   "sum": "Kawasaki Versys-X 250 adalah motor adventure-touring dengan mesin 249 cc Parallel Twin berpendingin cair dan rangka backbone. Harga MSRP varian 2026 (NON-ABS) di Jakarta Rp 73.700.000.",
-  "image": null,
+  "image": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2008/896f661f-f1f8-44a0-9249-5079a55f62b4.jpg?w=750",
   "image_credit": "Kawasaki Motor Indonesia",
   "gallery": [
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2008/896f661f-f1f8-44a0-9249-5079a55f62b4.jpg?w=750",
-    "caption": "VERSYS-X 250",
-    "tag": "Foto"
-   },
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5209/bb26a780-b31d-4842-bf76-34ce402ab594.jpg?w=640",
     "caption": "Image of 2026 VERSYS-X 250 (NON-ABS) in action",
@@ -2921,53 +2466,43 @@
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1217/19de1353-939b-43ea-8eb9-081ac9491af9.jpg?w=800",
-    "caption": "STYLING",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5209/7f57bb37-8c4b-44fc-b8aa-9c5d8ffee01d.png?w=675",
+    "caption": "Candy Lime Green / Metallic Flat Spark Black",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1217/777d2fb7-76c2-4fb9-bc89-29c9c8326531.jpg?w=800",
-    "caption": "STYLING",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5209/edd7ee6d-f7d8-4e31-9b28-082b28892862.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 VERSYS-X 250 (NON-ABS)",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1217/824f6895-fad1-4687-9415-cc10a3c5f83a.jpg?w=800",
-    "caption": "VERSATILITY",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5209/31f97629-33e0-459e-99e9-647cff4ed8f0.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 VERSYS-X 250 (NON-ABS)",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1217/91a9d115-3b2d-4f25-9676-16cfc7f60441.jpg?w=800",
-    "caption": "VERSATILITY",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5209/28792186-2732-4fd0-b820-dcaf69feb7a1.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 VERSYS-X 250 (NON-ABS)",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1217/5bb55b2a-6e9e-4a37-9c85-d409374b874f.jpg?w=800",
-    "caption": "VERSATILITY",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5209/edd7ee6d-f7d8-4e31-9b28-082b28892862.jpg",
+    "caption": "2026 VERSYS-X 250 (NON-ABS)",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1217/c60f23c5-679e-4dcf-bb40-8e52f0782459.jpg?w=800",
-    "caption": "VERSATILITY",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5209/31f97629-33e0-459e-99e9-647cff4ed8f0.jpg",
+    "caption": "2026 VERSYS-X 250 (NON-ABS)",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1217/57730075-56e5-4305-9035-b1b99101be42.jpg?w=800",
-    "caption": "VERSATILITY",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1217/6c04c021-217b-4ca7-99c6-2221bf31fea9.jpg?w=800",
-    "caption": "VERSATILITY",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1217/85cf7be1-2ba9-40a0-9008-a98cea3dac08.jpg?w=800",
-    "caption": "COMFORT",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5209/28792186-2732-4fd0-b820-dcaf69feb7a1.jpg",
+    "caption": "2026 VERSYS-X 250 (NON-ABS)",
     "tag": "Foto"
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/versys/adventure-touring/versys-x-250",
-  "checked": "2026-10-25"
+  "checked": "2026-10-26"
  },
  {
   "id": "kawasaki-vulcan-s",
@@ -2990,14 +2525,9 @@
   "acc": null,
   "range": null,
   "sum": "Vulcan S adalah sport cruiser bermesin 649 cc parallel-twin dengan rangka perimeter dan suspensi yang diturunkan dari sportbike. Motor ini dilengkapi ERGO-FIT untuk penyesuaian posisi berkendara serta ABS.",
-  "image": null,
+  "image": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/69/bb1f6faa-f308-477e-83c8-84c74867d452.jpg?w=750",
   "image_credit": "Kawasaki Motor Indonesia",
   "gallery": [
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/69/bb1f6faa-f308-477e-83c8-84c74867d452.jpg?w=750",
-    "caption": "VULCAN S",
-    "tag": "Foto"
-   },
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5202/769ea5cb-fb10-4114-a1df-c6dc1be44099.jpg?w=640",
     "caption": "Image of 2026 VULCAN S in action",
@@ -3029,43 +2559,38 @@
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1206/cb6dda1e-2e06-4fa3-ba62-46dab23ae307.jpg?w=800",
-    "caption": "ERGO-FIT",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5202/508e730c-b801-4dc9-b278-e64a4e332635.png?w=675",
+    "caption": "Metallic Matte Graphene Steel Gray / Metallic Spark Black",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1206/4f99d067-8e06-46c9-b47c-9c2195120e64.jpg?w=800",
-    "caption": "ERGO-FIT",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5202/5ef8a5e4-958d-4087-bf3a-ac4d8984b3e8.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 VULCAN S",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1206/b5fc10fb-760e-4b5a-8559-2dca7fd23a01.jpg?w=800",
-    "caption": "POWER",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5202/8b9186d0-50cd-4fec-8875-3c308de49d19.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 VULCAN S",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1165/aae64072-772c-42e1-a92a-8ee1d9ed40e7.jpg?w=800",
-    "caption": "POWER",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5202/851fd2fe-621c-4486-a624-0a087430936e.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 VULCAN S",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1206/74afadae-7df5-4fba-8ae6-f27f30548db6.jpg?w=800",
-    "caption": "POWER",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5202/5ef8a5e4-958d-4087-bf3a-ac4d8984b3e8.jpg",
+    "caption": "2026 VULCAN S",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1206/67af5a14-a539-4e7d-b9e4-ff7f17a8fa50.jpg?w=800",
-    "caption": "PERFORMANCE",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1206/3b77d9cc-b106-42fa-86fe-6f6eedcdfdb9.jpg?w=800",
-    "caption": "PERFORMANCE",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5202/8b9186d0-50cd-4fec-8875-3c308de49d19.jpg",
+    "caption": "2026 VULCAN S",
     "tag": "Foto"
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/vulcan/sport-cruiser/vulcan-s",
-  "checked": "2026-10-25"
+  "checked": "2026-10-26"
  },
  {
   "id": "kawasaki-w175l",
@@ -3088,14 +2613,9 @@
   "acc": null,
   "range": null,
   "sum": "Kawasaki W175 adalah motor retro klasik bermesin 177 cc dengan transmisi 5 kecepatan dan fitur ABS pada roda depan. Harga MSRP varian 2026 W175 ABS di Jakarta Rp 38.500.000.",
-  "image": null,
+  "image": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2064/5b45048e-f25e-41d8-86da-32f79ea87010.jpg?w=750",
   "image_credit": "Kawasaki Motor Indonesia",
   "gallery": [
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2064/5b45048e-f25e-41d8-86da-32f79ea87010.jpg?w=750",
-    "caption": "W175 ABS",
-    "tag": "Foto"
-   },
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5224/94f1b236-36f2-45ca-9c5e-fce96ec8cdee.jpg?w=640",
     "caption": "Image of 2026 W175 ABS in action",
@@ -3107,63 +2627,58 @@
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1235/b81b7a22-a641-4250-8b01-f098c31cbfe3.jpg?w=800",
-    "caption": "Mesin Kuat, Sederhana & Andal",
-    "tag": "Mesin"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1235/772cc8ab-ba3a-4743-be8f-7761d2b87919.jpg?w=800",
-    "caption": "Mesin Kuat, Sederhana & Andal",
-    "tag": "Mesin"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1235/b4d4366d-1118-4e95-888f-3a7476403e5a.jpg?w=800",
-    "caption": "Merasakan Berkendara Klasik",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5224/9b57533e-a922-4cd5-a30b-56632f11ac64.png?w=675",
+    "caption": "Metallic Graphite Gray",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1235/97f5865d-5731-4ecc-97c9-415c2bbe03d4.jpg?w=800",
-    "caption": "Merasakan Berkendara Klasik",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5224/6e59f5fe-82f9-4c18-91ca-40cdfdc2ce9c.png?w=675",
+    "caption": "Pearl Stardust White",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1235/80bc3f6b-d384-4aa6-a13a-08dd4be6320f.jpg?w=800",
-    "caption": "Merasakan Berkendara Klasik",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5224/29e40a4d-13af-4649-8978-ced4af87950c.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 W175",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1235/ea617ccd-1f07-495d-8c73-d4ae0840227b.jpg?w=800",
-    "caption": "Merasakan Berkendara Klasik",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5224/3304720c-f051-4bea-8753-6580bb3bd0b8.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 W175",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1235/683e745e-a9bc-44f9-80e8-7f059d1d3170.jpg?w=800",
-    "caption": "Merasakan Berkendara Klasik",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5224/7868a0cf-3513-4178-9cc1-32236a4f0790.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 W175",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1235/875942d5-29e5-41ef-8442-c84526eb30ff.jpg?w=800",
-    "caption": "Gaya Retro Otentik",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5224/01e94b1c-a336-48f2-a7b0-48f279f9e5d3.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 W175",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1235/2f3de0a8-eac3-4765-a2a6-97a7d9b51f76.jpg?w=800",
-    "caption": "Gaya Retro Otentik",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5224/41d10344-26e2-4a1b-ad0a-b34f6ebeebc9.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 W175",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1235/bf457939-5b4f-4d2f-b310-24583a9510e7.jpg?w=800",
-    "caption": "Gaya Retro Otentik",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5224/a2ba82d1-462d-49a2-9bf9-a4105d31508b.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 W175",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1235/32d5c6f4-7d0a-486d-a97e-b5c704f3dc2c.jpg?w=800",
-    "caption": "Gaya Retro Otentik",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5224/29e40a4d-13af-4649-8978-ced4af87950c.jpg",
+    "caption": "2026 W175",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5224/3304720c-f051-4bea-8753-6580bb3bd0b8.jpg",
+    "caption": "2026 W175",
     "tag": "Foto"
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/w/retro-classic/2024-w175l",
-  "checked": "2026-10-25"
+  "checked": "2026-10-26"
  },
  {
   "id": "kawasaki-w175-street",
@@ -3186,14 +2701,9 @@
   "acc": null,
   "range": null,
   "sum": "Kawasaki W175 STREET adalah motor retro classic bermesin 177 cc fuel injection dengan desain klasik dan velg bergaya jari-jari. Varian 2026 W175 STREET ABS dijual dengan MSRP Rp 38.900.000 di Jakarta.",
-  "image": null,
+  "image": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2085/afbc87b8-4fde-4dd2-beab-567046091d4c.jpg?w=750",
   "image_credit": "Kawasaki Motor Indonesia",
   "gallery": [
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2085/afbc87b8-4fde-4dd2-beab-567046091d4c.jpg?w=750",
-    "caption": "W175 STREET",
-    "tag": "Foto"
-   },
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5223/ff795d6d-38f1-4cdd-a550-f230d85df579.jpg?w=640",
     "caption": "Image of 2026 W175 STREET ABS in action",
@@ -3205,63 +2715,43 @@
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1235/b81b7a22-a641-4250-8b01-f098c31cbfe3.jpg?w=800",
-    "caption": "Mesin Kuat, Sederhana & Andal",
-    "tag": "Mesin"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1235/772cc8ab-ba3a-4743-be8f-7761d2b87919.jpg?w=800",
-    "caption": "Mesin Kuat, Sederhana & Andal",
-    "tag": "Mesin"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1235/b4d4366d-1118-4e95-888f-3a7476403e5a.jpg?w=800",
-    "caption": "Merasakan Berkendara Klasik",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5223/33885718-83e4-492f-a02b-629dc26dd4a8.png?w=675",
+    "caption": "Metallic Spark Black",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1235/97f5865d-5731-4ecc-97c9-415c2bbe03d4.jpg?w=800",
-    "caption": "Merasakan Berkendara Klasik",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5223/56d07f0a-4f32-4a97-9ee1-1aa536e811e1.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 W175 STREET",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1235/80bc3f6b-d384-4aa6-a13a-08dd4be6320f.jpg?w=800",
-    "caption": "Merasakan Berkendara Klasik",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5223/47663d14-e8ce-4684-88bf-c84870c25796.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 W175 STREET",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1235/ea617ccd-1f07-495d-8c73-d4ae0840227b.jpg?w=800",
-    "caption": "Merasakan Berkendara Klasik",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5223/6b19d468-2673-4dc9-a80a-459928876dbf.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 W175 STREET",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1235/683e745e-a9bc-44f9-80e8-7f059d1d3170.jpg?w=800",
-    "caption": "Merasakan Berkendara Klasik",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5223/56d07f0a-4f32-4a97-9ee1-1aa536e811e1.jpg",
+    "caption": "2026 W175 STREET",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1235/875942d5-29e5-41ef-8442-c84526eb30ff.jpg?w=800",
-    "caption": "Gaya Retro Otentik",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5223/47663d14-e8ce-4684-88bf-c84870c25796.jpg",
+    "caption": "2026 W175 STREET",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1235/2f3de0a8-eac3-4765-a2a6-97a7d9b51f76.jpg?w=800",
-    "caption": "Gaya Retro Otentik",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1235/bf457939-5b4f-4d2f-b310-24583a9510e7.jpg?w=800",
-    "caption": "Gaya Retro Otentik",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1235/32d5c6f4-7d0a-486d-a97e-b5c704f3dc2c.jpg?w=800",
-    "caption": "Gaya Retro Otentik",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5223/6b19d468-2673-4dc9-a80a-459928876dbf.jpg",
+    "caption": "2026 W175 STREET",
     "tag": "Foto"
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/w/retro-classic/w175-street",
-  "checked": "2026-10-25"
+  "checked": "2026-10-26"
  },
  {
   "id": "kawasaki-w230",
@@ -3284,14 +2774,9 @@
   "acc": null,
   "range": null,
   "sum": "Motor sport retro 233 cc single-silinder berpendingin udara dengan desain klasik dari seri W Kawasaki. MSRP Rp 73.200.000 (Jakarta).",
-  "image": null,
+  "image": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2067/6397ece5-0018-448e-b500-e6548e6d1578.jpg?w=750",
   "image_credit": "Kawasaki Motor Indonesia",
   "gallery": [
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2067/6397ece5-0018-448e-b500-e6548e6d1578.jpg?w=750",
-    "caption": "W230",
-    "tag": "Foto"
-   },
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5184/fd510b0a-332a-4db1-8cb1-862d5e68d1a0.jpg?w=640",
     "caption": "Image of 2026 W230 in action",
@@ -3313,53 +2798,48 @@
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1186/397bc60f-20b0-4e7d-9255-470c935a4bd7.jpg?w=800",
-    "caption": "TIMELESS BEAUTY",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5184/da6e28b0-d9ed-4139-bb61-44ead79082f0.png",
+    "caption": "",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1186/261835a5-4a2e-454d-8420-fbf531cb74ab.jpg?w=800",
-    "caption": "TIMELESS BEAUTY",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5184/a93ab4a1-c186-48dd-a80d-d8acfab9771f.png",
+    "caption": "",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1186/4d347334-d2ba-476f-b0f2-733fa1da1707.jpg?w=800",
-    "caption": "TIMELESS BEAUTY",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5165/e73658e1-a7e7-4851-9cb3-ea82e3a7f69a.png",
+    "caption": "",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1186/15541c7d-458e-4202-bb0b-fb3291244631.jpg?w=800",
-    "caption": "TIMELESS BEAUTY",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5165/f137d1ae-5618-4e4f-898d-043ba7bb2bd0.png",
+    "caption": "",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1186/e1f7a76a-ef8d-4516-acc4-880374753e95.jpg?w=800",
-    "caption": "TIMELESS BEAUTY",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5165/92225579-4697-43e8-ac68-2861020befc1.png?w=675",
+    "caption": "Pearl Ivory / Ebony",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1154/677ecec7-6a41-4d5f-b251-be1708bebdec.jpg?w=800",
-    "caption": "TIMELESS BEAUTY",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5165/e47c4c99-7a43-4375-bc65-e4af19ed179e.jpg?w=510&h=340&mode=crop",
+    "caption": "2025 W230",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1186/a82a49a7-7796-4382-8c91-fa087dfd6a0f.jpg?w=800",
-    "caption": "TIMELESS BEAUTY",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5165/e6b152bd-d202-4c66-9406-17cb61b229f2.jpg?w=510&h=340&mode=crop",
+    "caption": "2025 W230",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1186/8d66ddd8-3f98-48c6-b2b1-d444b8227759.jpg?w=800",
-    "caption": "CLASSIC W RIDE FEEL",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1186/2ae3e4bb-4bec-44c3-b100-90c8edd2d7ed.jpg?w=800",
-    "caption": "CLASSIC W RIDE FEEL",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5165/c2d20bef-814f-4945-a3b1-a6b1be9ad002.jpg?w=510&h=340&mode=crop",
+    "caption": "2025 W230",
     "tag": "Foto"
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/w/retro-classic/w230",
-  "checked": "2026-10-25"
+  "checked": "2026-10-26"
  },
  {
   "id": "kawasaki-w800",
@@ -3382,14 +2862,9 @@
   "acc": null,
   "range": null,
   "sum": "Kawasaki W800 adalah motor retro classic bermesin 773 cc vertikal-twin dengan desain bergaya era 1960-an. Harga MSRP-nya Rp 322.500.000 (Jakarta) untuk model 2026 dan 2025.",
-  "image": null,
+  "image": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2039/3b49fa5c-e355-4bf0-aa32-a6644ae9a524.jpg?w=750",
   "image_credit": "Kawasaki Motor Indonesia",
   "gallery": [
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2039/3b49fa5c-e355-4bf0-aa32-a6644ae9a524.jpg?w=750",
-    "caption": "W800",
-    "tag": "Foto"
-   },
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5207/ad7d85a4-519d-490f-8122-82a294d65f6a.jpg?w=640",
     "caption": "Image of 2026 W800 in action",
@@ -3413,17 +2888,17 @@
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1215/09d7885b-838a-4839-91c0-02443456c037.jpg?w=800",
     "caption": "GAYA RETRO",
-    "tag": "Foto"
+    "tag": "Lainnya"
    },
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1215/75288a54-9ddb-436e-ac66-7ae58bf6f99f.jpg?w=800",
     "caption": "GAYA RETRO",
-    "tag": "Foto"
+    "tag": "Panel instrumen"
    },
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1215/364a0622-8b62-4bb3-be0f-ee3f8962290d.jpg?w=800",
     "caption": "GAYA RETRO",
-    "tag": "Foto"
+    "tag": "Lampu"
    },
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1215/f29a903b-c327-4335-88ff-161ef26249cf.jpg?w=800",
@@ -3433,31 +2908,26 @@
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1215/596a90bf-96dc-458d-84cb-9e81b800a90a.jpg?w=800",
     "caption": "Performa dan Tenaga",
-    "tag": "Foto"
+    "tag": "Mesin"
    },
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1215/c5894939-6116-45e5-b5b8-f8e2740cdd55.jpg?w=800",
     "caption": "Performa dan Tenaga",
-    "tag": "Foto"
+    "tag": "Knalpot"
    },
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1215/c04350c0-16fb-44db-95a5-c4b9f485169b.jpg?w=800",
     "caption": "Performa dan Tenaga",
-    "tag": "Foto"
+    "tag": "Suspensi"
    },
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1215/cfe285d8-ac45-4154-a029-967b82a70cdd.jpg?w=800",
     "caption": "Performa dan Tenaga",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1215/2587cd2b-6006-445b-a488-abe6f631d7d5.jpg?w=800",
-    "caption": "Performa dan Tenaga",
-    "tag": "Foto"
+    "tag": "Roda dan rem"
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/w/retro-classic/w800",
-  "checked": "2026-10-25"
+  "checked": "2026-10-26"
  },
  {
   "id": "kawasaki-z-e-1",
@@ -3480,14 +2950,9 @@
   "acc": null,
   "range": null,
   "sum": "Z e-1 adalah sepeda motor listrik murni (EV) komuter dari Kawasaki dengan dua baterai lithium-ion yang dapat dilepas, mode ROAD/ECO, dan fitur e-boost. Kecepatan tertinggi dalam Mode ROAD adalah 85 km/jam.",
-  "image": null,
+  "image": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2062/385d277e-d6e2-4318-9347-82a0ef6dbc1d.jpg?w=750",
   "image_credit": "Kawasaki Motor Indonesia",
   "gallery": [
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2062/385d277e-d6e2-4318-9347-82a0ef6dbc1d.jpg?w=750",
-    "caption": "Z e-1",
-    "tag": "Foto"
-   },
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5147/c25e6124-8c2c-40cd-9d3b-3c6549142969.jpg?w=640",
     "caption": "Image of 2025 Z e-1 in action",
@@ -3499,63 +2964,58 @@
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1137/24040545-3c5a-4b4d-aaa4-e2db61d4d274.jpg?w=800",
-    "caption": "ELECTRIC POWER",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5147/abb3d33d-38ae-44b3-829c-e9b07fad4cc9.png?w=675",
+    "caption": "Metallic Bright Silver / Metallic Matte Lime Green / Ebony",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1137/b8bfcc9b-87b6-4ebc-83af-5251efec33f7.jpg?w=800",
-    "caption": "ELECTRIC POWER",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5147/758d2e31-b509-47cd-a086-7d2142f8e955.jpg?w=510&h=340&mode=crop",
+    "caption": "2025 Z e-1",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1137/42823cac-a03f-4533-9e11-7b66ebee6297.jpg?w=800",
-    "caption": "ELECTRIC POWER",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5147/a074103a-3da5-4fdb-8686-733f7f43ecc7.jpg?w=510&h=340&mode=crop",
+    "caption": "2025 Z e-1",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1137/acde73f4-0039-45e9-9356-f45b95a87401.jpg?w=800",
-    "caption": "ELECTRIC POWER",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5147/9fd32f48-318d-4432-84e8-acd24e28162f.jpg?w=510&h=340&mode=crop",
+    "caption": "2025 Z e-1",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com?w=800",
-    "caption": "ELECTRIC POWER",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5147/f774b488-57dc-40dc-ba7e-dcbd4476b0be.jpg?w=510&h=340&mode=crop",
+    "caption": "2025 Z e-1",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1137/4bfaa97f-5b67-4197-9947-e01eb898ef8e.jpg?w=800",
-    "caption": "ELECTRIC POWER",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5147/f10f7211-3b2f-4c4d-8c44-80ad78a134c8.png?w=510&h=340&mode=crop",
+    "caption": "2025 Z e-1",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5147/356e51a4-00f2-4671-b5b3-d666a4248354.jpg?w=510&h=340&mode=crop",
+    "caption": "2025 Z e-1",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1137/dab06f9b-d654-405c-bbfc-188164bac91c.jpg?w=800",
-    "caption": "DUAL REMOVABLE BATTERIES",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5147/f96ebd19-3d57-43c1-8803-555e33e8d9e8.jpg?w=510&h=340&mode=crop",
+    "caption": "2025 Z e-1",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1137/b82d7ccd-2930-4c3c-a34a-a09ca85addc9.jpg?w=800",
-    "caption": "DUAL REMOVABLE BATTERIES",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5147/c424e3c8-e2c9-4208-a429-ed41faea3c18.jpg?w=510&h=340&mode=crop",
+    "caption": "2025 Z e-1",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1137/4d95c7c9-6d17-4d70-9bda-9f02164de287.jpg?w=800",
-    "caption": "DUAL REMOVABLE BATTERIES",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1137/948e53c1-9321-4f28-9247-6be3c00d9a2e.jpg?w=800",
-    "caption": "DUAL REMOVABLE BATTERIES",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1137/15d865d7-3a50-41c8-8f33-6aa54f426607.jpg?w=800",
-    "caption": "DUAL REMOVABLE BATTERIES",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5147/7dbc0afc-77c3-4cb4-8793-2067b21069b1.png?w=510&h=340&mode=crop",
+    "caption": "2025 Z e-1",
     "tag": "Foto"
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/electric/ev/z-e-1",
-  "checked": "2026-10-25"
+  "checked": "2026-10-26"
  },
  {
   "id": "kawasaki-z1000",
@@ -3578,14 +3038,9 @@
   "acc": null,
   "range": null,
   "sum": "Kawasaki Z1100 2026 adalah supernaked flagship dengan mesin 1.099 cc In-Line Four berpendingin cair dan tenaga maksimum 100 kW (136 PS) pada 9.000 rpm. Harga MSRP di Jakarta Rp 399.900.000 dengan kapasitas tangki bensin 17 liter.",
-  "image": null,
+  "image": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2023/d251ab36-15a0-49cc-b4b8-d0a64474d013.jpg?w=750",
   "image_credit": "Kawasaki Motor Indonesia",
   "gallery": [
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2023/d251ab36-15a0-49cc-b4b8-d0a64474d013.jpg?w=750",
-    "caption": "Z1000",
-    "tag": "Foto"
-   },
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5225/0ede2f95-f132-40df-9eca-118697203060.jpg?w=640",
     "caption": "Image of 2026 Z1100 in action",
@@ -3597,63 +3052,58 @@
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1115/79a7260d-eeff-4a0e-a69c-746b0954b091.jpg?w=800",
-    "caption": "SUGOMI DESIGN",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1115/d9b6726f-cd87-47ca-a096-3ba92f27d2f5.jpg?w=800",
-    "caption": "SUGOMI DESIGN",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1115/6528e9f1-4407-4f31-9cbb-76fb1987819e.jpg?w=800",
-    "caption": "SUGOMI DESIGN",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1115/4d8d5076-8fe4-40b6-9dff-f48a21036e0f.jpg?w=800",
-    "caption": "SUGOMI DESIGN",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1115/9e1ce6d6-3dcf-4599-ae94-3fbdeb3436fa.jpg?w=800",
-    "caption": "SUGOMI PERFORMANCE",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1115/4e767f08-f8d6-426e-a573-4a69b3f34070.jpg?w=800",
-    "caption": "SUGOMI PERFORMANCE",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1115/29c84320-570e-444a-b4e6-8f9a2a35567a.jpg?w=800",
-    "caption": "SUGOMI PERFORMANCE",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1115/b8c9dc0b-4802-467e-9f8c-0d82709e62a8.jpg?w=800",
-    "caption": "SUGOMI PERFORMANCE",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1115/fb0cb12a-fdfb-4454-b07f-427587686f35.jpg?w=800",
-    "caption": "SUGOMI PERFORMANCE",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1115/893c7889-3923-4190-9298-46f3a820c097.jpg?w=800",
-    "caption": "SUGOMI PERFORMANCE",
-    "tag": "Foto"
-   },
-   {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5225/f24b52fb-2df0-446a-87bb-3c0b0faa450e.png?w=675",
     "caption": "Ebony",
     "tag": "Foto"
+   },
+   {
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5225/25d818c3-d14c-4be2-9997-c2e8617f3295.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 Z1100",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5225/431a6dd2-2efc-49d1-a587-976af66ca3cd.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 Z1100",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5225/198f7812-5fab-4170-81f3-ff224ddb93fc.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 Z1100",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5225/64f43a38-1192-4ec5-bd27-1987cdf3c264.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 Z1100",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5225/ea289c10-cfd0-4eed-b291-2987f5a307af.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 Z1100",
+    "tag": "Lainnya"
+   },
+   {
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5225/a8fbe5bc-abe7-49d8-b294-113e64473ae8.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 Z1100",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5225/87d0689f-922a-4311-91ac-051c5a34d635.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 Z1100",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5225/b1c5eaf3-c08d-42e9-8bd7-b6dfabf96c93.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 Z1100",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5225/233bb194-83b5-4cc3-8ebd-d2314c320e2b.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 Z1100",
+    "tag": "Lainnya"
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/z/supernaked/z1000",
-  "checked": "2026-10-25"
+  "checked": "2026-10-26"
  },
  {
   "id": "kawasaki-z125-pro",
@@ -3676,14 +3126,9 @@
   "acc": null,
   "range": null,
   "sum": "Kawasaki Z125 PRO adalah naked bike 125 cc bermesin fuel-injected dengan transmisi manual empat kecepatan dan gaya streetfighter yang agresif. Harga MSRP-nya Rp 52.500.000 (Jakarta).",
-  "image": null,
+  "image": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/71/b396c0da-b7cd-4582-8d9f-ab89e7ad5ea8.jpg?w=750",
   "image_credit": "Kawasaki Motor Indonesia",
   "gallery": [
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/71/b396c0da-b7cd-4582-8d9f-ab89e7ad5ea8.jpg?w=750",
-    "caption": "Z125 PRO",
-    "tag": "Foto"
-   },
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5211/842816af-afae-4227-89dc-3936ba8215ae.jpg?w=640",
     "caption": "Image of 2026 Z125 PRO in action",
@@ -3695,63 +3140,43 @@
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1220/8a41cb12-095b-4220-a0dd-5045f181654e.jpg?w=800",
-    "caption": "Z STYLING",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5211/b117dac4-a17f-4bd1-9031-0f13471bad00.png?w=675",
+    "caption": "Metallic Yellowish Green",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1220/38aaa4ca-1ce0-49ff-8bd4-ca83cac3dae5.jpg?w=800",
-    "caption": "Z STYLING",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5211/a44775bb-35c0-477a-9b56-e7431c2fa091.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 Z125 PRO",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1220/4a4ce090-93d0-4d18-9b90-cb14836d346c.jpg?w=800",
-    "caption": "Z STYLING",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5211/5b88a7bc-c3dd-48cf-92c2-dc9fb66c5fce.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 Z125 PRO",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1220/ce4458c5-3424-441e-96fa-94de855698c3.jpg?w=800",
-    "caption": "Z STYLING",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5211/3960bf80-153d-4f11-b25b-efe5e6a0c171.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 Z125 PRO",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1220/5739c24e-29f8-4c6d-88df-513be45b02db.jpg?w=800",
-    "caption": "Z STYLING",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5211/a44775bb-35c0-477a-9b56-e7431c2fa091.jpg",
+    "caption": "2026 Z125 PRO",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1220/fea2f88d-6107-4807-b406-40cbd7b536b0.jpg?w=800",
-    "caption": "POWER & PERFORMANCE",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5211/5b88a7bc-c3dd-48cf-92c2-dc9fb66c5fce.jpg",
+    "caption": "2026 Z125 PRO",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1169/ba8349de-ed09-439d-8405-692e427af14f.jpg?w=800",
-    "caption": "POWER & PERFORMANCE",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1169/4a4d941d-5086-4b88-8126-4935b7c6aceb.jpg?w=800",
-    "caption": "POWER & PERFORMANCE",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1169/f65c5291-d7b2-4619-ae7e-787121ab8dcc.jpg?w=800",
-    "caption": "POWER & PERFORMANCE",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1169/ac8f9d85-664a-43bf-be83-cbccb255bec7.jpg?w=800",
-    "caption": "POWER & PERFORMANCE",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1220/bd1ea170-107a-4467-a5ef-1df07a94b2a3.jpg?w=800",
-    "caption": "HANDLING",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5211/3960bf80-153d-4f11-b25b-efe5e6a0c171.jpg",
+    "caption": "2026 Z125 PRO",
     "tag": "Foto"
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/z/mini-naked/z125-pro",
-  "checked": "2026-10-25"
+  "checked": "2026-10-26"
  },
  {
   "id": "kawasaki-z900",
@@ -3778,14 +3203,9 @@
   "acc": null,
   "range": null,
   "sum": "Z900 adalah supernaked dengan mesin In-Line Four 948 cc liquid cooled, tersedia dalam varian Z900 dan Z900 SE. Motor ini dilengkapi IMU-enhanced ABS, KTRC, KCMF, dan KQS.",
-  "image": null,
+  "image": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2074/e42e4dd2-c696-4900-b22d-13cc0470fed7.jpg?w=750",
   "image_credit": "Kawasaki Motor Indonesia",
   "gallery": [
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2074/e42e4dd2-c696-4900-b22d-13cc0470fed7.jpg?w=750",
-    "caption": "z900",
-    "tag": "Foto"
-   },
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5205/f1f4ef4f-0d0c-495b-93a5-f3ba8206e21e.jpg?w=640",
     "caption": "Image of 2026 Z900 SE in action",
@@ -3845,15 +3265,10 @@
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5012/b7bffa17-0b13-49b9-bb1b-c5ca7775097c.png?w=767",
     "caption": "Z900",
     "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1164/4de100d5-775b-4546-9d4a-5dbfd58d38c6.jpg?w=800",
-    "caption": "SUGOMI PERFORMANCE",
-    "tag": "Foto"
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/z/supernaked/z900",
-  "checked": "2026-10-25"
+  "checked": "2026-10-26"
  },
  {
   "id": "kawasaki-z900rs",
@@ -3880,14 +3295,9 @@
   "acc": null,
   "range": null,
   "sum": "Z900RS adalah motor retro sport bermesin In-Line Four 948 cc yang terinspirasi dari Z1, dengan desain tangki teardrop dan silencer megaphone. Tersedia dalam varian standar dan CAFE dengan harga mulai Rp 360.900.000.",
-  "image": null,
+  "image": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2037/abc140d6-ae72-48bb-966c-cd4789a9fa31.jpg?w=750",
   "image_credit": "Kawasaki Motor Indonesia",
   "gallery": [
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2037/abc140d6-ae72-48bb-966c-cd4789a9fa31.jpg?w=750",
-    "caption": "Z900RS",
-    "tag": "Foto"
-   },
    {
     "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5227/723437ea-f5b6-48af-933f-72f9ea4b5e57.jpg?w=640",
     "caption": "Image of 2026 Z900RS in action",
@@ -3909,52 +3319,42 @@
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1240/e00de1e2-ab7f-460b-9fb7-8d61bd905480.jpg?w=800",
-    "caption": "TIMELESS STYLING",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5227/c2377795-33fa-473f-ac0e-24858fffd4ab.png?w=675",
+    "caption": "Candytone Red",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1240/e95a1f04-f2e1-4351-b174-5d5460dd6626.jpg?w=800",
-    "caption": "TIMELESS STYLING",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5227/9f0ba135-0376-4464-bc2f-7bd6bce80192.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 Z900RS",
+    "tag": "Lainnya"
+   },
+   {
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5227/7c4a5c59-36fa-4b37-ab12-5e2c9b92f9ea.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 Z900RS",
+    "tag": "Jok"
+   },
+   {
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5227/a7939628-af5d-4853-900a-12e3ac73e73d.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 Z900RS",
+    "tag": "Jok"
+   },
+   {
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5227/f8080c7f-8dd9-4968-801a-ee9f87742448.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 Z900RS",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1240/67f6e372-e7b0-436d-b33f-dba39e28c19d.jpg?w=800",
-    "caption": "TIMELESS STYLING",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5227/029ee760-0ceb-4ed1-9526-8fdf62dc0a2a.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 Z900RS",
     "tag": "Foto"
    },
    {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1240/087b58af-04d7-4bfe-9c3c-80fc28046715.jpg?w=800",
-    "caption": "TIMELESS STYLING",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1240/682e2b3c-9f77-4aa0-ba5d-c4d4e6a0bec3.jpg?w=800",
-    "caption": "TIMELESS STYLING",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1240/b3a2c381-4696-4ce4-82c9-3c54a581ce52.jpg?w=800",
-    "caption": "SYNCHRONOUS RIDE FEEL",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1240/a6aed201-2c87-44c6-9a7b-349bcbcaa1ca.jpg?w=800",
-    "caption": "SYNCHRONOUS RIDE FEEL",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1240/d5da4d9e-bec6-4e63-b93b-dbbf1113bf2e.jpg?w=800",
-    "caption": "SYNCHRONOUS RIDE FEEL",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTopFeature/1240/d723ac38-07e7-40f7-8858-a86a17d8045a.jpg?w=800",
-    "caption": "SYNCHRONOUS RIDE FEEL",
+    "url": "https://kawasaki-global-admin.com/ContentStorage/KMI/Products/5227/3ac8bdc9-666f-4530-be3d-f08c88ae673b.jpg?w=510&h=340&mode=crop",
+    "caption": "2026 Z900RS",
     "tag": "Foto"
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/z/retro-sport/z900rs",
-  "checked": "2026-10-25"
+  "checked": "2026-10-26"
  }
 ]
