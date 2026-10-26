@@ -32,6 +32,10 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
       - run: python commons.py
         continue-on-error: true
+      - run: python verify_images.py --commons
+        continue-on-error: true
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
       - run: python merge.py
       - run: python write_articles.py
         continue-on-error: true
