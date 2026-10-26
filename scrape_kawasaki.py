@@ -267,6 +267,11 @@ def main():
     gpakai = Counter(g["url"] for x in result for g in x.get("gallery", []))
     for x in result:                     # foto yang muncul di banyak motor = gambar umum/menu, buang
         x["gallery"] = [g for g in x.get("gallery", []) if gpakai[g["url"]] <= 3 and g["url"] != x.get("image")]
+    for x in result:                     # tanpa gambar utama: pakai foto pertama dari galeri
+        if not x.get("image") and x["gallery"]:
+            pilih = next((g for g in x["gallery"] if g["tag"] == "Foto"), x["gallery"][0])
+            x["image"] = pilih["url"]
+            x["gallery"] = [g for g in x["gallery"] if g["url"] != pilih["url"]]
     print(f"Galeri foto: {sum(len(x['gallery']) for x in result)} foto untuk {sum(1 for x in result if x['gallery'])} motor")
     print(f"Gambar ditemukan untuk {sum(1 for x in result if x.get('image'))} dari {len(result)} motor")
     if len(result) < MIN_MODELS // 2:

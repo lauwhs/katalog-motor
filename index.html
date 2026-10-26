@@ -83,7 +83,8 @@ const F={q:"",sort:"price-asc",body:"",engine:"",brand:"",maxPrice:1e12,minSpeed
 const uniq=k=>[...new Set(DATA.map(d=>d[k]))].sort();
 const opt=(arr,v)=>'<option value="">Semua</option>'+arr.map(x=>`<option${x===v?" selected":""}>${x}</option>`).join("");
 const safe=u=>/^https?:\/\//.test(u||"")?u:"";
-const thumb=d=>safe(d.image)?`<img src="${safe(d.image)}" alt="${d.brand} ${d.name}" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.textContent='🏍️'">`:"🏍️";
+const pic=d=>{const g=(d.gallery||[]).filter(x=>safe(x.url));return safe(d.image)||(g.find(x=>x.tag==="Foto")||g[0]||{}).url||""};
+const thumb=d=>{const u=safe(pic(d));return u?`<img src="${u}" alt="${d.brand} ${d.name}" referrerpolicy="no-referrer" onerror="this.parentNode.textContent='🏍️'">`:"🏍️"};
 function list(){
  const r=DATA.filter(d=>(!F.body||d.body===F.body)&&(!F.engine||d.engine===F.engine)&&(!F.brand||d.brand===F.brand)&&d.price<=F.maxPrice&&(F.minSpeed==0||d.speed>=F.minSpeed)&&(d.brand+" "+d.name).toLowerCase().includes(F.q.toLowerCase())).sort(SORTS[F.sort][1]);
  document.getElementById("res").innerHTML=r.length?r.map(d=>`<a class="item" href="#/${d.id}"><div class="th">${thumb(d)}</div><div><h3>${d.brand} ${d.name}</h3><div class="meta"><span class="tag">${d.body}</span><span class="tag">${d.engine}</span>${rel(d)}</div></div><div class="price">${rp(d.price)}</div><div class="specs"><span><b>Top speed</b> ${d.speed} km/jam</span><span><b>BBM</b> ${d.kmpl?d.kmpl+" km/l":"-"}</span><span><b>0-100</b> ${d.acc?d.acc+" dtk":"-"}</span></div></a>`).join(""):'<div class="empty">Tidak ada motor yang cocok. Longgarkan filter di sebelah kiri.</div>';
