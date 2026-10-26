@@ -119,11 +119,18 @@ GTAGS = [(r"meter|speedo|dash|panel|instrument|cluster", "Panel instrumen"), (r"
 JUNK = re.compile(r"logo|icon|sprite|banner|flag|avatar|facebook|instagram|youtube|tiktok|twitter|\.svg|\.gif|placeholder|loading|arrow|btn|button", re.I)
 
 
-def find_gallery(html, page_url):
-    """Kumpulkan foto-foto di isi halaman model (di luar menu, header, dan footer)."""
+FOREIGN_WORDS = re.compile(r"atv|utv|mule|teryx|brute|jet-?ski|ultra[-_ ]?\d|stx|side[-_ ]?by[-_ ]?side", re.I)
+RELATED_CLASS = re.compile(r"related|recommend|similar|other-?product|mega-?menu|dropdown|also-like|produk-lain|lainnya", re.I)
+
+
+def find_gallery(html, page_url, model_path="", foreign_keys=()):
+    """Kumpulkan foto di isi halaman model, tanpa menu, kartu produk lain, dan blok 'produk terkait'."""
     soup = BeautifulSoup(html, "html.parser")
     for t in soup(["nav", "header", "footer", "aside", "script", "style", "noscript"]):
         t.decompose()
+    for t in soup.find_all(attrs={"class": RELATED_CLASS}) + soup.find_all(attrs={"id": RELATED_CLASS}):
+        t.decompose()
+    cur = re.sub(r"[^a-z0-9]", "", re.sub(r"^\d{4}-", "", model_path.rsplit("/", 1)[-1].lower()))
     root = soup.find("main") or soup.body or soup
     out, seen = [], set()
     for img in root.find_all("img"):
@@ -132,15 +139,23 @@ def find_gallery(html, page_url):
             src = img["srcset"].split(",")[0].split()[0]
         if not src or src.startswith("data:") or JUNK.search(src):
             continue
+        a = img.find_parent("a")
+        if a and a.get("href"):                      # gambar di dalam kartu yang menuju halaman LAIN = produk lain
+            path = urlparse(urljoin(page_url, a["href"])).path
+            if path.startswith("/id-id/") and model_path and not path.startswith(model_path):
+                continue
         url = urljoin(page_url, src.strip())
+        cap = (img.get("alt") or img.get("title") or "").strip()
+        hay = cap + " " + url.rsplit("/", 1)[-1]
+        flat = re.sub(r"[^a-z0-9]", "", hay.lower())
+        if FOREIGN_WORDS.search(hay) or any(k in flat and not k.startswith(cur) and not cur.startswith(k) for k in foreign_keys):
+            continue                                 # nama file/keterangan menyebut model atau kendaraan lain
         if url in seen:
             continue
         seen.add(url)
-        cap = (img.get("alt") or img.get("title") or "").strip()
         if not cap:
             fig = img.find_parent("figure")
             cap = fig.get_text(" ", strip=True) if fig else ""
-        hay = cap + " " + url.rsplit("/", 1)[-1]
         tag = next((lab for rx, lab in GTAGS if re.search(rx, hay, re.I)), "Foto")
         out.append({"url": url, "caption": cap[:90], "tag": tag})
     return out[:14]
@@ -179,6 +194,8 @@ def main():
     if len(groups) < MIN_MODELS:
         sys.exit(f"Hanya {len(groups)} model (minimal {MIN_MODELS}). Struktur situs mungkin berubah, data lama dibiarkan.")
 
+    foreign_keys = {re.sub(r"[^a-z0-9]", "", re.sub(r"^\d{4}-", "", p.rsplit("/", 1)[-1].lower())) for p in groups}
+    foreign_keys = {k for k in foreign_keys if len(k) >= 4}
     result, new_cache = [], {}
     for model_path, variant_urls in sorted(groups.items()):
         model_url = BASE + model_path
@@ -193,7 +210,7 @@ def main():
                     html = get(u)
                     texts.append(page_text(html)[:7000])
                     image = image or find_image(html, u, parts[5])
-                    for g in find_gallery(html, u):
+                    for g in find_gallery(html, u, model_path, foreign_keys):
                         if all(g["url"] != x["url"] for x in gallery):
                             gallery.append(g)
                 except Exception as e:
