@@ -23,11 +23,11 @@ DATA (JSON):
 {data}
 
 Aturan ketat:
-1. Boleh memakai spesifikasi di bagian "riset", tetapi jangan menambah spesifikasi apa pun yang tidak ada di data.
+1. Boleh memakai spesifikasi di bagian "riset" dan "spesifikasi_resmi", tetapi jangan menambah spesifikasi apa pun yang tidak ada di data.
 2. Jangan mengaku pernah mengendarai atau menguji motor ini, dan jangan mengarang kesan berkendara.
 3. Jika suatu data kosong (null), tulis bahwa datanya belum tersedia. Jangan menebak.
 4. Untuk data di kolom perf, sebut basisnya ("hasil uji", "klaim pabrikan", atau "berita") bila ada.
-5. Harga adalah MSRP Jakarta dari situs resmi, dalam rupiah. Tulis dalam "Rp xx juta". Sebut selisih antar varian bila ada lebih dari satu varian.
+5. Harga dari situs resmi, dalam rupiah. Jenis harga ada di "jenis_harga" (jika tidak ada, berarti MSRP Jakarta). Sebut jenis harganya. Tulis dalam "Rp xx juta". Sebut selisih antar varian bila ada lebih dari satu varian.
 6. Nada informatif dan netral. Hindari kata promosi seperti "terbaik", "sempurna", atau "wajib punya".
 7. Bagian "Cocok untuk siapa" hanya berisi kesimpulan yang wajar dari data (kategori, kapasitas mesin, harga), dengan bahasa yang berhati-hati.
 8. Bagian "ulasan_media": sebut pendapat sebagai "menurut ulasan {{nama media}}", dengan kata-katamu sendiri dan tanpa mengutip kalimat asli. Jika ada perbedaan pendapat antar media, sebutkan keduanya.
@@ -40,6 +40,10 @@ Balas HANYA dengan JSON seperti ini:
 
 def core_of(m, research):
     core = {k: m.get(k) for k in FIELDS}
+    if m.get("price_type") and m["price_type"] != "MSRP Jakarta":
+        core["jenis_harga"] = m["price_type"]
+    if m.get("specs"):
+        core["spesifikasi_resmi"] = m["specs"]
     r = research.get(m["id"])
     if r:   # ringkas: spesifikasi tanpa URL, ulasan dengan nama media
         core["riset"] = {"spesifikasi": {k: v["value"] for k, v in r.get("specs", {}).items()},

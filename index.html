@@ -92,7 +92,7 @@ function list(){
 }
 function home(){
  document.getElementById("app").innerHTML=`<header><h1>Katalog Motor Indonesia</h1><p>Motor resmi yang masih dijual di Indonesia. Urutkan dan saring sesuai kebutuhan.</p></header>
- <div class="notice">Saat ini baru memuat merek Kawasaki (${DATA.length} motor). Harga adalah MSRP Jakarta dari situs resmi, diperbarui ${DATA.length?DATA[0].checked:"-"}. Merek lain menyusul.</div>
+ <div class="notice">Saat ini memuat ${DATA.length} motor dari merek ${[...new Set(DATA.map(d=>d.brand))].join(" dan ")}. Harga dari situs resmi pabrikan (jenis harga, OTR atau MSRP Jakarta, tertera di halaman tiap motor), diperbarui ${DATA.length?DATA[0].checked:"-"}. Merek lain menyusul.</div>
  <div class="layout"><aside><label for="q">Cari</label><input id="q" type="search" placeholder="Contoh: Vario" value="${F.q}">
  <label for="b">Bodi</label><select id="b">${opt(uniq("body"),F.body)}</select>
  <label for="e">Mesin</label><select id="e">${opt(uniq("engine"),F.engine)}</select>
@@ -127,7 +127,7 @@ async function loadArt(id){
  if(!ART)ART=await getJ("data/articles.json");
  if(!RES)RES=await getJ("data/research.json");
  const el=document.getElementById("artikel");if(!el)return;
- const a=ART[id],r=RES[id]||{},sp=Object.entries(r.specs||{});
+ const d0=DATA.find(x=>x.id===id)||{},a=ART[id],r=RES[id]||{},sp=Object.entries({...(r.specs||{}),...Object.fromEntries(Object.entries(d0.specs||{}).map(([k,v])=>[k,{value:v,source:d0.source}]))});
  let o="";
  if(sp.length)o+=`<h2>Spesifikasi</h2><div class="grid">${sp.map(([k,v])=>`<div><small>${LBL[k]||esc(k)} <a href="${esc(okUrl(v.source))}" target="_blank" rel="noopener" title="Sumber">sumber</a></small><strong style="font-size:1.05rem">${esc(v.value)}</strong></div>`).join("")}</div>`;
  if(a)o+=`<h2>Ulasan</h2>${a.sections.map(s=>`<h3>${esc(s.h)}</h3><p>${esc(s.p)}</p>`).join("")}`;
@@ -140,7 +140,7 @@ function detail(id){
  document.title=d.brand+" "+d.name+" | Katalog Motor Indonesia";
  document.getElementById("app").innerHTML=`<p><button onclick="location.hash=''">Kembali ke daftar</button></p><article class="art"><h1>${d.brand} ${d.name}</h1><p class="meta"><span class="tag">${d.body}</span><span class="tag">${d.engine}</span>${rel(d)}</p>${safe(d.image)?`<figure><img src="${safe(d.image)}" alt="${d.brand} ${d.name}" referrerpolicy="no-referrer" onerror="this.parentNode.remove()"><figcaption>Foto: ${d.image_credit||d.brand} (sumber: situs resmi)</figcaption></figure>`:""}<p>${d.sum}</p>
  <div class="grid"><div><small>Harga</small><strong>${rp(d.price)}</strong></div><div><small>Mesin</small><strong>${d.cc?d.cc+" cc":d.engine}</strong></div><div><small>Top speed</small><strong>${d.speed?d.speed+" km/jam":"-"}</strong></div><div><small>Konsumsi BBM</small><strong>${d.kmpl?d.kmpl+" km/l":"-"}</strong></div><div><small>${d.range?"Jangkauan":"Akselerasi 0-100"}</small><strong>${d.range?d.range+" km":(d.acc?d.acc+" dtk":"-")}</strong></div></div>
- <div id="galeri"></div><div id="artikel"></div>${d.variants&&d.variants.length?`<h2>Varian dan harga</h2><div class="grid">${d.variants.map(v=>`<div><small>${v.name}</small><strong>${rp(v.price)}</strong></div>`).join("")}</div>`:""}${d.perf?`<p class="meta">Data tambahan dicari otomatis dari web, bukan klaim resmi Kawasaki. ${Object.entries(d.perf).map(([k,v])=>v?`<a href="${v.source}" rel="noopener" target="_blank">${({release:"Tanggal rilis",speed:"Top speed",kmpl:"Konsumsi BBM",acc:"Akselerasi",range:"Jangkauan"})[k]} (${v.basis||"sumber"})</a>`:"").filter(Boolean).join(", ")}. Mohon periksa kembali sebelum dijadikan dasar membeli.</p>`:""}<p class="meta">Harga MSRP Jakarta. Sumber: <a href="${d.source}" rel="noopener" target="_blank">situs resmi Kawasaki Indonesia</a>, dicek ${d.checked}. Artikel ulasan lengkap menyusul.</p></article>`;
+ <div id="galeri"></div><div id="artikel"></div>${d.variants&&d.variants.length?`<h2>Varian dan harga</h2><div class="grid">${d.variants.map(v=>`<div><small>${v.name}</small><strong>${rp(v.price)}</strong></div>`).join("")}</div>`:""}${d.perf?`<p class="meta">Data tambahan dicari otomatis dari web, bukan klaim resmi Kawasaki. ${Object.entries(d.perf).map(([k,v])=>v?`<a href="${v.source}" rel="noopener" target="_blank">${({release:"Tanggal rilis",speed:"Top speed",kmpl:"Konsumsi BBM",acc:"Akselerasi",range:"Jangkauan"})[k]} (${v.basis||"sumber"})</a>`:"").filter(Boolean).join(", ")}. Mohon periksa kembali sebelum dijadikan dasar membeli.</p>`:""}<p class="meta">Harga ${d.price_type||"MSRP Jakarta"}. Sumber: <a href="${d.source}" rel="noopener" target="_blank">situs resmi Kawasaki Indonesia</a>, dicek ${d.checked}. Artikel ulasan lengkap menyusul.</p></article>`;
  scrollTo(0,0);loadGal(d);loadArt(id);
 }
 function route(){const h=location.hash.replace("#/","");h?detail(h):(document.title="Katalog Motor Indonesia",home())}

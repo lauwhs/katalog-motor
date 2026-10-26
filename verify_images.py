@@ -70,6 +70,8 @@ def main():
             continue
         motors = json.loads(f.read_text(encoding="utf-8"))
         for m in motors:
+            if m.get("trusted_images"):          # foto resmi yang sudah berlabel (mis. galeri fitur Honda)
+                continue
             urls = ([m["image"]] if m.get("image") else []) + [g["url"] for g in m.get("gallery", [])]
             for u in urls:
                 if u in cache:

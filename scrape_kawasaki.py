@@ -264,7 +264,7 @@ def main():
             "body": data.get("body") or "Lainnya",
             "engine": data.get("engine") or "Bensin",
             "cc": data.get("cc"),
-            "price": data["price"],
+            "price": data["price"], "price_type": "MSRP Jakarta",
             "variants": data.get("variants") or [],
             "model_year": year,
             "release": None, "speed": data.get("speed"), "kmpl": data.get("kmpl"),
