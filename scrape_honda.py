@@ -104,6 +104,8 @@ def main():
     print("Kategori:", ", ".join(c.get("title", "?") for c in cats))
     products = {}
     for c in cats:
+        if c.get("redirectUrl"):                 # BigBike: situs terpisah, ditangani scrape_honda_bigbike.py
+            continue
         for p in as_list(get_json(f"{BASE}/api/v1/product?category={c['id']}")):
             if p.get("redirect_link"):           # nama lama yang dialihkan ke model lain
                 continue
