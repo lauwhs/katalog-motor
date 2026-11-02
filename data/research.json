@@ -3266,5 +3266,2997 @@
    }
   ],
   "dicek": "2026-10-25"
+ },
+ "honda-adv-160": {
+  "specs": {
+   "tenaga": {
+    "value": "11,8 kW (16 PS) pada 8.500 rpm",
+    "source": "https://www.motorkux.id/motor-baru-honda/p/bp-adv-160"
+   },
+   "torsi": {
+    "value": "14,7 Nm pada 6.500 rpm",
+    "source": "https://www.motorkux.id/motor-baru-honda/p/bp-adv-160"
+   },
+   "bobot": {
+    "value": "133 kg (berat kosong, tipe CBS dan ABS)",
+    "source": "https://hondamotorsumedang.com/model/adv-160/"
+   },
+   "tinggi_jok": {
+    "value": "780 mm",
+    "source": "https://www.motorkux.id/motor-baru-honda/p/bp-adv-160"
+   },
+   "tangki": {
+    "value": "8,1 liter",
+    "source": "https://www.motorkux.id/motor-baru-honda/p/bp-adv-160"
+   },
+   "transmisi": {
+    "value": "Otomatis tipe V-Matic dengan kopling sentrifugal",
+    "source": "https://www.motorkux.id/motor-baru-honda/p/bp-adv-160"
+   },
+   "rem": {
+    "value": "Cakram wavy di depan dan belakang; depan 240 mm, belakang 220 mm",
+    "source": "https://www.motorkux.id/motor-baru-honda/p/bp-adv-160"
+   },
+   "suspensi": {
+    "value": "Depan teleskopik; belakang ganda berjenis tabung (twin subtank)",
+    "source": "https://www.motorkux.id/motor-baru-honda/p/bp-adv-160"
+   },
+   "ban": {
+    "value": "Depan 110/80-14 tubeless; belakang 130/70-13 tubeless",
+    "source": "https://www.motorkux.id/motor-baru-honda/p/bp-adv-160"
+   },
+   "fitur": {
+    "value": "Mesin eSP+ 4 katup berpendingin cairan, PGM-FI, Honda Smart Key dan alarm, HSTC, bagasi 30 liter, panel TFT 5 inci dan Honda RoadSync hanya di tipe ABS RoadSync",
+    "source": "https://nambomotor.com/berita/detail/spesifikasi-honda-adv-160"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Radar Tegal (Disway)",
+    "url": "https://radartegal.disway.id/lifestyle/read/730573/review-jangka-panjang-honda-adv-160-setelah-1-tahun-pemakaian-harian",
+    "kelebihan": [
+     "Ground clearance tinggi untuk medan tidak rata",
+     "Posisi berkendara dinilai nyaman",
+     "Bagasi dinilai luas",
+     "HSTC membantu stabil di jalan licin"
+    ],
+    "kekurangan": [
+     "Harga unit dinilai tinggi di kelasnya",
+     "Jok dianggap tinggi bagi pengendara di bawah 165 cm",
+     "Suara CVT kadang kasar pada kondisi tertentu"
+    ]
+   },
+   {
+    "media": "Suara Merdeka",
+    "url": "https://www.suaramerdeka.com/otomotif/0415597656/5-kelemahan-honda-adv-160-ini-kerap-dikeluhkan-pengguna-dari-getaran-mesin-hingga-jok-tidak-nyaman",
+    "kelebihan": [],
+    "kekurangan": [
+     "Getaran atau gredek saat tarikan awal mesin sering dikeluhkan",
+     "Stang dinilai kurang ergonomis untuk touring jarak jauh",
+     "Shockbreaker belakang dinilai terlalu keras",
+     "Jok cepat panas saat perjalanan jauh"
+    ]
+   },
+   {
+    "media": "Oto.com",
+    "url": "https://www.oto.com/motor-baru/honda/adv-160/faq/apa-kelebihan-dan-kekurangan-honda-adv-160",
+    "kelebihan": [
+     "Desain skutik petualang dinilai menarik",
+     "Mesin 160 cc dinilai memakai teknologi terkini",
+     "Fitur RoadSync disebut mirip PCX 160"
+    ],
+    "kekurangan": [
+     "Harga dinilai masih kurang kompetitif",
+     "Pilihan warna pada varian termahal dinilai kurang menawarik"
+    ]
+   }
+  ],
+  "dicek": "2026-11-02"
+ },
+ "honda-beat": {
+  "specs": {
+   "tenaga": {
+    "value": "6,6 kW (9,0 PS) pada 7.500 rpm",
+    "source": "https://www.restumotor.co.id/2026/10/honda-beat.html"
+   },
+   "torsi": {
+    "value": "9,2 N.m (0,94 kgf.m) pada 6.000 rpm",
+    "source": "https://www.restumotor.co.id/2026/10/honda-beat.html"
+   },
+   "bobot": {
+    "value": "88 kg (tipe CBS)",
+    "source": "https://www.restumotor.co.id/2026/10/honda-beat.html"
+   },
+   "tinggi_jok": {
+    "value": "742 mm",
+    "source": "https://www.restumotor.co.id/2026/10/honda-beat.html"
+   },
+   "tangki": {
+    "value": "4,2 liter",
+    "source": "https://www.restumotor.co.id/2026/10/honda-beat.html"
+   },
+   "transmisi": {
+    "value": "Otomatis tipe V-Matic dengan kopling sentrifugal kering",
+    "source": "https://www.restumotor.co.id/2026/10/honda-beat.html"
+   },
+   "rem": {
+    "value": "Depan cakram hidrolik piston tunggal, belakang tromol, sistem Combi Brake System",
+    "source": "https://www.restumotor.co.id/2026/10/honda-beat.html"
+   },
+   "suspensi": {
+    "value": "Depan teleskopik, belakang lengan ayun dengan peredam kejut tunggal",
+    "source": "https://www.restumotor.co.id/2026/10/honda-beat.html"
+   },
+   "ban": {
+    "value": "Depan 80/90-14 M/C tubeless, belakang 90/90-14 M/C tubeless",
+    "source": "https://www.restumotor.co.id/2026/10/honda-beat.html"
+   },
+   "fitur": {
+    "value": "Power charger USB di semua varian, indikator baterai, ISS hanya tipe Deluxe",
+    "source": "https://otomotif.kompas.com/read/2024/06/03/163600215/spesifikasi-lengkap-all-new-honda-beat-series-fitur-makin-banyak"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Otosia (Liputan6)",
+    "url": "https://otosia.liputan6.com/motor/read/6178003/honda-beat-series-bahas-tuntas-efisiensi-bbm-kelincahan-dan-fitur-kunci-yang-bikin-betah",
+    "kelebihan": [
+     "Konsumsi BBM efisien, diklaim mencapai 60,6 km per liter",
+     "Harga dinilai kompetitif di kelasnya",
+     "Dimensi ringkas dan bobot ringan, mudah bermanuver di kota",
+     "Fitur modern seperti ISS, CBS, power charger, dan ACG starter"
+    ],
+    "kekurangan": [
+     "Kapasitas mesin 110 cc dinilai terasa standar",
+     "Fitur Smart Key hanya ada pada varian tertentu"
+    ]
+   },
+   {
+    "media": "Mobil123",
+    "url": "https://www.mobil123.com/berita/mengulas-sejarah-spesifikasi-kelebihan-dan-kekurangan-honda-beat-2023/68052",
+    "kelebihan": [
+     "Konsumsi BBM irit menjadi alasan utama populer di Indonesia",
+     "Ukuran ramping dan bobot ringan membuatnya lincah dan gesit",
+     "Fitur yang dipasang dinilai cukup melimpah"
+    ],
+    "kekurangan": [
+     "Dimensi kecil kurang nyaman bagi pengendara bertubuh besar atau tinggi",
+     "Kapasitas bagasi di bawah jok dinilai tidak terlalu besar"
+    ]
+   },
+   {
+    "media": "Kabar Majalengka (Pikiran Rakyat)",
+    "url": "https://kabarmajalengka.pikiran-rakyat.com/nasional/pr-41210148568/kelebihan-dan-kekurangan-honda-beat-irit-tapi-lemah-di-tanjakan-ekstrim-saat-boncengan",
+    "kelebihan": [
+     "Irit bahan bakar berkat teknologi eSP dan fitur ISS",
+     "Desain ringkas dan ringan, memudahkan manuver di jalan padat",
+     "Varian beragam mulai dari CW, CBS, hingga CBS-ISS",
+     "Harga dinilai terjangkau untuk berbagai kalangan"
+    ],
+    "kekurangan": [
+     "Performa mesin dinilai tergolong standar",
+     "Tenaga maksimal dan torsi dinilai relatif kecil dibanding pesaing",
+     "Performa dikeluhkan lemah di tanjakan ekstrem saat berboncengan"
+    ]
+   }
+  ],
+  "dicek": "2026-11-02"
+ },
+ "honda-beat-street": {
+  "specs": {
+   "tenaga": {
+    "value": "6,6 kW (9,0 PS) pada 7.500 rpm",
+    "source": "https://www.restumotor.co.id/2026/10/honda-beat-street.html"
+   },
+   "torsi": {
+    "value": "9,2 Nm pada 6.000 rpm",
+    "source": "https://www.restumotor.co.id/2026/10/honda-beat-street.html"
+   },
+   "bobot": {
+    "value": "89 kg (berat kosong)",
+    "source": "https://www.restumotor.co.id/2026/10/honda-beat-street.html"
+   },
+   "tinggi_jok": {
+    "value": "742 mm",
+    "source": "https://www.restumotor.co.id/2026/10/honda-beat-street.html"
+   },
+   "tangki": {
+    "value": "4,2 liter",
+    "source": "https://www.restumotor.co.id/2026/10/honda-beat-street.html"
+   },
+   "transmisi": {
+    "value": "Otomatis tipe V-Matic",
+    "source": "https://www.restumotor.co.id/2026/10/honda-beat-street.html"
+   },
+   "rem": {
+    "value": "Depan cakram hidrolik piston tunggal, belakang tromol, dilengkapi sistem CBS",
+    "source": "https://www.restumotor.co.id/2026/10/honda-beat-street.html"
+   },
+   "suspensi": {
+    "value": "Depan teleskopik, belakang lengan ayun dengan peredam kejut tunggal",
+    "source": "https://www.restumotor.co.id/2026/10/honda-beat-street.html"
+   },
+   "ban": {
+    "value": "Depan 100/90-12 tubeless, belakang 110/90-12 tubeless",
+    "source": "https://www.restumotor.co.id/2026/10/honda-beat-street.html"
+   },
+   "fitur": {
+    "value": "Panel meter digital, lampu LED, alarm antimaling, Secure Key Shutter, Parking Brake Lock, side stand switch, indikator ECO",
+    "source": "https://sumeks.disway.id/oto-tekno/read/798344/honda-beat-street-2026-ini-keunggulan-dan-kekurangannya-sebelum-membeli"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Oto.com",
+    "url": "https://www.oto.com/berita-motor/ini-kelebihan-dan-kekurangan-honda-beat-street",
+    "kelebihan": [
+     "Desain grafis street art dinilai menonjol dan berbeda dari Beat lain",
+     "Panel meter digital menjadi nilai tambah dibanding Beat biasa"
+    ],
+    "kekurangan": [
+     "Harganya disebut paling mahal di jajaran Beat",
+     "Tidak dibekali fitur ISS",
+     "Pilihan warna dinilai terbatas"
+    ]
+   },
+   {
+    "media": "Moladin",
+    "url": "https://moladin.com/news/kelebihan-honda-beat-street-masih-ragu-beli/",
+    "kelebihan": [
+     "Konsumsi BBM dinilai irit dan dilengkapi indikator eco",
+     "Lampu LED dan tampilan funky dinilai menarik",
+     "Harga dianggap terjangkau dibanding kompetitor"
+    ],
+    "kekurangan": [
+     "Dari sisi fitur dinilai tidak sebanyak Honda Beat biasa"
+    ]
+   },
+   {
+    "media": "Otomotifo",
+    "url": "https://www.otomotifo.com/kelebihan-dan-kekurangan-honda-beat-street/",
+    "kelebihan": [
+     "Mesinnya dikenal irit karena sama dengan Beat standar"
+    ],
+    "kekurangan": [
+     "Jok dinilai berukuran kecil",
+     "Bodi plastik dinilai cukup tipis dan mudah pecah",
+     "Pilihan warna dinilai sedikit"
+    ]
+   }
+  ],
+  "dicek": "2026-11-02"
+ },
+ "honda-cb-150-verza": {
+  "specs": {
+   "tenaga": {
+    "value": "9,59 kW (13,04 PS) pada 8.500 rpm",
+    "source": "https://www.restumotor.co.id/2026/10/honda-cb150-verza.html"
+   },
+   "torsi": {
+    "value": "12,73 Nm pada 6.000 rpm",
+    "source": "https://www.restumotor.co.id/2026/10/honda-cb150-verza.html"
+   },
+   "bobot": {
+    "value": "129 kg (Cast Wheel) dan 128 kg (Spoke Wheel), berat kosong",
+    "source": "https://www.tunassaktihonda.id/motor/honda-cb150-verza/"
+   },
+   "tinggi_jok": {
+    "value": "773 mm",
+    "source": "https://www.restumotor.co.id/2026/10/honda-cb150-verza.html"
+   },
+   "tangki": {
+    "value": "12,2 liter",
+    "source": "https://www.motorkux.id/motor-baru-honda/p/bp-cb150-verza?v=cb150-verza-sw"
+   },
+   "transmisi": {
+    "value": "Manual 5 percepatan, pola perpindahan 1-N-2-3-4-5",
+    "source": "https://www.restumotor.co.id/2026/10/honda-cb150-verza.html"
+   },
+   "rem": {
+    "value": "Depan cakram hidrolik piston ganda, belakang tromol",
+    "source": "https://www.restumotor.co.id/2026/10/honda-cb150-verza.html"
+   },
+   "suspensi": {
+    "value": "Depan teleskopik, belakang adjustable dual rear suspension",
+    "source": "https://www.restumotor.co.id/2026/10/honda-cb150-verza.html"
+   },
+   "fitur": {
+    "value": "Lampu depan bulat, tutup tangki baru, shroud baru, mesin PGM-FI standar Euro-3, secure key shutter",
+    "source": "https://www.hondacengkareng.com/motor/honda-cb150-verza/"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Otoinfo.id",
+    "url": "https://otoinfo.id/review-awal-honda-cb150-verza-2025-kesan-kelebihan-dan-kekurangan-yang-perlu-diketahui/",
+    "kelebihan": [
+     "Mesin 150 cc dengan PGM-FI dinilai efisien",
+     "Posisi duduk dianggap ergonomis untuk pemakaian jangka panjang",
+     "Harga dinilai terjangkau bagi pengguna motor sport hemat"
+    ],
+    "kekurangan": [
+     "Desain dinilai konservatif dan kurang modern",
+     "Fitur dinilai minim dibanding pesaing 150 cc",
+     "Performa dinilai standar dan kalah dari sport 150 cc lain"
+    ]
+   },
+   {
+    "media": "Oto.com (First Ride)",
+    "url": "https://www.oto.com/berita-motor/first-ride-honda-cb150-verza-lincah-dan-mudah-dikendarai-tapi-21110362",
+    "kelebihan": [
+     "Lincah saat bermanuver di ruang sempit maupun tikungan besar",
+     "Kemudi dinilai presisi dan diset dengan baik"
+    ],
+    "kekurangan": [
+     "Torsi 12,73 Nm dinilai terbatas, tenaga terasa lambat memuncak",
+     "Transmisi 5 percepatan dengan gigi 1 pendek, terasa kurang seperti sport sejati",
+     "Lampu masih bohlam halogen konvensional"
+    ]
+   },
+   {
+    "media": "Otomotifnet.com (GridOto) - Test Ride Verza 150",
+    "url": "https://otomotifnet.gridoto.com/read/231043404/test-ride-honda-verza-150-ringan-tembus-50-kmliter",
+    "kelebihan": [
+     "Bobot terasa ringan saat menyalip di kemacetan",
+     "Tetap stabil saat menikung di kecepatan sekitar 80 km/jam",
+     "Jok belakang dibuat lebih rata untuk membawa barang"
+    ],
+    "kekurangan": [
+     "Suspensi belakang terasa keras saat melewati jalan rusak",
+     "Lampu indikator netral kurang terang di bawah terik matahari"
+    ]
+   }
+  ],
+  "dicek": "2026-11-02"
+ },
+ "honda-cb-150-r": {
+  "specs": {
+   "tenaga": {
+    "value": "16,9 PS pada 9.000 rpm (12,4 kW)",
+    "source": "https://www.wahanahonda.com/produk/honda-cb150r-streetfire"
+   },
+   "torsi": {
+    "value": "13,8 Nm pada 7.000 rpm",
+    "source": "https://www.wahanahonda.com/produk/honda-cb150r-streetfire"
+   },
+   "bobot": {
+    "value": "134 kg (standar), 135 kg (Special Edition)",
+    "source": "https://www.wahanahonda.com/produk/honda-cb150r-streetfire"
+   },
+   "tinggi_jok": {
+    "value": "795 mm",
+    "source": "https://www.wahanahonda.com/produk/honda-cb150r-streetfire"
+   },
+   "tangki": {
+    "value": "12 liter",
+    "source": "https://www.wahanahonda.com/produk/honda-cb150r-streetfire"
+   },
+   "transmisi": {
+    "value": "Manual, 6 percepatan",
+    "source": "https://www.wahanahonda.com/produk/honda-cb150r-streetfire"
+   },
+   "rem": {
+    "value": "Cakram wavy di depan dan belakang",
+    "source": "https://www.restumotor.co.id/2026/10/honda-cb150r-streetfire.html"
+   },
+   "suspensi": {
+    "value": "Depan: Showa 37mm inverted; belakang: lengan ayun tunggal Pro-Link",
+    "source": "https://www.restumotor.co.id/2026/10/honda-cb150r-streetfire.html"
+   },
+   "ban": {
+    "value": "Depan 100/80-17 tubeless; belakang 130/70-17 tubeless",
+    "source": "https://www.restumotor.co.id/2026/10/honda-cb150r-streetfire.html"
+   },
+   "fitur": {
+    "value": "Lampu LED penuh, kunci pengaman Auto Secure Key Shutter",
+    "source": "https://otosia.liputan6.com/berita/read/4762649/5-harga-honda-cb150r-streetfire-review-dan-spesifikasi-lengkap-maret-2022"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "GridOto",
+    "url": "https://www.gridoto.com/read/221000066/mau-beli-honda-cb150r-streetfire-baca-dulu-nih-kelebihan-dan-kekurangannya",
+    "kelebihan": [
+     "Panel digital berlatar biru nyaman dibaca siang maupun malam",
+     "Tutup tangki rata yang mengunci otomatis saat ditekan",
+     "Jok dan tangki menyempit di area paha, memudahkan pijakan kaki",
+     "Suspensi belakang kaku dan depan teleskopik membuat handling stabil"
+    ],
+    "kekurangan": [
+     "Lampu terlalu putih sehingga pandangan remang saat gerimis",
+     "Tidak ada engine cut-off di panel setang kanan"
+    ]
+   },
+   {
+    "media": "Otosia",
+    "url": "https://otosia.liputan6.com/berita/read/4762649/5-harga-honda-cb150r-streetfire-review-dan-spesifikasi-lengkap-maret-2022",
+    "kelebihan": [
+     "Lampu LED dan performa mesin dinilai tangguh",
+     "Konsumsi BBM tergolong irit dan harga relatif terjangkau",
+     "Desain lebih gagah dengan pilihan warna yang beragam"
+    ],
+    "kekurangan": [
+     "Belum dilengkapi sistem pengereman ABS",
+     "Suspensi belakang terasa keras saat melewati jalan tidak rata",
+     "Tidak ada engine cut-off di panel setang kanan"
+    ]
+   },
+   {
+    "media": "Moladin",
+    "url": "https://moladin.com/news/kekurangan-honda-cb150r-streetfire-terbaru/",
+    "kelebihan": [],
+    "kekurangan": [
+     "Tidak ada kick starter dan indikator tegangan aki",
+     "Belum memiliki fitur assist dan slipper clutch",
+     "Performa mesin dinilai turun dibanding rival",
+     "Bobotnya disebut paling berat dibanding rival di kelasnya"
+    ]
+   }
+  ],
+  "dicek": "2026-11-02"
+ },
+ "honda-cb-150-x": {
+  "specs": {
+   "tenaga": {
+    "value": "15,6 PS (11,5 kW) pada 9.000 rpm",
+    "source": "https://tunassaktihonda.id/motor/honda-new-cb150x/"
+   },
+   "torsi": {
+    "value": "13,8 Nm pada 7.000 rpm",
+    "source": "https://tunassaktihonda.id/motor/honda-new-cb150x/"
+   },
+   "bobot": {
+    "value": "139 kg (berat kosong)",
+    "source": "https://otomotif.kompas.com/read/2022/01/25/100200715/mengenal-fitur-andalan-honda-cb150x-buat-adventure"
+   },
+   "tinggi_jok": {
+    "value": "817 mm",
+    "source": "https://otomotif.kompas.com/read/2022/01/26/100200215/tes-honda-cb150x-buat-harian-nyaman-?page=all"
+   },
+   "tangki": {
+    "value": "12 liter",
+    "source": "https://www.carmudi.co.id/journal/harga-dan-spesifikasi-honda-cb150x-terbaru-siap-touring-jauh/"
+   },
+   "transmisi": {
+    "value": "Manual 6 kecepatan",
+    "source": "https://tunassaktihonda.id/motor/honda-new-cb150x/"
+   },
+   "rem": {
+    "value": "Cakram depan dua piston, cakram belakang satu piston, keduanya wavy disc",
+    "source": "https://rpmsuper.com/spesifikasi-harga-dan-warna-cb150x-2023/"
+   },
+   "suspensi": {
+    "value": "Upside down Showa 37 mm dengan travel 150 mm di depan; monoshock Pro-Link di belakang",
+    "source": "https://oto.detik.com/motor/d-5848863/spesifikasi-dan-harga-honda-cb150x-motor-sport-adventure-belum-ada-lawan"
+   },
+   "ban": {
+    "value": "Depan 100/80-17 dan belakang 130/70-17, keduanya tubeless",
+    "source": "https://otomotif.kompas.com/read/2022/01/25/100200715/mengenal-fitur-andalan-honda-cb150x-buat-adventure"
+   },
+   "fitur": {
+    "value": "Lampu LED, suspensi depan terbalik, kluster digital, windscreen tinggi",
+    "source": "https://marketing-honda.com/motor/cb150x/"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Otomotifnet (GridOto)",
+    "url": "https://otomotifnet.gridoto.com/read/233290213/honda-cb150x-dites-ketahuan-karakter-aslinya-ini-plus-dan-minusnya?page=all",
+    "kelebihan": [
+     "Handling terasa ringan dan lincah karena bobotnya relatif kecil",
+     "Redaman suspensinya dinilai memadai",
+     "Konsumsi BBM rata-rata sekitar 45 km per liter setelah pemakaian lebih dari 860 km"
+    ],
+    "kekurangan": [
+     "Suspensi belakang terasa keras, terutama saat dikendarai sendirian",
+     "Transmisi terasa keras saat mesin sudah panas",
+     "Lampu utama dinilai kurang terang"
+    ]
+   },
+   {
+    "media": "Kompas.com",
+    "url": "https://otomotif.kompas.com/read/2022/01/26/100200215/tes-honda-cb150x-buat-harian-nyaman-?page=all",
+    "kelebihan": [
+     "Posisi berkendara nyaman untuk pemakaian harian",
+     "Setang tinggi dan lebar membuat posisi tangan lebih ergonomis",
+     "Ground clearance 181 mm membantu saat melewati jalan rusak"
+    ],
+    "kekurangan": [
+     "Pengendara di bawah 170 cm hanya bisa berjinjit saat berhenti",
+     "Performa mesin disebut setara dengan saudaranya, tanpa keunggulan tenaga di atas kertas"
+    ]
+   },
+   {
+    "media": "Mobil123",
+    "url": "https://www.mobil123.com/berita/kelebihan-dan-kekurangan-honda-cb150x-motor-adventure-buat-pemula-140944/140944",
+    "kelebihan": [
+     "Windshield tinggi melindungi pengendara dari angin dan cipratan",
+     "Tenaga di putaran rendah hingga menengah terasa kuat untuk menanjak",
+     "Cocok untuk touring di jalan raya atau jalan gravel ringan"
+    ],
+    "kekurangan": [
+     "Suara mesin dinilai berisik karena karakter mesin seri sebelumnya",
+     "Belum dilengkapi ABS",
+     "Tidak ada colokan pengisian daya untuk gawai"
+    ]
+   }
+  ],
+  "dicek": "2026-11-02"
+ },
+ "honda-cbr-150-r": {
+  "specs": {
+   "tenaga": {
+    "value": "17,1 PS pada 9.000 rpm (12,6 kW). Beberapa artikel menulis 16,8 hp pada rpm yang sama.",
+    "source": "https://restumotor.co.id/2026/10/honda-cbr150r.html"
+   },
+   "torsi": {
+    "value": "14,4 Nm pada 7.000 rpm",
+    "source": "https://www.liputan6.com/otomotif/read/6047186/harga-mulai-rp-3857-juta-ini-spesifikasi-lengkap-honda-cbr150r"
+   },
+   "bobot": {
+    "value": "137 kg (non-ABS) dan 139 kg (ABS), berat kosong",
+    "source": "https://restumotor.co.id/2026/10/honda-cbr150r.html"
+   },
+   "tinggi_jok": {
+    "value": "782 mm",
+    "source": "https://restumotor.co.id/2026/10/honda-cbr150r.html"
+   },
+   "tangki": {
+    "value": "12 liter",
+    "source": "https://restumotor.co.id/2026/10/honda-cbr150r.html"
+   },
+   "transmisi": {
+    "value": "Manual 6 percepatan dengan kopling basah multi-plate",
+    "source": "https://www.marketing-honda.com/motor/cbr150r/"
+   },
+   "rem": {
+    "value": "Cakram hidrolik di depan dan belakang",
+    "source": "https://www.marketing-honda.com/motor/cbr150r/"
+   },
+   "suspensi": {
+    "value": "Depan teleskopik terbalik (USD) Showa; belakang lengan ayun monoshock tipe Pro-Link",
+    "source": "https://moladin.com/news/harga-motor-honda-cbr150r-kombinasi-warna-baru/"
+   },
+   "ban": {
+    "value": "Depan 100/80-17 (tubeless), belakang 130/70-17 (tubeless)",
+    "source": "https://otomotif.espos.id/sepeda-motor-honda-inilah-harga-dan-spesifikasi-all-new-cbr150r-691293"
+   },
+   "fitur": {
+    "value": "Lampu LED depan-belakang, panel digital penuh, ABS dua kanal (varian ABS), injeksi PGM-FI, assist dan slipper clutch",
+    "source": "https://www.liputan6.com/otomotif/read/6047186/harga-mulai-rp-3857-juta-ini-spesifikasi-lengkap-honda-cbr150r"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "GridOto",
+    "url": "https://www.gridoto.com/read/22999887/ini-kelebihan-dan-kekurangan-all-new-honda-cbr150r-dalam-test-ride-harian",
+    "kelebihan": [
+     "Posisi berkendara cocok untuk dipakai di sirkuit dan tikungan",
+     "Mudah diarahkan dan tetap stabil saat menikung cepat",
+     "Karakter mesin square dinilai lebih enak untuk harian"
+    ],
+    "kekurangan": [
+     "Telapak tangan cepat pegal saat macet karena menahan beban",
+     "Spion lebar berisiko menyenggol spion mobil saat menyelip",
+     "Suspensi belakang terasa keras saat dikendarai sendirian"
+    ]
+   },
+   {
+    "media": "Moladin",
+    "url": "https://moladin.com/blog/kekurangan-honda-cbr150r-dibanding-rival/",
+    "kelebihan": [
+     "Tampilannya dinilai menarik, mirip kakaknya CBR250RR",
+     "Sudah memakai lampu LED, upside down, dan assist serta slipper clutch"
+    ],
+    "kekurangan": [
+     "Tenaga dinilai kalah dibanding Yamaha R15 dan Suzuki GSX-R150",
+     "Bobot 137 kg dinilai memperburuk rasio tenaga terhadap bobot",
+     "Harga dinilai cukup tinggi untuk kelas ini"
+    ]
+   },
+   {
+    "media": "Otomotifo",
+    "url": "https://www.otomotifo.com/spesifikasi-honda-cbr150r/",
+    "kelebihan": [
+     "Konsumsi bahan bakarnya dinilai lebih hemat dibanding rival",
+     "Tangki dibuat lebih lebar sehingga tampilan terlihat lebih gagah",
+     "Suspensi depan upside down menambah kestabilan saat berkendara"
+    ],
+    "kekurangan": [
+     "Masih memakai mesin generasi lama dengan performa di bawah R15 dan GSX-R150",
+     "Tenaga dinilai kurang bersaing meski mesin terasa cukup bertenaga"
+    ]
+   }
+  ],
+  "dicek": "2026-11-02"
+ },
+ "honda-cbr-250-rr": {
+  "specs": {
+   "tenaga": {
+    "value": "Standar: 38,7 PS (28,5 kW) pada 12.500 rpm. SP dan SP QS: 42 PS (31 kW) pada 13.000 rpm.",
+    "source": "https://www.wahanahonda.com/produk/honda-cbr250rr"
+   },
+   "torsi": {
+    "value": "Standar: 23,3 Nm pada 11.000 rpm. SP dan SP QS: 25 Nm pada 11.000 rpm.",
+    "source": "https://www.wahanahonda.com/produk/honda-cbr250rr"
+   },
+   "bobot": {
+    "value": "166 kg untuk varian Standar; 168 kg untuk varian SP dan SP QS.",
+    "source": "https://otomotif.sindonews.com/read/905645/121/jangan-bingung-ini-perbandingan-cbr250rr-baru-dengan-yang-lama-1665065427/5"
+   },
+   "tinggi_jok": {
+    "value": "790 mm",
+    "source": "https://oto.detik.com/motor/d-5106934/spesifikasi-lengkap-honda-cbr250rr-sp-quick-shifter-power-tembus-41-ps"
+   },
+   "tangki": {
+    "value": "14,5 liter",
+    "source": "https://www.wahanahonda.com/produk/honda-cbr250rr"
+   },
+   "transmisi": {
+    "value": "Manual 6 percepatan dengan pola 1-N-2-3-4-5-6.",
+    "source": "https://www.wahanahonda.com/produk/honda-cbr250rr"
+   },
+   "rem": {
+    "value": "Cakram depan dan belakang. Varian SP dan SP QS dilengkapi ABS.",
+    "source": "https://www.jurnaloto.com/2020/10/ahm-luncurkan-varian-baru-honda.html"
+   },
+   "suspensi": {
+    "value": "Depan upside down (USD). Belakang mono-shock dengan sistem Pro-Link yang bisa diatur 5 level.",
+    "source": "https://oto.detik.com/ototest-motor/d-5145407/merasakan-sensasi-ngoper-gigi-ala-pebalap-di-honda-cbr250rr-sp-quick-shifter"
+   },
+   "ban": {
+    "value": "Depan 110/70-17 dan belakang 140/70-17, keduanya tubeless.",
+    "source": "https://oto.detik.com/motor/d-5106934/spesifikasi-lengkap-honda-cbr250rr-sp-quick-shifter-power-tembus-41-ps"
+   },
+   "fitur": {
+    "value": "Throttle by wire, 3 mode berkendara, assist/slipper clutch, quick shifter (SP QS), lampu LED.",
+    "source": "https://oto.detik.com/motor/d-5126201/spesifikasi-cbr250rr-sp-quick-shifter-fitur-ala-motogp-harga-rp-76-7-juta"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "GridOto",
+    "url": "https://www.gridoto.com/read/223594264/serem-akselerasi-new-new-cbr250rr-sp-qs-2022-kalahkan-ninja-zx-25r-beda-seberapa-jauh",
+    "kelebihan": [
+     "Waktu 0-100 km/jam 5,44 detik, setara Ninja ZX-25R.",
+     "Waktu 0-60 km/jam 2,33 detik, lebih cepat dari ZX-25R."
+    ],
+    "kekurangan": []
+   },
+   {
+    "media": "Oto.com",
+    "url": "https://www.oto.com/motor-baru/honda/cbr-250rr/faq/apa-kelebihan-dan-kekurangan-honda-cbr-250rr",
+    "kelebihan": [
+     "Desain fairing sport canggih dengan throttle by wire dan riding mode.",
+     "Dirakit secara lokal di Indonesia.",
+     "Mesin bertenaga tinggi dan teknologinya modern."
+    ],
+    "kekurangan": [
+     "Perawatannya harus teliti karena teknologinya canggih.",
+     "Perlu perhatian ekstra jika sering mengganti aksesori."
+    ]
+   },
+   {
+    "media": "Fin.co.id",
+    "url": "https://fin.co.id/2023/09/07/review-performa-motor-honda-cbr-250rr-intip-kekurangan-motor-sport-pesaing-kawasaki-ninja-zx-25r-disini",
+    "kelebihan": [
+     "Mesinnya bertenaga dan terasa responsif.",
+     "Penanganan tajam dan lincah di tikungan.",
+     "Rem dinilai bagus.",
+     "Posisi berkendara dinilai nyaman."
+    ],
+    "kekurangan": [
+     "Harganya dinilai mahal.",
+     "Konsumsi bahan bakar kurang irit.",
+     "Muncul getaran pada putaran mesin tinggi."
+    ]
+   }
+  ],
+  "dicek": "2026-11-02"
+ },
+ "honda-crf-150-l": {
+  "specs": {
+   "tenaga": {
+    "value": "12,91 PS pada 8.000 rpm (setara 9,51 kW)",
+    "source": "https://www.motorplus-online.com/read/254368718/harga-terbaru-honda-crf150l-2026-punya-4-pilihan-warna-keren?page=all"
+   },
+   "torsi": {
+    "value": "12,43 Nm pada 6.500 rpm",
+    "source": "https://www.restumotor.co.id/2026/10/honda-crf150l.html"
+   },
+   "bobot": {
+    "value": "122 kg (berat kosong)",
+    "source": "https://www.wahanahonda.com/produk/honda-crf150l"
+   },
+   "tinggi_jok": {
+    "value": "869 mm",
+    "source": "https://www.wahanahonda.com/produk/honda-crf150l"
+   },
+   "tangki": {
+    "value": "7,2 liter",
+    "source": "https://www.wahanahonda.com/produk/honda-crf150l"
+   },
+   "transmisi": {
+    "value": "Manual 5-percepatan, pola 1-N-2-3-4-5, kopling multiplate wet clutch",
+    "source": "https://www.motorplus-online.com/read/254368718/harga-terbaru-honda-crf150l-2026-punya-4-pilihan-warna-keren?page=all"
+   },
+   "rem": {
+    "value": "Cakram hidrolik wavy disc: depan 240 mm, belakang 220 mm",
+    "source": "https://www.restumotor.co.id/2026/10/honda-crf150l.html"
+   },
+   "suspensi": {
+    "value": "Depan inverted teleskopik diameter 37 mm, stroke 225 mm; belakang monoshock Pro-Link, travel roda belakang 207 mm",
+    "source": "https://www.restumotor.co.id/2026/10/honda-crf150l.html"
+   },
+   "ban": {
+    "value": "Depan 2.75-21 (ban dalam), belakang 4.10-18 (ban dalam)",
+    "source": "https://www.restumotor.co.id/2026/10/honda-crf150l.html"
+   },
+   "fitur": {
+    "value": "Suspensi inverted panjang, pelek aluminium, panel meter digital, lampu depan LED, ban dual purpose",
+    "source": "https://www.hondacengkareng.com/motor/honda-crf150l/"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Oto.com (ulasan redaksi)",
+    "url": "https://www.oto.com/motor-baru/honda/crf-150l/faq/apa-kelebihan-dan-kekurangan-honda-crf-150l",
+    "kelebihan": [
+     "Performa mesin dinilai mantap meski berkapasitas 150 cc",
+     "Konsumsi bahan bakar disebut irit",
+     "Penampilan dinilai gagah",
+     "Kemampuan off-road dinilai layak dipuji"
+    ],
+    "kekurangan": [
+     "Bobot motor dinilai masih berat dan bisa dipangkas",
+     "Hanya tersedia satu varian sehingga pilihan terbatas",
+     "Perpindahan gigi dinilai kurang mulus"
+    ]
+   },
+   {
+    "media": "Oto.com (artikel berita 2017)",
+    "url": "https://www.oto.com/berita-motor/kekurangan-honda-crf150l-2119263",
+    "kelebihan": [
+     "Panel dasbor sudah berupa speedometer full digital"
+    ],
+    "kekurangan": [
+     "Hanya satu varian dan satu trim saat dijual di diler",
+     "Informasi pada speedometer dinilai minim",
+     "Performa transmisi disorot sebagai kelemahan",
+     "Hanya tersedia satu pilihan warna"
+    ]
+   },
+   {
+    "media": "Nambomotor",
+    "url": "https://nambomotor.com/berita/detail/review-lengkap-honda-crf150l-2026-harga-spesifikasi-dan-simulasi-kredit",
+    "kelebihan": [
+     "Sektor kaki-kaki dinilai menjadi keunggulan utama",
+     "Teknologi PGM-FI dinilai membuat konsumsi BBM cukup efisien",
+     "Jaringan servis Honda dinilai luas dan praktis",
+     "Desain dinilai lebih modern dibanding pesaing trail"
+    ],
+    "kekurangan": [
+     "Tinggi jok dinilai cukup tinggi untuk pemula",
+     "Kurang nyaman untuk pemakaian harian di jalan aspal",
+     "Fitur modern dinilai minim dibanding motor sport"
+    ]
+   }
+  ],
+  "dicek": "2026-11-02"
+ },
+ "honda-crf-250-rally": {
+  "specs": {
+   "tenaga": {
+    "value": "18,9 kW pada 8.500 rpm (sejumlah situs lama menulis 24,4 PS)",
+    "source": "https://www.motorkux.id/motor-baru-honda/p/bp-crf250-rally"
+   },
+   "torsi": {
+    "value": "23,1 Nm pada 6.500 rpm",
+    "source": "https://www.motorkux.id/motor-baru-honda/p/bp-crf250-rally"
+   },
+   "bobot": {
+    "value": "152 kg (berat kosong)",
+    "source": "https://www.motorkux.id/motor-baru-honda/p/bp-crf250-rally"
+   },
+   "tinggi_jok": {
+    "value": "885 mm",
+    "source": "https://www.motorkux.id/motor-baru-honda/p/bp-crf250-rally"
+   },
+   "tangki": {
+    "value": "12,8 liter",
+    "source": "https://www.motorkux.id/motor-baru-honda/p/bp-crf250-rally"
+   },
+   "transmisi": {
+    "value": "Manual enam percepatan dengan kopling basah multi-plat",
+    "source": "https://www.motorkux.id/motor-baru-honda/p/bp-crf250-rally"
+   },
+   "rem": {
+    "value": "Depan cakram wave mengambang 296 mm dengan kaliper dua piston; belakang cakram wave 220 mm dengan kaliper satu piston",
+    "source": "https://www.motorkux.id/motor-baru-honda/p/bp-crf250-rally"
+   },
+   "suspensi": {
+    "value": "Depan upside-down Showa 43 mm; belakang Showa Pro-Link",
+    "source": "https://www.motorkux.id/motor-baru-honda/p/bp-crf250-rally"
+   },
+   "ban": {
+    "value": "Depan 80/100-21, belakang 120/80-18",
+    "source": "https://www.motorkux.id/motor-baru-honda/p/bp-crf250-rally"
+   },
+   "fitur": {
+    "value": "Lampu depan LED asimetris, panel meter digital, under cover mesin, tuas persneling lipat",
+    "source": "https://www.bertuahpos.com/otomotif/spesifikasi-honda-crf250-rally-motor-sport-adventure-harganya.html"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Uzone.id",
+    "url": "https://uzone.id/review-honda-crf250-rally-gaspol-sejauh-218-km-gimana-rasanya",
+    "kelebihan": [
+     "Torsi terasa responsif terutama dari putaran bawah saat gas dibuka",
+     "Konsumsi BBM tergolong irit, sekitar 32,5 km per liter",
+     "Kaki-kakinya terasa empuk pada kesan pertama"
+    ],
+    "kekurangan": [
+     "Jok terasa sangat ramping dan tipis",
+     "Minim fitur seperti kebanyakan motor trail"
+    ]
+   },
+   {
+    "media": "Otoinfo.id",
+    "url": "https://www.otoinfo.id/kekurangan-dan-kelebihan-honda-crf250-rally-2023/",
+    "kelebihan": [
+     "Mesin 250cc dinilai dirancang untuk berbagai medan",
+     "Posisi berkendara dinilai nyaman untuk perjalanan jauh"
+    ],
+    "kekurangan": [
+     "Belum tersedia sistem pengereman ABS di Indonesia",
+     "Tinggi jok 895 mm bisa menyulitkan pengendara bertubuh pendek"
+    ]
+   },
+   {
+    "media": "Oto.com",
+    "url": "https://www.oto.com/motor-baru/honda/crf250rally/faq/apa-kelebihan-dan-kekurangan-honda-crf250rally",
+    "kelebihan": [
+     "Desainnya gagah dan menyerupai motor off-road",
+     "Tenaga mesin dinilai cukup meyakinkan untuk medan off-road"
+    ],
+    "kekurangan": [
+     "Langkah piston pendek membuat mesin kurang nyaman untuk perjalanan panjang",
+     "Bodi besar menyulitkan manuver di area sempit"
+    ]
+   }
+  ],
+  "dicek": "2026-11-02"
+ },
+ "honda-crf-250-l": {
+  "specs": {
+   "tenaga": {
+    "value": "18,3 kW pada 9.000 rpm",
+    "source": "https://www.wahanahonda.com/produk/honda-crf250l"
+   },
+   "torsi": {
+    "value": "23,0 Nm pada 6.500 rpm",
+    "source": "https://www.wahanahonda.com/produk/honda-crf250l"
+   },
+   "bobot": {
+    "value": "142 kg (berat kosong)",
+    "source": "https://www.wahanahonda.com/produk/honda-crf250l"
+   },
+   "tinggi_jok": {
+    "value": "882 mm",
+    "source": "https://www.wahanahonda.com/produk/honda-crf250l"
+   },
+   "tangki": {
+    "value": "7,8 liter",
+    "source": "https://www.wahanahonda.com/produk/honda-crf250l"
+   },
+   "transmisi": {
+    "value": "6 percepatan manual, pola 1-N-2-3-4-5-6",
+    "source": "https://www.wahanahonda.com/produk/honda-crf250l"
+   },
+   "rem": {
+    "value": "Depan cakram wavy 256 mm dengan kaliper dua piston; belakang cakram wavy 220 mm dengan kaliper satu piston",
+    "source": "https://www.wahanahonda.com/produk/honda-crf250l"
+   },
+   "suspensi": {
+    "value": "Depan Showa inverted 43 mm; belakang swingarm aluminium dengan Showa Pro-Link, travel 260 mm",
+    "source": "https://www.wahanahonda.com/produk/honda-crf250l"
+   },
+   "ban": {
+    "value": "Depan 80/100-21; belakang 120/80-18",
+    "source": "https://www.wahanahonda.com/produk/honda-crf250l"
+   },
+   "fitur": {
+    "value": "Assist/slipper clutch, lampu depan LED, panel instrumen digital penuh",
+    "source": "https://otorider.com/berita/2023/dijual-rp-79-jutaan-intip-detail-spesifikasi-lengkap-honda-crf250l-dijcgdfi50l"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "GridOto",
+    "url": "https://www.gridoto.com/read/223944877/test-ride-honda-crf250l-2023-bukan-sekedar-crf-rally-telanjang?page=all",
+    "kelebihan": [
+     "Tarikan bawah lebih galak dibanding CRF250 Rally",
+     "Assist and slipper clutch membuat kopling terasa sangat ringan",
+     "Tanki lebih besar sehingga bodinya sedikit lebih gendut"
+    ],
+    "kekurangan": [
+     "Fitur yang dibekalkan relatif sedikit untuk ukuran motor trail",
+     "Jok terasa kurang nyaman saat dipakai di jalan mulus",
+     "Cakram rem depan lebih kecil dibanding CRF250 Rally"
+    ]
+   },
+   {
+    "media": "Autofun",
+    "url": "https://www.autofun.co.id/berita-motor/test-ride-honda-crf250l-2023-paket-sempurna-trail-250-cc-saat-ini-76086",
+    "kelebihan": [
+     "Handling ringan dan lincah saat manuver di jalanan kota",
+     "Setang lebar membuat pengendalian terasa ringan",
+     "Pijakan kaki terasa pas untuk berkendara"
+    ],
+    "kekurangan": [
+     "Jok ramping kurang nyaman untuk perjalanan jauh",
+     "Busa jok terasa kaku",
+     "Setang lebar merepotkan saat macet di jalan padat"
+    ]
+   },
+   {
+    "media": "detikOto",
+    "url": "https://oto.detik.com/otosport/d-7094698/tes-konsumsi-bbm-crf250l-segini-hasilnya",
+    "kelebihan": [
+     "Tenaga terasa responsif dan cukup untuk jalan menanjak",
+     "Assist and slipper clutch membuat kopling terasa enteng"
+    ],
+    "kekurangan": [
+     "Tarikan gas kurang nyaman saat dipakai di kemacetan",
+     "Di bawah 4.000 rpm perlu bermain setengah kopling"
+    ]
+   }
+  ],
+  "dicek": "2026-11-02"
+ },
+ "honda-honda-ct125": {
+  "specs": {
+   "tenaga": {
+    "value": "Daya maksimum 6,76 kW pada 6.250 rpm",
+    "source": "https://www.restumotor.co.id/2026/10/honda-ct125.html"
+   },
+   "torsi": {
+    "value": "Torsi maksimum 10,8 Nm pada 4.750 rpm (sumber lain tertulis 10,9 Nm)",
+    "source": "https://ekbisntb.com/10/09/2026/astra-honda-motor-rilis-warna-baru-honda-ct125-dijual-rp835-juta/"
+   },
+   "bobot": {
+    "value": "116 kg (curb mass; sumber lain tertulis 120 kg berat kosong)",
+    "source": "https://www.restumotor.co.id/2026/10/honda-ct125.html"
+   },
+   "tinggi_jok": {
+    "value": "800 mm",
+    "source": "https://www.restumotor.co.id/2026/10/honda-ct125.html"
+   },
+   "tangki": {
+    "value": "5,3 liter (satu sumber tertulis 5,1 liter)",
+    "source": "https://ekbisntb.com/10/09/2026/astra-honda-motor-rilis-warna-baru-honda-ct125-dijual-rp835-juta/"
+   },
+   "transmisi": {
+    "value": "Manual dengan 4 percepatan",
+    "source": "https://www.restumotor.co.id/2026/10/honda-ct125.html"
+   },
+   "rem": {
+    "value": "Cakram hidrolik depan 220 mm dan belakang 190 mm, ABS 1-channel",
+    "source": "https://www.restumotor.co.id/2026/10/honda-ct125.html"
+   },
+   "suspensi": {
+    "value": "Teleskopik di depan, twin rear suspension di belakang",
+    "source": "https://www.restumotor.co.id/2026/10/honda-ct125.html"
+   },
+   "ban": {
+    "value": "Ukuran 80/90-17 di roda depan dan belakang",
+    "source": "https://www.restumotor.co.id/2026/10/honda-ct125.html"
+   },
+   "fitur": {
+    "value": "Lampu full LED, panel meter digital bulat, intake duct tinggi, rak belakang kapasitas 20 kg, ground clearance 165 mm",
+    "source": "https://ekbisntb.com/10/09/2026/astra-honda-motor-rilis-warna-baru-honda-ct125-dijual-rp835-juta/"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Oto.com",
+    "url": "https://www.oto.com/motor-baru/honda/ct125/faq/apa-kelebihan-dan-kekurangan-honda-ct125",
+    "kelebihan": [
+     "Gaya klasik bernuansa adventure yang menonjol",
+     "Banyak fungsi praktis dan utilitas",
+     "Fitur modern yang memadai",
+     "Semua roda memakai rem cakram, ABS ada di depan"
+    ],
+    "kekurangan": [
+     "Harganya tergolong mahal",
+     "Tidak nyaman untuk dibonceng",
+     "Pilihan warna terbatas",
+     "Aksesori kurang variatif dan dijual terpisah"
+    ]
+   },
+   {
+    "media": "Mobil123",
+    "url": "https://www.mobil123.com/berita/harga-honda-ct125-baru-mencapai-rp80-jutaan-mending-beli-bekas-141342/141342",
+    "kelebihan": [
+     "Posisi duduk tinggi dan suspensi terasa empuk",
+     "Ground clearance 165 mm membantu melewati rintangan",
+     "Intake duct tinggi mengurangi masuknya debu",
+     "Bagasi besar di belakang jok"
+    ],
+    "kekurangan": [
+     "Harga mahal tidak sebanding dengan spesifikasi dibanding motor bebek biasa",
+     "Ban tergolong ramping untuk motor bebek dual purpose"
+    ]
+   },
+   {
+    "media": "GridOto",
+    "url": "https://www.gridoto.com/read/224214649/motor-bebek-ini-enak-diajak-touring-dan-adventure-segini-harga-honda-ct125-februari-2025",
+    "kelebihan": [
+     "Bodi minimalis dengan sedikit penutup plastik, cocok untuk adventure",
+     "Setang tinggi membuat postur berkendara lebih santai",
+     "Skid plate melindungi bagian bawah mesin dari benturan",
+     "Sokbreker depan memakai rubber cover agar terhindar kotoran"
+    ],
+    "kekurangan": []
+   }
+  ],
+  "dicek": "2026-11-02"
+ },
+ "honda-cuve": {
+  "specs": {
+   "tenaga": {
+    "value": "6 kW (8 hp) pada 3.500 rpm",
+    "source": "https://www.daya-motor.com/shop/product/cuv-e-201"
+   },
+   "torsi": {
+    "value": "22 Nm pada 2.300 rpm",
+    "source": "https://www.daya-motor.com/shop/product/cuv-e-201"
+   },
+   "bobot": {
+    "value": "117 kg (varian standar), 118 kg (varian RoadSync Duo)",
+    "source": "https://www.daya-motor.com/shop/product/cuv-e-201"
+   },
+   "tinggi_jok": {
+    "value": "761 mm",
+    "source": "https://www.daya-motor.com/shop/product/cuv-e-201"
+   },
+   "rem": {
+    "value": "Depan cakram hidrolik, belakang tromol, dengan Combi Brake System (CBS)",
+    "source": "https://www.daya-motor.com/shop/product/cuv-e-201"
+   },
+   "suspensi": {
+    "value": "Depan teleskopik, belakang tipe tunggal",
+    "source": "https://www.daya-motor.com/shop/product/cuv-e-201"
+   },
+   "ban": {
+    "value": "Depan 100/90-12, belakang 100/90-12",
+    "source": "https://www.daya-motor.com/shop/product/cuv-e-201"
+   },
+   "fitur": {
+    "value": "Tiga mode berkendara ECON/STD/Sport, Smart Key, USB type-C charger, layar TFT 5 inci (7 inci di RoadSync Duo), konektivitas Honda RoadSync Duo, baterai swap",
+    "source": "https://www.astra.co.id/blogs-and-articles/harga-honda-icon-e-dan-honda-cuv-e-resmi-diumumkan"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Otobuzzer",
+    "url": "https://www.otobuzzer.com/2025/05/honda-cuv-e-revolusi-mobilitas-listrik.html",
+    "kelebihan": [
+     "Performa responsif, top speed 83 km/jam, cocok untuk kota",
+     "Konektivitas smartphone lewat fitur RoadSync",
+     "Dua baterai bisa ditukar atau diisi ulang sendiri",
+     "Dimensi ringkas dan tinggi jok dinilai ideal"
+    ],
+    "kekurangan": [
+     "Jarak tempuh sekitar 80,7 km dinilai terbatas untuk perjalanan jauh"
+    ]
+   },
+   {
+    "media": "Otorider",
+    "url": "https://otorider.com/motor-listrik/2025/berkendara-dengan-motor-listrik-kelebihan-dan-kekurangan-honda-cuv-e-berdahcfuve",
+    "kelebihan": [
+     "Distribusi tenaga halus tanpa hentakan saat dihidupkan",
+     "Fitur mundur memudahkan parkir tanpa tenaga kaki",
+     "Stabilitas baik saat diuji di berbagai kondisi jalan"
+    ],
+    "kekurangan": [
+     "Suspensi dinilai cukup keras"
+    ]
+   },
+   {
+    "media": "Otoplus-online",
+    "url": "https://www.otoplus-online.com/post/motor-listrik-honda-cuv-e-memang-keren-tapi-kemahalan-simak-hasil-tes-ride-kami",
+    "kelebihan": [
+     "Posisi berkendara dinilai lebih nyaman dibanding Honda EM1 e",
+     "Biaya energi dinilai jauh lebih hemat dibanding motor bensin"
+    ],
+    "kekurangan": [
+     "Judul ulasan menilai harganya terlalu mahal"
+    ]
+   }
+  ],
+  "dicek": "2026-11-02"
+ },
+ "honda-em1e": {
+  "specs": {
+   "tenaga": {
+    "value": "1,7 kW pada 540 rpm (sekitar 2,27 hp)",
+    "source": "https://www.gooto.com/read/1816374/ini-spesifikasi-lengkap-motor-listrik-honda-em1-e"
+   },
+   "torsi": {
+    "value": "90 Nm pada 25 rpm",
+    "source": "https://www.gooto.com/read/1816374/ini-spesifikasi-lengkap-motor-listrik-honda-em1-e"
+   },
+   "bobot": {
+    "value": "94 kg (EM1 e:), 96 kg (EM1 e: Plus)",
+    "source": "https://otorider.com/motor-listrik/2023/detail-spesifikasi-lengkap-honda-em1-e-seberapa-bertenaga-detcidfcaga"
+   },
+   "tinggi_jok": {
+    "value": "740 mm",
+    "source": "https://www.gooto.com/read/1816374/ini-spesifikasi-lengkap-motor-listrik-honda-em1-e"
+   },
+   "transmisi": {
+    "value": "CVT (variabel otomatis)",
+    "source": "https://www.oto.com/en/motor-baru/honda/em1-e/spesifikasi"
+   },
+   "rem": {
+    "value": "Cakram di depan, tromol di belakang, dilengkapi Combi Brake System",
+    "source": "https://otorider.com/motor-listrik/2023/detail-spesifikasi-lengkap-honda-em1-e-seberapa-bertenaga-detcidfcaga"
+   },
+   "suspensi": {
+    "value": "Telescopic di depan, dual shock di belakang",
+    "source": "https://www.oto.com/en/motor-baru/honda/em1-e/spesifikasi"
+   },
+   "ban": {
+    "value": "90/90-12 di depan, 100/90-10 di belakang",
+    "source": "https://www.gooto.com/read/1816374/ini-spesifikasi-lengkap-motor-listrik-honda-em1-e"
+   },
+   "fitur": {
+    "value": "Baterai lepas-pasang, lampu LED penuh, panel instrumen digital, mode Standard dan ECO",
+    "source": "https://www.tempo.co/otomotif/mengulas-kelebihan-dan-kekurangan-motor-listrik-honda-em1-e--92138"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Tempo",
+    "url": "https://www.tempo.co/otomotif/mengulas-kelebihan-dan-kekurangan-motor-listrik-honda-em1-e--92138",
+    "kelebihan": [
+     "Biaya servis rendah karena tidak perlu ganti oli",
+     "Getaran minim sehingga nyaman dikendarai",
+     "Baterai bisa dilepas-pasang, tinggal tukar saat habis",
+     "Lampu LED penuh dan panel informasi yang lengkap"
+    ],
+    "kekurangan": [
+     "Harga dinilai tinggi dibanding motor sekelasnya",
+     "Jarak tempuh maksimal 41,1 km dan kecepatan 45 km/jam",
+     "Jarak tempuh kalah jauh dari produk China yang mencapai 100 km"
+    ]
+   },
+   {
+    "media": "Sindonews Otomotif",
+    "url": "https://otomotif.sindonews.com/read/1250125/121/ini-kelebihan-dan-kekurangan-motor-listrik-honda-em1-e-baca-dulu-sebelum-beli-1699848697",
+    "kelebihan": [
+     "Ramah lingkungan karena tidak menghasilkan emisi",
+     "Biaya operasional hemat karena tidak memakai bahan bakar",
+     "Baterai lepas-pasang dan pengisian daya cepat",
+     "Rem cakram untuk menambah keamanan berkendara"
+    ],
+    "kekurangan": [
+     "Harga diperkirakan Rp40-45 juta, dinilai cukup mahal",
+     "Kalah bersaing dengan kompetitor lokal dan China yang lebih dulu hadir"
+    ]
+   },
+   {
+    "media": "Oto.com",
+    "url": "https://www.oto.com/motor-baru/honda/em1-e/faq/apa-kelebihan-dan-kekurangan-honda-em1-e",
+    "kelebihan": [
+     "Bodi kompak dan praktis untuk mobilitas harian",
+     "Pengendalian motor dinilai stabil"
+    ],
+    "kekurangan": [
+     "Harga dinilai mahal",
+     "Jarak tempuh terbatas, hanya cocok untuk jarak dekat"
+    ]
+   }
+  ],
+  "dicek": "2026-11-02"
+ },
+ "honda-forza": {
+  "specs": {
+   "tenaga": {
+    "value": "17 kW pada 7.750 rpm (sumber lain menulis 17,3 kW pada 7.500 rpm)",
+    "source": "https://hondamotorgarut.com/model/forza-250/"
+   },
+   "torsi": {
+    "value": "24 Nm pada 6.250 rpm",
+    "source": "https://hondamotorgarut.com/model/forza-250/"
+   },
+   "bobot": {
+    "value": "186 kg (berat kerb; sumber lain menulis 182 kg)",
+    "source": "https://hondamotorgarut.com/model/forza-250/"
+   },
+   "tinggi_jok": {
+    "value": "780 mm",
+    "source": "https://hondamotorgarut.com/model/forza-250/"
+   },
+   "tangki": {
+    "value": "11,7 liter (satu sumber menulis 11,5 liter)",
+    "source": "https://hondamotorgarut.com/model/forza-250/"
+   },
+   "transmisi": {
+    "value": "Otomatis (CVT, kopling sentrifugal)",
+    "source": "https://hondamotorgarut.com/model/forza-250/"
+   },
+   "rem": {
+    "value": "Cakram hidraulik depan 256 mm dan belakang 240 mm, dilengkapi ABS 2 channel",
+    "source": "https://hondamotorgarut.com/model/forza-250/"
+   },
+   "suspensi": {
+    "value": "Depan teleskopik; belakang lengan ayun dengan suspensi ganda",
+    "source": "https://hondamotorgarut.com/model/forza-250/"
+   },
+   "ban": {
+    "value": "Depan 120/70-15 M/C 56P; belakang 140/70-14 M/C 62P, tubeless",
+    "source": "https://hondamotorgarut.com/model/forza-250/"
+   },
+   "fitur": {
+    "value": "Windshield elektrik, HSTC, Honda Smart Key System, lampu LED, ESS, panel TFT 5 inci, bagasi 48 liter",
+    "source": "https://www.idntimes.com/automotive/motorbike/spesifikasi-honda-forza-250-apa-fitur-unggulannya-c1c2-01-96gcg-rq4byk"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Otomotifnet.com (GridOto)",
+    "url": "https://otomotifnet.gridoto.com/read/232365766/honda-forza-pesaing-xmax-dites-ini-kelebihan-dan-kekurangannya",
+    "kelebihan": [
+     "Posisi duduk dinilai nyaman berkat jok yang relatif rendah dan lebar",
+     "Jok dilengkapi penahan pinggang sehingga berkendara lebih nyaman"
+    ],
+    "kekurangan": [
+     "Busa jok dinilai keras, sesuai karakter skutik Honda"
+    ]
+   },
+   {
+    "media": "GridOto.com",
+    "url": "https://www.gridoto.com/read/221656134/power-biasa-saja-tapi-nafas-panjang-top-speed-honda-forza-250-paling-tinggi",
+    "kelebihan": [
+     "Putaran mesin sampai 9.000 rpm, lebih panjang dari Yamaha XMAX 250 dan Kymco Downtown 250i",
+     "Mesin nyaman untuk touring, terutama di jalan lurus",
+     "Top speed tertinggi di kelasnya pada uji tersebut"
+    ],
+    "kekurangan": [
+     "Tenaga dan torsi dinilai kalah dari kompetitor hasil dyno",
+     "Akselerasi dinilai biasa saja"
+    ]
+   },
+   {
+    "media": "Otomotifnet.com (GridOto)",
+    "url": "https://otomotifnet.gridoto.com/read/233033745/forza-250-model-2021-punya-banyak-perbedaan-ini-hasil-tes-lengkapnya",
+    "kelebihan": [
+     "Akselerasi model 2021 dinilai lebih responsif",
+     "Fitur andalan seperti lampu LED, ABS 2 channel, HSTC, dan Smart Key tetap dipertahankan"
+    ],
+    "kekurangan": [
+     "Null: kekurangan tidak tercantum pada cuplikan artikel yang berhasil diakses"
+    ]
+   }
+  ],
+  "dicek": "2026-11-02"
+ },
+ "honda-supra-gtr-150": {
+  "specs": {
+   "tenaga": {
+    "value": "12,0 kW (16,3 PS) pada 9.000 rpm",
+    "source": "https://www.daya-motor.com/shop/product/gtr-150-181"
+   },
+   "torsi": {
+    "value": "14,2 Nm (1,45 kgf.m) pada 6.500 rpm",
+    "source": "https://www.daya-motor.com/shop/product/gtr-150-181"
+   },
+   "bobot": {
+    "value": "119 kg (berat kosong)",
+    "source": "https://www.daya-motor.com/shop/product/gtr-150-181"
+   },
+   "tinggi_jok": {
+    "value": "780 mm",
+    "source": "https://www.daya-motor.com/shop/product/gtr-150-181"
+   },
+   "tangki": {
+    "value": "4,5 liter",
+    "source": "https://www.laksanamotorhonda.co.id/motor-gtr-150/"
+   },
+   "transmisi": {
+    "value": "Manual 6 kecepatan dengan kopling basah multi-plat",
+    "source": "https://www.daya-motor.com/shop/product/gtr-150-181"
+   },
+   "rem": {
+    "value": "Cakram hidrolik di depan dan belakang",
+    "source": "https://www.daya-motor.com/shop/product/gtr-150-181"
+   },
+   "suspensi": {
+    "value": "Depan teleskopik; belakang lengan ayun dengan satu peredam",
+    "source": "https://www.daya-motor.com/shop/product/gtr-150-181"
+   },
+   "ban": {
+    "value": "Depan 90/80-17 46P, belakang 120/70-17 58P, tubeless",
+    "source": "https://www.daya-motor.com/shop/product/gtr-150-181"
+   },
+   "fitur": {
+    "value": "Injeksi PGM-FI, lampu depan LED, speedometer digital",
+    "source": "https://www.idntimes.com/automotive/motorbike/spesifikasi-honda-supra-gtr-150-bebek-sport-rivalnya-yamaha-mx-king-c1c2-01-96gcg-grb0sb"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Oto.com",
+    "url": "https://www.oto.com/motor-baru/honda/supra-gtr-150/faq/apa-kelebihan-dan-kekurangan-honda-supra-gtr-150",
+    "kelebihan": [
+     "Desain dinilai gagah dan tampilannya menarik",
+     "Lampu depan memakai LED",
+     "Mesinnya dinilai mampu bersaing dengan kompetitor"
+    ],
+    "kekurangan": [
+     "Tidak tersedia bagasi",
+     "Performa ABS dinilai masih bisa ditingkatkan"
+    ]
+   },
+   {
+    "media": "Moladin",
+    "url": "https://moladin.com/news/5-kelebihan-dan-kekurangan-honda-supra-gtr-150/",
+    "kelebihan": [
+     "Performa mesin dinilai terbaik di kelas bebek",
+     "Posisi berkendara dinilai nyaman dengan jok rendah",
+     "Bobot 119 kg dinilai tidak terlalu berat",
+     "Konsumsi BBM dinilai cukup irit"
+    ],
+    "kekurangan": [
+     "Harga jualnya tergolong paling tinggi di kelas bebek",
+     "Panel instrumen dinilai kurang lengkap informasinya"
+    ]
+   },
+   {
+    "media": "Otomotifnet (GridOto)",
+    "url": "https://otomotifnet.gridoto.com/read/231126964/hasil-test-ride-lengkap-honda-supra-gtr-150-beberkan-data-akselerasi-power-dan-konsumsi-bbm",
+    "kelebihan": [
+     "Torsi terasa padat sejak putaran mesin rendah",
+     "Redaman suspensi dinilai pas saat berboncengan"
+    ],
+    "kekurangan": [
+     "Suspensi belakang terasa kaku saat melewati jalan rusak"
+    ]
+   }
+  ],
+  "dicek": "2026-11-02"
+ },
+ "honda-icone": {
+  "specs": {
+   "tenaga": {
+    "value": "1,8 kW (sekitar 2,4 PS), motor in-wheel brushless",
+    "source": "https://www.astra.co.id/blogs-and-articles/ahm-luncurkan-honda-icon-e-dan-cuv-e"
+   },
+   "torsi": {
+    "value": "85 Nm",
+    "source": "https://www.cnnindonesia.com/otomotif/20241010110740-603-1153731/harga-dan-spesifikasi-motor-listrik-termurah-honda-icon-e"
+   },
+   "bobot": {
+    "value": "89 kg (berat kosong)",
+    "source": "https://www.hondacengkareng.com/motor/honda-icon-e/"
+   },
+   "tinggi_jok": {
+    "value": "742 mm",
+    "source": "https://www.oto.com/berita-motor/detail-spesifikasi-honda-icon-e-seharga-rp28-jutaan"
+   },
+   "transmisi": {
+    "value": "Otomatis (skuter listrik)",
+    "source": "https://motorhondasumedang.com/model/icon-e/"
+   },
+   "rem": {
+    "value": "Cakram hidrolik depan, tromol belakang, sistem CBS",
+    "source": "https://www.restumotor.co.id/2026/10/honda-icon-e.html"
+   },
+   "suspensi": {
+    "value": "Teleskopik depan, ganda belakang",
+    "source": "https://www.restumotor.co.id/2026/10/honda-icon-e.html"
+   },
+   "ban": {
+    "value": "Depan 90/90-12, belakang 100/90-10",
+    "source": "https://www.oto.com/berita-motor/detail-spesifikasi-honda-icon-e-seharga-rp28-jutaan"
+   },
+   "fitur": {
+    "value": "USB charger di console box, panel digital full, lampu LED, baterai dapat dilepas, mode berkendara ECON dan STD",
+    "source": "https://www.astra.co.id/blogs-and-articles/harga-honda-icon-e-dan-honda-cuv-e-resmi-diumumkan"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Uzone.id",
+    "url": "https://uzone.id/review-honda-icon-e-ini-rasanya-naik-motor-listrik-termurah-honda",
+    "kelebihan": [
+     "Pengisian daya bisa dilakukan langsung di badan motor",
+     "Bobot terasa ringan sehingga mudah dikendalikan"
+    ],
+    "kekurangan": [
+     "Bagian ulasan yang tersedia tidak menyebut kekurangan secara eksplisit"
+    ]
+   },
+   {
+    "media": "Radar Banyumas (Disway)",
+    "url": "https://radarbanyumas.disway.id/otomotif/read/123259/5-kekurangan-motor-murah-honda-icon-e-yang-perlu-diperhatikan",
+    "kelebihan": [
+     "Konsumen yang ingin beralih ke listrik dengan harga terjangkau menyambutnya positif"
+    ],
+    "kekurangan": [
+     "Jarak tempuh dinilai terbatas, disebut sekitar 60-80 km (berbeda dari klaim resmi 53 km)",
+     "Waktu pengisian baterai dinilai cukup lama"
+    ]
+   },
+   {
+    "media": "Iwan Banaran (blog test ride, bukan media besar)",
+    "url": "https://iwanbanaran.com/news/test-ride-motor-listrik-cuv-e-dan-icon-e-honda-memang-beda",
+    "kelebihan": [
+     "Handling lincah karena bodinya ringan dibanding CUV e:",
+     "Bagasi dinilai besar",
+     "Ergonomi berkendara dinilai nyaman"
+    ],
+    "kekurangan": [
+     "Dinilai kurang stabil saat kecepatan tinggi dibanding CUV e:",
+     "Tenaganya dirasa kurang (less power)"
+    ]
+   }
+  ],
+  "dicek": "2026-11-02"
+ },
+ "honda-honda-monkey": {
+  "specs": {
+   "tenaga": {
+    "value": "6,9 kW pada 6.750 rpm",
+    "source": "https://www.restumotor.co.id/2026/10/honda-monkey.html"
+   },
+   "torsi": {
+    "value": "11 Nm pada 5.500 rpm",
+    "source": "https://www.restumotor.co.id/2026/10/honda-monkey.html"
+   },
+   "bobot": {
+    "value": "104 kg (berat kosong)",
+    "source": "https://www.restumotor.co.id/2026/10/honda-monkey.html"
+   },
+   "tinggi_jok": {
+    "value": "775 mm",
+    "source": "https://www.restumotor.co.id/2026/10/honda-monkey.html"
+   },
+   "tangki": {
+    "value": "5,6 liter",
+    "source": "https://www.restumotor.co.id/2026/10/honda-monkey.html"
+   },
+   "transmisi": {
+    "value": "Manual 5 percepatan",
+    "source": "https://www.restumotor.co.id/2026/10/honda-monkey.html"
+   },
+   "rem": {
+    "value": "ABS satu channel dengan IMU",
+    "source": "https://www.apmotor.co.id/2026/03/honda-monkey-125-2026-si-mungil-ikonik.html"
+   },
+   "suspensi": {
+    "value": "Upside-down Showa di depan, peredam ganda di belakang",
+    "source": "https://otorider.com/berita/2026/begini-tampang-baru-honda-monkey-harga-tembus-rp-88-juta-begdeigbuta"
+   },
+   "ban": {
+    "value": "Pola block, 120/80-12 depan dan 130/80-12 belakang",
+    "source": "https://otorider.com/berita/2026/begini-tampang-baru-honda-monkey-harga-tembus-rp-88-juta-begdeigbuta"
+   },
+   "fitur": {
+    "value": "Panel meter digital, lampu LED, ABS, starter elektrik",
+    "source": "https://www.posflores.com/eksosbud/44117411021/honda-monkey-2026-resmi-meluncur-tampilan-retro-baru-harga-tembus-rp88-jutaan"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Oto.com",
+    "url": "https://www.oto.com/motor-baru/honda/monkey/faq/apa-kelebihan-dan-kekurangan-honda-monkey",
+    "kelebihan": [
+     "Dimensi bodi lebih besar dibanding Monkey generasi lama",
+     "Desain retro yang menarik perhatian",
+     "Sudah dilengkapi rem ABS"
+    ],
+    "kekurangan": [
+     "Harga tergolong tinggi",
+     "Tidak nyaman untuk dibonceng",
+     "Pengoperasian kopling tangan dinilai merepotkan"
+    ]
+   },
+   {
+    "media": "Astra Otoshop",
+    "url": "https://astraotoshop.com/article/honda-monkey-2025",
+    "kelebihan": [
+     "Desain ikonik yang tetap relevan",
+     "Kualitas build khas Honda",
+     "Memiliki nilai historis"
+    ],
+    "kekurangan": [
+     "Harga dinilai mahal untuk kelas 125 cc",
+     "Lebih menonjolkan gaya daripada performa"
+    ]
+   }
+  ],
+  "dicek": "2026-11-02"
+ },
+ "honda-pcx": {
+  "specs": {
+   "tenaga": {
+    "value": "11,8 kW (16 PS) @ 8.500 rpm",
+    "source": "https://motor-honda.id/motor/matic/honda-pcx-160/"
+   },
+   "torsi": {
+    "value": "14,7 Nm @ 6.500 rpm",
+    "source": "https://motor-honda.id/motor/matic/honda-pcx-160/"
+   },
+   "bobot": {
+    "value": "132 kg",
+    "source": "https://www.marketing-honda.com/motor/pcx-160/"
+   },
+   "tinggi_jok": {
+    "value": "764 mm",
+    "source": "https://www.marketing-honda.com/motor/pcx-160/"
+   },
+   "tangki": {
+    "value": "8,1 liter",
+    "source": "https://moladin.com/news/harga-honda-pcx-160/"
+   },
+   "transmisi": {
+    "value": "Otomatis tipe V-Matic (CVT)",
+    "source": "https://www.marketing-honda.com/motor/pcx-160/"
+   },
+   "rem": {
+    "value": "Cakram di roda depan dan belakang; varian memakai CBS atau ABS",
+    "source": "https://www.marketing-honda.com/motor/pcx-160/"
+   },
+   "suspensi": {
+    "value": "Telescopic fork depan, unit swing arm belakang; varian RoadSync memakai subtank",
+    "source": "https://www.marketing-honda.com/motor/pcx-160/"
+   },
+   "fitur": {
+    "value": "Smart Key, panel TFT 5 inci (RoadSync), HSTC (ABS/RoadSync), bagasi 30 liter, lampu full LED",
+    "source": "https://motor-honda.id/motor/matic/honda-pcx-160/"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Musianapedia (Pikiran Rakyat)",
+    "url": "https://musianapedia.pikiran-rakyat.com/otomotif/pr-22610092001/review-jujur-honda-pcx-160-setelah-1100-km-irit-nyaman-tapi-kenapa-masih-kalah-dari-nmax?page=all",
+    "kelebihan": [
+     "Handling ringan, mudah dikendalikan di jalan sempit dan padat",
+     "Nyaman untuk pemakaian harian dengan konsumsi BBM dinilai irit",
+     "Tampilan tetap elegan dengan kesan mewah"
+    ],
+    "kekurangan": [
+     "Terasa kurang stabil saat kecepatan naik di atas sekitar 60–75 km/jam"
+    ]
+   },
+   {
+    "media": "Radar Tegal",
+    "url": "https://radartegal.co.id/nasional/mau-beli-honda-pcx-160-2026-simak-dulu-plus-minusnya-agar-tidak-menyesal.html",
+    "kelebihan": [
+     "Desain bodi lebih tegas dan terkesan dewasa serta mewah",
+     "Mesin bertenaga dengan konsumsi BBM yang irit",
+     "Fitur modern lengkap seperti Smart Key dan lampu full LED"
+    ],
+    "kekurangan": [
+     "Harga dinilai mahal untuk kelasnya",
+     "Dimensi bodi yang besar",
+     "ABS masih menggunakan sistem single channel"
+    ]
+   },
+   {
+    "media": "Suara Flores (Pikiran Rakyat)",
+    "url": "https://flotim.pikiran-rakyat.com/otomotif/pr-36610073270/review-honda-pcx-160-2026-spesifikasi-mesin-esp-update-harga-serta-kelebihan-dan-kekurangannya",
+    "kelebihan": [
+     "Posisi berkendara ergonomis dengan ruang pijakan kaki luas",
+     "Bagasi bawah jok 30 liter cukup untuk satu helm full-face",
+     "Fitur HSTC membantu mencegah ban belakang selip di jalan licin"
+    ],
+    "kekurangan": [
+     "Bodi cukup lebar sehingga repot bermanuver saat macet padat"
+    ]
+   }
+  ],
+  "dicek": "2026-11-02"
+ },
+ "honda-revo-x": {
+  "specs": {
+   "tenaga": {
+    "value": "6,56 kW (8,91 PS) pada 7.500 rpm",
+    "source": "https://www.wahanahonda.com/produk/honda-revo"
+   },
+   "torsi": {
+    "value": "8,76 Nm pada 6.000 rpm",
+    "source": "https://www.wahanahonda.com/produk/honda-revo"
+   },
+   "bobot": {
+    "value": "97,5 kg (berat kosong)",
+    "source": "https://www.wahanahonda.com/produk/honda-revo"
+   },
+   "tangki": {
+    "value": "4 liter",
+    "source": "https://www.wahanahonda.com/produk/honda-revo"
+   },
+   "transmisi": {
+    "value": "Manual 4 percepatan, pola N-1-2-3-4-N",
+    "source": "https://www.wahanahonda.com/produk/honda-revo"
+   },
+   "rem": {
+    "value": "Depan cakram hidrolik piston tunggal, belakang tromol",
+    "source": "https://www.wahanahonda.com/produk/honda-revo"
+   },
+   "suspensi": {
+    "value": "Depan teleskopik, belakang lengan ayun dengan suspensi ganda",
+    "source": "https://www.wahanahonda.com/produk/honda-revo"
+   },
+   "ban": {
+    "value": "Depan 70/90-17 M/C 38P, belakang 80/90-17 M/C 44P",
+    "source": "https://www.wahanahonda.com/produk/honda-revo"
+   },
+   "fitur": {
+    "value": "Injeksi PGM-FI, bagasi bawah jok 7 liter, kunci magnet otomatis (tipe X), rem cakram depan",
+    "source": "https://otosia.liputan6.com/otosia/read/6281762/honda-revo"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Oto",
+    "url": "https://www.oto.com/motor-baru/honda/revo/faq/apa-kelebihan-dan-kekurangan-honda-revo",
+    "kelebihan": [
+     "Harga dinilai terjangkau",
+     "Desain tampil sporty",
+     "Konsumsi BBM tergolong irit"
+    ],
+    "kekurangan": [
+     "Fitur yang ditawarkan masih minim",
+     "Akselerasi dinilai kurang",
+     "Transmisi hanya empat percepatan"
+    ]
+   },
+   {
+    "media": "Mobil123",
+    "url": "https://www.mobil123.com/berita/kelebihan-dan-kekurangan-honda-revo-fit-110-fi-motor-bebek-irit-dan-tangguh-144070/144070",
+    "kelebihan": [
+     "Bodi ringan dan ramping, mudah dikendarai di jalan sempit",
+     "Teknologi PGM-FI membuat jarak tempuh per liter lebih jauh"
+    ],
+    "kekurangan": [
+     "Sistem pencahayaan masih konvensional, belum LED",
+     "Tenaga mesin dinilai biasa saja",
+     "Kapasitas bagasi tergolong sempit"
+    ]
+   },
+   {
+    "media": "Nambo Motor",
+    "url": "https://nambomotor.com/berita/detail/kelebihan-dan-kekurangan-honda-revo-series-sebelum-membeli",
+    "kelebihan": [
+     "Biaya operasional dan perawatan lebih hemat",
+     "Mesin dinilai awet dan tidak mudah panas"
+    ],
+    "kekurangan": [
+     "Lampu depan masih memakai halogen, belum LED"
+    ]
+   }
+  ],
+  "dicek": "2026-11-02"
+ },
+ "honda-st125-dax": {
+  "specs": {
+   "tenaga": {
+    "value": "6,6 kW pada 7.000 rpm",
+    "source": "https://www.wahanahonda.com/produk/honda-st125-dax"
+   },
+   "torsi": {
+    "value": "10,4 Nm pada 5.000 rpm",
+    "source": "https://www.wahanahonda.com/produk/honda-st125-dax"
+   },
+   "bobot": {
+    "value": "107 kg (berat kosong)",
+    "source": "https://www.wahanahonda.com/produk/honda-st125-dax"
+   },
+   "tinggi_jok": {
+    "value": "778 mm",
+    "source": "https://www.wahanahonda.com/produk/honda-st125-dax"
+   },
+   "tangki": {
+    "value": "3,8 liter",
+    "source": "https://www.wahanahonda.com/produk/honda-st125-dax"
+   },
+   "transmisi": {
+    "value": "Manual 4 percepatan (pola 1-N-2-3-4), kopling basah multi-plat",
+    "source": "https://www.wahanahonda.com/produk/honda-st125-dax"
+   },
+   "rem": {
+    "value": "Cakram hidrolik depan 220 mm dengan ABS; belakang cakram hidrolik 190 mm",
+    "source": "https://www.wahanahonda.com/produk/honda-st125-dax"
+   },
+   "suspensi": {
+    "value": "Depan teleskopik upside-down 31 mm (Showa); belakang twin shock (Showa)",
+    "source": "https://www.wahanahonda.com/produk/honda-st125-dax"
+   },
+   "ban": {
+    "value": "Depan 120/70-12, belakang 130/70-12, velg racing 12 inci",
+    "source": "https://www.wahanahonda.com/produk/honda-st125-dax"
+   },
+   "fitur": {
+    "value": "Lampu LED depan-belakang-sein, ABS satu channel berbasis IMU, injeksi PGM-FI, panel digital",
+    "source": "https://www.astra-honda.com/article/honda-st125-dax-tampil-makin-ikonik-dengan-warna-baru"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Mobil123",
+    "url": "https://www.mobil123.com/berita/honda-st125-dax-mini-bike-retro-premium-dengan-harga-fantastis-144004/144004",
+    "kelebihan": [
+     "Kopling otomatis membuat motor mudah dipakai, termasuk pemula",
+     "ABS satu channel jarang ada di motor sekecil ini",
+     "Lampu LED penuh di bagian depan, belakang, dan sein",
+     "Mesin terasa halus dan irit bahan bakar"
+    ],
+    "kekurangan": [
+     "Harganya dinilai terlalu mahal untuk kelas 125 cc"
+    ]
+   },
+   {
+    "media": "Disway Pagar Alam",
+    "url": "https://pagaralampos.disway.id/teknologi-otomotif/read/777670/review-honda-st125-dax-2026-motor-mini-retro-yang-unik-irit-dan-punya-gaya-ikonik",
+    "kelebihan": [
+     "Desain ikonik yang sulit ditandingi motor lain",
+     "Bobot relatif ringan, berpotensi ekonomis untuk harian",
+     "Sudah memakai injeksi, suspensi upside-down, rem cakram, dan ABS"
+    ],
+    "kekurangan": [
+     "Harga dinilai tinggi dibanding motor 125 cc biasa"
+    ]
+   },
+   {
+    "media": "Disway Radar Tegal",
+    "url": "https://radartegal.disway.id/lifestyle/read/729782/review-honda-st125-dax-2026-motor-bebek-unik-dengan-harga-selangit",
+    "kelebihan": [
+     "Fitur premium: suspensi upside-down, rem cakram depan-belakang, ABS dengan IMU",
+     "Bobot tergolong ringan, sekitar 107 kg"
+    ],
+    "kekurangan": [
+     "Harga sekitar Rp84,5 juta dinilai lebih cocok untuk hobi",
+     "Tangki 3,8 liter dan kepraktisan dinilai terbatas"
+    ]
+   }
+  ],
+  "dicek": "2026-11-02"
+ },
+ "honda-scoopy": {
+  "specs": {
+   "tenaga": {
+    "value": "6,6 kW (9,0 PS) pada 7.500 rpm",
+    "source": "https://restumotor.co.id/2026/10/honda-scoopy.html"
+   },
+   "torsi": {
+    "value": "9,2 Nm pada 6.000 rpm",
+    "source": "https://restumotor.co.id/2026/10/honda-scoopy.html"
+   },
+   "bobot": {
+    "value": "94 kg (STD), 93 kg (Smart Key)",
+    "source": "https://www.saindomajuinternasional.com/motor/honda-scoopy/"
+   },
+   "tinggi_jok": {
+    "value": "746 mm",
+    "source": "https://www.saindomajuinternasional.com/motor/honda-scoopy/"
+   },
+   "tangki": {
+    "value": "4,2 liter",
+    "source": "https://www.saindomajuinternasional.com/motor/honda-scoopy/"
+   },
+   "transmisi": {
+    "value": "Otomatis V-Matic",
+    "source": "https://restumotor.co.id/2026/10/honda-scoopy.html"
+   },
+   "rem": {
+    "value": "Depan cakram hidrolik piston tunggal, belakang tromol, sistem CBS",
+    "source": "https://restumotor.co.id/2026/10/honda-scoopy.html"
+   },
+   "suspensi": {
+    "value": "Depan teleskopik, belakang lengan ayun dengan peredam kejut tunggal",
+    "source": "https://restumotor.co.id/2026/10/honda-scoopy.html"
+   },
+   "ban": {
+    "value": "Depan 100/90-12 59J tubeless, belakang 110/90-12 64J tubeless",
+    "source": "https://restumotor.co.id/2026/10/honda-scoopy.html"
+   },
+   "fitur": {
+    "value": "Honda Smart Key (Stylish/Prestige), lampu LED crystal block, panel digital",
+    "source": "https://otosia.liputan6.com/motor/read/6182029/berapa-harga-honda-scoopy-2025-bahas-lengkap-fitur-spesifikasi-hingga-varian-terbaru"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Oto.com",
+    "url": "https://www.oto.com/berita-motor/pelajari-kelebihan-dan-kekurangan-all-new-honda-scoopy-sebelum-anda-membelinya",
+    "kelebihan": [
+     "Desain retro yang klasik dan elegan menjadi daya tarik utama",
+     "Varian Stylish dan Prestige sudah memakai sistem keyless",
+     "Rangka eSAF serupa Honda Genio dengan konstruksi yang diperbaiki",
+     "Kapasitas tangki bahan bakar bertambah sehingga lebih nyaman"
+    ],
+    "kekurangan": [
+     "Tenaga dan torsi berkurang dibanding generasi sebelumnya",
+     "Velg berukuran 12 inci"
+    ]
+   },
+   {
+    "media": "Moladin",
+    "url": "https://moladin.com/news/kekurangan-honda-scoopy-terbaru/",
+    "kelebihan": [
+     "Teknologi modern pada generasi baru",
+     "Konsumsi BBM diklaim hemat hingga 59 km per liter"
+    ],
+    "kekurangan": [
+     "Varian smart key tidak memakai kick starter",
+     "Performa kertas masih kalah dari Yamaha Fino 125cc",
+     "Harga termasuk paling mahal di kelas 110 cc"
+    ]
+   },
+   {
+    "media": "Otomotifo.com",
+    "url": "https://www.otomotifo.com/kelebihan-dan-kekurangan-scoopy/",
+    "kelebihan": [
+     "Desain klasik dan elegan menjadi keunggulan pertama",
+     "Bagasi dinilai luas untuk barang bawaan"
+    ],
+    "kekurangan": [
+     "Performa terbatas karena mesin hanya 110 cc",
+     "Rem belakang masih memakai tromol"
+    ]
+   }
+  ],
+  "dicek": "2026-11-02"
+ },
+ "honda-sonic-150-r": {
+  "specs": {
+   "tenaga": {
+    "value": "16,0 PS (11,8 kW) pada 9.000 rpm",
+    "source": "https://www.mpm-gateway.com/motor/sonic-150r/"
+   },
+   "torsi": {
+    "value": "13,5 Nm pada 6.500 rpm",
+    "source": "https://www.mpm-gateway.com/motor/sonic-150r/"
+   },
+   "bobot": {
+    "value": "114 kg",
+    "source": "https://www.oto.com/en/motor-baru/honda/sonic"
+   },
+   "tinggi_jok": {
+    "value": "762 mm",
+    "source": "https://www.oto.com/motor-baru/honda/sonic/faq/apa-kelebihan-dan-kekurangan-honda-sonic"
+   },
+   "tangki": {
+    "value": "4 liter",
+    "source": "https://www.restumotor.co.id/2026/10/honda-sonic-150r.html"
+   },
+   "transmisi": {
+    "value": "Manual 6 percepatan, pola 1-N-2-3-4-5-6",
+    "source": "https://www.mpm-gateway.com/motor/sonic-150r/"
+   },
+   "rem": {
+    "value": "Cakram hidrolik depan dan belakang",
+    "source": "https://www.mpm-gateway.com/motor/sonic-150r/"
+   },
+   "suspensi": {
+    "value": "Depan teleskopik, belakang lengan ayun monoshock",
+    "source": "https://www.restumotor.co.id/2026/10/honda-sonic-150r.html"
+   },
+   "ban": {
+    "value": "Depan 70/90-17, belakang 80/90-17, tubeless",
+    "source": "https://www.restumotor.co.id/2026/10/honda-sonic-150r.html"
+   },
+   "fitur": {
+    "value": "Panel digital, lampu depan LED, pendingin cairan dengan kipas otomatis, rangka twin tube, rem cakram depan-belakang",
+    "source": "https://www.mpm-gateway.com/motor/sonic-150r/"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Oto.com",
+    "url": "https://www.oto.com/motor-baru/honda/sonic/faq/apa-kelebihan-dan-kekurangan-honda-sonic",
+    "kelebihan": [
+     "Desain ramping membuat motor terasa lincah saat bermanuver",
+     "Fitur penunjang performa dinilai cukup lengkap",
+     "Transmisi 6 percepatan termasuk fitur yang disorot"
+    ],
+    "kekurangan": [
+     "Tenaga mesin dinilai kalah kuat dibanding kompetitornya",
+     "Minimnya fitur membuat tampilan kerennya terasa kurang maksimal"
+    ]
+   },
+   {
+    "media": "Teknik-Otomotif.co.id",
+    "url": "https://www.teknik-otomotif.co.id/inilah-honda-sonic-150r-kelebihan-dan-kekurangan/",
+    "kelebihan": [
+     "Lampu utama LED dengan bentuk headlamp yang tajam",
+     "Panel indikator digital dengan dimensi yang kompak",
+     "Ban tubeless dan velg sporty yang cukup lebar",
+     "Rem cakram depan dengan kaliper satu piston"
+    ],
+    "kekurangan": []
+   },
+   {
+    "media": "Musianapedia (Pikiran Rakyat)",
+    "url": "https://musianapedia.pikiran-rakyat.com/otomotif/pr-22610028497/sporty-tapi-praktis-bongkar-kelebihan-dan-kekurangan-honda-sonic-150r?page=all",
+    "kelebihan": [
+     "Bobot ringan dan bodi ramping, mudah menyelinap di kemacetan",
+     "Handling lincah untuk manuver cepat",
+     "Transmisi manual 6 percepatan memberi kontrol penuh",
+     "Jaringan servis Honda tergolong luas"
+    ],
+    "kekurangan": [
+     "Posisi duduk bisa bikin pegal untuk pemakaian harian lama",
+     "Suspensi terasa agak kaku dibanding motor bebek biasa",
+     "Pemakaian agresif membuat konsumsi BBM lebih boros"
+    ]
+   }
+  ],
+  "dicek": "2026-11-02"
+ },
+ "honda-stylo-160": {
+  "specs": {
+   "tenaga": {
+    "value": "Daya maksimum 11,3 kW (15,4 PS) pada 8.500 rpm",
+    "source": "https://www.motorkux.id/motor-baru-honda/p/bp-stylo-160"
+   },
+   "torsi": {
+    "value": "Torsi maksimum 13,8 Nm pada 7.000 rpm",
+    "source": "https://www.motorkux.id/motor-baru-honda/p/bp-stylo-160"
+   },
+   "bobot": {
+    "value": "Berat kosong 115 kg (CBS) dan 118 kg (ABS)",
+    "source": "https://hondaanugrahsejahtera.com/honda-stylo160/"
+   },
+   "tinggi_jok": {
+    "value": "768 mm",
+    "source": "https://hondadutamotor.com/spesifikasi-dan-review-honda-stylo-160/"
+   },
+   "tangki": {
+    "value": "5 liter",
+    "source": "https://www.motorkux.id/motor-baru-honda/p/bp-stylo-160"
+   },
+   "transmisi": {
+    "value": "Otomatis tipe V-Matic dengan kopling sentrifugal tipe kering",
+    "source": "https://www.motorkux.id/motor-baru-honda/p/bp-stylo-160"
+   },
+   "rem": {
+    "value": "Cakram hidrolik depan 220 mm (ABS) atau 190 mm (CBS); belakang cakram 220 mm (ABS) atau tromol (CBS)",
+    "source": "https://www.motorkux.id/motor-baru-honda/p/bp-stylo-160"
+   },
+   "suspensi": {
+    "value": "Depan teleskopik; belakang lengan ayun dengan suspensi tunggal",
+    "source": "https://www.motorkux.id/motor-baru-honda/p/bp-stylo-160"
+   },
+   "ban": {
+    "value": "Depan 110/90-12 dan belakang 130/80-12, keduanya tubeless",
+    "source": "https://www.motorkux.id/motor-baru-honda/p/bp-stylo-160"
+   },
+   "fitur": {
+    "value": "Smart Key dengan alarm anti-theft dan answer back, panel full digital, lampu LED penuh, USB charger tipe A",
+    "source": "https://otosia.liputan6.com/otosia/read/6276078/honda-stylo-160"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Oto.detik.com",
+    "url": "https://oto.detik.com/ototest-motor/d-7237341/review-honda-stylo-160-apa-saja-kelebihannya",
+    "kelebihan": [
+     "Mesin lebih besar dan kualitas pembuatan dinilai sangat baik",
+     "Tenaga terasa kuat di putaran bawah saat pengujian"
+    ],
+    "kekurangan": [
+     "Konsumsi bahan bakar hasil uji tidak lebih irit dibanding Vario 160"
+    ]
+   },
+   {
+    "media": "GridOto.com",
+    "url": "https://www.gridoto.com/read/224027737/punya-karakter-suspensi-beda-apa-rasanya-harian-pakai-honda-styo-160",
+    "kelebihan": [
+     "Tinggi jok 768 mm ramah untuk mayoritas postur tubuh orang Indonesia",
+     "Pengendara sekitar 165 cm bisa menapakkan kaki saat berhenti"
+    ],
+    "kekurangan": [
+     "Jok terasa keras dan kulitnya kaku",
+     "Perjalanan lama bisa membuat bokong cepat pegal"
+    ]
+   },
+   {
+    "media": "Kompas.com (Otomotif)",
+    "url": "https://otomotif.kompas.com/read/2024/10/16/100200215/rasa-berkendara-honda-stylo-160-cbs-ada-plus-minusnya",
+    "kelebihan": [
+     "Performa mesin dinilai mumpuni untuk rute dalam dan luar kota",
+     "Karakter mesin juga dinilai cocok untuk dibonceng"
+    ],
+    "kekurangan": [
+     "Suara mesin terdengar agak kasar saat digeber",
+     "Performa rem CBS dinilai kurang pakem untuk mesin 160 cc"
+    ]
+   }
+  ],
+  "dicek": "2026-11-02"
+ },
+ "honda-super-cub-c125": {
+  "specs": {
+   "tenaga": {
+    "value": "7,2 kW (sekitar 9 hp) pada 7.500 rpm",
+    "source": "https://www.restumotor.co.id/2026/10/honda-super-cub-c125.html"
+   },
+   "torsi": {
+    "value": "10,4 Nm pada 6.250 rpm (sumber lain menulis 9,7 Nm)",
+    "source": "https://www.restumotor.co.id/2026/10/honda-super-cub-c125.html"
+   },
+   "bobot": {
+    "value": "110 kg berat kosong (sumber lain menulis 107 kg dan 111 kg)",
+    "source": "https://www.restumotor.co.id/2026/10/honda-super-cub-c125.html"
+   },
+   "tinggi_jok": {
+    "value": "780 mm",
+    "source": "https://www.restumotor.co.id/2026/10/honda-super-cub-c125.html"
+   },
+   "tangki": {
+    "value": "3,7 liter",
+    "source": "https://www.restumotor.co.id/2026/10/honda-super-cub-c125.html"
+   },
+   "transmisi": {
+    "value": "Manual 4 percepatan, semi-otomatis tanpa tuas kopling",
+    "source": "https://otomotif.kompas.com/read/2025/10/13/142100815/honda-super-cub-c125--si-bebek-mahal?page=all"
+   },
+   "rem": {
+    "value": "Depan cakram hidrolik, belakang tromol mekanis",
+    "source": "https://www.restumotor.co.id/2026/10/honda-super-cub-c125.html"
+   },
+   "suspensi": {
+    "value": "Depan teleskopik, belakang ganda (twin shock)",
+    "source": "https://www.restumotor.co.id/2026/10/honda-super-cub-c125.html"
+   },
+   "ban": {
+    "value": "Tubeless 70/90-17 depan, 80/90-17 belakang",
+    "source": "https://www.restumotor.co.id/2026/10/honda-super-cub-c125.html"
+   },
+   "fitur": {
+    "value": "Smart Key dengan alarm dan answer back, lampu LED penuh, panel digital-analog, buka jok elektrik",
+    "source": "https://www.gridoto.com/read/223857489/punya-fitur-keyless-sampai-mesin-injeksi-semahal-ini-harga-honda-super-cub-c125"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "GridOto",
+    "url": "https://www.gridoto.com/read/221293649/harganya-setara-dua-nmax-nih-impresi-fitur-mahal-honda-super-cub-c125",
+    "kelebihan": [
+     "Lampu full LED terang dan terlihat modern",
+     "Speedometer dan cover setang silver terkesan mewah"
+    ],
+    "kekurangan": [
+     "Harga OTR Jakarta dinilai sangat tinggi untuk ukuran bebek",
+     "Pelek tubeless tanpa jari-jari dinilai kurang menarik"
+    ]
+   },
+   {
+    "media": "GridOto",
+    "url": "https://www.gridoto.com/read/221293627/bebek-termahal-di-indonesia-honda-super-cub-c125-rasanya-biasa-saja",
+    "kelebihan": [
+     "Torsi lebih unggul dibanding Supra X 125",
+     "Sudah memenuhi standar emisi Euro 4"
+    ],
+    "kekurangan": [
+     "Tenaga maksimum tidak lebih besar dari Supra X 125"
+    ]
+   },
+   {
+    "media": "Kompas.com",
+    "url": "https://otomotif.kompas.com/read/2025/10/13/142100815/honda-super-cub-c125--si-bebek-mahal?page=all",
+    "kelebihan": [
+     "Fitur modern lengkap dengan lampu full LED",
+     "Karakter mesin halus, responsif, dan efisien",
+     "Smart Key dengan alarm dan answer back"
+    ],
+    "kekurangan": [
+     "Tenaga mesin tergolong kecil, sekitar 9 hp",
+     "Harga dinilai mahal untuk motor bebek"
+    ]
+   }
+  ],
+  "dicek": "2026-11-02"
+ },
+ "honda-supra-x-125-fi": {
+  "specs": {
+   "tenaga": {
+    "value": "10,1 PS (7,4 kW) pada 8.000 rpm",
+    "source": "https://www.wahanahonda.com/produk/honda-supra-x-125-fi"
+   },
+   "torsi": {
+    "value": "9,3 Nm (0,95 kgf.m) pada 4.000 rpm",
+    "source": "https://www.wahanahonda.com/produk/honda-supra-x-125-fi"
+   },
+   "bobot": {
+    "value": "106 kg (varian CW), 103 kg (varian SW), berat kosong",
+    "source": "https://mpm-honda.com/product/supra-x-125-fi"
+   },
+   "tangki": {
+    "value": "4 liter",
+    "source": "https://www.wahanahonda.com/produk/honda-supra-x-125-fi"
+   },
+   "transmisi": {
+    "value": "4 percepatan rotary, kopling multiplate wet clutch",
+    "source": "https://mpm-honda.com/product/supra-x-125-fi"
+   },
+   "rem": {
+    "value": "Depan cakram hidrolik piston tunggal; belakang cakram (CW) atau tromol (SW)",
+    "source": "https://mpm-honda.com/product/supra-x-125-fi"
+   },
+   "suspensi": {
+    "value": "Depan teleskopik; belakang lengan ayun dengan suspensi ganda",
+    "source": "https://mpm-honda.com/product/supra-x-125-fi"
+   },
+   "ban": {
+    "value": "Depan 70/90-17 M/C 38P; belakang 80/90-17 M/C 44P",
+    "source": "https://mpm-honda.com/product/supra-x-125-fi"
+   },
+   "fitur": {
+    "value": "Injeksi PGM-FI, pengisi daya (power charger), utility box, panel meter modern, rem cakram depan-belakang (CW)",
+    "source": "https://otosia.liputan6.com/motor/read/5265766/harga-motor-honda-supra-bapak-alias-supra-x-125-fi-spesifikasi-fitur-kelebihan-dan-kekurangannya-terupdate-mei-2023"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Otosia (Liputan6)",
+    "url": "https://otosia.liputan6.com/motor/read/5265766/harga-motor-honda-supra-bapak-alias-supra-x-125-fi-spesifikasi-fitur-kelebihan-dan-kekurangannya-terupdate-mei-2023",
+    "kelebihan": [
+     "Irit BBM berkat teknologi PGM-FI yang dinilai membantu hemat konsumsi",
+     "Dinilai sebagai pelopor teknologi injeksi di Indonesia",
+     "Dilengkapi fitur praktis seperti pengisi daya dan utility box"
+    ],
+    "kekurangan": [
+     "Tenaga terasa kurang saat menanjak karena gigi relatif kecil",
+     "Hanya mengandalkan mesin 125 cc"
+    ]
+   },
+   {
+    "media": "Oto.com",
+    "url": "https://www.oto.com/motor-baru/honda/supra-x-125-fi/faq/apa-kelebihan-dan-kekurangan-honda-supra-x-125-fi",
+    "kelebihan": [
+     "Tergolong motor pekerja yang tangguh",
+     "Desainnya dinilai cukup modern"
+    ],
+    "kekurangan": [
+     "Fitur tergolong minimalis",
+     "Lampu belum menggunakan LED",
+     "Performanya dinilai biasa saja"
+    ]
+   },
+   {
+    "media": "Nambomotor",
+    "url": "https://nambomotor.com/berita/detail/kelebihan-dan-kekurangan-honda-supra-x-125-fi",
+    "kelebihan": [
+     "Konsumsi BBM sangat irit untuk pemakaian harian",
+     "Varian tertinggi (CW) memakai rem cakram depan dan belakang",
+     "Suku cadang original mudah dan relatif murah didapat"
+    ],
+    "kekurangan": [
+     "Bagasi 7 liter hanya muat barang kecil, tidak muat helm",
+     "Tidak memiliki fitur keyless"
+    ]
+   }
+  ],
+  "dicek": "2026-11-02"
+ },
+ "honda-vario-125": {
+  "specs": {
+   "tenaga": {
+    "value": "11,1 PS (8,2 kW) pada 8.500 rpm",
+    "source": "https://www.motorkux.id/motor-baru-honda/p/bp-vario-125"
+   },
+   "torsi": {
+    "value": "10,8 Nm pada 5.000 rpm",
+    "source": "https://www.motorkux.id/motor-baru-honda/p/bp-vario-125"
+   },
+   "bobot": {
+    "value": "111 kg (CBS/CBS ISS); 112 kg (Street)",
+    "source": "https://otoflash.com/news/spesifikasi-dan-harga-all-new-honda-vario-125--termasuk-varian-street-style-terbaru"
+   },
+   "tinggi_jok": {
+    "value": "769 mm",
+    "source": "https://www.otoinfo.id/spesifikasi-lengkap-honda-vario-125-terbaru-2025-mesin-irit-desain-sporty-dan-fitur-modern-dari-astra-honda-motor/"
+   },
+   "tangki": {
+    "value": "5,5 liter",
+    "source": "https://www.motorkux.id/motor-baru-honda/p/bp-vario-125"
+   },
+   "transmisi": {
+    "value": "Otomatis tipe V-Matic",
+    "source": "https://www.motorkux.id/motor-baru-honda/p/bp-vario-125"
+   },
+   "rem": {
+    "value": "Depan cakram hidrolik piston tunggal; belakang tromol",
+    "source": "https://www.motorkux.id/motor-baru-honda/p/bp-vario-125"
+   },
+   "suspensi": {
+    "value": "Depan teleskopik; belakang lengan ayun dengan peredam kejut tunggal",
+    "source": "https://www.motorkux.id/motor-baru-honda/p/bp-vario-125"
+   },
+   "ban": {
+    "value": "Depan 90/80-14 M/C 43P, belakang 100/80-14 M/C 48P, tubeless",
+    "source": "https://www.motorkux.id/motor-baru-honda/p/bp-vario-125"
+   },
+   "fitur": {
+    "value": "Honda Smart Key (CBS-ISS dan Street), panel meter digital penuh, lampu LED, USB Type-C, bagasi 18 liter",
+    "source": "https://www.tribunnews.com/otomotif/7761447/spesifikasi-all-new-honda-vario-125-terbaru-termasuk-varian-tipe-street"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Lamongan Terkini (Pikiran Rakyat)",
+    "url": "https://lamongan.pikiran-rakyat.com/ragam/pr-38610124774/vario-125-vs-motor-125cc-lain-ternyata-ini-kelebihan-dan-kekurangannya",
+    "kelebihan": [
+     "Efisiensi bahan bakar disebut sebagai keunggulan utama",
+     "Tenaga 11,1 PS dan torsi 10,8 Nm dinilai cukup untuk komuter",
+     "Tarikan awal halus untuk pemakaian stop-and-go",
+     "Akselerasi responsif di putaran bawah hingga menengah"
+    ],
+    "kekurangan": [
+     "Tenaga terasa terbatas saat berboncengan atau menanjak panjang"
+    ]
+   },
+   {
+    "media": "Malang Terkini (Pikiran Rakyat)",
+    "url": "https://malang.pikiran-rakyat.com/ragam/pr-35310124761/review-jujur-vario-125-irit-banget-tapi-ada-kekurangan-ini?page=all",
+    "kelebihan": [
+     "Konsumsi BBM hemat, sekitar 51,7 km/liter",
+     "Panel meter digital dinilai informatif",
+     "USB charger di laci depan menambah kepraktisan"
+    ],
+    "kekurangan": [
+     "Ruang dek kaki terasa sempit bagi pengendara bertubuh tinggi",
+     "Jok keras sehingga cepat lelah saat perjalanan jauh",
+     "Mesin dua katup dinilai tertinggal dari kompetitor empat katup",
+     "Rem belakang masih memakai tromol"
+    ]
+   },
+   {
+    "media": "Mojok.co",
+    "url": "https://mojok.co/terminal/4-kelemahan-honda-vario-125-yang-perlu-dipertimbangkan-sebelum-membeli-bekasnya/",
+    "kelebihan": [
+     "Desain velg dinilai sporty"
+    ],
+    "kekurangan": [
+     "Bodi dinilai mudah bergetar",
+     "Cover knalpot gampang retak jika tersenggol",
+     "CVT dinilai rentan bermasalah atau gredek",
+     "Sebagian montir meragukan kualitas velg"
+    ]
+   }
+  ],
+  "dicek": "2026-11-02"
+ },
+ "honda-vario-evo-160": {
+  "specs": {
+   "tenaga": {
+    "value": "15,4 PS pada 8.500 rpm",
+    "source": "https://www.motorkux.id/p/bp-vario-160"
+   },
+   "torsi": {
+    "value": "13,8 Nm pada 7.000 rpm",
+    "source": "https://www.motorkux.id/p/bp-vario-160"
+   },
+   "bobot": {
+    "value": "115 kg (CBS) dan 117 kg (ABS)",
+    "source": "https://www.hondacengkareng.com/motor/honda-vario-160/"
+   },
+   "tinggi_jok": {
+    "value": "778 mm",
+    "source": "https://www.hondacengkareng.com/motor/honda-vario-160/"
+   },
+   "tangki": {
+    "value": "5,5 liter",
+    "source": "https://www.motorkux.id/p/bp-vario-160"
+   },
+   "transmisi": {
+    "value": "Otomatis V-Matic",
+    "source": "https://www.motorkux.id/p/bp-vario-160"
+   },
+   "rem": {
+    "value": "Depan cakram hidrolik piston tunggal, belakang tromol pada CBS; tipe ABS memakai cakram 220 mm di depan dan belakang",
+    "source": "https://www.astra-honda.com/article/evolusi-terbaru-ahm-hadirkan-skutik-sporti-new-honda-vario-evo-160"
+   },
+   "suspensi": {
+    "value": "Depan teleskopik; belakang lengan ayun dengan peredam tunggal",
+    "source": "https://www.motorkux.id/p/bp-vario-160"
+   },
+   "ban": {
+    "value": "Depan 100/80-14 dan belakang 120/70-14, tubeless",
+    "source": "https://www.motorkux.id/p/bp-vario-160"
+   },
+   "fitur": {
+    "value": "Honda Smart Key dengan alarm dan answer back, panel meter full digital, USB charger di console box, lampu LED, bagasi 18 liter, ABS (tipe ABS)",
+    "source": "https://www.hondacengkareng.com/motor/honda-vario-160/"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Otojatim",
+    "url": "https://www.otojatim.com/2023/01/review-honda-vario-160-kenceng-dan-irit.html",
+    "kelebihan": [
+     "Akselerasi dinilai lebih unggul dibanding Aerox dan PCX 160",
+     "Mesin halus dengan getaran minim saat digeber",
+     "Konsumsi bensin tetap dinilai irit meski tenaganya besar"
+    ],
+    "kekurangan": [
+     "Busa jok tipis sehingga duduk terasa agak keras",
+     "Bobot lebih berat dibanding Vario 150, meski handling tetap lincah",
+     "Mesin terasa lebih keras setelah melewati 90 km/jam"
+    ]
+   },
+   {
+    "media": "Carmudi",
+    "url": "https://www.carmudi.co.id/journal/kelebihan-dan-kekurangan-honda-vario-160-terbaru/",
+    "kelebihan": [
+     "Konsumsi BBM dinilai irit",
+     "Bobot tergolong ringan untuk kelasnya",
+     "Akselerasi dinilai dapat diandalkan"
+    ],
+    "kekurangan": [
+     "Rangka eSAF dikeluhkan mudah berkarat dan keropos",
+     "Jok cenderung keras",
+     "Kunci jok terasa sulit dikunci setelah dibuka"
+    ]
+   },
+   {
+    "media": "Oto.com",
+    "url": "https://www.oto.com/motor-baru/honda/vario-160/faq/apa-kelebihan-dan-kekurangan-honda-vario-160",
+    "kelebihan": [
+     "Tampilan sporty dan kekar",
+     "Tersedia pilihan varian ABS",
+     "Rangka dan mesin yang baru",
+     "Efisiensi BBM"
+    ],
+    "kekurangan": [
+     "Peningkatan fitur dinilai tidak signifikan",
+     "Belum tersedia fitur connected",
+     "Bobot lebih berat dibanding Vario 150"
+    ]
+   }
+  ],
+  "dicek": "2026-11-02"
+ },
+ "honda-cb500x": {
+  "specs": {
+   "tenaga": {
+    "value": "37 kW pada 8.500 rpm",
+    "source": "https://www.astra-honda.com/hondabigbike/product/compare/honda-cb500x"
+   },
+   "torsi": {
+    "value": "44,6 Nm pada 6.500 rpm",
+    "source": "https://www.astra-honda.com/hondabigbike/product/compare/honda-cb500x"
+   },
+   "bobot": {
+    "value": "199 kg (kerb weight, situs AHM; sumber lain tertulis 198 kg)",
+    "source": "https://www.astra-honda.com/hondabigbike/product/compare/honda-cb500x"
+   },
+   "tinggi_jok": {
+    "value": "830 mm",
+    "source": "https://www.astra-honda.com/hondabigbike/product/compare/honda-cb500x"
+   },
+   "tangki": {
+    "value": "17,7 liter",
+    "source": "https://www.astra-honda.com/hondabigbike/product/compare/honda-cb500x"
+   },
+   "transmisi": {
+    "value": "6 percepatan, tipe constant mesh, kopling basah multi-plat dengan fitur assist/slipper",
+    "source": "https://www.astra-honda.com/hondabigbike/product/compare/honda-cb500x"
+   },
+   "rem": {
+    "value": "Cakram depan ganda 296 mm dengan kaliper dua piston; cakram belakang 240 mm; ABS",
+    "source": "https://www.astra-honda.com/hondabigbike/product/compare/honda-cb500x"
+   },
+   "suspensi": {
+    "value": "Suspensi depan inverted 41 mm (situs AHM menyebutnya inverted front suspension)",
+    "source": "https://www.astra-honda.com/hondabigbike/product/compare/honda-cb500x"
+   },
+   "ban": {
+    "value": "Depan 110/80 ZR19, belakang 160/60 ZR17",
+    "source": "https://www.astra-honda.com/hondabigbike/product/compare/honda-cb500x"
+   },
+   "fitur": {
+    "value": "Panel meter digital penuh, lampu depan LED, lampu belakang LED, kopling assist/slipper, sistem keamanan HISS",
+    "source": "https://www.astra-honda.com/hondabigbike/product/compare/honda-cb500x"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Oto.com",
+    "url": "https://www.oto.com/motor-baru/honda/cb500x/faq/apa-kelebihan-dan-kekurangan-honda-cb500x",
+    "kelebihan": [
+     "Desainnya dinilai khas motor touring",
+     "Harganya dianggap terjangkau",
+     "Bobotnya tergolong ringan"
+    ],
+    "kekurangan": [
+     "Tenaga mesin dinilai kalah dibanding pesaing",
+     "Fitur keselamatan dinilai masih bisa ditingkatkan"
+    ]
+   }
+  ],
+  "dicek": "2026-11-02"
+ },
+ "honda-cb650r": {
+  "specs": {
+   "tenaga": {
+    "value": "66,5 kW pada 11.000 rpm",
+    "source": "https://www.astra-honda.com/hondabigbike/news/read/neo-sport-cafe-honda-cb650r-tampil-makin-gagah-dan-eksklusif"
+   },
+   "torsi": {
+    "value": "60,7 Nm pada 8.000 rpm",
+    "source": "https://www.astra-honda.com/hondabigbike/news/read/neo-sport-cafe-honda-cb650r-tampil-makin-gagah-dan-eksklusif"
+   },
+   "bobot": {
+    "value": "203 kg (berat kerb)",
+    "source": "https://www.oto.com/en/motor-baru/honda/cb650r/spesifikasi"
+   },
+   "tinggi_jok": {
+    "value": "810 mm",
+    "source": "https://www.oto.com/en/motor-baru/honda/cb650r/spesifikasi"
+   },
+   "tangki": {
+    "value": "15,4 liter",
+    "source": "https://www.astra-honda.com/hondabigbike/news/read/neo-sport-cafe-honda-cb650r-tampil-makin-gagah-dan-eksklusif"
+   },
+   "transmisi": {
+    "value": "6 percepatan, tipe constant mesh, kopling basah multi-plat dengan assist/slipper clutch",
+    "source": "https://www.motorkux.id/motor-baru-honda/p/bp-cb650r"
+   },
+   "rem": {
+    "value": "Depan cakram ganda 310 mm dengan kaliper empat piston; belakang cakram tunggal 240 mm",
+    "source": "https://www.motorkux.id/motor-baru-honda/p/bp-cb650r"
+   },
+   "suspensi": {
+    "value": "Depan inverted telescopic 41 mm; belakang tidak tercantum",
+    "source": "https://www.motorkux.id/motor-baru-honda/p/bp-cb650r"
+   },
+   "ban": {
+    "value": "Depan 120/70R17, belakang 180/55ZR17",
+    "source": "https://www.motorkux.id/motor-baru-honda/p/bp-cb650r"
+   },
+   "fitur": {
+    "value": "E-Clutch, panel TFT 5 inci terhubung Honda RoadSync, HSTC, Emergency Stop Signal, assist/slipper clutch",
+    "source": "https://www.astra-honda.com/article/neo-sports-cafe-cb650r-terbaru-makin-gagah-dengan-teknologi-terkini"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Autofun",
+    "url": "https://www.autofun.co.id/motor/honda/cb650r",
+    "kelebihan": [
+     "Suspensi depan sudah memakai tipe upside down",
+     "Rem dilengkapi ABS",
+     "Performa mesin dinilai andal",
+     "Lampu sudah full LED"
+    ],
+    "kekurangan": [
+     "Harga dinilai sangat mahal",
+     "Belum memiliki riding mode",
+     "Jok dinilai agak tipis"
+    ]
+   },
+   {
+    "media": "Otoinfo.id",
+    "url": "https://otoinfo.id/review-honda-cb650r-kinerja-mesin-dan-kenyamanan-berkendara/",
+    "kelebihan": [
+     "Mesin empat silinder dinilai bertenaga dan halus",
+     "HSTC membantu menjaga traksi roda belakang",
+     "Posisi berkendara lebih tegak dan nyaman",
+     "Rem ABS dua kanal dengan pengereman presisi"
+    ],
+    "kekurangan": []
+   },
+   {
+    "media": "MotorBesar.com",
+    "url": "https://motorbesar.com/blog/honda-cb650r/",
+    "kelebihan": [
+     "Karakter seimbang sebagai motor naked 650cc",
+     "Mesin terasa linear dan halus di putaran rendah hingga menengah"
+    ],
+    "kekurangan": [
+     "Bobot dinilai cukup berat",
+     "Fitur elektronik dinilai kurang banyak dibanding kompetitor modern",
+     "Konsumsi bahan bakar dinilai relatif tinggi"
+    ]
+   }
+  ],
+  "dicek": "2026-11-02"
+ },
+ "honda-cbr1000rr-r": {
+  "specs": {
+   "tenaga": {
+    "value": "160 kW (217 PS) pada 14.500 rpm",
+    "source": "https://otorider.com/berita/2020/detail-spesifikasi-honda-cbr1000rr-r-fireblade-detbigidade"
+   },
+   "torsi": {
+    "value": "113 Nm pada 12.500 rpm",
+    "source": "https://otorider.com/berita/2020/detail-spesifikasi-honda-cbr1000rr-r-fireblade-detbigidade"
+   },
+   "bobot": {
+    "value": "201 kg",
+    "source": "https://www.oto.com/en/motor-baru/honda/cbr1000rr-r"
+   },
+   "tinggi_jok": {
+    "value": "830 mm",
+    "source": "https://www.oto.com/en/motor-baru/honda/cbr1000rr-r/spesifikasi"
+   },
+   "tangki": {
+    "value": "16,1 liter",
+    "source": "https://otorider.com/berita/2020/detail-spesifikasi-honda-cbr1000rr-r-fireblade-detbigidade"
+   },
+   "transmisi": {
+    "value": "Manual 6 percepatan dengan quickshifter",
+    "source": "https://www.motorkux.id/motor-baru-honda/p/bp-cbr1000rr-r"
+   },
+   "rem": {
+    "value": "Cakram ganda depan 330 mm dengan kaliper radial 4-piston; cakram belakang 220 mm",
+    "source": "https://www.motorkux.id/motor-baru-honda/p/bp-cbr1000rr-r"
+   },
+   "suspensi": {
+    "value": "Depan telescopic inverted 43 mm Öhlins NPX dengan pengaturan preload, kompresi, rebound; belakang Pro-Link",
+    "source": "https://www.motorkux.id/motor-baru-honda/p/bp-cbr1000rr-r"
+   },
+   "ban": {
+    "value": "Depan 120/70ZR-17; belakang 200/55ZR-17",
+    "source": "https://www.motorkux.id/motor-baru-honda/p/bp-cbr1000rr-r"
+   },
+   "fitur": {
+    "value": "Throttle by wire, mode berkendara, HSTC, wheelie control, start mode, quickshifter, ABS, lampu depan full LED",
+    "source": "https://www.hondacengkareng.com/ahm-resmi-pasarkan-honda-cbr1000rr-r-fireblade-di-indonesia/"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Otomotifnet (GridOto)",
+    "url": "https://otomotifnet.gridoto.com/read/232475817/honda-cbr1000rr-r-fireblade-sp-dijajal-tayang-di-otomotif-tv",
+    "kelebihan": [
+     "Tenaga yang diklaim tertinggi di kelas 1.000 cc dari pabrikan Jepang",
+     "Mesin baru yang dikembangkan dengan konsep RC213V-S",
+     "Performa diklaim meningkat jauh dibanding generasi CBR1000RR sebelumnya"
+    ],
+    "kekurangan": [
+     "Harga sekitar Rp1,1 miliar OTR Jakarta dinilai sangat tinggi"
+    ]
+   },
+   {
+    "media": "Otomotifnet (GridOto)",
+    "url": "https://otomotifnet.gridoto.com/read/232340070/honda-cbr1000rr-r-fireblade-khusus-indonesia-bisa-minum-pertalite",
+    "kelebihan": [
+     "Pabrikan menyatakan motor ini bisa memakai bensin beroktan 90 sesuai label tangki"
+    ],
+    "kekurangan": [
+     "Rasio kompresi 13,0:1 tergolong tinggi, sehingga idealnya memakai BBM beroktan lebih tinggi"
+    ]
+   }
+  ],
+  "dicek": "2026-11-02"
+ },
+ "honda-crf1100l-africa-twin-adventure-sports": {
+  "specs": {
+   "tenaga": {
+    "value": "75 kW pada 7.500 rpm",
+    "source": "https://www.astra-honda.com/hondabigbike/product/adventure/honda-crf1100l-africa-twin-adventure-sports"
+   },
+   "torsi": {
+    "value": "112 Nm pada 5.500 rpm",
+    "source": "https://www.astra-honda.com/hondabigbike/product/adventure/honda-crf1100l-africa-twin-adventure-sports"
+   },
+   "bobot": {
+    "value": "242 kg (berat kerb, varian DCT)",
+    "source": "https://www.astra-honda.com/hondabigbike/product/adventure/honda-crf1100l-africa-twin-adventure-sports"
+   },
+   "tinggi_jok": {
+    "value": "850 mm (posisi rendah) dan 870 mm (posisi tinggi)",
+    "source": "https://www.astra-honda.com/hondabigbike/product/adventure/honda-crf1100l-africa-twin-adventure-sports"
+   },
+   "tangki": {
+    "value": "18,8 liter",
+    "source": "https://www.astra-honda.com/hondabigbike/product/adventure/honda-crf1100l-africa-twin-adventure-sports"
+   },
+   "transmisi": {
+    "value": "6 percepatan, tipe DCT",
+    "source": "https://www.astra-honda.com/hondabigbike/product/adventure/honda-crf1100l-africa-twin-adventure-sports"
+   },
+   "rem": {
+    "value": "Depan cakram ganda 310 mm dengan kaliper 4-piston; belakang cakram 256 mm; keduanya dilengkapi ABS",
+    "source": "https://www.astra-honda.com/hondabigbike/product/adventure/honda-crf1100l-africa-twin-adventure-sports"
+   },
+   "suspensi": {
+    "value": "Depan Showa EERA inverted; belakang Showa EERA Pro-Link, keduanya diatur secara elektronik",
+    "source": "https://www.astra-honda.com/hondabigbike/news/read/tampilan-makin-berani-crf1100l-africa-twin-siap-temani-petualangan"
+   },
+   "ban": {
+    "value": "Depan 90/90-21, belakang 150/70R18, keduanya tipe tube (memakai ban dalam)",
+    "source": "https://www.astra-honda.com/hondabigbike/product/adventure/honda-crf1100l-africa-twin-adventure-sports"
+   },
+   "fitur": {
+    "value": "Mode berkendara 4+2, HSTC tujuh tahap, wheelie control, cornering ABS, windscreen lima tingkat, lampu LED, grip heater, cornering detect",
+    "source": "https://www.astra-honda.com/hondabigbike/news/read/tampilan-makin-berani-crf1100l-africa-twin-siap-temani-petualangan"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Oto.com (artikel 5 keunggulan)",
+    "url": "https://www.oto.com/berita-motor/5-poin-yang-jadi-keunggulan-honda-crf1100l-africa-twin",
+    "kelebihan": [
+     "Perpindahan gigi DCT dinilai cepat sekaligus halus",
+     "ABS roda belakang bisa dimatikan sementara ABS depan tetap aktif",
+     "Tenaga dinilai cukup di setiap putaran mesin",
+     "Bobot motor turun 5 kg dibanding generasi sebelumnya"
+    ],
+    "kekurangan": []
+   },
+   {
+    "media": "Zigwheels (ulasan pengguna)",
+    "url": "https://www.zigwheels.co.id/motor-baru/honda/crf1100l-africa-twin/review-pengguna/",
+    "kelebihan": [
+     "Pengulas menilai kecepatan motor positif"
+    ],
+    "kekurangan": [
+     "Pengulas menilai kursi kurang nyaman"
+    ]
+   },
+   {
+    "media": "GridOto (berita 2022, soal inden)",
+    "url": "https://www.gridoto.com/read/223293910/dijual-mulai-rp-600-jutaan-segini-lama-inden-honda-crf1100l-africa-twin-di-yogyakarta",
+    "kelebihan": [
+     "Ditawarkan dalam dua varian, MT dan DCT, dengan harga berbeda"
+    ],
+    "kekurangan": [
+     "Masa inden enam sampai delapan bulan karena unit yang masuk terbatas"
+    ]
+   }
+  ],
+  "dicek": "2026-11-02"
+ },
+ "honda-gold-wing-1800": {
+  "specs": {
+   "tenaga": {
+    "value": "Sekitar 93 kW (124 hp) pada 5.500 rpm",
+    "source": "https://www.carmudi.co.id/journal/mengulik-keistimewaan-honda-gold-wing-edisi-spesial-harga-rp1-miliaran/"
+   },
+   "torsi": {
+    "value": "170 Nm pada 4.500 rpm",
+    "source": "https://www.carmudi.co.id/journal/mengulik-keistimewaan-honda-gold-wing-edisi-spesial-harga-rp1-miliaran/"
+   },
+   "bobot": {
+    "value": "393 kg (curb mass)",
+    "source": "https://www.carmudi.co.id/journal/mengulik-keistimewaan-honda-gold-wing-edisi-spesial-harga-rp1-miliaran/"
+   },
+   "tinggi_jok": {
+    "value": "745 mm",
+    "source": "https://www.carmudi.co.id/journal/mengulik-keistimewaan-honda-gold-wing-edisi-spesial-harga-rp1-miliaran/"
+   },
+   "tangki": {
+    "value": "21 liter",
+    "source": "https://www.carmudi.co.id/journal/mengulik-keistimewaan-honda-gold-wing-edisi-spesial-harga-rp1-miliaran/"
+   },
+   "transmisi": {
+    "value": "DCT otomatis 7 percepatan, dilengkapi mundur (reverse) dan Walking Mode",
+    "source": "https://www.motorkux.id/motor-baru-honda/p/bp-gold-wing-1800"
+   },
+   "rem": {
+    "value": "Cakram depan 320 mm dengan kaliper 6-piston; cakram belakang 316 mm dengan kaliper 3-piston",
+    "source": "https://www.motorkux.id/motor-baru-honda/p/bp-gold-wing-1800"
+   },
+   "suspensi": {
+    "value": "Pro-Link di belakang dengan reaksi progresif; redaman dan preload diatur secara elektronik",
+    "source": "https://www.astra-honda.com/hondabigbike/news/read/semakin-elegan-honda-gold-wing-1800-terbaru-hadir-di-indonesia"
+   },
+   "ban": {
+    "value": "Depan 130/70R-18; belakang 200/55R-16",
+    "source": "https://www.motorkux.id/motor-baru-honda/p/bp-gold-wing-1800"
+   },
+   "fitur": {
+    "value": "Throttle by wire dengan 4 mode, HSTC, Hill Start Assist, cruise control, Smart Key, top box 61 liter",
+    "source": "https://www.astra-honda.com/hondabigbike/news/read/semakin-elegan-honda-gold-wing-1800-terbaru-hadir-di-indonesia"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Autofun",
+    "url": "https://www.autofun.co.id/motor/honda/goldwing/review-pemilik",
+    "kelebihan": [
+     "Sistem rem dengan dua cakram di depan dan satu di belakang",
+     "Desain khas motor touring",
+     "Hill Start Assist sudah tersedia dari pabrik"
+    ],
+    "kekurangan": [
+     "Pilihan varian masih sedikit",
+     "Harga dan biaya perawatan tergolong sangat mahal"
+    ]
+   },
+   {
+    "media": "Oto.com",
+    "url": "https://www.oto.com/motor-baru/honda/goldwing/faq/apa-kelebihan-dan-kekurangan-honda-goldwing",
+    "kelebihan": [
+     "Desain khas motor touring",
+     "Nyaman untuk perjalanan jarak jauh",
+     "Fitur dinilai memadai"
+    ],
+    "kekurangan": [
+     "Hanya tersedia satu varian",
+     "Konsumsi BBM belum diketahui"
+    ]
+   },
+   {
+    "media": "Otomotifo",
+    "url": "https://www.otomotifo.com/harga-honda-gold-wing-terbaru/",
+    "kelebihan": [
+     "Cruise control baru untuk menjaga kecepatan konstan",
+     "Sistem audio dapat tersambung ke headset Bluetooth",
+     "Mendukung Apple CarPlay"
+    ],
+    "kekurangan": [
+     "Harga dinilai terlalu mahal bagi sebagian besar masyarakat",
+     "Bobot sangat berat sehingga sulit ditangani saat terjatuh"
+    ]
+   }
+  ],
+  "dicek": "2026-11-02"
+ },
+ "honda-nx-500": {
+  "specs": {
+   "tenaga": {
+    "value": "50,4 hp (37,1 kW) pada 8.500 rpm",
+    "source": "https://otorider.com/berita/2026/spesifikasi-honda-new-nx500-2026-spedfabi026"
+   },
+   "torsi": {
+    "value": "44,7 Nm pada 6.500 rpm",
+    "source": "https://otorider.com/berita/2026/spesifikasi-honda-new-nx500-2026-spedfabi026"
+   },
+   "bobot": {
+    "value": "200 kg (bobot isi)",
+    "source": "https://otorider.com/berita/2026/spesifikasi-honda-new-nx500-2026-spedfabi026"
+   },
+   "tinggi_jok": {
+    "value": "834 mm",
+    "source": "https://otorider.com/berita/2026/spesifikasi-honda-new-nx500-2026-spedfabi026"
+   },
+   "tangki": {
+    "value": "17,7 liter (sumber lain menulis 17,5 liter)",
+    "source": "https://otorider.com/berita/2026/spesifikasi-honda-new-nx500-2026-spedfabi026"
+   },
+   "transmisi": {
+    "value": "6 percepatan dengan kopling Honda E-Clutch",
+    "source": "https://otorider.com/berita/2026/spesifikasi-honda-new-nx500-2026-spedfabi026"
+   },
+   "rem": {
+    "value": "Cakram ganda 296 mm di depan, cakram 240 mm di belakang, ABS 2 channel",
+    "source": "https://otorider.com/berita/2026/spesifikasi-honda-new-nx500-2026-spedfabi026"
+   },
+   "suspensi": {
+    "value": "Depan Showa SFF-BP upside down 41 mm, belakang monoshock Pro-Link Showa",
+    "source": "https://otomotif.kompas.com/read/2026/07/27/183100315/honda-resmi-jual-new-nx500-di-indonesia-cek-harga-dan-spesifikasinya"
+   },
+   "ban": {
+    "value": "110/80-19 depan, 160/60-17 belakang",
+    "source": "https://www.autofun.co.id/berita-motor/honda-nx500-siap-hadir-di-indonesia-cuma-rp-200-jutaan-473669"
+   },
+   "fitur": {
+    "value": "Honda E-Clutch, Honda RoadSync, panel TFT 5 inci, HSTC, HISS, lampu LED penuh",
+    "source": "https://otorider.com/berita/2026/spesifikasi-honda-new-nx500-2026-spedfabi026"
+   }
+  },
+  "ulasan": [],
+  "dicek": "2026-11-02"
+ },
+ "honda-rebel": {
+  "specs": {
+   "tenaga": {
+    "value": "47,2 dk pada 8.500 rpm, menurut klaim Honda",
+    "source": "https://www.gridoto.com/read/223984371/honda-rebel-500-jadi-pilihan-cruiser-macho-segini-harganya-per-januari-2024"
+   },
+   "torsi": {
+    "value": "45,8 Nm pada 5.500 rpm, menurut klaim Honda",
+    "source": "https://www.gridoto.com/read/223984371/honda-rebel-500-jadi-pilihan-cruiser-macho-segini-harganya-per-januari-2024"
+   },
+   "bobot": {
+    "value": "191 kg (berat kosong)",
+    "source": "https://www.motorkux.id/motor-baru-honda/p/bp-cmx500-rebel"
+   },
+   "tinggi_jok": {
+    "value": "690 mm",
+    "source": "https://otomotif.espos.id/ini-spesifikasi-motor-cruiser-honda-cmx-500-rebel-802630"
+   },
+   "tangki": {
+    "value": "11,2 liter",
+    "source": "https://www.astra-honda.com/hondabigbike/news/read/ahm-luncurkan-honda-cmx500-rebel-di-tanah-air"
+   },
+   "transmisi": {
+    "value": "Manual 6 percepatan dengan assist/slipper clutch",
+    "source": "https://www.gridoto.com/read/223984371/honda-rebel-500-jadi-pilihan-cruiser-macho-segini-harganya-per-januari-2024"
+   },
+   "rem": {
+    "value": "Cakram depan dan belakang dengan ABS 2 kanal",
+    "source": "https://otomotif.espos.id/ini-spesifikasi-motor-cruiser-honda-cmx-500-rebel-802630"
+   },
+   "suspensi": {
+    "value": "Depan garpu teleskopik Showa 41 mm, belakang dual shock Showa",
+    "source": "https://otomotif.espos.id/ini-spesifikasi-motor-cruiser-honda-cmx-500-rebel-802630"
+   },
+   "ban": {
+    "value": "Depan 130/90-16, belakang 150/80-16, tubeless",
+    "source": "https://otomotif.espos.id/ini-spesifikasi-motor-cruiser-honda-cmx-500-rebel-802630"
+   },
+   "fitur": {
+    "value": "ABS dua kanal, assist/slipper clutch, panel digital LCD, lampu LED penuh",
+    "source": "https://www.gridoto.com/read/223984371/honda-rebel-500-jadi-pilihan-cruiser-macho-segini-harganya-per-januari-2024"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "GridOto",
+    "url": "https://www.gridoto.com/read/221682861/plus-minus-boncengan-pakai-honda-rebel-500-enak-sih-ada-tapinya-nih",
+    "kelebihan": [
+     "Posisi boncenger dinilai nyaman karena jok belakang relatif datar",
+     "Jok belakang sudah terpasang standar pada unit yang dijual di Indonesia"
+    ],
+    "kekurangan": [
+     "Batas bobot boncenger yang dianjurkan hanya 70 kg",
+     "Jok belakang berstatus opsional yang hanya menempel di spakbor"
+    ]
+   },
+   {
+    "media": "GridOto",
+    "url": "https://www.gridoto.com/read/221683313/cobain-honda-rebel-500-naik-turun-gunung-nyaman-tapi-boros?page=all",
+    "kelebihan": [
+     "Ban besar dinilai cukup untuk berkendara cepat di jalan basah",
+     "Konsumsi bahan bakar dinilai tidak sebanding dengan kapasitas mesinnya"
+    ],
+    "kekurangan": [
+     "Menikung tajam di area blind spot dinilai berbahaya",
+     "Suspensi belakang terasa amblas saat melewati jalan berlubang",
+     "Busa jok belakang dinilai kurang tebal"
+    ]
+   },
+   {
+    "media": "Otomotifo",
+    "url": "https://www.otomotifo.com/harga-honda-rebel-500-terbaru/",
+    "kelebihan": [
+     "Respons mesin dinilai baik dan konsumsi BBM tergolong hemat",
+     "Posisi berkendara cruiser dinilai nyaman"
+    ],
+    "kekurangan": [
+     "Suspensi depan masih teleskopik, belum upside down",
+     "Bagian mesin dinilai terlihat kosong karena banyak ruang kosong"
+    ]
+   }
+  ],
+  "dicek": "2026-11-02"
+ },
+ "honda-rebel-1100": {
+  "specs": {
+   "tenaga": {
+    "value": "65 kW pada 7.250 rpm (sumber lain menulis 64 kW/85,8 hp pada 7.000 rpm)",
+    "source": "https://www.astra-honda.com/hondabigbike/product/cruiser/honda-rebel-1100"
+   },
+   "torsi": {
+    "value": "98 Nm pada 4.750 rpm",
+    "source": "https://www.astra-honda.com/hondabigbike/product/cruiser/honda-rebel-1100"
+   },
+   "bobot": {
+    "value": "236 kg (berat kosong/curb mass)",
+    "source": "https://www.astra-honda.com/hondabigbike/product/cruiser/honda-rebel-1100"
+   },
+   "tinggi_jok": {
+    "value": "710 mm",
+    "source": "https://www.astra-honda.com/hondabigbike/product/cruiser/honda-rebel-1100"
+   },
+   "tangki": {
+    "value": "13,6 liter",
+    "source": "https://www.astra-honda.com/hondabigbike/product/cruiser/honda-rebel-1100"
+   },
+   "transmisi": {
+    "value": "DCT (dual-clutch) dengan 6 percepatan",
+    "source": "https://www.oto.com/en/motor-baru/honda/rebel-1100/spesifikasi"
+   },
+   "rem": {
+    "value": "Depan cakram tunggal 330 mm dengan kaliper radial 4-piston; belakang cakram 256 mm; ABS 2 kanal",
+    "source": "https://www.astra-honda.com/hondabigbike/product/cruiser/honda-rebel-1100"
+   },
+   "suspensi": {
+    "value": "Depan teleskopik 43 mm Showa yang bisa disetel; belakang tabung Showa yang juga bisa disetel",
+    "source": "https://ridertua.com/2026/07/08/cruiser-honda-rebel-1100-2026-di-indonesia/"
+   },
+   "ban": {
+    "value": "Depan 130/70 B18; belakang 180/65 B16",
+    "source": "https://www.astra-honda.com/hondabigbike/product/cruiser/honda-rebel-1100"
+   },
+   "fitur": {
+    "value": "Lampu LED penuh, layar TFT 5 inci, Honda RoadSync, throttle by wire, pilihan riding mode, cruise control, USB charger, HSTC, ABS",
+    "source": "https://ridertua.com/2026/07/08/cruiser-honda-rebel-1100-2026-di-indonesia/"
+   }
+  },
+  "ulasan": [],
+  "dicek": "2026-11-02"
+ },
+ "honda-xl750-transalp": {
+  "specs": {
+   "tenaga": {
+    "value": "67,5 kW pada 9.500 rpm",
+    "source": "https://www.astra-honda.com/hondabigbike/product/adventure/xl750-transalp"
+   },
+   "torsi": {
+    "value": "75 Nm pada 7.250 rpm",
+    "source": "https://www.astra-honda.com/hondabigbike/product/adventure/xl750-transalp"
+   },
+   "bobot": {
+    "value": "210 kg (curb mass)",
+    "source": "https://www.astra-honda.com/hondabigbike/product/adventure/xl750-transalp"
+   },
+   "tinggi_jok": {
+    "value": "850 mm",
+    "source": "https://www.astra-honda.com/hondabigbike/product/adventure/xl750-transalp"
+   },
+   "tangki": {
+    "value": "16,9 liter",
+    "source": "https://www.astra-honda.com/hondabigbike/product/adventure/xl750-transalp"
+   },
+   "transmisi": {
+    "value": "6 percepatan, manual",
+    "source": "https://www.astra-honda.com/hondabigbike/product/adventure/xl750-transalp"
+   },
+   "rem": {
+    "value": "Cakram ganda depan 310 mm, cakram belakang 256 mm, ABS 2 kanal",
+    "source": "https://www.astra-honda.com/hondabigbike/product/adventure/xl750-transalp"
+   },
+   "suspensi": {
+    "value": "Upside down 43 mm tipe SFF-CA di depan, monoshock Pro-Link di belakang",
+    "source": "https://www.gridoto.com/read/223815965/harga-terdengar-murah-intip-detail-new-xl750-transalp-moge-baru-honda-di-indonesia"
+   },
+   "ban": {
+    "value": "Depan 90/90-21, belakang 150/70-18",
+    "source": "https://www.astra-honda.com/hondabigbike/product/adventure/xl750-transalp"
+   },
+   "fitur": {
+    "value": "Layar TFT 5 inci, konektivitas Honda RoadSync, 5 mode berkendara, lampu full LED, rear carrier bawaan",
+    "source": "https://oto.detik.com/motor/d-7893502/new-honda-xl750-transalp-terbaru-meluncur-di-indonesia-segini-harganya"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Gridoto",
+    "url": "https://www.gridoto.com/read/223815965/harga-terdengar-murah-intip-detail-new-xl750-transalp-moge-baru-honda-di-indonesia",
+    "kelebihan": [
+     "Harga peluncuran 2023 (Rp330,5 juta OTR) dinilai kompetitif untuk moge 750 cc",
+     "Fitur digital dan pilihan mode berkendara dinilai banyak",
+     "Dibandingkan Yamaha Tenere 700 dan Aprilia Tuareg 660 yang lebih mahal"
+    ],
+    "kekurangan": []
+   },
+   {
+    "media": "Garut 60 Detik (Pikiran Rakyat)",
+    "url": "https://garut60.pikiran-rakyat.com/headline/pr-3859308999/kelebihan-dan-kekurangan-honda-xl750-transalp-untuk-touring-jarak-jauh-apakah-ini-motor-impian-anda",
+    "kelebihan": [
+     "Mesin 755 cc dinilai responsif untuk jalan raya maupun off-road",
+     "Efisiensi bahan bakar disebut sangat baik untuk touring jarak jauh"
+    ],
+    "kekurangan": [
+     "Suspensi dinilai kurang mampu menghadapi jalan kasar atau bergelombang",
+     "Setelan suspensi disebut tidak bisa diubah pengendara",
+     "Belum punya cruise control atau fitur canggih seperti radar"
+    ]
+   },
+   {
+    "media": "Oto.detik",
+    "url": "https://oto.detik.com/motor/d-7893502/new-honda-xl750-transalp-terbaru-meluncur-di-indonesia-segini-harganya",
+    "kelebihan": [
+     "Desain headlight dan upper fairing dinilai lebih tangguh",
+     "Layar TFT 5 inci terhubung RoadSync untuk navigasi dan panggilan",
+     "Fitur konektivitas dinilai mendukung touring jarak jauh"
+    ],
+    "kekurangan": []
+   }
+  ],
+  "dicek": "2026-11-02"
  }
 }

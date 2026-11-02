@@ -89,7 +89,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/adv-160",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",
@@ -189,7 +189,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/beat",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",
@@ -202,43 +202,6 @@
    "kmpl": {
     "basis": "uji",
     "source": "https://www.autofun.co.id/berita-motor/mesin-honda-beat-2022-dianggap-lemot-begini-catatan-akselerasinya-32700"
-   }
-  }
- },
- {
-  "id": "honda-x-adv",
-  "brand": "Honda",
-  "name": "BeAT",
-  "body": "Lainnya",
-  "engine": "Bensin",
-  "cc": null,
-  "price": 19380000,
-  "price_type": "OTR Jakarta",
-  "variants": [],
-  "model_year": null,
-  "release": "2024-06",
-  "speed": null,
-  "kmpl": 57.5,
-  "acc": null,
-  "range": null,
-  "sum": "BeAT adalah model terbaru (2026) dengan panel meter digital dan lampu indikator ECO, dilengkapi fitur keamanan seperti Anti Theft Alarm dan Smart Key pada tipe tertentu. Bagasi berkapasitas 12 liter dan Power Charger hadir untuk menunjang kebutuhan harian.",
-  "specs": {
-   "fitur": "Combined Digital Panel Meter dengan lampu indikator ECO; Tuas Pengunci Rem; Smart Key (tersedia pada tipe Deluxe Smart Key); Power Charger (maks. 12 W / 12V 1A); Functional Hook di depan; Sistem Pencahayaan LED; Standar Samping Otomatis; Bagasi Pas 12L; Anti Theft Alarm (tersedia pada tipe CBS dan CBS-ISS)"
-  },
-  "image": "https://imagewebsite.astra-honda.com/uploads/product-category/icon/bigbike-category-icon-grey.svg",
-  "image_credit": "Astra Honda Motor",
-  "gallery": [],
-  "trusted_images": true,
-  "source": "https://www.astra-honda.com/product/",
-  "checked": "2026-10-26",
-  "perf": {
-   "release": {
-    "basis": "berita",
-    "source": "https://www.cnnindonesia.com/otomotif/20240603151807-595-1105230/irit-banget-konsumsi-bbm-all-new-honda-beat-60-km-per-liter"
-   },
-   "kmpl": {
-    "basis": "uji",
-    "source": "https://www.autofun.co.id/berita-motor/dibuat-lebih-ringan-seberapa-irit-honda-beat-2025-81441"
    }
   }
  },
@@ -317,7 +280,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/beat-street",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",
@@ -412,7 +375,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/cb-150-verza",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",
@@ -525,7 +488,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/cb-150-r",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",
@@ -637,7 +600,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/cb-150-x",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",
@@ -731,7 +694,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/cbr-150-r",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",
@@ -847,7 +810,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/cbr-250-rr",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",
@@ -964,7 +927,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/crf-150-l",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",
@@ -1054,7 +1017,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/crf-250-rally",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",
@@ -1144,7 +1107,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/crf-250-l",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",
@@ -1238,7 +1201,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/honda-ct125",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",
@@ -1342,7 +1305,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/cuve",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",
@@ -1427,7 +1390,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/em1e",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",
@@ -1510,7 +1473,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/forza",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",
@@ -1550,10 +1513,10 @@
    }
   ],
   "model_year": null,
-  "release": null,
-  "speed": null,
-  "kmpl": null,
-  "acc": null,
+  "release": "2016-05",
+  "speed": 121.2,
+  "kmpl": 45.2,
+  "acc": 12.1,
   "range": null,
   "sum": "Motor bebek 150 cc dengan mesin DOHC 4 katup berpendingin cairan, 6 kecepatan, dan panel digital. Dilengkapi rem cakram depan-belakang serta ban tubeless lebar.",
   "specs": {
@@ -1609,7 +1572,25 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/supra-gtr-150",
-  "checked": "2026-10-26"
+  "checked": "2026-11-02",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://id.wikipedia.org/wiki/Honda_Supra_GTR ; https://www.tribunnews.com/otomotif/2016/05/24/top-speed-honda-supra-gtr-150-tembus-122-kmjam"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/231126964/hasil-test-ride-lengkap-honda-supra-gtr-150-beberkan-data-akselerasi-power-dan-konsumsi-bbm"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/231126964/hasil-test-ride-lengkap-honda-supra-gtr-150-beberkan-data-akselerasi-power-dan-konsumsi-bbm"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/231126964/hasil-test-ride-lengkap-honda-supra-gtr-150-beberkan-data-akselerasi-power-dan-konsumsi-bbm"
+   }
+  }
  },
  {
   "id": "honda-genio",
@@ -1618,132 +1599,92 @@
   "body": "Matic",
   "engine": "Bensin",
   "cc": 109.55,
-  "price": 20600000,
+  "price": 20800000,
   "price_type": "OTR Jakarta",
   "variants": [
    {
-    "name": "Genio CBS",
-    "price": 20600000
-   },
-   {
     "name": "Genio CBS-ISS",
-    "price": 20600000
+    "price": 20800000
    },
    {
-    "name": "Genio CBS Special Color",
-    "price": 20600000
+    "name": "Genio CBS Special",
+    "price": 20800000
    }
   ],
   "model_year": 2020,
-  "release": null,
-  "speed": null,
-  "kmpl": null,
-  "acc": null,
+  "release": "2019-06",
+  "speed": 103.1,
+  "kmpl": 51.3,
+  "acc": 28,
   "range": null,
-  "sum": "Honda Genio adalah skuter matic berkapasitas 109,55 cc dengan panel meter digital, lampu depan LED, dan bagasi 14 liter. Tersedia dalam varian CBS, CBS-ISS, dan CBS Special Color.",
+  "sum": "Honda Genio adalah motor matik underbone bermesin 109,55 cc dengan panel meter digital dan lampu depan LED. Bagasi U-Box 14 liter dan power charger di rak depan menambah kepraktisannya.",
   "specs": {
    "tenaga": "6,6 kW (9,0 PS) / 7.500 rpm",
    "torsi": "9,3 Nm (0,95 kgf.m) / 5.500 rpm",
-   "bobot": "92 kg (Tipe CBS); 93 kg (Tipe CBS-ISS)",
+   "bobot": "92 kg (Tipe CBS), 93 kg (Tipe CBS-ISS)",
    "tinggi_jok": "744 mm",
    "tangki": "4,2 L",
    "transmisi": "Otomatis, V-Matic",
    "rem": "Depan: cakram hidrolik piston tunggal; Belakang: tromol; Combi Brake System",
    "suspensi": "Depan: telescopic; Belakang: swing arm dengan suspensi tunggal",
-   "ban": "Depan: 100/90-12 59J (tubeless); Belakang: 110/90-12 64J (tubeless)",
-   "fitur": "Panel meter digital dengan eco indicator, lampu depan LED, power charger di rak depan, bagasi 14 L, pengaman kunci kontak dengan tombol pembuka jok"
+   "ban": "Depan 100/90-12 (tubeless); Belakang 110/90-12 (tubeless)",
+   "fitur": "Panel meter digital dengan eco indicator, lampu depan LED, power charger di rak depan, bagasi U-Box 14 liter"
   },
-  "image": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/thumbnail-genio-new-3-29102025-075221.png",
+  "image": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/geniothumbnail400x300pxlbk-27102026-075354.png",
   "image_credit": "Astra Honda Motor",
   "gallery": [
    {
-    "url": "https://asset.astra-honda.com/uploads/product/feature/09-geotag-800x800-1-29102025-032110.jpg",
+    "url": "https://asset.astra-honda.com/uploads/product/feature/09-geotag-800x800-1-1-24102025-011743-27102026-035408.jpg",
     "caption": "Panel Meter Digital dengan Eco Indicator",
     "tag": "Panel instrumen"
    },
    {
-    "url": "https://asset.astra-honda.com/uploads/product/feature/09-geotag-800x800-2-29102025-032115.jpg",
+    "url": "https://asset.astra-honda.com/uploads/product/feature/feature-headlight-700x700pxlbk-1-27102026-035652.jpg",
     "caption": "Lampu Depan LED",
     "tag": "Lampu"
    },
    {
-    "url": "https://asset.astra-honda.com/uploads/product/feature/09-geotag-800x800-3-29102025-032126.jpg",
-    "caption": "Ban & Velg 12 dengan desain yang Retro",
+    "url": "https://asset.astra-honda.com/uploads/product/feature/09-geotag-800x800-3-1-24102025-011752-27102026-035734.jpg",
+    "caption": "Ban & Velg 12 inch dengan desain yang Retro",
     "tag": "Roda dan rem"
    },
    {
-    "url": "https://asset.astra-honda.com/uploads/product/feature/09-geotag-800x800-4-29102025-032139.jpg",
+    "url": "https://asset.astra-honda.com/uploads/product/feature/09-geotag-800x800-4-1-24102025-011752-27102026-035810.jpg",
     "caption": "Pengaman Kunci Kontak dengan Tombol Pembuka Jok",
     "tag": "Jok dan bagasi"
    },
    {
-    "url": "https://asset.astra-honda.com/uploads/product/feature/09-geotag-800x800-5-29102025-032152.jpg",
+    "url": "https://asset.astra-honda.com/uploads/product/feature/09-geotag-800x800-5-1-24102025-011756-27102026-035917.jpg",
     "caption": "Power Charger di Rak Depan",
     "tag": "Foto"
    },
    {
-    "url": "https://asset.astra-honda.com/uploads/product/feature/09-geotag-800x800-6-29102025-032203.jpg",
+    "url": "https://asset.astra-honda.com/uploads/product/feature/feature-headlight-700x700pxlbk2-1-27102026-040040.jpg",
     "caption": "Bagasi Luas 14 Liter",
     "tag": "Jok dan bagasi"
    }
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/genio",
-  "checked": "2026-10-26"
- },
- {
-  "id": "honda-cb500f",
-  "brand": "Honda",
-  "name": "ICON e:",
-  "body": "Lainnya",
-  "engine": "Listrik",
-  "cc": 0,
-  "price": 28000000,
-  "price_type": "OTR Jakarta",
-  "variants": [],
-  "model_year": null,
-  "release": null,
-  "speed": null,
-  "kmpl": null,
-  "acc": null,
-  "range": null,
-  "sum": "ICON e: adalah motor listrik tahun 2024 dengan baterai yang dapat dilepas dan sistem pencahayaan LED di semua titik. Harganya Rp 28.000.000 dan dilengkapi U-Box berkapasitas 26 liter.",
-  "specs": {
-   "fitur": "Lampu LED semua titik, baterai dapat dilepas (Detachable Battery), charging connector, USB power charger (5V 2.1A), panel meter full digital dengan mode ECON dan indikator baterai, U-Box 26 liter, secure key shutter dengan seat opener, functional hook, LED tail light"
-  },
-  "image": "https://imagewebsite.astra-honda.com/uploads/product-category/icon/bigbike-category-icon-grey.svg",
-  "image_credit": "Astra Honda Motor",
-  "gallery": [],
-  "trusted_images": true,
-  "source": "https://www.astra-honda.com/product/",
-  "checked": "2026-10-26"
- },
- {
-  "id": "honda-cbr1000rr-r",
-  "brand": "Honda",
-  "name": "ICON e:",
-  "body": "Lainnya",
-  "engine": "Listrik",
-  "cc": 0,
-  "price": 28000000,
-  "price_type": "OTR Jakarta",
-  "variants": [],
-  "model_year": null,
-  "release": null,
-  "speed": null,
-  "kmpl": null,
-  "acc": null,
-  "range": null,
-  "sum": "ICON e: (2024) adalah motor listrik dengan baterai yang dapat dilepas dan lampu LED di semua titik pencahayaan. Dilengkapi U-Box besar 26 liter, panel digital penuh, dan pengisian daya USB.",
-  "specs": {
-   "fitur": "All LED Lighting System; Secure key shutter with seat opener; Functional Hook; Detachable Battery; Charging Connector; LED Tail Light; U-Box 26 liter; USB Power Charger (5V 2.1A); Full Digital Panel Meter dengan mode ECON"
-  },
-  "image": "https://imagewebsite.astra-honda.com/uploads/product-category/icon/bigbike-category-icon-grey.svg",
-  "image_credit": "Astra Honda Motor",
-  "gallery": [],
-  "trusted_images": true,
-  "source": "https://www.astra-honda.com/product/",
-  "checked": "2026-10-26"
+  "checked": "2026-11-02",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://otomotif.antaranews.com/berita/921884/skutik-honda-genio-resmi-diluncurkan"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://www.gridoto.com/read/221892450/test-ride-lengkap-honda-genio-berikut-kelebihan-dan-kekurangan-buat-harian?page=all"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://www.gridoto.com/read/221892450/test-ride-lengkap-honda-genio-berikut-kelebihan-dan-kekurangan-buat-harian?page=all"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://www.gridoto.com/read/221892450/test-ride-lengkap-honda-genio-berikut-kelebihan-dan-kekurangan-buat-harian?page=all"
+   }
+  }
  },
  {
   "id": "honda-icone",
@@ -1756,7 +1697,7 @@
   "price_type": "OTR Jakarta",
   "variants": [],
   "model_year": 2024,
-  "release": null,
+  "release": "2024-10",
   "speed": 55,
   "kmpl": null,
   "acc": null,
@@ -1823,7 +1764,13 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/icone",
-  "checked": "2026-10-26"
+  "checked": "2026-11-02",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.astra.co.id/blogs-and-articles/harga-honda-icon-e-dan-honda-cuv-e-resmi-diumumkan"
+   }
+  }
  },
  {
   "id": "honda-honda-monkey",
@@ -1836,9 +1783,9 @@
   "price_type": "OTR Jakarta",
   "variants": [],
   "model_year": 2026,
-  "release": null,
+  "release": "2019-07",
   "speed": null,
-  "kmpl": null,
+  "kmpl": 67,
   "acc": null,
   "range": null,
   "sum": "Honda Monkey 2026 ditenagai mesin 124 cc 4-tak SOHC berpendingin udara dengan PGM-FI, dilengkapi lampu full LED, ABS satu channel, dan suspensi upside down. Harga resminya mulai Rp 88.094.000.",
@@ -1890,7 +1837,17 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/honda-monkey",
-  "checked": "2026-10-26"
+  "checked": "2026-11-02",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.autofun.co.id/berita-motor/cermati-biaya-perawatan-hingga-harga-bekas-honda-monkey-7221"
+   },
+   "kmpl": {
+    "basis": "klaim pabrikan",
+    "source": "https://www.autofun.co.id/berita-motor/cermati-biaya-perawatan-hingga-harga-bekas-honda-monkey-7221"
+   }
+  }
  },
  {
   "id": "honda-pcx",
@@ -1916,10 +1873,10 @@
    }
   ],
   "model_year": null,
-  "release": null,
-  "speed": null,
-  "kmpl": null,
-  "acc": null,
+  "release": "2021-02",
+  "speed": 119,
+  "kmpl": 40.1,
+  "acc": 17.33,
   "range": null,
   "sum": "Honda PCX160 adalah skutik bermesin 4-langkah 156,9 cc eSP+ dengan tiga pilihan varian, yaitu CBS, ABS, dan ABS RoadSync. Motor ini dilengkapi lampu LED, TFT Panel Meter 5 inci, bagasi 30 liter, dan Honda Smart Key System.",
   "specs": {
@@ -2000,7 +1957,25 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/pcx",
-  "checked": "2026-10-26"
+  "checked": "2026-11-02",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://oto.detik.com/motor/d-5363007/honda-pcx-160-harga-dan-spesifikasi-di-indonesia"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://www.autofun.co.id/berita-motor/test-ride-lengkap-honda-pcx-160-absroadsync-mewah-dan-lincah-83794"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://www.autofun.co.id/berita-motor/test-ride-lengkap-honda-pcx-160-absroadsync-mewah-dan-lincah-83794"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://www.autofun.co.id/berita-motor/test-ride-lengkap-honda-pcx-160-absroadsync-mewah-dan-lincah-83794"
+   }
+  }
  },
  {
   "id": "honda-revo-x",
@@ -2022,9 +1997,9 @@
    }
   ],
   "model_year": null,
-  "release": null,
+  "release": "2014-01",
   "speed": null,
-  "kmpl": null,
+  "kmpl": 59.8,
   "acc": null,
   "range": null,
   "sum": "Honda Revo ditenagai mesin SOHC 4 langkah 109,17 cc berpendingin udara dengan injeksi PGM-FI. Dilengkapi panel meter modern, rem cakram depan, dan bagasi 7 liter.",
@@ -2090,7 +2065,17 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/revo-x",
-  "checked": "2026-10-26"
+  "checked": "2026-11-02",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://oto.detik.com/motor/d-2462806/honda-revo-injeksi-resmi-meluncur"
+   },
+   "kmpl": {
+    "basis": "klaim pabrikan",
+    "source": "https://oto.detik.com/motor/d-8653225/konsumsi-bbm-motor-bebek-termurah-honda-di-indonesia-tembus-segini"
+   }
+  }
  },
  {
   "id": "honda-st125-dax",
@@ -2112,7 +2097,7 @@
    }
   ],
   "model_year": 2022,
-  "release": null,
+  "release": "2022-08",
   "speed": null,
   "kmpl": null,
   "acc": null,
@@ -2166,7 +2151,13 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/st125-dax",
-  "checked": "2026-10-26"
+  "checked": "2026-11-02",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://tmcblog.com/2022/08/08/honda-dax-st125-resmi-dirilis-ahm-harga-rp-81-750-000/"
+   }
+  }
  },
  {
   "id": "honda-scoopy",
@@ -2192,9 +2183,9 @@
    }
   ],
   "model_year": null,
-  "release": null,
-  "speed": null,
-  "kmpl": null,
+  "release": "2020-00",
+  "speed": 95.3,
+  "kmpl": 59,
   "acc": null,
   "range": null,
   "sum": "Honda Scoopy adalah skutik matic bermesin 109,5 cc dengan desain retro dan lampu LED Crystal Block. Dilengkapi fitur seperti Honda Smart Key System pada tipe Stylish dan Prestige, serta console box 4 liter.",
@@ -2251,7 +2242,21 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/scoopy",
-  "checked": "2026-10-26"
+  "checked": "2026-11-02",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.oto.com/berita-motor/masuk-generasi-ke-5-ini-perjalanan-honda-scoopy-di-indonesia"
+   },
+   "speed": {
+    "basis": "uji (Racelogic 95,3 km/jam; spidometer 104 km/jam)",
+    "source": "https://otomotifnet.gridoto.com/read/232480949/all-new-honda-scoopy-dites-lengkap-top-speed-hingga-konsumsi-bensin?page=all"
+   },
+   "kmpl": {
+    "basis": "klaim pabrikan (data internal Honda, ISS on)",
+    "source": "https://www.zigwheels.co.id/motovaganza/pilihan-skutik-honda-dengan-data-konsumsi-bbm-hasil-pengujian-pabrikan/"
+   }
+  }
  },
  {
   "id": "honda-sonic-150-r",
@@ -2281,10 +2286,10 @@
    }
   ],
   "model_year": null,
-  "release": null,
-  "speed": null,
-  "kmpl": null,
-  "acc": null,
+  "release": "2015-08",
+  "speed": 124.1,
+  "kmpl": 40.9,
+  "acc": 12.5,
   "range": null,
   "sum": "Honda Sonic 150R adalah motor sport 150cc 4 langkah DOHC dengan 6 kecepatan dan pendingin cairan. Motor ini menonjolkan desain fairing yang mudah dilepas-pasang, panel meter digital, serta rem cakram depan dan belakang.",
   "specs": {
@@ -2355,7 +2360,25 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/sonic-150-r",
-  "checked": "2026-10-26"
+  "checked": "2026-11-02",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.zigwheels.co.id/motovaganza/honda-resmi-rilis-new-sonic-150r-dan-cb150r/"
+   },
+   "speed": {
+    "basis": "klaim pabrikan",
+    "source": "https://www.tempo.co/otomotif/new-honda-sonic-150r-meluncur-simak-spesifikasi-dan-harganya-1238110"
+   },
+   "kmpl": {
+    "basis": "klaim pabrikan",
+    "source": "https://www.tempo.co/otomotif/new-honda-sonic-150r-meluncur-simak-spesifikasi-dan-harganya-1238110"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://mariodevan.com/2015/08/14/test-performa-honda-sonic-150r-top-speed-bisa-capai-137-kmjam/"
+   }
+  }
  },
  {
   "id": "honda-stylo-160",
@@ -2381,10 +2404,10 @@
    }
   ],
   "model_year": null,
-  "release": null,
-  "speed": null,
-  "kmpl": null,
-  "acc": null,
+  "release": "2024-02",
+  "speed": 111.73,
+  "kmpl": 45,
+  "acc": 14.73,
   "range": null,
   "sum": "Honda Stylo 160 adalah skutik matic 156,9 cc dengan mesin 4 langkah, 4 katup, dan pendingin cairan. Tersedia dalam varian ABS Special, ABS, dan CBS, dengan fitur panel digital penuh, lampu LED, dan Honda Smartkey System.",
   "specs": {
@@ -2450,7 +2473,25 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/stylo-160",
-  "checked": "2026-10-26"
+  "checked": "2026-11-02",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://otomotif.kompas.com/read/2024/02/02/112500715/new-honda-stylo-160-resmi-meluncur-harga-mulai-rp-27-jutaan"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://www.autofun.co.id/berita-motor/uji-performa-honda-stylo-160-2024-performa-oke-bikin-bensin-boros-78472"
+   },
+   "kmpl": {
+    "basis": "klaim pabrikan",
+    "source": "https://otomotif.kompas.com/read/2024/02/03/174200815/konsumsi-bbm-honda-stylo-160-diklaim-tembus-45-kpl"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://www.gridoto.com/read/224027395/kelebihan-dan-kekurangan-honda-stylo-160-test-ride-skutik-retro-yang-lebih-kencang-dari-vario?page=all"
+   }
+  }
  },
  {
   "id": "honda-super-cub-c125",
@@ -2468,9 +2509,9 @@
    }
   ],
   "model_year": null,
-  "release": null,
+  "release": "2018-08",
   "speed": null,
-  "kmpl": null,
+  "kmpl": 69.0,
   "acc": null,
   "range": null,
   "sum": "Honda Supercub C125 adalah motor Cub 124 cc berpendingin udara dengan sistem injeksi PGM-FI. Motor ini dilengkapi Honda Smart Key System, lampu full LED, dan harga resmi Rp80.241.000.",
@@ -2527,7 +2568,17 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/super-cub-c125",
-  "checked": "2026-10-26"
+  "checked": "2026-11-02",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.viva.co.id/otomotif/motor/1060664-bangkit-lagi-honda-resmi-jual-super-cub-c125-di-indonesia"
+   },
+   "kmpl": {
+    "basis": "klaim pabrikan",
+    "source": "https://www.naikmotor.com/97973/ini-konsumsi-bahan-bakar-honda-super-cub-125/"
+   }
+  }
  },
  {
   "id": "honda-supra-x-125-fi",
@@ -2549,9 +2600,9 @@
    }
   ],
   "model_year": null,
-  "release": null,
-  "speed": null,
-  "kmpl": null,
+  "release": "2014-02",
+  "speed": 105,
+  "kmpl": 51,
   "acc": null,
   "range": null,
   "sum": "Supra X 125 FI adalah motor bebek 125 cc dengan mesin 4-langkah SOHC berteknologi PGM-FI. Motor ini dilengkapi panelmeter modern, utility box 7 liter, dan rem cakram depan-belakang.",
@@ -2612,7 +2663,21 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/supra-x-125-fi",
-  "checked": "2026-10-26"
+  "checked": "2026-11-02",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://oto.detik.com/motor/d-2509037/honda-konsumsi-bbm-supra-x-125-61-8-km-liter"
+   },
+   "speed": {
+    "basis": "uji (top speed spidometer; Racelogic 97,4 km/jam)",
+    "source": "https://otomotifnet.gridoto.com/read/231043291/test-ride-honda-supra-x-125-fi-tetap-lincah-dan-irit-bbm"
+   },
+   "kmpl": {
+    "basis": "uji (Pertamax, tes harian di Jakarta Selatan)",
+    "source": "https://otomotifnet.gridoto.com/read/231043291/test-ride-honda-supra-x-125-fi-tetap-lincah-dan-irit-bbm"
+   }
+  }
  },
  {
   "id": "honda-vario-125",
@@ -2638,10 +2703,10 @@
    }
   ],
   "model_year": null,
-  "release": null,
-  "speed": null,
-  "kmpl": null,
-  "acc": null,
+  "release": "2012-03",
+  "speed": 113,
+  "kmpl": 51.7,
+  "acc": 24.18,
   "range": null,
   "sum": "Vario 125 adalah motor matic 125cc berpendingin cairan dengan mesin 4-tak PGM-FI dan transmisi otomatis V-Matic, tersedia dalam varian CBS, CBS-ISS, dan Street. Dilengkapi panel digital penuh, lampu LED, bagasi 18 liter, dan Honda Smart Key System pada varian CBS-ISS dan Street.",
   "specs": {
@@ -2697,7 +2762,25 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/vario-125",
-  "checked": "2026-10-26"
+  "checked": "2026-11-02",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.gridoto.com/read/223953264/ternyata-segini-harga-honda-vario-125-old-saat-pertama-kali-launching"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://www.gridoto.com/read/223620760/test-ride-new-honda-vario-125-rasa-tetap-sama-hanya-beda-tampilan?page=all"
+   },
+   "kmpl": {
+    "basis": "klaim pabrikan",
+    "source": "https://www.medcom.id/otomotif/motor/8Kyx0qvk-klaim-pabrikan-konsumsi-bensin-honda-vario-125-hingga-51-7-km-l"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://www.gridoto.com/read/223620760/test-ride-new-honda-vario-125-rasa-tetap-sama-hanya-beda-tampilan?page=all"
+   }
+  }
  },
  {
   "id": "honda-vario-evo-160",
@@ -2710,10 +2793,10 @@
   "price_type": "OTR Jakarta",
   "variants": [],
   "model_year": 2026,
-  "release": null,
-  "speed": null,
-  "kmpl": null,
-  "acc": null,
+  "release": "2026-06",
+  "speed": 117.5,
+  "kmpl": 46.7,
+  "acc": 14.54,
   "range": null,
   "sum": "Vario Evo 160 adalah skutik matik Honda dengan mesin 4 langkah eSP+ 156,9 cc, tersedia dalam varian ABS, CBS Nitro, dan CBS. Dilengkapi Honda Smart Key System, panel digital full, lampu LED, dan bagasi 18 liter.",
   "specs": {
@@ -2779,7 +2862,768 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/vario-evo-160",
-  "checked": "2026-10-26"
+  "checked": "2026-11-02",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://oto.detik.com/motor/d-8545038/honda-vario-evo-160-meluncur-di-indonesia-segini-harganya"
+   },
+   "speed": {
+    "basis": "uji (GPS racebox; speedometer tercatat 127 km/jam)",
+    "source": "https://www.gridoto.com/read/224395243/ahm-kamu-bohong-kami-tes-top-speed-asli-honda-vario-evo-160-hasilnya-segini?page=all"
+   },
+   "kmpl": {
+    "basis": "klaim pabrikan",
+    "source": "https://www.otojatim.com/2026/07/honda-vario-evo-160-racikan-mesin-baru-top-speed-111.html"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://www.gridoto.com/read/224395243/ahm-kamu-bohong-kami-tes-top-speed-asli-honda-vario-evo-160-hasilnya-segini?page=all"
+   }
+  }
+ },
+ {
+  "id": "honda-cb500x",
+  "brand": "Honda",
+  "name": "CB500X",
+  "body": "Adventure",
+  "engine": "Bensin",
+  "cc": 471,
+  "price": 207085000,
+  "price_type": "OTR Jakarta",
+  "variants": [],
+  "model_year": null,
+  "release": "2015-06",
+  "speed": null,
+  "kmpl": 20.8,
+  "acc": 6,
+  "range": null,
+  "sum": "CB500X adalah motor adventure bermesin 471 cc parallel twin DOHC berpendingin cairan dengan output 37 kW. Motor ini dilengkapi ABS 2 channel, lampu LED, dan sistem keamanan HISS, dan tersedia dalam warna Grand Prix Red.",
+  "specs": {
+   "tenaga": "37 kW / 8.500 rpm",
+   "torsi": "44,6 Nm / 6.500 rpm",
+   "bobot": "199 kg",
+   "tinggi_jok": "830 mm",
+   "tangki": "17,7 L",
+   "transmisi": "6 percepatan, Constant Mesh",
+   "rem": "Depan: hidraulik cakram ganda 296 mm; Belakang: hidraulik cakram tunggal 240 mm; ABS 2 channel",
+   "suspensi": "Depan: Showa 41 mm SFF-BP inverted telescopic fork; Belakang: Showa monoshock adjustable dengan Prolink",
+   "ban": "Depan 110/80ZR 19 M/C; Belakang 160/60ZR 17 M/C",
+   "fitur": "ABS 2 Channel, HISS (Honda Ignition Security System), lampu LED, PGM-FI"
+  },
+  "image": "https://www.astra-honda.com/hondabigbike/photos/20210927131644_honda-cb500x.jpg",
+  "image_credit": "Astra Honda Motor",
+  "gallery": [
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/766/Product Article.jpg",
+    "caption": "STEP UP TO ADVENTURE",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/775/Varian Warna 1.png",
+    "caption": "Honda Bigbike",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/763/Gallery 1.jpg",
+    "caption": "Honda CB500X",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/764/Gallery 2.jpg",
+    "caption": "Honda CB500X",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/765/Gallery 3.jpg",
+    "caption": "Honda CB500X",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.astra-honda.com/hondabigbike/product/adventure/honda-cb500x",
+  "checked": "2026-11-02",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://summitotofinance.com/news/detail/ahm-luncurkan-honda-cb500x-dengan-tampilan-baru-harga-rp-192-jutaan"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/231043133/test-ride-honda-cb500x-data-dyno-akselerasi-dan-konsumsi-bbm-lengkap"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/231043133/test-ride-honda-cb500x-data-dyno-akselerasi-dan-konsumsi-bbm-lengkap"
+   }
+  }
+ },
+ {
+  "id": "honda-cb650r",
+  "brand": "Honda",
+  "name": "CB650R",
+  "body": "Naked",
+  "engine": "Bensin",
+  "cc": 649,
+  "price": 319914000,
+  "price_type": "OTR Jakarta",
+  "variants": [],
+  "model_year": null,
+  "release": "2019-02",
+  "speed": null,
+  "kmpl": null,
+  "acc": 3.49,
+  "range": null,
+  "sum": "Honda CB650R adalah motor naked bermesin 4 silinder segaris DOHC 649cc dengan fitur E-Clutch yang memudahkan pengoperasian kopling. Motor ini juga dilengkapi aplikasi RoadSync, ABS 2 channel, dan lampu LED.",
+  "specs": {
+   "tenaga": "66,5 kW/11.000 rpm",
+   "torsi": "60,7 Nm/8.000 rpm",
+   "bobot": "207 kg",
+   "tinggi_jok": "810 mm",
+   "tangki": "15,4 L",
+   "transmisi": "Manual, 6 speed",
+   "rem": "Depan: cakram ganda 310 mm, kaliper 4 piston; Belakang: cakram tunggal 240 mm, kaliper 1 piston; ABS 2 channel",
+   "suspensi": "Depan: 41mm Showa SFF-BP inverted; Belakang: aluminium swing arm, monoshock adjustable",
+   "ban": "Depan 120/70R17M/C (58W); Belakang 180/55ZR17M/C (73W)",
+   "fitur": "E-Clutch, RoadSync, lampu LED, HISS (Honda Ignition Security System)"
+  },
+  "image": "https://www.astra-honda.com/hondabigbike/photos/20250613132529_honda-cb650r.jpg",
+  "image_credit": "Astra Honda Motor",
+  "gallery": [
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/1023/revImage-article_Slide_12-16_CB650R_NEO-SPORT-CAFE.jpg",
+    "caption": "Neo Sports Cafe",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/1022/E-Clutch_Engine_Around.jpg",
+    "caption": "New Honda E-Clutch",
+    "tag": "Mesin"
+   },
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/1021/revImage-article_Slide_12-16_CB650R_650CC.jpg",
+    "caption": "649cc DOHC In-Line Four - Cylinder Engine",
+    "tag": "Mesin"
+   },
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/1020/revImage-article_Slide_12-16_CB650R_HONDA-ROADSNYC.jpg",
+    "caption": "New Honda RoadSync",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/1025/Color-Variant-black_Slide_1718_CB650R.png",
+    "caption": "Honda Bigbike",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/1016/Bike-gallery_PAGI_Slide_2930_CB650R.jpg",
+    "caption": "Honda CB650R",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/1017/Bike-gallery_SIANG_Slide_2930_CB650R.jpg",
+    "caption": "Honda CB650R",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/1018/Bike-gallery_SORE_Slide_2930_CB650R.jpg",
+    "caption": "Honda CB650R",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.astra-honda.com/hondabigbike/product/naked/honda-cb650r",
+  "checked": "2026-11-02",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://otomotif.bisnis.com/read/20190209/273/887068/honda-hadirkan-cb650r-neo-sport-cafe-harganya-mantap"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://motostatz.com/honda-cb650r-acceleration-top-speed/"
+   }
+  }
+ },
+ {
+  "id": "honda-cbr1000rr-r",
+  "brand": "Honda",
+  "name": "CBR1000RR-R",
+  "body": "Sport",
+  "engine": "Bensin",
+  "cc": 999.9,
+  "price": 1108071000,
+  "price_type": "OTR Jakarta",
+  "variants": [],
+  "model_year": null,
+  "release": "2020-08",
+  "speed": 299,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Honda CBR1000RR-R SP 30th Anniversary Edition adalah motor sport edisi peringatan 30 tahun yang terinspirasi dari CBR1000RR 1992. Motor ini dirancang untuk kontrol total di lintasan balap dengan mesin inline-4 DOHC 999,9 cc.",
+  "specs": {
+   "tenaga": "160 kW / 14.000 rpm",
+   "torsi": "113 Nm / 12.000 rpm",
+   "bobot": "200 kg (curb weight)",
+   "tinggi_jok": "830 mm",
+   "tangki": "16,1 L",
+   "transmisi": "Manual, 6-speed dengan Quick Shifter",
+   "rem": "Depan: cakram 330 mm, radial-mount 4-piston Brembo; Belakang: cakram 220 mm, 2-piston Brembo",
+   "suspensi": "Depan: Showa BPF 43 mm inverted telescopic, langkah 120 mm; Belakang: Showa BFRC-Lite Pro-Link monoshock, 143 mm",
+   "ban": "Depan: 120/70ZR-17M/C (58W); Belakang: 200/55ZR-17M/C (78W)",
+   "fitur": "Quick Shifter, Honda Smart Key System, lampu LED"
+  },
+  "image": "https://www.astra-honda.com/hondabigbike/photos/20220317143740_honda-cbr1000rr-r.jpg",
+  "image_credit": "Astra Honda Motor",
+  "gallery": [
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/790/Produk-Page.jpg",
+    "caption": "TOTAL CONTROL",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/791/Thumbnail.png",
+    "caption": "Honda Bigbike",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/786/Bike-Gallery-3.jpg",
+    "caption": "Honda CBR1000RR-R SP 30ᵀᴴ Anniversary Edition",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/787/Bike-Gallery-2.jpg",
+    "caption": "Honda CBR1000RR-R SP 30ᵀᴴ Anniversary Edition",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/789/Bike-Gallery-1.jpg",
+    "caption": "Honda CBR1000RR-R SP 30ᵀᴴ Anniversary Edition",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.astra-honda.com/hondabigbike/product/sport/honda-cbr1000rr-r",
+  "checked": "2026-11-02",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://otomotif.bisnis.com/read/20200819/273/1280905/ahm-pasarkan-honda-cbr1000rr-r-fireblade-harganya-rp11-miliar"
+   },
+   "speed": {
+    "basis": "uji (media Rideapart; nilai speedometer maksimal, bukan top speed terukur; varian SP, pengujian di AS)",
+    "source": "https://www.rideapart.com/news/402943/watch-honda-cbr1000rrr-fireblade-max-speed/"
+   }
+  }
+ },
+ {
+  "id": "honda-cbr1000rr-r-2",
+  "brand": "Honda",
+  "name": "CBR1000RR-R",
+  "body": "Sport",
+  "engine": "Bensin",
+  "cc": 999.9,
+  "price": 832965000,
+  "price_type": "OTR Jakarta",
+  "variants": [],
+  "model_year": null,
+  "release": "2020-08",
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Honda CBR1000RR-R adalah motor sport dengan mesin 1000cc DOHC inline-four 16 katup dan tenaga maksimum 160 kW. Motor ini dilengkapi Honda Smart Key System, lampu LED, serta ABS 2 channel.",
+  "specs": {
+   "tenaga": "160 kW / 14.000 rpm",
+   "torsi": "113 Nm / 12.000 rpm",
+   "bobot": "200 kg",
+   "tinggi_jok": "830 mm",
+   "tangki": "16,5 L",
+   "transmisi": "Manual, 6 percepatan",
+   "rem": "Depan: cakram 330 mm, kaliper radial-mount 4-piston Nissin; Belakang: cakram 220 mm, kaliper 2-piston Brembo; ABS 2 channel",
+   "suspensi": "Depan: Showa BPF 43 mm inverted telescopic, stroke 120 mm; Belakang: Showa BFRC-Lite Pro-Link monoshock, stroke 143 mm",
+   "ban": "Depan 120/70ZR17; Belakang 200/55ZR17",
+   "fitur": "Honda Smart Key System, lampu LED, ABS 2 channel, PGM-DSFI"
+  },
+  "image": "https://www.astra-honda.com/hondabigbike/photos/20240925064249_honda-cbr1000rr-r-2.jpg",
+  "image_credit": "Astra Honda Motor",
+  "gallery": [
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/933/CBR-800x600pxl-2.png",
+    "caption": "BORN TO RACE",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/932/IMG_4436.jpg",
+    "caption": "1000CC DOHC INLINE - FOUR CYLINDER",
+    "tag": "Mesin"
+   },
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/934/CBR-800x600pxlR-(1).png",
+    "caption": "Honda Bigbike",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/929/Location_CBR1000RR-R_R-380_angle033_320.jpg",
+    "caption": "Honda CBR1000RR-R",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/930/Location_CBR1000RR-R_R-380_angle028_270.jpg",
+    "caption": "Honda CBR1000RR-R",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/931/Location_CBR1000RR-R_R-380_angle011_100.jpg",
+    "caption": "Honda CBR1000RR-R",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.astra-honda.com/hondabigbike/product/sport/honda-cbr1000rr-r-2",
+  "checked": "2026-11-02",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://otomotif.kompas.com/read/2020/08/19/101354615/honda-cbr1000rr-r-fireblade-resmi-meluncur-tembus-rp-11-miliar"
+   }
+  }
+ },
+ {
+  "id": "honda-crf1100l-africa-twin-adventure-sports",
+  "brand": "Honda",
+  "name": "CRF1100L Africa Twin",
+  "body": "Adventure",
+  "engine": "Bensin",
+  "cc": 1084,
+  "price": 665000000,
+  "price_type": "OTR Jakarta",
+  "variants": [],
+  "model_year": null,
+  "release": "2024-07",
+  "speed": null,
+  "kmpl": 20.5,
+  "acc": null,
+  "range": null,
+  "sum": "Honda CRF1100L Africa Twin adalah motor adventure dengan mesin 1.084 cc SOHC parallel twin dan transmisi DCT. Harganya Rp665.000.000 untuk warna Grand Prix Red.",
+  "specs": {
+   "tenaga": "75 kW / 7.500 rpm",
+   "torsi": "112 Nm / 5.500 rpm",
+   "bobot": "242 kg",
+   "tinggi_jok": "850 mm (low), 870 mm (high)",
+   "tangki": "18,8 liter",
+   "transmisi": "6 percepatan, DCT",
+   "rem": "Depan: cakram ganda 310 mm dengan ABS; Belakang: cakram 256 mm dengan ABS",
+   "suspensi": "Depan: Showa EERA inverted 45 mm, langkah 230 mm; Belakang: Showa EERA Pro-Link, langkah 220 mm",
+   "ban": "Depan: 90/90-21 M/C 54H (tube type); Belakang: 150/70R18 M/C 70H (tube type)",
+   "fitur": "DCT, PGM-FI, ABS, lampu LED"
+  },
+  "image": "https://www.astra-honda.com/hondabigbike/photos/20260930182240_honda-crf1100l-africa-twin-adventure-sports.jpg",
+  "image_credit": "Astra Honda Motor",
+  "gallery": [
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/1069/Image-Article_800x600_2.jpg",
+    "caption": "POWERFULL ENGINE",
+    "tag": "Mesin"
+   },
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/1135/2026-CRF1100_L3_LOCATION_04_0129_S.png",
+    "caption": "GO ANYWHERE",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/1136/colorvariantBigbike-600x450pxlBK-01.png",
+    "caption": "Honda Bigbike",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/1132/bikegallery-Bigbike-600x400pxlBK-01.jpg",
+    "caption": "Honda CRF1100L Africa Twin",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/1133/bikegallery-Bigbike-600x400pxlBK-02.jpg",
+    "caption": "Honda CRF1100L Africa Twin",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/1134/bikegallery-Bigbike-600x400pxlBK-03.jpg",
+    "caption": "Honda CRF1100L Africa Twin",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.astra-honda.com/hondabigbike/product/adventure/honda-crf1100l-africa-twin-adventure-sports",
+  "checked": "2026-11-02",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.viva.co.id/otomotif/motor/1733131-honda-crf1100l-africa-twin-baru-meluncur-di-indonesia-seharga-rp-633-juta-secanggih-apa"
+   },
+   "kmpl": {
+    "basis": "klaim pabrikan (Honda UK, bukan sumber Indonesia; tercantum untuk varian 2026)",
+    "source": "https://www.honda.co.uk/motorcycles/range/adventure/crf1100l-africa-twin/specifications-and-price.html"
+   }
+  }
+ },
+ {
+  "id": "honda-gold-wing-1800",
+  "brand": "Honda",
+  "name": "Gold Wing",
+  "body": "Cruiser",
+  "engine": "Bensin",
+  "cc": 1833,
+  "price": 1135000000,
+  "price_type": "OTR Jakarta",
+  "variants": [
+   {
+    "name": "Bordeaux Red Metallic",
+    "price": 1135000000
+   }
+  ],
+  "model_year": null,
+  "release": "2023-03",
+  "speed": 180,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Honda Gold Wing 50th Anniversary Edition adalah motor touring dengan mesin enam silinder horizontal 1.833 cc. Motor ini dilengkapi teknologi airbag untuk membantu mengurangi cedera pengendara saat tabrakan dari depan.",
+  "specs": {
+   "tenaga": "93 kW / 5.500 rpm",
+   "torsi": "170 Nm / 4.500 rpm",
+   "bobot": "393 kg",
+   "tinggi_jok": "745 mm",
+   "tangki": "21 L",
+   "transmisi": "Seven-Speed Automatic DCT, Plus Reverse and Walking Mode",
+   "rem": "Depan: dual hydraulic disc 320 mm x 4,5 mm, kaliper 6-piston; Belakang: ventilated disc 316 x 11 mm, kaliper 3-piston; ABS",
+   "suspensi": "Depan: Double Wishbone; Belakang: Pro Arm Single-Side Swingarm dengan Pro-Link Single Shock",
+   "ban": "Depan: 130/70R-18 M/C 63H; Belakang: 200/55R-16 M/C 77H",
+   "fitur": "Airbag, Smart Key System, Electric Clutch System, Walking Mode, lampu LED"
+  },
+  "image": "https://www.astra-honda.com/hondabigbike/photos/20250521103503_honda-gold-wing-1800.jpg",
+  "image_credit": "Astra Honda Motor",
+  "gallery": [
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/1008/revImage-article_LOGO-ANNIVERSARY.png",
+    "caption": "Honda Gold Wing 50th Anniversary Edition",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/1001/Image-article_GL800_ED_rev1.jpg",
+    "caption": "ULTIMATE PERFORMANCE OF TOURING MACHINE",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/999/e_airbag4_1-ezgif.com-gif-maker.gif",
+    "caption": "Airbag System",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/985/Thumbnail-Feature_GL800_ED_AIRBAG.png",
+    "caption": "Honda Bigbike",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/981/Bike-gallery-GL1800_Location_Goldwing_Tour_Red_0025.jpg",
+    "caption": "Honda Gold Wing 50th Anniversary Special Edition",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/982/Bike-gallery-GL1800_Location_Goldwing_Tour_Red_0028.jpg",
+    "caption": "Honda Gold Wing 50th Anniversary Special Edition",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/983/Bike-gallery-GL1800_Location_Goldwing_Tour_Red_0032.jpg",
+    "caption": "Honda Gold Wing 50th Anniversary Special Edition",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.astra-honda.com/hondabigbike/product/cruiser/honda-gold-wing-1800",
+  "checked": "2026-11-02",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.oto.com/berita-motor/honda-gold-wing-terbaru-rilis-di-indonesia-harga-rp1052-miliar-lebih"
+   },
+   "speed": {
+    "basis": "klaim pabrikan",
+    "source": "https://www.motorbikecatalog.com/performance/2021/183665/honda_gl1800_gold_wing.html"
+   }
+  }
+ },
+ {
+  "id": "honda-nx-500",
+  "brand": "Honda",
+  "name": "NX500",
+  "body": "Adventure",
+  "engine": "Bensin",
+  "cc": 471,
+  "price": 230000000,
+  "price_type": "OTR Jakarta",
+  "variants": [],
+  "model_year": null,
+  "release": "2026-07",
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Honda NX500 adalah motor adventure dengan mesin 471 cc paralel twin 4 tak DOHC berpendingin cairan. Motor ini dilengkapi E-Clutch dan konektivitas RoadSync.",
+  "specs": {
+   "tenaga": "37,1 kW/8.500 rpm",
+   "torsi": "44,7 Nm/6.500 rpm",
+   "bobot": "200 kg (curb mass)",
+   "tinggi_jok": "834 mm",
+   "tangki": "17,7 L",
+   "transmisi": "Constant Mesh, 6 percepatan",
+   "rem": "Depan cakram ganda 296 mm dengan ABS 2 channel; belakang cakram tunggal 240 mm",
+   "suspensi": "Depan Showa 41 mm SFF-BP inverted telescopic fork; belakang Showa monoshock adjustable dengan Prolink",
+   "ban": "Depan 110/80R19 M/C 59H; belakang 160/60R17 M/C 69H",
+   "fitur": "E-Clutch, RoadSync, HISS (Honda Ignition Security System)"
+  },
+  "image": "https://www.astra-honda.com/hondabigbike/photos/20260727181552_honda-nx-500.jpg",
+  "image_credit": "Astra Honda Motor",
+  "gallery": [
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/1109/Image-Article-2.png",
+    "caption": "NX 500 - 2",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/1108/rebel-LOGOROADSYNC-800x600-pxl-buki.png",
+    "caption": "NX 500 - 1",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/1110/variant-color-copy-rev.png",
+    "caption": "Honda Bigbike",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/1126/2026-NX500_Location_ACTION_02_0202_L.jpg",
+    "caption": "Honda NX500",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/1127/2026-NX500_Location_ACTION_01_0742_L.jpg",
+    "caption": "Honda NX500",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/1129/2026-NX500_Location_ACTION_01_0742_L-(1)-(1).jpg",
+    "caption": "Honda NX500",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.astra-honda.com/hondabigbike/product/adventure/honda-nx-500",
+  "checked": "2026-11-02",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.cnnindonesia.com/otomotif/20260728074613-595-1385578/moge-baru-honda-nx500-meluncur-di-indonesia-harga-rp230-juta"
+   }
+  }
+ },
+ {
+  "id": "honda-rebel",
+  "brand": "Honda",
+  "name": "Rebel",
+  "body": "Cruiser",
+  "engine": "Bensin",
+  "cc": 471,
+  "price": 209352000,
+  "price_type": "OTR Jakarta",
+  "variants": [],
+  "model_year": null,
+  "release": "2017-03",
+  "speed": null,
+  "kmpl": 23.91,
+  "acc": null,
+  "range": null,
+  "sum": "Rebel adalah cruiser dengan gaya riding rendah (urban cruiser) yang dibekali mesin 471 cc parallel twin DOHC berpendingin cairan. Motor ini ditawarkan dengan warna Matte Dim Gray Metallic seharga Rp 209.352.000.",
+  "specs": {
+   "tenaga": "33,6 kW (45,7 PS) / 8.500 rpm",
+   "torsi": "43,3 Nm (4,42 kgf.m) / 6.000 rpm",
+   "bobot": "191 kg",
+   "tinggi_jok": "690 mm",
+   "tangki": "11 L",
+   "transmisi": "6 percepatan",
+   "rem": "Depan: hydraulic single disc 296 mm; Belakang: hydraulic single disc 240 mm; ABS 2 channel",
+   "suspensi": "Depan: Showa 41 mm telescopic fork; Belakang: Showa adjustable twin",
+   "ban": "Depan 130/90-16M/C (67H); Belakang 150/80-16M/C (71H)",
+   "fitur": "PGM-FI, ABS 2 channel, lampu LED"
+  },
+  "image": "https://www.astra-honda.com/hondabigbike/photos/20250723140850_honda-rebel.jpg",
+  "image_credit": "Astra Honda Motor",
+  "gallery": [
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/572/HONDA-REBEL-2020---Product-Lifestyle-Banner-800x600.jpg",
+    "caption": "REBEL",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/1064/1.png",
+    "caption": "Honda Bigbike",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.astra-honda.com/hondabigbike/product/cruiser/honda-rebel",
+  "checked": "2026-11-02",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.kompas.id/artikel/honda-rebel-meluncur-di-indonesia"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://www.gridoto.com/read/221683313/cobain-honda-rebel-500-naik-turun-gunung-nyaman-tapi-boros?page=all"
+   }
+  }
+ },
+ {
+  "id": "honda-rebel-1100",
+  "brand": "Honda",
+  "name": "Rebel 1100",
+  "body": "Cruiser",
+  "engine": "Bensin",
+  "cc": 1084,
+  "price": 445250000,
+  "price_type": "OTR Jakarta",
+  "variants": [],
+  "model_year": null,
+  "release": "2024-06",
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Honda Rebel 1100 adalah motor cruiser bermesin 1084 cc SOHC parallel twin dengan harga Rp 445.250.000 untuk warna Matte Beta Silver Metallic. Motor ini dilengkapi transmisi DCT 6 percepatan, ABS 2 kanal, dan konektivitas RoadSync.",
+  "specs": {
+   "tenaga": "65 kW pada 7.250 rpm",
+   "torsi": "98 Nm pada 4.750 rpm",
+   "bobot": "236 kg",
+   "tinggi_jok": "710 mm",
+   "tangki": "13,6 L",
+   "transmisi": "6 percepatan, DCT",
+   "rem": "Depan: cakram 330 mm, radial monoblock 4-piston, ABS; Belakang: cakram 256 mm, caliper 1-piston, ABS",
+   "suspensi": "Depan: Showa telescopic 43 mm (adjustable); Belakang: Showa twin piggyback (adjustable)",
+   "ban": "Depan 130/70B18M/C (63H); Belakang 180/65B16M/C (81H)",
+   "fitur": "RoadSync, lampu LED, ABS"
+  },
+  "image": "https://www.astra-honda.com/hondabigbike/photos/20260707121948_honda-rebel-1100.jpeg",
+  "image_credit": "Astra Honda Motor",
+  "gallery": [
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/1083/rebel-LOGOROADSYNC-800x600-pxl-buki.png",
+    "caption": "Lifestyle Banner Honda Rebel 1100 2",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/1092/variant-color-600x450pxl-highrest.png",
+    "caption": "Honda Bigbike",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/1045/2025-Rebel1100_Location_0008_L_600x400px.jpg",
+    "caption": "Honda Rebel 1100",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/1046/2025-Rebel1100_Location_0001_L_600x400px.jpg",
+    "caption": "Honda Rebel 1100",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/1047/2025-Rebel1100_Location_0007_L.jpg",
+    "caption": "Honda Rebel 1100",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.astra-honda.com/hondabigbike/product/cruiser/honda-rebel-1100",
+  "checked": "2026-11-02",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://otomotif.kompas.com/read/2024/06/12/115423915/honda-rebel-1100-resmi-dijual-di-indonesia-harganya-rp-375-juta"
+   }
+  }
+ },
+ {
+  "id": "honda-xl750-transalp",
+  "brand": "Honda",
+  "name": "XL750 Transalp",
+  "body": "Adventure",
+  "engine": "Bensin",
+  "cc": 755,
+  "price": 361200000,
+  "price_type": "OTR Jakarta",
+  "variants": [],
+  "model_year": null,
+  "release": "2023-06",
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "XL750 Transalp adalah motor adventure touring dengan mesin paralel twin 755 cc berpendingin cairan. Motor ini dilengkapi fitur RoadSync, HISS, dan lampu LED.",
+  "specs": {
+   "tenaga": "67,5 kW / 9.500 rpm",
+   "torsi": "75 Nm / 7.250 rpm",
+   "bobot": "210 kg",
+   "tinggi_jok": "850 mm",
+   "tangki": "16,9 L",
+   "transmisi": "6-speed manual, slipper clutch",
+   "rem": "ABS 2 channel; depan hidrolik cakram ganda 310 mm, belakang hidrolik cakram tunggal 256 mm",
+   "suspensi": "Depan Showa 43 mm adjustable inverted telescopic; belakang swing arm Pro-Link Showa adjustable monoshock",
+   "ban": "Depan 90/90-21 [54H], belakang 150/70-18 [70H]",
+   "fitur": "RoadSync, HISS, lampu LED, slipper clutch"
+  },
+  "image": "https://www.astra-honda.com/hondabigbike/photos/20250430061019_xl750-transalp.jpg",
+  "image_credit": "Astra Honda Motor",
+  "gallery": [
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/1014/Image-article-800x600px.jpg",
+    "caption": "XL750 Transalp History",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/1013/New-Honda-RoadSync.png",
+    "caption": "Honda RoadSync",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/975/Color-Variant-600x450px-tricolor.png",
+    "caption": "Honda Bigbike",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/962/Bike-galery-600x400px-1.jpg",
+    "caption": "XL750 Transalp",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/963/Bike-galery-600x400px-2.jpg",
+    "caption": "XL750 Transalp",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.astra-honda.com/hondabigbike/media/964/Bike-galery-600x400px-3.jpg",
+    "caption": "XL750 Transalp",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.astra-honda.com/hondabigbike/product/adventure/xl750-transalp",
+  "checked": "2026-11-02",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.gridoto.com/read/223815965/harga-terdengar-murah-intip-detail-new-xl750-transalp-moge-baru-honda-di-indonesia"
+   }
+  }
  },
  {
   "id": "kawasaki-d-tracker-x",
@@ -2853,7 +3697,7 @@
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/d-tracker/supermoto/d-tracker-x",
-  "checked": "2026-10-26"
+  "checked": "2026-11-02"
  },
  {
   "id": "kawasaki-eliminator",
@@ -2950,7 +3794,7 @@
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/eliminator/street-cruiser/eliminator",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",
@@ -3057,7 +3901,7 @@
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/kle/rally-adventure/kle500",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",
@@ -3152,7 +3996,7 @@
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/off-road/klx140r",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",
@@ -3233,7 +4077,7 @@
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/dual-purpose-150/klx150",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",
@@ -3328,7 +4172,7 @@
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/dual-purpose-150/klx150-s",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",
@@ -3427,7 +4271,7 @@
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/dual-purpose-150/klx150-se",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",
@@ -3534,7 +4378,7 @@
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/dual-purpose-150/klx150-xpl",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",
@@ -3633,7 +4477,7 @@
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/supermoto/klx150sm",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",
@@ -3732,7 +4576,7 @@
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/supermoto/klx150sm-se",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",
@@ -3807,7 +4651,7 @@
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/dual-purpose-230-250/klx230",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",
@@ -3914,7 +4758,7 @@
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/dual-purpose-230-250/klx230-df",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",
@@ -4009,7 +4853,7 @@
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/dual-purpose-230-250/klx230-sherpa",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",
@@ -4058,7 +4902,7 @@
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/off-road/klx230r",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",
@@ -4157,7 +5001,7 @@
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/supermoto/klx230sm",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",
@@ -4249,7 +5093,7 @@
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/klx/dual-purpose-230-250/klx250",
-  "checked": "2026-10-26"
+  "checked": "2026-11-02"
  },
  {
   "id": "kawasaki-kx112",
@@ -4333,7 +5177,7 @@
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/kx/kx-youth/kx112",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",
@@ -4423,7 +5267,7 @@
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/kx/kx-youth/kx85",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita (peluncuran KX85 24 Model Year di Indonesia; berita tidak menyebut label 'L' secara khusus)",
@@ -4518,7 +5362,7 @@
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/meguro/retro-classic/meguro-s1",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",
@@ -4629,7 +5473,7 @@
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/ninja/sport/ninja-250",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",
@@ -4728,7 +5572,7 @@
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/ninja/hypersport/ninja-h2",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",
@@ -4755,7 +5599,7 @@
   "price_type": "MSRP Jakarta",
   "variants": [
    {
-    "name": "NINJA ZX-10R ABS KRT Edition",
+    "name": "NINJA ZX-10R ABS KRT EDITION",
     "price": 572200000
    }
   ],
@@ -4765,8 +5609,8 @@
   "kmpl": 14.7,
   "acc": null,
   "range": null,
-  "sum": "Kawasaki Ninja ZX-10R 2025 ABS KRT Edition adalah motor supersport bermesin 998 cc In-Line Four dengan mesin bertenaga 156,8 kW (213 PS) di 13.200 rpm. Motor ini dilengkapi winglet aerodinamis, suspensi Showa, rem Brembo M50, dan paket elektronik seperti KCMF, S-KTRC, dan KQS.",
-  "image": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2044/059b8072-7449-42ec-81a9-c5d384cf3cfe.jpg?w=750",
+  "sum": "Motor supersport 998 cc In-Line Four dengan winglet aerodinamis, suspensi Showa, rem Brembo, dan paket elektronik lengkap. MSRP tercantum Rp 572.200.000 (Jakarta).",
+  "image": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2044/43d95433-4957-4bd6-b3ac-4943a3d3297b.jpg?w=750",
   "image_credit": "Kawasaki Motor Indonesia",
   "gallery": [
    {
@@ -4831,7 +5675,7 @@
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/ninja/supersport/ninja-zx-10r",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",
@@ -4942,7 +5786,7 @@
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/ninja/supersport/ninja-zx-25r",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",
@@ -5049,7 +5893,7 @@
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/ninja/supersport/ninja-zx-4r",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",
@@ -5156,7 +6000,7 @@
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/ninja/supersport/ninja-zx-6r",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",
@@ -5263,7 +6107,7 @@
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/electric/ev/ninja-e-1",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",
@@ -5357,7 +6201,7 @@
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/stockman/stockman/stockman",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",
@@ -5407,7 +6251,7 @@
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/versys/adventure-touring/versys-1100",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",
@@ -5436,7 +6280,7 @@
   "kmpl": 17.4,
   "acc": 5.3,
   "range": null,
-  "sum": "Versys 650 adalah motor touring bermesin Parallel Twin 649 cc dengan suspensi long-travel, roda 17 inci, dan Kawasaki TRaction Control (KTRC). Harga tercantum mulai Rp 241.900.000 (model 2025) dan Rp 245.700.000 (model 2026).",
+  "sum": "Versys 650 adalah motor touring bermesin Parallel Twin 649 cc dengan fitur KTRC, meter TFT, dan windscreen yang dapat disesuaikan. Harga MSRP di Jakarta mulai Rp 241.900.000 untuk model 2025.",
   "image": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/34/d787cdd3-d8cd-46cf-be5a-9d16ee516c07.jpg?w=750",
   "image_credit": "Kawasaki Motor Indonesia",
   "gallery": [
@@ -5502,7 +6346,7 @@
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/versys/adventure-touring/versys-650",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",
@@ -5525,12 +6369,12 @@
   "body": "Adventure",
   "engine": "Bensin",
   "cc": 249,
-  "price": 73700000,
+  "price": 77000000,
   "price_type": "MSRP Jakarta",
   "variants": [
    {
-    "name": "VERSYS-X 250 (NON-ABS)",
-    "price": 73700000
+    "name": "Versys-X 250 (Non-ABS)",
+    "price": 77000000
    }
   ],
   "model_year": 2026,
@@ -5539,7 +6383,7 @@
   "kmpl": 26,
   "acc": 8.3,
   "range": null,
-  "sum": "Kawasaki Versys-X 250 adalah motor adventure-touring dengan mesin 249 cc Parallel Twin berpendingin cair dan rangka backbone. Harga MSRP varian 2026 (NON-ABS) di Jakarta Rp 73.700.000.",
+  "sum": "Kawasaki Versys-X 250 adalah motor adventure-touring bermesin 249 cc parallel twin dengan rangka backbone dan kapasitas tangki 17 liter. Harga terendah yang tertera Rp 73.700.000 (Jakarta), sedangkan varian 2026 Versys-X 250 (Non-ABS) dibanderol Rp 77.000.000.",
   "image": "https://kawasaki-global-admin.com/ContentStorage/KMI/ProductTrimGroup/2008/896f661f-f1f8-44a0-9249-5079a55f62b4.jpg?w=750",
   "image_credit": "Kawasaki Motor Indonesia",
   "gallery": [
@@ -5600,7 +6444,7 @@
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/versys/adventure-touring/versys-x-250",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",
@@ -5703,7 +6547,7 @@
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/vulcan/sport-cruiser/vulcan-s",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",
@@ -5806,7 +6650,7 @@
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/w/retro-classic/2024-w175l",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",
@@ -5898,7 +6742,7 @@
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/w/retro-classic/w175-street",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",
@@ -5993,7 +6837,7 @@
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/w/retro-classic/w230",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",
@@ -6092,7 +6936,7 @@
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/w/retro-classic/w800",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",
@@ -6199,7 +7043,7 @@
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/electric/ev/z-e-1",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",
@@ -6298,7 +7142,7 @@
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/z/supernaked/z1000",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",
@@ -6378,7 +7222,7 @@
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/z/mini-naked/z125-pro",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",
@@ -6489,7 +7333,7 @@
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/z/supernaked/z900",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",
@@ -6587,7 +7431,7 @@
    }
   ],
   "source": "https://www.kawasaki-motor.co.id/id-id/sepeda-motor/z/retro-sport/z900rs",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "perf": {
    "release": {
     "basis": "berita",

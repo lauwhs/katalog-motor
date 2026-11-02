@@ -920,5 +920,406 @@
     "source": "https://otomotifnet.gridoto.com/read/233034024/konsumsi-bensin-honda-forza-250-2021-kecepatan-0-100-kmjam-cuma-butuh-waktu-segini?page=all"
    }
   }
+ },
+ "honda-supra-gtr-150": {
+  "release": "2016-05",
+  "speed": 121.2,
+  "kmpl": 45.2,
+  "acc": 12.1,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://id.wikipedia.org/wiki/Honda_Supra_GTR ; https://www.tribunnews.com/otomotif/2016/05/24/top-speed-honda-supra-gtr-150-tembus-122-kmjam"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/231126964/hasil-test-ride-lengkap-honda-supra-gtr-150-beberkan-data-akselerasi-power-dan-konsumsi-bbm"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/231126964/hasil-test-ride-lengkap-honda-supra-gtr-150-beberkan-data-akselerasi-power-dan-konsumsi-bbm"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/231126964/hasil-test-ride-lengkap-honda-supra-gtr-150-beberkan-data-akselerasi-power-dan-konsumsi-bbm"
+   }
+  }
+ },
+ "honda-genio": {
+  "release": "2019-06",
+  "speed": 103.1,
+  "kmpl": 51.3,
+  "acc": 28,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://otomotif.antaranews.com/berita/921884/skutik-honda-genio-resmi-diluncurkan"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://www.gridoto.com/read/221892450/test-ride-lengkap-honda-genio-berikut-kelebihan-dan-kekurangan-buat-harian?page=all"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://www.gridoto.com/read/221892450/test-ride-lengkap-honda-genio-berikut-kelebihan-dan-kekurangan-buat-harian?page=all"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://www.gridoto.com/read/221892450/test-ride-lengkap-honda-genio-berikut-kelebihan-dan-kekurangan-buat-harian?page=all"
+   }
+  }
+ },
+ "honda-icone": {
+  "release": "2024-10",
+  "speed": 55,
+  "range": 53,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.astra.co.id/blogs-and-articles/harga-honda-icon-e-dan-honda-cuv-e-resmi-diumumkan"
+   },
+   "speed": {
+    "basis": "klaim pabrikan",
+    "source": "https://www.astra.co.id/blogs-and-articles/ahm-luncurkan-honda-icon-e-dan-cuv-e"
+   },
+   "range": {
+    "basis": "klaim pabrikan",
+    "source": "https://www.astra.co.id/blogs-and-articles/harga-honda-icon-e-dan-honda-cuv-e-resmi-diumumkan"
+   }
+  }
+ },
+ "honda-honda-monkey": {
+  "release": "2019-07",
+  "kmpl": 67,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.autofun.co.id/berita-motor/cermati-biaya-perawatan-hingga-harga-bekas-honda-monkey-7221"
+   },
+   "kmpl": {
+    "basis": "klaim pabrikan",
+    "source": "https://www.autofun.co.id/berita-motor/cermati-biaya-perawatan-hingga-harga-bekas-honda-monkey-7221"
+   }
+  }
+ },
+ "honda-pcx": {
+  "release": "2021-02",
+  "speed": 119,
+  "kmpl": 40.1,
+  "acc": 17.33,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://oto.detik.com/motor/d-5363007/honda-pcx-160-harga-dan-spesifikasi-di-indonesia"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://www.autofun.co.id/berita-motor/test-ride-lengkap-honda-pcx-160-absroadsync-mewah-dan-lincah-83794"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://www.autofun.co.id/berita-motor/test-ride-lengkap-honda-pcx-160-absroadsync-mewah-dan-lincah-83794"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://www.autofun.co.id/berita-motor/test-ride-lengkap-honda-pcx-160-absroadsync-mewah-dan-lincah-83794"
+   }
+  }
+ },
+ "honda-revo-x": {
+  "release": "2014-01",
+  "kmpl": 59.8,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://oto.detik.com/motor/d-2462806/honda-revo-injeksi-resmi-meluncur"
+   },
+   "kmpl": {
+    "basis": "klaim pabrikan",
+    "source": "https://oto.detik.com/motor/d-8653225/konsumsi-bbm-motor-bebek-termurah-honda-di-indonesia-tembus-segini"
+   }
+  }
+ },
+ "honda-st125-dax": {
+  "release": "2022-08",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://tmcblog.com/2022/08/08/honda-dax-st125-resmi-dirilis-ahm-harga-rp-81-750-000/"
+   }
+  }
+ },
+ "honda-scoopy": {
+  "release": "2020-00",
+  "speed": 95.3,
+  "kmpl": 59,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.oto.com/berita-motor/masuk-generasi-ke-5-ini-perjalanan-honda-scoopy-di-indonesia"
+   },
+   "speed": {
+    "basis": "uji (Racelogic 95,3 km/jam; spidometer 104 km/jam)",
+    "source": "https://otomotifnet.gridoto.com/read/232480949/all-new-honda-scoopy-dites-lengkap-top-speed-hingga-konsumsi-bensin?page=all"
+   },
+   "kmpl": {
+    "basis": "klaim pabrikan (data internal Honda, ISS on)",
+    "source": "https://www.zigwheels.co.id/motovaganza/pilihan-skutik-honda-dengan-data-konsumsi-bbm-hasil-pengujian-pabrikan/"
+   }
+  }
+ },
+ "honda-sonic-150-r": {
+  "release": "2015-08",
+  "speed": 124.1,
+  "kmpl": 40.9,
+  "acc": 12.5,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.zigwheels.co.id/motovaganza/honda-resmi-rilis-new-sonic-150r-dan-cb150r/"
+   },
+   "speed": {
+    "basis": "klaim pabrikan",
+    "source": "https://www.tempo.co/otomotif/new-honda-sonic-150r-meluncur-simak-spesifikasi-dan-harganya-1238110"
+   },
+   "kmpl": {
+    "basis": "klaim pabrikan",
+    "source": "https://www.tempo.co/otomotif/new-honda-sonic-150r-meluncur-simak-spesifikasi-dan-harganya-1238110"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://mariodevan.com/2015/08/14/test-performa-honda-sonic-150r-top-speed-bisa-capai-137-kmjam/"
+   }
+  }
+ },
+ "honda-stylo-160": {
+  "release": "2024-02",
+  "speed": 111.73,
+  "kmpl": 45,
+  "acc": 14.73,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://otomotif.kompas.com/read/2024/02/02/112500715/new-honda-stylo-160-resmi-meluncur-harga-mulai-rp-27-jutaan"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://www.autofun.co.id/berita-motor/uji-performa-honda-stylo-160-2024-performa-oke-bikin-bensin-boros-78472"
+   },
+   "kmpl": {
+    "basis": "klaim pabrikan",
+    "source": "https://otomotif.kompas.com/read/2024/02/03/174200815/konsumsi-bbm-honda-stylo-160-diklaim-tembus-45-kpl"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://www.gridoto.com/read/224027395/kelebihan-dan-kekurangan-honda-stylo-160-test-ride-skutik-retro-yang-lebih-kencang-dari-vario?page=all"
+   }
+  }
+ },
+ "honda-super-cub-c125": {
+  "release": "2018-08",
+  "kmpl": 69.0,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.viva.co.id/otomotif/motor/1060664-bangkit-lagi-honda-resmi-jual-super-cub-c125-di-indonesia"
+   },
+   "kmpl": {
+    "basis": "klaim pabrikan",
+    "source": "https://www.naikmotor.com/97973/ini-konsumsi-bahan-bakar-honda-super-cub-125/"
+   }
+  }
+ },
+ "honda-supra-x-125-fi": {
+  "release": "2014-02",
+  "speed": 105,
+  "kmpl": 51,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://oto.detik.com/motor/d-2509037/honda-konsumsi-bbm-supra-x-125-61-8-km-liter"
+   },
+   "speed": {
+    "basis": "uji (top speed spidometer; Racelogic 97,4 km/jam)",
+    "source": "https://otomotifnet.gridoto.com/read/231043291/test-ride-honda-supra-x-125-fi-tetap-lincah-dan-irit-bbm"
+   },
+   "kmpl": {
+    "basis": "uji (Pertamax, tes harian di Jakarta Selatan)",
+    "source": "https://otomotifnet.gridoto.com/read/231043291/test-ride-honda-supra-x-125-fi-tetap-lincah-dan-irit-bbm"
+   }
+  }
+ },
+ "honda-vario-125": {
+  "release": "2012-03",
+  "speed": 113,
+  "kmpl": 51.7,
+  "acc": 24.18,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.gridoto.com/read/223953264/ternyata-segini-harga-honda-vario-125-old-saat-pertama-kali-launching"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://www.gridoto.com/read/223620760/test-ride-new-honda-vario-125-rasa-tetap-sama-hanya-beda-tampilan?page=all"
+   },
+   "kmpl": {
+    "basis": "klaim pabrikan",
+    "source": "https://www.medcom.id/otomotif/motor/8Kyx0qvk-klaim-pabrikan-konsumsi-bensin-honda-vario-125-hingga-51-7-km-l"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://www.gridoto.com/read/223620760/test-ride-new-honda-vario-125-rasa-tetap-sama-hanya-beda-tampilan?page=all"
+   }
+  }
+ },
+ "honda-vario-evo-160": {
+  "release": "2026-06",
+  "speed": 117.5,
+  "kmpl": 46.7,
+  "acc": 14.54,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://oto.detik.com/motor/d-8545038/honda-vario-evo-160-meluncur-di-indonesia-segini-harganya"
+   },
+   "speed": {
+    "basis": "uji (GPS racebox; speedometer tercatat 127 km/jam)",
+    "source": "https://www.gridoto.com/read/224395243/ahm-kamu-bohong-kami-tes-top-speed-asli-honda-vario-evo-160-hasilnya-segini?page=all"
+   },
+   "kmpl": {
+    "basis": "klaim pabrikan",
+    "source": "https://www.otojatim.com/2026/07/honda-vario-evo-160-racikan-mesin-baru-top-speed-111.html"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://www.gridoto.com/read/224395243/ahm-kamu-bohong-kami-tes-top-speed-asli-honda-vario-evo-160-hasilnya-segini?page=all"
+   }
+  }
+ },
+ "honda-cb500x": {
+  "release": "2015-06",
+  "kmpl": 20.8,
+  "acc": 6,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://summitotofinance.com/news/detail/ahm-luncurkan-honda-cb500x-dengan-tampilan-baru-harga-rp-192-jutaan"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/231043133/test-ride-honda-cb500x-data-dyno-akselerasi-dan-konsumsi-bbm-lengkap"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/231043133/test-ride-honda-cb500x-data-dyno-akselerasi-dan-konsumsi-bbm-lengkap"
+   }
+  }
+ },
+ "honda-cb650r": {
+  "release": "2019-02",
+  "acc": 3.49,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://otomotif.bisnis.com/read/20190209/273/887068/honda-hadirkan-cb650r-neo-sport-cafe-harganya-mantap"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://motostatz.com/honda-cb650r-acceleration-top-speed/"
+   }
+  }
+ },
+ "honda-cbr1000rr-r": {
+  "release": "2020-08",
+  "speed": 299,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://otomotif.bisnis.com/read/20200819/273/1280905/ahm-pasarkan-honda-cbr1000rr-r-fireblade-harganya-rp11-miliar"
+   },
+   "speed": {
+    "basis": "uji (media Rideapart; nilai speedometer maksimal, bukan top speed terukur; varian SP, pengujian di AS)",
+    "source": "https://www.rideapart.com/news/402943/watch-honda-cbr1000rrr-fireblade-max-speed/"
+   }
+  }
+ },
+ "honda-cbr1000rr-r-2": {
+  "release": "2020-08",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://otomotif.kompas.com/read/2020/08/19/101354615/honda-cbr1000rr-r-fireblade-resmi-meluncur-tembus-rp-11-miliar"
+   }
+  }
+ },
+ "honda-crf1100l-africa-twin-adventure-sports": {
+  "release": "2024-07",
+  "kmpl": 20.5,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.viva.co.id/otomotif/motor/1733131-honda-crf1100l-africa-twin-baru-meluncur-di-indonesia-seharga-rp-633-juta-secanggih-apa"
+   },
+   "kmpl": {
+    "basis": "klaim pabrikan (Honda UK, bukan sumber Indonesia; tercantum untuk varian 2026)",
+    "source": "https://www.honda.co.uk/motorcycles/range/adventure/crf1100l-africa-twin/specifications-and-price.html"
+   }
+  }
+ },
+ "honda-gold-wing-1800": {
+  "release": "2023-03",
+  "speed": 180,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.oto.com/berita-motor/honda-gold-wing-terbaru-rilis-di-indonesia-harga-rp1052-miliar-lebih"
+   },
+   "speed": {
+    "basis": "klaim pabrikan",
+    "source": "https://www.motorbikecatalog.com/performance/2021/183665/honda_gl1800_gold_wing.html"
+   }
+  }
+ },
+ "honda-nx-500": {
+  "release": "2026-07",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.cnnindonesia.com/otomotif/20260728074613-595-1385578/moge-baru-honda-nx500-meluncur-di-indonesia-harga-rp230-juta"
+   }
+  }
+ },
+ "honda-rebel": {
+  "release": "2017-03",
+  "kmpl": 23.91,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.kompas.id/artikel/honda-rebel-meluncur-di-indonesia"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://www.gridoto.com/read/221683313/cobain-honda-rebel-500-naik-turun-gunung-nyaman-tapi-boros?page=all"
+   }
+  }
+ },
+ "honda-rebel-1100": {
+  "release": "2024-06",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://otomotif.kompas.com/read/2024/06/12/115423915/honda-rebel-1100-resmi-dijual-di-indonesia-harganya-rp-375-juta"
+   }
+  }
+ },
+ "honda-xl750-transalp": {
+  "release": "2023-06",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.gridoto.com/read/223815965/harga-terdengar-murah-intip-detail-new-xl750-transalp-moge-baru-honda-di-indonesia"
+   }
+  }
  }
 }

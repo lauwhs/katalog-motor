@@ -89,7 +89,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/adv-160",
-  "checked": "2026-10-26"
+  "checked": "2026-11-02"
  },
  {
   "id": "honda-beat",
@@ -171,34 +171,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/beat",
-  "checked": "2026-10-26"
- },
- {
-  "id": "honda-x-adv",
-  "brand": "Honda",
-  "name": "BeAT",
-  "body": "Lainnya",
-  "engine": "Bensin",
-  "cc": null,
-  "price": 19380000,
-  "price_type": "OTR Jakarta",
-  "variants": [],
-  "model_year": null,
-  "release": null,
-  "speed": null,
-  "kmpl": null,
-  "acc": null,
-  "range": null,
-  "sum": "BeAT adalah model terbaru (2026) dengan panel meter digital dan lampu indikator ECO, dilengkapi fitur keamanan seperti Anti Theft Alarm dan Smart Key pada tipe tertentu. Bagasi berkapasitas 12 liter dan Power Charger hadir untuk menunjang kebutuhan harian.",
-  "specs": {
-   "fitur": "Combined Digital Panel Meter dengan lampu indikator ECO; Tuas Pengunci Rem; Smart Key (tersedia pada tipe Deluxe Smart Key); Power Charger (maks. 12 W / 12V 1A); Functional Hook di depan; Sistem Pencahayaan LED; Standar Samping Otomatis; Bagasi Pas 12L; Anti Theft Alarm (tersedia pada tipe CBS dan CBS-ISS)"
-  },
-  "image": "https://imagewebsite.astra-honda.com/uploads/product-category/icon/bigbike-category-icon-grey.svg",
-  "image_credit": "Astra Honda Motor",
-  "gallery": [],
-  "trusted_images": true,
-  "source": "https://www.astra-honda.com/product/",
-  "checked": "2026-10-26"
+  "checked": "2026-11-02"
  },
  {
   "id": "honda-beat-street",
@@ -275,7 +248,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/beat-street",
-  "checked": "2026-10-26"
+  "checked": "2026-11-02"
  },
  {
   "id": "honda-cb-150-verza",
@@ -360,7 +333,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/cb-150-verza",
-  "checked": "2026-10-26"
+  "checked": "2026-11-02"
  },
  {
   "id": "honda-cb-150-r",
@@ -463,7 +436,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/cb-150-r",
-  "checked": "2026-10-26"
+  "checked": "2026-11-02"
  },
  {
   "id": "honda-cb-150-x",
@@ -557,7 +530,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/cb-150-x",
-  "checked": "2026-10-26"
+  "checked": "2026-11-02"
  },
  {
   "id": "honda-cbr-150-r",
@@ -633,7 +606,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/cbr-150-r",
-  "checked": "2026-10-26"
+  "checked": "2026-11-02"
  },
  {
   "id": "honda-cbr-250-rr",
@@ -735,7 +708,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/cbr-250-rr",
-  "checked": "2026-10-26"
+  "checked": "2026-11-02"
  },
  {
   "id": "honda-crf-150-l",
@@ -834,7 +807,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/crf-150-l",
-  "checked": "2026-10-26"
+  "checked": "2026-11-02"
  },
  {
   "id": "honda-crf-250-rally",
@@ -906,7 +879,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/crf-250-rally",
-  "checked": "2026-10-26"
+  "checked": "2026-11-02"
  },
  {
   "id": "honda-crf-250-l",
@@ -978,7 +951,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/crf-250-l",
-  "checked": "2026-10-26"
+  "checked": "2026-11-02"
  },
  {
   "id": "honda-honda-ct125",
@@ -1054,7 +1027,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/honda-ct125",
-  "checked": "2026-10-26"
+  "checked": "2026-11-02"
  },
  {
   "id": "honda-cuve",
@@ -1148,7 +1121,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/cuve",
-  "checked": "2026-10-26"
+  "checked": "2026-11-02"
  },
  {
   "id": "honda-em1e",
@@ -1227,7 +1200,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/em1e",
-  "checked": "2026-10-26"
+  "checked": "2026-11-02"
  },
  {
   "id": "honda-forza",
@@ -1304,7 +1277,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/forza",
-  "checked": "2026-10-26"
+  "checked": "2026-11-02"
  },
  {
   "id": "honda-supra-gtr-150",
@@ -1385,7 +1358,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/supra-gtr-150",
-  "checked": "2026-10-26"
+  "checked": "2026-11-02"
  },
  {
   "id": "honda-genio",
@@ -1394,20 +1367,16 @@
   "body": "Matic",
   "engine": "Bensin",
   "cc": 109.55,
-  "price": 20600000,
+  "price": 20800000,
   "price_type": "OTR Jakarta",
   "variants": [
    {
-    "name": "Genio CBS",
-    "price": 20600000
-   },
-   {
     "name": "Genio CBS-ISS",
-    "price": 20600000
+    "price": 20800000
    },
    {
-    "name": "Genio CBS Special Color",
-    "price": 20600000
+    "name": "Genio CBS Special",
+    "price": 20800000
    }
   ],
   "model_year": 2020,
@@ -1416,110 +1385,56 @@
   "kmpl": null,
   "acc": null,
   "range": null,
-  "sum": "Honda Genio adalah skuter matic berkapasitas 109,55 cc dengan panel meter digital, lampu depan LED, dan bagasi 14 liter. Tersedia dalam varian CBS, CBS-ISS, dan CBS Special Color.",
+  "sum": "Honda Genio adalah motor matik underbone bermesin 109,55 cc dengan panel meter digital dan lampu depan LED. Bagasi U-Box 14 liter dan power charger di rak depan menambah kepraktisannya.",
   "specs": {
    "tenaga": "6,6 kW (9,0 PS) / 7.500 rpm",
    "torsi": "9,3 Nm (0,95 kgf.m) / 5.500 rpm",
-   "bobot": "92 kg (Tipe CBS); 93 kg (Tipe CBS-ISS)",
+   "bobot": "92 kg (Tipe CBS), 93 kg (Tipe CBS-ISS)",
    "tinggi_jok": "744 mm",
    "tangki": "4,2 L",
    "transmisi": "Otomatis, V-Matic",
    "rem": "Depan: cakram hidrolik piston tunggal; Belakang: tromol; Combi Brake System",
    "suspensi": "Depan: telescopic; Belakang: swing arm dengan suspensi tunggal",
-   "ban": "Depan: 100/90-12 59J (tubeless); Belakang: 110/90-12 64J (tubeless)",
-   "fitur": "Panel meter digital dengan eco indicator, lampu depan LED, power charger di rak depan, bagasi 14 L, pengaman kunci kontak dengan tombol pembuka jok"
+   "ban": "Depan 100/90-12 (tubeless); Belakang 110/90-12 (tubeless)",
+   "fitur": "Panel meter digital dengan eco indicator, lampu depan LED, power charger di rak depan, bagasi U-Box 14 liter"
   },
-  "image": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/thumbnail-genio-new-3-29102025-075221.png",
+  "image": "https://imagewebsite.astra-honda.com/uploads/product/thumbnail/geniothumbnail400x300pxlbk-27102026-075354.png",
   "image_credit": "Astra Honda Motor",
   "gallery": [
    {
-    "url": "https://asset.astra-honda.com/uploads/product/feature/09-geotag-800x800-1-29102025-032110.jpg",
+    "url": "https://asset.astra-honda.com/uploads/product/feature/09-geotag-800x800-1-1-24102025-011743-27102026-035408.jpg",
     "caption": "Panel Meter Digital dengan Eco Indicator",
     "tag": "Panel instrumen"
    },
    {
-    "url": "https://asset.astra-honda.com/uploads/product/feature/09-geotag-800x800-2-29102025-032115.jpg",
+    "url": "https://asset.astra-honda.com/uploads/product/feature/feature-headlight-700x700pxlbk-1-27102026-035652.jpg",
     "caption": "Lampu Depan LED",
     "tag": "Lampu"
    },
    {
-    "url": "https://asset.astra-honda.com/uploads/product/feature/09-geotag-800x800-3-29102025-032126.jpg",
-    "caption": "Ban & Velg 12 dengan desain yang Retro",
+    "url": "https://asset.astra-honda.com/uploads/product/feature/09-geotag-800x800-3-1-24102025-011752-27102026-035734.jpg",
+    "caption": "Ban & Velg 12 inch dengan desain yang Retro",
     "tag": "Roda dan rem"
    },
    {
-    "url": "https://asset.astra-honda.com/uploads/product/feature/09-geotag-800x800-4-29102025-032139.jpg",
+    "url": "https://asset.astra-honda.com/uploads/product/feature/09-geotag-800x800-4-1-24102025-011752-27102026-035810.jpg",
     "caption": "Pengaman Kunci Kontak dengan Tombol Pembuka Jok",
     "tag": "Jok dan bagasi"
    },
    {
-    "url": "https://asset.astra-honda.com/uploads/product/feature/09-geotag-800x800-5-29102025-032152.jpg",
+    "url": "https://asset.astra-honda.com/uploads/product/feature/09-geotag-800x800-5-1-24102025-011756-27102026-035917.jpg",
     "caption": "Power Charger di Rak Depan",
     "tag": "Foto"
    },
    {
-    "url": "https://asset.astra-honda.com/uploads/product/feature/09-geotag-800x800-6-29102025-032203.jpg",
+    "url": "https://asset.astra-honda.com/uploads/product/feature/feature-headlight-700x700pxlbk2-1-27102026-040040.jpg",
     "caption": "Bagasi Luas 14 Liter",
     "tag": "Jok dan bagasi"
    }
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/genio",
-  "checked": "2026-10-26"
- },
- {
-  "id": "honda-cb500f",
-  "brand": "Honda",
-  "name": "ICON e:",
-  "body": "Lainnya",
-  "engine": "Listrik",
-  "cc": 0,
-  "price": 28000000,
-  "price_type": "OTR Jakarta",
-  "variants": [],
-  "model_year": null,
-  "release": null,
-  "speed": null,
-  "kmpl": null,
-  "acc": null,
-  "range": null,
-  "sum": "ICON e: adalah motor listrik tahun 2024 dengan baterai yang dapat dilepas dan sistem pencahayaan LED di semua titik. Harganya Rp 28.000.000 dan dilengkapi U-Box berkapasitas 26 liter.",
-  "specs": {
-   "fitur": "Lampu LED semua titik, baterai dapat dilepas (Detachable Battery), charging connector, USB power charger (5V 2.1A), panel meter full digital dengan mode ECON dan indikator baterai, U-Box 26 liter, secure key shutter dengan seat opener, functional hook, LED tail light"
-  },
-  "image": "https://imagewebsite.astra-honda.com/uploads/product-category/icon/bigbike-category-icon-grey.svg",
-  "image_credit": "Astra Honda Motor",
-  "gallery": [],
-  "trusted_images": true,
-  "source": "https://www.astra-honda.com/product/",
-  "checked": "2026-10-26"
- },
- {
-  "id": "honda-cbr1000rr-r",
-  "brand": "Honda",
-  "name": "ICON e:",
-  "body": "Lainnya",
-  "engine": "Listrik",
-  "cc": 0,
-  "price": 28000000,
-  "price_type": "OTR Jakarta",
-  "variants": [],
-  "model_year": null,
-  "release": null,
-  "speed": null,
-  "kmpl": null,
-  "acc": null,
-  "range": null,
-  "sum": "ICON e: (2024) adalah motor listrik dengan baterai yang dapat dilepas dan lampu LED di semua titik pencahayaan. Dilengkapi U-Box besar 26 liter, panel digital penuh, dan pengisian daya USB.",
-  "specs": {
-   "fitur": "All LED Lighting System; Secure key shutter with seat opener; Functional Hook; Detachable Battery; Charging Connector; LED Tail Light; U-Box 26 liter; USB Power Charger (5V 2.1A); Full Digital Panel Meter dengan mode ECON"
-  },
-  "image": "https://imagewebsite.astra-honda.com/uploads/product-category/icon/bigbike-category-icon-grey.svg",
-  "image_credit": "Astra Honda Motor",
-  "gallery": [],
-  "trusted_images": true,
-  "source": "https://www.astra-honda.com/product/",
-  "checked": "2026-10-26"
+  "checked": "2026-11-02"
  },
  {
   "id": "honda-icone",
@@ -1599,7 +1514,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/icone",
-  "checked": "2026-10-26"
+  "checked": "2026-11-02"
  },
  {
   "id": "honda-honda-monkey",
@@ -1666,7 +1581,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/honda-monkey",
-  "checked": "2026-10-26"
+  "checked": "2026-11-02"
  },
  {
   "id": "honda-pcx",
@@ -1776,7 +1691,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/pcx",
-  "checked": "2026-10-26"
+  "checked": "2026-11-02"
  },
  {
   "id": "honda-revo-x",
@@ -1866,7 +1781,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/revo-x",
-  "checked": "2026-10-26"
+  "checked": "2026-11-02"
  },
  {
   "id": "honda-st125-dax",
@@ -1942,7 +1857,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/st125-dax",
-  "checked": "2026-10-26"
+  "checked": "2026-11-02"
  },
  {
   "id": "honda-scoopy",
@@ -2027,7 +1942,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/scoopy",
-  "checked": "2026-10-26"
+  "checked": "2026-11-02"
  },
  {
   "id": "honda-sonic-150-r",
@@ -2131,7 +2046,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/sonic-150-r",
-  "checked": "2026-10-26"
+  "checked": "2026-11-02"
  },
  {
   "id": "honda-stylo-160",
@@ -2226,7 +2141,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/stylo-160",
-  "checked": "2026-10-26"
+  "checked": "2026-11-02"
  },
  {
   "id": "honda-super-cub-c125",
@@ -2303,7 +2218,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/super-cub-c125",
-  "checked": "2026-10-26"
+  "checked": "2026-11-02"
  },
  {
   "id": "honda-supra-x-125-fi",
@@ -2388,7 +2303,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/supra-x-125-fi",
-  "checked": "2026-10-26"
+  "checked": "2026-11-02"
  },
  {
   "id": "honda-vario-125",
@@ -2473,7 +2388,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/vario-125",
-  "checked": "2026-10-26"
+  "checked": "2026-11-02"
  },
  {
   "id": "honda-vario-evo-160",
@@ -2555,6 +2470,6 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/product/vario-evo-160",
-  "checked": "2026-10-26"
+  "checked": "2026-11-02"
  }
 ]
