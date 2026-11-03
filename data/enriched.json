@@ -1321,5 +1321,560 @@
     "source": "https://www.gridoto.com/read/223815965/harga-terdengar-murah-intip-detail-new-xl750-transalp-moge-baru-honda-di-indonesia"
    }
   }
+ },
+ "yamaha-aerox-alpha": {
+  "release": "2024-12",
+  "speed": 123,
+  "kmpl": 37.4,
+  "acc": 15.95,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.yamaha-motor.co.id/archives/news/product/2024/12/luncurkan-generasi-ketiga-aerox-alpha-siap-dobrak-market-sport-scooter-indonesia/"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://www.gridoto.com/read/224241245/test-ride-yamaha-aerox-alpha-turbo-transmisi-yecvt-buat-harian-beneran-enak?page=all"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://otorider.com/berita/2025/uji-konsumsi-bbm-yamaha-aerox-alpha-turbo-jakarta-pantai-bugel-ini-hasilnya-ujidbfebnya"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://www.gridoto.com/read/224241245/test-ride-yamaha-aerox-alpha-turbo-transmisi-yecvt-buat-harian-beneran-enak?page=all"
+   }
+  }
+ },
+ "yamaha-all-new-aerox155-connected": {
+  "release": "2020-11",
+  "speed": 117.6,
+  "kmpl": 39.8,
+  "acc": 15.3,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.tempo.co/otomotif/all-new-yamaha-aerox-155-connected-dijual-mulai-rp-25-5-juta-568433"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/232501280/test-ride-all-new-aerox-155-connected-ini-konsumsi-bensin-dan-akselerasinya?page=all"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/232501280/test-ride-all-new-aerox-155-connected-ini-konsumsi-bensin-dan-akselerasinya?page=all"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/232501280/test-ride-all-new-aerox-155-connected-ini-konsumsi-bensin-dan-akselerasinya?page=all"
+   }
+  }
+ },
+ "yamaha-all-new-nmax155-connected": {
+  "release": "2019-12",
+  "speed": 125,
+  "kmpl": 39.5,
+  "acc": 21.1,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.yamaha-motor.co.id/archives/news/corporate/2019/12/all-new-nmax-155-motor-indonesia-pertama-connected-dengan-pengendara/"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://www.motorplus-online.com/read/252024818/mengejutkan-top-speed-bisa-tembus-125-kmjam-segini-konsumsi-bensin-rata-rata-yamaha-all-new-nmax?page=all"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://www.motorplus-online.com/read/254266404/cek-sebelum-beli-yamaha-all-new-nmax-vs-nmax-lama-mana-lebih-irit-bensin?page=all (uji lain di https://tmcblog.com/2021/04/08/hasil-test-konsmusi-bbm-nmax-155-connected-untuk-commuter-harian-irit-gak-sih/ mencatat 42,88 km/liter; tidak dipakai karena berbeda)"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://otorider.com/berita/2020/vario-150-vs-nmax-155-siapa-paling-kencang-varbhhihang (uji lain dengan hasil berbeda: 16,1 detik di https://www.gridoto.com/read/224128624/berapa-top-speed-yamaha-nmax-turbo-tech-max-bisa-tembus-140-kmjam, dan 20,2 detik di https://otorider.com/berita/2021/hasil-tes-akselerasi-pcx-160-vs-nmax-155-siapa-lebih-cepat-hascadbfpat)"
+   }
+  }
+ },
+ "yamaha-all-new-r15-connected": {
+  "release": "2021-12",
+  "speed": 148,
+  "kmpl": 44,
+  "acc": 11.7,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.liputan6.com/otomotif/read/4725138/all-new-yamaha-r15-connected-resmi-mengaspal-di-indonesia-harga-mulai-rp-389-juta"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://moas.muf.co.id/news/yamaha-all-new-r15-connected-best-sport-fairing-di-kelasnya"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://moas.muf.co.id/news/yamaha-all-new-r15-connected-best-sport-fairing-di-kelasnya"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://moas.muf.co.id/news/yamaha-all-new-r15-connected-best-sport-fairing-di-kelasnya"
+   }
+  }
+ },
+ "yamaha-fazzio": {
+  "release": "2022-01",
+  "speed": 96.9,
+  "kmpl": 51.6,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.liputan6.com/otomotif/read/4861561/yamaha-fazzio-hybrid-connected-meluncur-di-indonesia-harga-rp-21-jutaan"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://www.gridoto.com/read/223199834/usung-teknologi-hybrid-hasil-test-performa-yamaha-fazzio-bikin-kaget"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://www.gridoto.com/read/223200034/konsumsi-bensin-yamaha-fazzio-hybrid-beneran-irit-ini-hasil-test-harian"
+   }
+  }
+ },
+ "yamaha-freego-125": {
+  "release": "2022-11",
+  "speed": 106,
+  "kmpl": 45,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.motorexpertz.com/read/9467/meluncur-di-imos-2022-ini-spesifikasi-dan-harga-yamaha-freego-125-connected"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://otoinfo.id/spesifikasi-mesin-yamaha-freego-125-performa-yang-bertenaga/"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://otoinfo.id/spesifikasi-mesin-yamaha-freego-125-performa-yang-bertenaga/"
+   }
+  }
+ },
+ "yamaha-gear-125": {
+  "release": "2020-11",
+  "speed": 104.8,
+  "kmpl": 42.7,
+  "acc": 22.7,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.gridoto.com/read/222442834/usung-konsep-skutik-multiguna-yamaha-gear-125-resmi-mengaspal-di-indonesia"
+   },
+   "speed": {
+    "basis": "uji (Racelogic; angka spidometer 110 km/jam)",
+    "source": "https://otomotifnet.gridoto.com/read/232504267/yamaha-gear-125-dites-handling-konsumsi-bensin-dan-top-speed-terungkap?page=all"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/232504267/yamaha-gear-125-dites-handling-konsumsi-bensin-dan-top-speed-terungkap?page=all"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/232504267/yamaha-gear-125-dites-handling-konsumsi-bensin-dan-top-speed-terungkap?page=all"
+   }
+  }
+ },
+ "yamaha-gear-ultima": {
+  "release": "2025-03",
+  "speed": 105,
+  "kmpl": 61.16,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.cnnindonesia.com/otomotif/20250307222932-595-1206401/yamaha-gear-ultima-125-hybrid-meluncur-harga-mulai-rp199-juta"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://voi.id/en/motor/481943"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://otorider.com/berita/2025/konsumsi-bbm-yamaha-gear-ultima-hybrid-ini-hasil-tes-nyatanya-kondbdbfnya"
+   }
+  }
+ },
+ "yamaha-grand-filano": {
+  "release": "2023-01",
+  "speed": 98.46,
+  "kmpl": 50.7,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.gridoto.com/read/223657507/yamaha-grand-filano-hybrid-connected-resmi-masuk-indonesia-harga-mulai-rp-27-juta"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://www.autofun.co.id/berita-motor/yamaha-grand-filano-2023-bertenaga-buat-harian-tapi-iritnya-tembus-507-kmliter-68561"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://www.autofun.co.id/berita-motor/yamaha-grand-filano-2023-bertenaga-buat-harian-tapi-iritnya-tembus-507-kmliter-68561"
+   }
+  }
+ },
+ "yamaha-jupiter-z1": {
+  "release": "2012-07",
+  "speed": 115,
+  "kmpl": 53,
+  "acc": 20,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.viva.co.id/otomotif/motor/335611-mampukah-jupiter-z1-mendulang-kesuksesan"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://moas.muf.co.id/news/yamaha-jupiter-z1-motor-bebek-110cc-yang-bisa-ngebut"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://moas.muf.co.id/news/yamaha-jupiter-z1-motor-bebek-110cc-yang-bisa-ngebut"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://moas.muf.co.id/news/yamaha-jupiter-z1-motor-bebek-110cc-yang-bisa-ngebut"
+   }
+  }
+ },
+ "yamaha-lexi-lx-155": {
+  "release": "2024-01",
+  "speed": 118,
+  "kmpl": 43.6,
+  "acc": 18.75,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.yamaha-motor.co.id/archives/news/product/2024/01/yamaha-luncurkan-lexi-lx-155-simple-but-maxi/"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://www.autofun.co.id/berita-motor/tes-akselerasi-yamaha-lexi-lx-155-top-speed-tembus-122-kmjam-82070"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://www.otoplus-online.com/post/apakah-yamaha-lexi-155-irit"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://www.autofun.co.id/berita-motor/tes-akselerasi-yamaha-lexi-lx-155-top-speed-tembus-122-kmjam-82070"
+   }
+  }
+ },
+ "yamaha-mt15": {
+  "release": "2019-01",
+  "speed": 141,
+  "kmpl": 42.3,
+  "acc": 15.8,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://oto.detik.com/oto-galeri/d-4390597/yamaha-mt-15-resmi-meluncur-di-indonesia"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://www.motoroids.com/news/look-at-this-yamaha-mt-15-hitting-its-top-speed/"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/232705203/adu-konsumsi-bensin-all-new-cb150r-mt-15-v-ixion-dan-gsx150-mana-teririt"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://www.otorider.com/berita/2019/sepasang-monster-kecil-yamaha-mt-25-dan-mt15-test-ride-video-sepbgdbadeo"
+   }
+  }
+ },
+ "yamaha-mt25": {
+  "release": "2025-01",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.yamaha-motor.co.id/archives/news/product/2025/01/hadir-dengan-berbagai-upgrade-new-yamaha-mt-25-semakin-tonjolkan-aura-the-master-of-torque-yang-agresif/"
+   }
+  }
+ },
+ "yamaha-mx-king-150": {
+  "release": "2015-03",
+  "speed": 117.7,
+  "kmpl": 43.5,
+  "acc": 12.6,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.viva.co.id/otomotif/motor/599521-segera-meluncur-di-sentul-berapa-harga-yamaha-mx-150cc"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/231980225/yamaha-mx-king-150-dibekali-tampilan-baru-mesin-sama-ini-hasil-tesnya?page=all"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/231980225/yamaha-mx-king-150-dibekali-tampilan-baru-mesin-sama-ini-hasil-tesnya?page=all"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/231980225/yamaha-mx-king-150-dibekali-tampilan-baru-mesin-sama-ini-hasil-tesnya?page=all"
+   }
+  }
+ },
+ "yamaha-mio-m3": {
+  "release": "2014-12",
+  "speed": 107,
+  "kmpl": 53.6,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.viva.co.id/otomotif/566073-yamaha-mio-m3-125-resmi-meluncur-ini-respons-konsumen"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://www.aripitstop.com/2015/02/23/tes-uji-konsumsi-bbm-yamaha-mio-m3-125-dalam-1-liter-mampu-berjalan-614-kmliter-pertamax-92/"
+   },
+   "kmpl": {
+    "basis": "klaim pabrikan",
+    "source": "https://www.yamaha-megautama.com/sepeda-motor-mio-m3-125-konsumsi-bbm-irit/"
+   }
+  }
+ },
+ "yamaha-nmax-turbo": {
+  "release": "2024-06",
+  "speed": 122,
+  "kmpl": 35.5,
+  "acc": 14.99,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.cnnindonesia.com/otomotif/20240612145556-595-1109022/resmi-yamaha-nmax-turbo-meluncur-perdana-di-indonesia"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://www.autofun.co.id/berita-motor/pakai-yecvt-seberapa-cepat-yamaha-nmax-turbo-berakselerasi-82848"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://oto.detik.com/ototest-motor/d-7461223/yamaha-nmax-turbo-dipakai-touring-segini-konsumsi-bbm-nya"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://www.autofun.co.id/berita-motor/pakai-yecvt-seberapa-cepat-yamaha-nmax-turbo-berakselerasi-82848"
+   }
+  }
+ },
+ "yamaha-fino": {
+  "release": "2016-01",
+  "speed": 98.8,
+  "kmpl": 47.6,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.viva.co.id/otomotif/motor/720787-yamaha-resmi-luncurkan-new-fino-125-blue-core-di-indonesia"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/231124642/nih-hasil-test-lengkap-yamaha-new-fino-125-blue-core"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/231124642/nih-hasil-test-lengkap-yamaha-new-fino-125-blue-core"
+   }
+  }
+ },
+ "yamaha-r25": {
+  "release": "2025-01",
+  "speed": 163,
+  "kmpl": "24-25",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.gridoto.com/read/224207219/new-yamaha-r25-resmi-diluncurkan-di-indonesia-mesin-baru-berapa-harganya"
+   },
+   "speed": {
+    "basis": "berita",
+    "source": "https://moas.muf.co.id/news/lebih-bertenaga-dan-canggih-yamaha-r25-2025-siap-dominasi-kelas-250cc (tertulis 172 km/jam di speedometer dan 163 km/jam di GPS)"
+   },
+   "kmpl": {
+    "basis": "berita",
+    "source": "https://moas.muf.co.id/news/lebih-bertenaga-dan-canggih-yamaha-r25-2025-siap-dominasi-kelas-250cc"
+   }
+  }
+ },
+ "yamaha-tmax-tech-max": {
+  "release": "2026-01",
+  "speed": 163.2,
+  "kmpl": 20.8,
+  "acc": 6.32,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.yamaha-motor.co.id/archives/news/event/2026/01/yamaha-resmi-jual-tmax-di-indonesia-skutik-premium-legendaris-hadir-sebagai-kado-spesial-awal-2026/"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://www.insella.it/da-sapere/vivere-moto/yamaha-tmax-2026-quanto-fa-tutta-verita-velocita-max-accelerazione-consumi-72193"
+   },
+   "kmpl": {
+    "basis": "klaim pabrikan",
+    "source": "https://moas.muf.co.id/news/yamaha-tmax-skutik-premium-maxi-termahal-indonesia"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://www.insella.it/da-sapere/vivere-moto/yamaha-tmax-2026-quanto-fa-tutta-verita-velocita-max-accelerazione-consumi-72193"
+   }
+  }
+ },
+ "yamaha-vega-force": {
+  "release": "2015-09",
+  "speed": 105,
+  "kmpl": 55.6,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.liputan6.com/otomotif/read/2309762/motor-baru-dari-yamaha-vega-force-resmi-meluncur"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://moas.muf.co.id/news/yamaha-vega-force-motor-bebek-115cc-yang-irit-dan-serbaguna ; https://goozir.com/performa-dan-iritnya-vega-force/"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://www.gridoto.com/read/224393049/iritnya-tembus-55-kmliter-cek-harga-motor-bebek-yamaha-vega-force-baru"
+   }
+  }
+ },
+ "yamaha-vixion": {
+  "release": "2017-08",
+  "speed": 130.8,
+  "kmpl": 41.6,
+  "acc": 10.7,
+  "perf": {
+   "release": {
+    "basis": "berita (Yamaha Motor global merilis peluncuran di Indonesia pada Agustus 2017; catatan: Indomoto dan detik mencatat pengenalan pada IIMS April 2017, jadi tanggal ini bisa diperdebatkan)",
+    "source": "https://global.yamaha-motor.com/news/2017/0823/vixion-r.html"
+   },
+   "speed": {
+    "basis": "uji (Racelogic, GPS; spidometer tercatat 137 km/jam)",
+    "source": "https://www.gridoto.com/read/221016780/hasil-lengkap-test-ride-all-new-yamaha-v-ixion-r-apa-kekurangannya?page=all"
+   },
+   "kmpl": {
+    "basis": "uji (rata-rata konsumsi BBM hasil test ride, Ron 92)",
+    "source": "https://www.oto.com/road-test-motor/test-ride-yamaha-vixion-r-seberapa-irit"
+   },
+   "acc": {
+    "basis": "uji (0-100 km/jam)",
+    "source": "https://www.gridoto.com/read/221016780/hasil-lengkap-test-ride-all-new-yamaha-v-ixion-r-apa-kekurangannya?page=all"
+   }
+  }
+ },
+ "yamaha-wr155r": {
+  "release": "2019-12",
+  "speed": 109.9,
+  "kmpl": 48.3,
+  "acc": 15.4,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://otomotif.kompas.com/read/2019/12/03/082200015/dibanderol-hampir-rp-37-juta-ini-spesifikasi-yamaha-wr-155r"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://oto.detik.com/ototest-motor/d-5137188/gaspol-di-jalur-aspal-hingga-off-road-ini-konsumsi-bbm-wr155r"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://www.gridoto.com/read/222273702/mesin-yamaha-wr-155r-asyik-banget-tarikan-enteng-tapi-bensin-irit"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://www.gridoto.com/read/222273702/mesin-yamaha-wr-155r-asyik-banget-tarikan-enteng-tapi-bensin-irit"
+   }
+  }
+ },
+ "yamaha-x-ride": {
+  "release": "2017-06",
+  "speed": 101,
+  "kmpl": 45.9,
+  "acc": 27.7,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.viva.co.id/otomotif/motor/924500-resmi-meluncur-ini-harga-yamaha-x-ride-bermesin-125-cc"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://www.gridoto.com/read/221005841/hasil-tes-akselerasi-yamaha-all-new-x-ride-125-x-ride-lama-gak-ada-apa-apanya?page=all"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://www.gridoto.com/read/221008137/mesin-lebih-besar-gak-selalu-boros-buktinya-ada-di-yamaha-x-ride-125"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://www.gridoto.com/read/221005841/hasil-tes-akselerasi-yamaha-all-new-x-ride-125-x-ride-lama-gak-ada-apa-apanya?page=all"
+   }
+  }
+ },
+ "yamaha-xmax-connected": {
+  "release": "2016-11",
+  "speed": 136,
+  "kmpl": "28-40",
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://indoride.com/2016/11/05/yamaha-xmax-250-diperkenalkan-di-indonesiaharga-dipastikan-bikin-geger/"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://moas.muf.co.id/news/yamaha-xmax-250-tech-max-pengalaman-skutik-paling-maksimal"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://moas.muf.co.id/news/yamaha-xmax-250-tech-max-pengalaman-skutik-paling-maksimal"
+   }
+  }
+ },
+ "yamaha-xsr-155": {
+  "release": "2019-12",
+  "speed": 131,
+  "kmpl": 41.6,
+  "acc": 10.8,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://kumparan.com/kumparanoto/resmi-yamaha-xsr155-meluncur-ke-indonesia-dengan-harga-rp-36-265-juta-1sMmFGuY7WO"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://www.gridoto.com/read/222076907/yamaha-xsr-155-diajak-ngebut-baru-gigi-5-tembus-130-kmjam-gigi-6-nya (top speed Racelogic 131 km/jam; spidometer 135,5 km/jam. Uji Gridoto lain https://www.gridoto.com/read/222076771/test-ride-lengkap-yamaha-xsr-155-buat-yang-suka-motor-retro-dengan-teknologi-modern?page=all mencatat Racelogic 131 tetapi spidometer 125,5. OtoRider https://otorider.com/berita/2020/hasil-tes-akselerasi-yamaha-xsr155-0-100-km-jam-capai-14-detik-hasbiecatik mencatat tertinggi 111 km/jam)"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://www.gridoto.com/read/222076907/yamaha-xsr-155-diajak-ngebut-baru-gigi-5-tembus-130-kmjam-gigi-6-nya (oktan 92). Uji Gridoto lain https://www.gridoto.com/read/222076771/test-ride-lengkap-yamaha-xsr-155-buat-yang-suka-motor-retro-dengan-teknologi-modern?page=all mencatat 36,3 km/liter dari fitur average fuel consumption spidometer"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://www.gridoto.com/read/222076907/yamaha-xsr-155-diajak-ngebut-baru-gigi-5-tembus-130-kmjam-gigi-6-nya (0-100 km/jam 10,8 detik, Racelogic). Uji OtoRider https://otorider.com/berita/2020/hasil-tes-akselerasi-yamaha-xsr155-0-100-km-jam-capai-14-detik-hasbiecatik mencatat 14,3 detik"
+   }
+  }
+ },
+ "yamaha-yz125x": {
+  "speed": 70,
+  "perf": {
+   "speed": {
+    "basis": "uji",
+    "source": "https://bertuahpos.com/otomotif/yamaha-yz125x-resmi-hadir-bodi-ramping-dan-bawa-suspensi-kyb-segini-harganya.html"
+   }
+  }
+ },
+ "yamaha-yz250fx": {
+  "perf": {}
+ },
+ "yamaha-yz250x": {
+  "perf": {}
  }
 }

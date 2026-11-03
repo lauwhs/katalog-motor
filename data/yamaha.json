@@ -1,0 +1,3215 @@
+[
+ {
+  "id": "yamaha-aerox-alpha",
+  "brand": "Yamaha",
+  "name": "Aerox Alpha",
+  "body": "Matic",
+  "engine": "Bensin",
+  "cc": 155.09,
+  "price": 30700000,
+  "price_type": "OTR Jakarta (harga rekomendasi)",
+  "variants": [
+   {
+    "name": "TURBO 70th Livery",
+    "price": 40450000
+   },
+   {
+    "name": "TURBO Ultimate",
+    "price": 42230000
+   },
+   {
+    "name": "TURBO",
+    "price": 40050000
+   },
+   {
+    "name": "CyberCity ABS",
+    "price": 34790000
+   },
+   {
+    "name": "Cybercity",
+    "price": 31250000
+   },
+   {
+    "name": "Standard",
+    "price": 30700000
+   }
+  ],
+  "model_year": null,
+  "release": null,
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Yamaha Aerox Alpha adalah skuter matic bermesin Blue Core 155 cc dengan VVA dan teknologi YECVT pada varian TURBO, serta dilengkapi TFT Infotainment Display, Y-Connect, dan TCS. Tersedia dalam enam varian dengan harga mulai Rp 30.700.000.",
+  "specs": {
+   "tenaga": "11,3 kW (15,4 PS) / 8000 rpm",
+   "torsi": "14,2 Nm / 6500 rpm",
+   "bobot": "130 kg (TURBO & TURBO Ultimate), 127 kg (CyberCity), 124 kg (Standard)",
+   "tinggi_jok": "790 mm",
+   "tangki": "5,5 L",
+   "transmisi": "V-Belt Otomatis / YECVT (TURBO & TURBO Ultimate)",
+   "rem": "Disc Brake depan dan belakang",
+   "suspensi": "Depan: Telescopic 30 mm Inner Tubes; Belakang: Unit Swing",
+   "ban": "Tubeless; depan 110/80-14/C 53P, belakang 140/70-14/C 62P",
+   "fitur": "New Engine 155cc Blue Core VVA, TURBO YECVT, TURBO Riding Mode & Y-Shift, Traction Control System, Single Channel ABS, Y-Connect, TFT Infotainment Display, Google Map Turn-by-turn Navigation, Smart Key System, Full LED Lighting System, LED Head Light with Double Projector, Double Disc Brake, Emergency Stop Signal, Start Stop System, Rear Suspension with Sub Tank, Electric Power Socket USB Type A"
+  },
+  "image": "https://www.yamaha-motor.co.id/uploads/products/featured_image/2026020516255618687C33585.png",
+  "image_credit": "Yamaha Indonesia Motor Manufacturing",
+  "gallery": [
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202604071616372039L.jpg",
+    "caption": "Google Map Turn-by-turn Navigation",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2024121818410635855F74120.jpg",
+    "caption": "New Engine 155cc Blue Core, VVA & TURBO YECVT",
+    "tag": "Mesin"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202604071616371974K.jpg",
+    "caption": "TURBO Riding Mode",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2024121817070029615R89042.png",
+    "caption": "5 Years Warranty",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202604071616376214K.jpg",
+    "caption": "Traction Control System",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202602051529053379N56995.jpg",
+    "caption": "New Design Super Sports Scooter",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026020515290559621A95145.jpg",
+    "caption": "Performance Damper & Special Cover Muffler",
+    "tag": "Suspensi"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026012212241283752R81840.jpg",
+    "caption": "Yamaha 70th Anniversary Livery",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202604071616372666I.jpg",
+    "caption": "Anti Lock Breaking System (ABS)",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2024121816521754038U26385.jpg",
+    "caption": "Y-Connect",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202604071616379965G.jpg",
+    "caption": "Front Fork with 30 mm Inner Tubes",
+    "tag": "Suspensi"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202604071616371318O.jpg",
+    "caption": "Speedometer TFT Infotainment Display & Super Sport Ambience",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202604071616373065H.jpg",
+    "caption": "3 Display Modes with Changing Background Color",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202604071616371534A.jpg",
+    "caption": "TURBO Y-Shift",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026020515290524013Q99312.jpg",
+    "caption": "Double Disc Brake",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026020515290573848X49337.jpg",
+    "caption": "Sporty Riding Position",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.yamaha-motor.co.id/product/aerox-alpha/",
+  "checked": "2026-11-03"
+ },
+ {
+  "id": "yamaha-all-new-aerox155-connected",
+  "brand": "Yamaha",
+  "name": "All New Aerox Connected",
+  "body": "Matic",
+  "engine": "Bensin",
+  "cc": 155,
+  "price": 29380000,
+  "price_type": "OTR Jakarta (harga rekomendasi)",
+  "variants": [
+   {
+    "name": "Connected/ABS",
+    "price": 32115000
+   },
+   {
+    "name": "CyberCity",
+    "price": 29580000
+   },
+   {
+    "name": "Standard",
+    "price": 29380000
+   }
+  ],
+  "model_year": null,
+  "release": null,
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Yamaha All New Aerox Connected adalah skutik sporty 155 cc dengan mesin Blue Core & VVA, bodi full fairing, dan fitur konektivitas Yamaha Motorcycle Connect pada varian Connected/ABS. Tersedia dalam varian Standard, CyberCity, dan Connected/ABS.",
+  "specs": {
+   "tenaga": "11.3 kW / 8000 rpm",
+   "torsi": "13.9 Nm / 6500 rpm",
+   "bobot": "125 kg (ABS Version), 122 kg (Standard Version)",
+   "tinggi_jok": "790 mm",
+   "tangki": "5.5 L",
+   "transmisi": "V-belt Automatic",
+   "rem": "Depan Disc, Belakang Drum",
+   "suspensi": "Depan Teleskopik, Belakang Unit Swing",
+   "ban": "Depan 110/80-14M/C 53P, Belakang 140/70-14M/C 62P",
+   "fitur": "Anti-Lock Braking System, Bagasi luas, Jok tandem, Ban tubeless, Full digital speedometer, Yamaha Motorcycle Connect, Blue Core & VVA, Stop & Start System, Electric Power Socket, Smart Key System, LED Head & Tail Light, Hazard Lamp, Twin Sub-Tank Suspension"
+  },
+  "image": "https://www.yamaha-motor.co.id/uploads/products/featured_image/2023102519190474792T91675.png",
+  "image_credit": "Yamaha Indonesia Motor Manufacturing",
+  "gallery": [
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2023100609035930225Y44612.png",
+    "caption": "5 Years Warranty",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2023102416274212715C78764.png",
+    "caption": "Anti-Lock Braking System",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2023102416274251394L54515.png",
+    "caption": "Spacious Baggage",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2023102416274217053P20995.png",
+    "caption": "Comfortable Tandem Seat",
+    "tag": "Jok dan bagasi"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2023102416274252457D82069.png",
+    "caption": "Super Wide Tubeless Tire",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2023102416274243652C17244.png",
+    "caption": "Fully Faired Aerodynamic Look",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022102623444472821Z97469.jpg",
+    "caption": "5.5L Fuel Tank Capacity",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2023102416274233572P94974.png",
+    "caption": "Sporty-Integrated Rear Handle Grip",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2023102416274222424R41201.png",
+    "caption": "Full Digital Speedometer",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2023102416274252092M72608.png",
+    "caption": "Stop & Start System",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2023102416274216892Z83518.png",
+    "caption": "Electric Power Socket",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022102623444431500A32982.jpg",
+    "caption": "Handle Bar Switch Control",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2023102416274288164J51980.png",
+    "caption": "Twin Sub-Tank Suspension",
+    "tag": "Suspensi"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2023102416274264561L16520.png",
+    "caption": "Yamaha Motorcycle Connect",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022102623444492707W3677.jpg",
+    "caption": "Blue Core & VVA",
+    "tag": "Mesin"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022102709294761624L65064.jpg",
+    "caption": "Smart Motor Generator",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.yamaha-motor.co.id/product/all-new-aerox155-connected/",
+  "checked": "2026-11-03"
+ },
+ {
+  "id": "yamaha-all-new-nmax155-connected",
+  "brand": "Yamaha",
+  "name": "All New NMAX 155",
+  "body": "Matic",
+  "engine": "Bensin",
+  "cc": 155,
+  "price": 32175000,
+  "price_type": "OTR Jakarta (harga rekomendasi)",
+  "variants": [
+   {
+    "name": "Connected/ABS",
+    "price": 36300000
+   },
+   {
+    "name": "S Version",
+    "price": 33175000
+   },
+   {
+    "name": "Standard",
+    "price": 32175000
+   }
+  ],
+  "model_year": null,
+  "release": null,
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Yamaha All New NMAX 155 adalah skuter matic 155 cc dengan mesin Blue Core & VVA, tersedia dalam varian Standard, S Version, dan Connected/ABS. Motor ini dilengkapi fitur seperti Keyless, TCS, dan Dual Channel ABS pada varian Connected/ABS.",
+  "specs": {
+   "tenaga": "11.3 kW / 8000 rpm",
+   "torsi": "13.9 Nm / 6500 rpm",
+   "bobot": "130 kg (Standard & Connected Version), 132 kg (Connected/ABS Version)",
+   "tinggi_jok": "765 mm",
+   "tangki": "7.1 L",
+   "transmisi": "Automatic",
+   "rem": "Hydraulic Single Disc Brake depan & belakang",
+   "suspensi": "Depan Teleskopik, belakang Unit Swing",
+   "ban": "Depan 110/70 - 13, belakang 130/70 - 13",
+   "fitur": "LED Head & Tail Light with Hazard Lamp, MAXi Seat Design, Smart Motor Generator, Relax Riding Position, Stop & Start System, Handlebar Switch Control, Sub-tank Suspension, Blue Core & VVA, TCS (Traction Control System), Electric Power Socket, Front & Rear Disc Brake, Keyless (Smart Key System), Dual Channel Anti-Lock Braking System (ABS), Multifunction Big Luggage, Front Compartment, Multifunction Full Digital Speedometer"
+  },
+  "image": "https://www.yamaha-motor.co.id/uploads/products/featured_image/2023022109405058553S83237.png",
+  "image_credit": "Yamaha Indonesia Motor Manufacturing",
+  "gallery": [
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2023100608575489626J93630.png",
+    "caption": "5 Years Warranty",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022021512582371366H89572.jpg",
+    "caption": "LED Head & Tail Light with Hazard Lamp",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022021512582382903N43583.jpg",
+    "caption": "MAXi Seat Design",
+    "tag": "Jok dan bagasi"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022021512582317210H70244.jpg",
+    "caption": "Smart Motor Generator",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022021512582347982B15573.jpg",
+    "caption": "Relax Riding Position",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022021512582315273D64095.jpg",
+    "caption": "Stop & Start System",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022021512582333275K54741.jpg",
+    "caption": "Handlebar Switch Control",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022021512582349369U36328.jpg",
+    "caption": "Sub-tank Suspension",
+    "tag": "Suspensi"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202202151258236290R86117.jpg",
+    "caption": "Blue Core & VVA",
+    "tag": "Mesin"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022021512582362827Q14951.jpg",
+    "caption": "TCS (Traction Control System)",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2023052311274958236M50797.jpg",
+    "caption": "Electric Power Socket",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022021512582364700E53068.jpg",
+    "caption": "Front & Rear Disc Brake",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202309292307152736E41754.jpg",
+    "caption": "Keyless (Smart Key System)",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022021512582358175Q86318.jpg",
+    "caption": "Dual Channel Anti-Lock Braking System (ABS)",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022021512582334979A64846.jpg",
+    "caption": "Multifunction Big Luggage",
+    "tag": "Jok dan bagasi"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022021512582336245A85205.jpg",
+    "caption": "Front Compartment",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.yamaha-motor.co.id/product/all-new-nmax155-connected/",
+  "checked": "2026-11-03"
+ },
+ {
+  "id": "yamaha-all-new-r15-connected",
+  "brand": "Yamaha",
+  "name": "All New R15 & R15M Connected",
+  "body": "Sport",
+  "engine": "Bensin",
+  "cc": 155.09,
+  "price": 42200000,
+  "price_type": "OTR Jakarta (harga rekomendasi)",
+  "variants": [
+   {
+    "name": "R15M C \"ABS\" 70th Livery",
+    "price": 47100000
+   },
+   {
+    "name": "R15M Connected/ABS",
+    "price": 46950000
+   },
+   {
+    "name": "R15 Connected",
+    "price": 42200000
+   }
+  ],
+  "model_year": null,
+  "release": null,
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Yamaha All New R15 & R15M Connected adalah motor sport 155 cc dengan mesin SOHC 4 valve VVA, rangka Deltabox, dan fitur Y-Connect berbasis Bluetooth. Tersedia dalam varian R15 Connected dan R15M Connected/ABS, serta edisi R15M C \"ABS\" 70th Livery.",
+  "specs": {
+   "tenaga": "14,2 kW / 10.000 rpm",
+   "torsi": "14,7 Nm / 8,500 rpm",
+   "bobot": "137 kg (All New R15), 140 kg (All New R15M)",
+   "tinggi_jok": "815 mm",
+   "tangki": "11 L",
+   "transmisi": "Manual, pola 1-N-2-3-4-5-6",
+   "rem": "Disc Brake depan dan belakang, ABS dual channel",
+   "suspensi": "Depan: Telescopic Fork (Inverted); Belakang: Link Monoshock",
+   "ban": "Depan 100/80-17M/C 52P; Belakang 140/70-17M/C 66S",
+   "fitur": "Traction Control System, Quick Shifter, Assist & Slipper Clutch, Y-Connect (Yamaha Motorcycle Connect), Deltabox Frame, Upside Down Suspension, LED Projector Headlight, Twin Eyes LED Position Lights, Big Bike Engine Switch Off, Full Digital Speedometer, Yamaha 70th Anniversary Livery"
+  },
+  "image": "https://www.yamaha-motor.co.id/uploads/products/featured_image/2024072510414155568H76580.png",
+  "image_credit": "Yamaha Indonesia Motor Manufacturing",
+  "gallery": [
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025012016180389791T98759.jpg",
+    "caption": "Sporty Riding Position with Aerodynamic Design",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022011817465535554O70330.jpg",
+    "caption": "Traction Control System",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026012212342035001T45402.jpg",
+    "caption": "Yamaha 70th Anniversary Livery",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025012016180353380I92277.jpg",
+    "caption": "Deltabox Frame",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022011817465561342Y5637.jpg",
+    "caption": "Alumunium Rear Arm",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025012016180315581I66657.jpg",
+    "caption": "Upside Down Suspension",
+    "tag": "Suspensi"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025012016180370496T1011.jpg",
+    "caption": "M-Shaped Intake Duct with LED Projector Headlight",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202501201618035762J77330.jpg",
+    "caption": "Special Seat Carbon Motif",
+    "tag": "Jok dan bagasi"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025012016180325947C2966.jpg",
+    "caption": "Twin Eyes LED Position Lights",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025012016180325908W8635.jpg",
+    "caption": "Quick Shifter",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022011817465533766A41712.jpg",
+    "caption": "Powerfull155cc Engine With VVA",
+    "tag": "Mesin"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022011817465525141W70694.jpg",
+    "caption": "Dual Channel Anti-Lock Braking System (ABS)",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025012016180335223G49415.jpg",
+    "caption": "Assist & Slipper Clucth",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022011817465587258J18195.jpg",
+    "caption": "YZF-R1 Styled Full Digital Speedometer",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025012016180360206O31580.jpg",
+    "caption": "Big Bike Engine Switch Off",
+    "tag": "Mesin"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2023021613435744753F86067.png",
+    "caption": "Yamaha Motorcycle Connect",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.yamaha-motor.co.id/product/all-new-R15-connected/",
+  "checked": "2026-11-03"
+ },
+ {
+  "id": "yamaha-fazzio",
+  "brand": "Yamaha",
+  "name": "Fazzio Hybrid",
+  "body": "Matic",
+  "engine": "Bensin",
+  "cc": 124.86,
+  "price": 22820000,
+  "price_type": "OTR Jakarta (harga rekomendasi)",
+  "variants": [
+   {
+    "name": "Special Edition \"Sunset Blue\"",
+    "price": 23150000
+   },
+   {
+    "name": "Special Edition \"Starry Night\"",
+    "price": 25250000
+   },
+   {
+    "name": "Hybrid Lux",
+    "price": 25095000
+   },
+   {
+    "name": "Hybrid Neo",
+    "price": 24405000
+   },
+   {
+    "name": "Hybrid",
+    "price": 22820000
+   }
+  ],
+  "model_year": null,
+  "release": null,
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Yamaha Fazzio Hybrid adalah skutik (matic) dengan mesin Blue Core Hybrid 125cc yang dilengkapi Electric Power Assist Start untuk akselerasi awal yang lebih bertenaga. Motor ini tersedia dalam beberapa varian dengan harga mulai Rp 22.820.000.",
+  "specs": {
+   "tenaga": "6.2 kW / 6500 rpm",
+   "torsi": "10.6 Nm / 4500 rpm",
+   "bobot": "95 kg",
+   "tinggi_jok": "750 mm",
+   "tangki": "5.1 L",
+   "transmisi": "V-Belt Otomatis",
+   "rem": "Depan: Cakram; Belakang: Tromol",
+   "suspensi": "Depan: Telescopic; Belakang: Unit Swing",
+   "ban": "Depan 110/70-12 47L; Belakang 110/70-12 47L; Tubeless",
+   "fitur": "Tangki Bensin 5.1L, Blue Core Hybrid, USB Power Socket, Double Hook Carabiner, Spacious Luggage 17.8L, Full Digital Speedometer, 5 Years Warranty, Unique LED Headlight & Hazard Lamp, Spacious Lidded & Open Pocket, Yamaha Motorcycle Connect, Fresh Simple & Modern Design, Smart Key System, Big Tire & Tubeless"
+  },
+  "image": "https://www.yamaha-motor.co.id/uploads/products/featured_image/2026012315293027645K32651.png",
+  "image_credit": "Yamaha Indonesia Motor Manufacturing",
+  "gallery": [
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202608181130048720H.jpg",
+    "caption": "Tangki Bensin 5.1L",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026012500364862809W50401.jpeg",
+    "caption": "Blue Core Hybrid",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202608142328222326F.jpg",
+    "caption": "USB Power Socket",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202608142328227091H.jpg",
+    "caption": "Double Hook Carabiner",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202608142328229108F.jpg",
+    "caption": "Spacious Luggage 17.8L",
+    "tag": "Jok dan bagasi"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202608142328222741B.jpg",
+    "caption": "Full Digital Speedometer",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2024101111192995897M89529.jpg",
+    "caption": "5 Years Warranty",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202608142328225307W.jpg",
+    "caption": "Unique LED Headlight & Hazard Lamp",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202608142328227403H.jpg",
+    "caption": "Spacious Lidded & Open Pocket",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202608142328228389P.jpg",
+    "caption": "Yamaha Motorcycle Connect",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026012500364886963U87280.jpeg",
+    "caption": "Fresh, Simple & Modern Design",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202608142328226236V.jpg",
+    "caption": "Smart Key System",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202608142328225322C.jpg",
+    "caption": "Big Tire & Tubeless",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2026080316375451807H45960.png",
+    "caption": "Pilihan warna",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/202603021616392454D52822.png",
+    "caption": "Pilihan warna",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2026012315110540976J2461.png",
+    "caption": "Pilihan warna",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.yamaha-motor.co.id/product/fazzio/",
+  "checked": "2026-11-03"
+ },
+ {
+  "id": "yamaha-freego-125",
+  "brand": "Yamaha",
+  "name": "FreeGo 125 Connected",
+  "body": "Matic",
+  "engine": "Bensin",
+  "cc": 125,
+  "price": 22865000,
+  "price_type": "OTR Jakarta (harga rekomendasi)",
+  "variants": [
+   {
+    "name": "Connected",
+    "price": 24650000
+   },
+   {
+    "name": "Standard",
+    "price": 22865000
+   }
+  ],
+  "model_year": null,
+  "release": null,
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Yamaha FreeGo 125 Connected adalah skutik matic 125cc dengan mesin Blue Core dan fitur konektivitas Y-Connect. Tersedia dalam varian Connected dan Standard dengan warna Magma Black.",
+  "specs": {
+   "tenaga": "7,0 kW / 8000 rpm",
+   "torsi": "9,5 Nm / 5500 rpm",
+   "bobot": "101 kg (FreeGo 125), 102 kg (FreeGo 125 Connected)",
+   "tinggi_jok": "780 mm",
+   "tangki": "4,2 L",
+   "transmisi": "V-belt Automatic",
+   "rem": "Depan Disc Brake, Belakang Drum Brake",
+   "suspensi": "Depan Telescopic Fork, Belakang Unit Swing",
+   "ban": "Depan 100/90-12M/C 59J Tubeless, Belakang 110/90-12M/C 64L Tubeless",
+   "fitur": "Y-Connect (Yamaha Motorcycle Connect), Digital Speedometer With Connected Function, Smart Key System, Stop & Start System, Smart Front Refuel, Bagasi Besar 25L, Electric Power Socket, Sporty LED Headlight, Hazard Lamp, Wide Tubeless Tire, Blue Core 125CC with SMG, Spacious Front Pocket, Roomy Footspace, Jok Yang Lapang"
+  },
+  "image": "https://www.yamaha-motor.co.id/uploads/products/featured_image/202506091443425485Y97917.png",
+  "image_credit": "Yamaha Indonesia Motor Manufacturing",
+  "gallery": [
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2023100609054696676X81501.png",
+    "caption": "5 Years Warranty",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022110312440834742Z89063.jpg",
+    "caption": "Electric Power Socket",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025060914434258829S10817.jpg",
+    "caption": "Digital Speedometer With Connected Function",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025060914434240552W46974.jpg",
+    "caption": "Wide Tubeless Tire",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025060914434240610Z27747.jpg",
+    "caption": "Yamaha Motorcycle Connect",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022110312440866754C68318.jpg",
+    "caption": "Blue Core 125CC with SMG",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025060914434262663H85368.jpg",
+    "caption": "Active & Elegant Design",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202506091443428029L99891.jpg",
+    "caption": "Roomy Footspace",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025060914434212754F8711.jpg",
+    "caption": "Jok Yang Lapang",
+    "tag": "Jok dan bagasi"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025060914434219576D5220.jpg",
+    "caption": "Smart Key System",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022110312440822034F65424.jpg",
+    "caption": "Stop & Start System",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025060914434267158Y6930.jpg",
+    "caption": "Sporty LED Headlight",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025060914434288142L71122.jpg",
+    "caption": "Hazard Lamp",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025060914434297946K78566.jpg",
+    "caption": "Bagasi Besar 25L",
+    "tag": "Jok dan bagasi"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025060914434256103N17760.jpg",
+    "caption": "Spacious Front Pocket",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025060914434260211I65941.jpg",
+    "caption": "Smart Front Refuel",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.yamaha-motor.co.id/product/freego-125/",
+  "checked": "2026-11-03"
+ },
+ {
+  "id": "yamaha-gear-125",
+  "brand": "Yamaha",
+  "name": "Gear 125",
+  "body": "Matic",
+  "engine": "Bensin",
+  "cc": 124.96,
+  "price": 19495000,
+  "price_type": "OTR Jakarta (harga rekomendasi)",
+  "variants": [
+   {
+    "name": "Standard",
+    "price": 19495000
+   }
+  ],
+  "model_year": null,
+  "release": null,
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Yamaha Gear 125 adalah skuter matic 125 cc dengan mesin Blue Core dan teknologi SMG, dilengkapi Stop & Start System, bagasi 10,1 liter, dan garansi 5 tahun/50.000 km. Harga Standard dimulai dari Rp 19.495.000 (OTR Jakarta).",
+  "specs": {
+   "tenaga": "7,0 kW / 8000 rpm",
+   "torsi": "9,5 Nm / 5500 rpm",
+   "bobot": "95 kg (Tipe Standard); 96 kg (Tipe S)",
+   "tinggi_jok": "750 mm",
+   "tangki": "4,2 L",
+   "transmisi": "V-Belt Otomatis",
+   "rem": "Depan: Rem Cakram; Belakang: Rem Tromol",
+   "suspensi": "Depan: Teleskopik; Belakang: Unit Swing",
+   "ban": "Depan 80/80-14M/C (43P); Belakang 100/70-14M/C (51P)",
+   "fitur": "Stop & Start System, Bagasi Luas 10,1L, Lampu LED & Hazard, 5 Years Warranty, Pijakan Kaki Untuk Anak, Side Stand Switch, Electric Power Socket, Ban Tubeless dengan Tapak Lebar, Blue Core 125cc dengan SMG, Answer Back System, Desain Tangguh, Double Hook"
+  },
+  "image": "https://www.yamaha-motor.co.id/uploads/products/featured_image/2024031507431441417B35284.png",
+  "image_credit": "Yamaha Indonesia Motor Manufacturing",
+  "gallery": [
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202305030904356403M59993.jpg",
+    "caption": "Stop & Start System",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2024031507431449320R83106.jpg",
+    "caption": "Bagasi Luas 10,1L",
+    "tag": "Jok dan bagasi"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2024031507431445535P37880.jpg",
+    "caption": "Lampu LED & Hazard",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202310060906064361G72611.png",
+    "caption": "5 Years Warranty",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2023050309043520344M88134.jpg",
+    "caption": "Pijakan Kaki Untuk Anak",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2023050309043542432R16507.jpg",
+    "caption": "Side Stand Switch",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2023052311281270607Q7477.jpg",
+    "caption": "Electric Power Socket",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2024031507431412924P20730.jpg",
+    "caption": "Ban Tubeless dengan Tapak Lebar",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/20230503090435377P45915.jpg",
+    "caption": "Blue Core 125cc dengan SMG",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2024031507431498543G5269.jpg",
+    "caption": "Answer Back System",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2024031507431449202O38846.jpg",
+    "caption": "Desain Tangguh",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2023050309043589451G87276.jpg",
+    "caption": "Double Hook",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2025030717193296301C81889.png",
+    "caption": "Pilihan warna",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2025030717194744688Q33745.png",
+    "caption": "Pilihan warna",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2025030717200141027R3909.png",
+    "caption": "Pilihan warna",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2025060914163885294K36248.png",
+    "caption": "Pilihan warna",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.yamaha-motor.co.id/product/gear-125/",
+  "checked": "2026-11-03"
+ },
+ {
+  "id": "yamaha-gear-ultima",
+  "brand": "Yamaha",
+  "name": "Gear Ultima 125 Hybrid S",
+  "body": "Matic",
+  "engine": "Bensin",
+  "cc": 125,
+  "price": 20240000,
+  "price_type": "OTR Jakarta (harga rekomendasi)",
+  "variants": [
+   {
+    "name": "Hybrid Smart",
+    "price": 22785000
+   },
+   {
+    "name": "Hybrid Solid",
+    "price": 20660000
+   },
+   {
+    "name": "Hybrid",
+    "price": 20240000
+   }
+  ],
+  "model_year": null,
+  "release": null,
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Yamaha Gear Ultima 125 Hybrid S adalah motor matic 125cc dengan mesin Blue Core Hybrid, tangki bensin 5,1 liter, dan bagasi 18,6 liter. Harga varian termurah Rp 20.240.000 (Harga Rekomendasi OTR Jakarta).",
+  "specs": {
+   "tenaga": "6,2 kW / 6.500 rpm",
+   "torsi": "10,6 Nm / 4.500 rpm",
+   "bobot": "95 Kg",
+   "tinggi_jok": "750 mm",
+   "tangki": "5,1 L",
+   "transmisi": "V-Belt Otomatis",
+   "rem": "Depan: Rem Cakram; Belakang: Rem Tromol",
+   "suspensi": "Depan: Teleskopik; Belakang: Unit Swing",
+   "ban": "Depan: 110/70-12 47L; Belakang: 110/70-12 47L",
+   "fitur": "Blue Core Hybrid, Bagasi 18,6 L, Handle belakang multiguna, Soket pengisi daya HP, Sistem lampu LED, Gantungan ganda, Pijakan kaki anak, Ban tubeless lebar ring 12, Smart key system, Dual tone warna, Terkoneksi smartphone, Stop and start system, Digital speedometer, Lampu hazard"
+  },
+  "image": "https://www.yamaha-motor.co.id/uploads/products/featured_image/202604021124218894J.png",
+  "image_credit": "Yamaha Indonesia Motor Manufacturing",
+  "gallery": [
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202604021020058967V.jpg",
+    "caption": "Bagasi Luas 18.6L",
+    "tag": "Jok dan bagasi"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202604021107487632J.jpg",
+    "caption": "Ban Tubeless Lebar Ring 12",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202604021116368273Y.jpg",
+    "caption": "Garansi 5 Tahun",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025030522431948447E12651.jpg",
+    "caption": "Mesin Blue Core Hybrid 125cc",
+    "tag": "Mesin"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025030610443437641G71365.jpg",
+    "caption": "Tangki Bensin 5.1L",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202604021020054474X.jpg",
+    "caption": "Stop & Start System*",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202604021020055819K.jpg",
+    "caption": "Handle Belakang Multiguna",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202604021020053434V.jpg",
+    "caption": "Jok Luas dan Lega",
+    "tag": "Jok dan bagasi"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202604021020056293G.jpg",
+    "caption": "Ruang Kaki Lega",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202604021020055924X.jpg",
+    "caption": "Gantungan Ganda",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202604021020058571K.jpg",
+    "caption": "Terkoneksi Smartphone*",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202604021702197407B.jpg",
+    "caption": "Sistem Lampu LED",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202604021020059088D.jpg",
+    "caption": "Soket Pengisi Daya Hp",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202604021702199504J.jpg",
+    "caption": "Lampu Hazard",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202604021020064008R.jpg",
+    "caption": "Digital Speedometer*",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202604021107486119U.jpg",
+    "caption": "Tampilan Kokoh & Compact",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.yamaha-motor.co.id/product/gear-ultima/",
+  "checked": "2026-11-03"
+ },
+ {
+  "id": "yamaha-grand-filano",
+  "brand": "Yamaha",
+  "name": "Grand Filano",
+  "body": "Matic",
+  "engine": "Bensin",
+  "cc": 125,
+  "price": 28665000,
+  "price_type": "OTR Jakarta (harga rekomendasi)",
+  "variants": [
+   {
+    "name": "Hybrid Lux",
+    "price": 29145000
+   },
+   {
+    "name": "Hybrid Neo",
+    "price": 28665000
+   }
+  ],
+  "model_year": null,
+  "release": null,
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Yamaha Grand Filano adalah skuter matic kelas Classy dengan mesin Blue Core Hybrid 125cc, tersedia dalam varian Hybrid Lux dan Hybrid Neo. Motor ini dilengkapi lampu LED, Smart Key System, dan fitur konektivitas Y-Connect.",
+  "specs": {
+   "tenaga": "6,1 kW / 6.500 rpm",
+   "torsi": "10,4 Nm / 5.000 rpm",
+   "bobot": "100 Kg",
+   "tinggi_jok": "790 mm",
+   "tangki": "4,4 L",
+   "transmisi": "V-Belt Otomatis",
+   "rem": "Depan: Rem Cakram; Belakang: Rem Tromol",
+   "suspensi": "Depan: Teleskopik; Belakang: Unit Swing",
+   "ban": "Depan dan belakang: 110/70-12 47L, Tubeless",
+   "fitur": "USB Socket, Premium Seat with Embroidery Style, Luxury & Premium Design, Smart Front Refuel, Wide Tire & Tubeless, Convenience Footstep, Yamaha Motorcycle Connect, Spacious Luggage 27L with LED Lamp, Digital Speedometer with TFT Sub Display, Blue Core Hybrid 125cc, All New LED Lighting System, 5 Years Warranty, Spacious Front Pocket, Hazard Lamp, Smart Key System"
+  },
+  "image": "https://www.yamaha-motor.co.id/uploads/products/featured_image/2026012314263490145D59534.png",
+  "image_credit": "Yamaha Indonesia Motor Manufacturing",
+  "gallery": [
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2024103012421768943C12914.jpg",
+    "caption": "USB Socket",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2024103012421751724S96319.jpg",
+    "caption": "Premium Seat with Embroidery Style",
+    "tag": "Jok dan bagasi"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202601231114519190Z83992.jpg",
+    "caption": "Luxury & Premium Design",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2024103013135886902N51083.jpg",
+    "caption": "Smart Front Refuel",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026012311145130697D34531.jpg",
+    "caption": "Wide Tire & Tubeless",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2024103013135819507P17354.jpg",
+    "caption": "Convenience Footstep",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202601231321283989Z7508.png",
+    "caption": "Yamaha Motorcycle Connect",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2024103012421727092G82107.jpg",
+    "caption": "Spacious Luggage 27L with LED Lamp",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2024103012421762808R84575.jpg",
+    "caption": "Digital Speedometer with TFT Sub Display",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2024103012421740014Z23149.jpg",
+    "caption": "Blue Core Hybrid 125cc",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2024103012421778200Y68481.jpg",
+    "caption": "All New LED Lighting System",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2024103012421798258G13624.jpg",
+    "caption": "5 Years Warranty",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2024103012421787281O26540.jpg",
+    "caption": "Spacious Front Pocket",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2024103012421735181O70412.jpg",
+    "caption": "Hazard Lamp",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2024103012421722870X71831.jpg",
+    "caption": "Smart Key System",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/202601231028034876K13777.png",
+    "caption": "Pilihan warna",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.yamaha-motor.co.id/product/grand-filano/",
+  "checked": "2026-11-03"
+ },
+ {
+  "id": "yamaha-jupiter-z1",
+  "brand": "Yamaha",
+  "name": "Jupiter Z1",
+  "body": "Bebek",
+  "engine": "Bensin",
+  "cc": null,
+  "price": 22580000,
+  "price_type": "OTR Jakarta (harga rekomendasi)",
+  "variants": [
+   {
+    "name": "Jupiter Z1 (Metallic Cyan)",
+    "price": 22580000
+   }
+  ],
+  "model_year": null,
+  "release": null,
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Yamaha Jupiter Z1 adalah moped bermesin bensin 4-tak dengan injeksi bahan bakar dan rangka backbone. Harga rekomendasi OTR Jakarta untuk varian Metallic Cyan adalah Rp 22.580.000.",
+  "specs": {
+   "tenaga": "7,4 kW / 7750 rpm",
+   "torsi": "9,8 Nm / 6750 rpm",
+   "bobot": "101 kg (Spoke wheel); 102 kg (Cast wheel)",
+   "tinggi_jok": "765 mm",
+   "tangki": "4,1 L",
+   "transmisi": "Constant mesh, 4-kecepatan",
+   "rem": "Depan: Single Disc Brake; Belakang: Drum Brake",
+   "suspensi": "Depan: Teleskopik; Belakang: Swing Arm",
+   "ban": "Depan: 70/90-17 M/C (38P); Belakang: 80/90-17 M/C (44P)",
+   "fitur": "Fuel Injection, Aerodynamic Air Flow, Double Head Lamp, Arrow Tail Shaped Light, New Striping Design, Sporty Casting Wheel, Forged Piston"
+  },
+  "image": "https://www.yamaha-motor.co.id/uploads/products/featured_image/2025061108344332282O17129.png",
+  "image_credit": "Yamaha Indonesia Motor Manufacturing",
+  "gallery": [
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022060609233144034V86403.jpg",
+    "caption": "Fuel Injection Yamaha",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025061108344311694O46926.jpg",
+    "caption": "Aerodynamic Air Flow",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025061108344368088X43426.jpg",
+    "caption": "Double Head Lamp",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025061108344329476A14562.jpg",
+    "caption": "Arrow Tail Shaped Light",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025061108344313983B88983.jpg",
+    "caption": "New Striping Design",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025061108344356149B43946.jpg",
+    "caption": "Sporty Casting Wheel",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022060609233121543S23362.jpg",
+    "caption": "Forged Piston",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2025061108303017327J72634.png",
+    "caption": "Pilihan warna",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2025061108303670252P60271.png",
+    "caption": "Pilihan warna",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2025061108304364967I28512.png",
+    "caption": "Pilihan warna",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.yamaha-motor.co.id/product/jupiter-z1/",
+  "checked": "2026-11-03"
+ },
+ {
+  "id": "yamaha-lexi-lx-155",
+  "brand": "Yamaha",
+  "name": "LEXi LX 155",
+  "body": "Matic",
+  "engine": "Bensin",
+  "cc": 155,
+  "price": 27850000,
+  "price_type": "OTR Jakarta (harga rekomendasi)",
+  "variants": [
+   {
+    "name": "Connected/ABS",
+    "price": 32500000
+   },
+   {
+    "name": "S Version",
+    "price": 29650000
+   },
+   {
+    "name": "Standard",
+    "price": 27850000
+   }
+  ],
+  "model_year": null,
+  "release": null,
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Skutik MAXi 155cc bermesin Blue Core dengan VVA, tersedia dalam tiga varian mulai Rp 27.850.000 (OTR Jakarta). Dilengkapi Y-Connect, Smart Key System, dan Stop & Start System, serta disebut sebagai bobot teringan di kategori MAXi.",
+  "specs": {
+   "tenaga": "11,3 kW / 8.000 rpm",
+   "torsi": "14,2 Nm / 6.500 rpm",
+   "bobot": "Standard 116 kg; S Version 117 kg; Connected/ABS 118 kg",
+   "tinggi_jok": "770 mm",
+   "tangki": "4,2 L",
+   "transmisi": "Automatic",
+   "rem": "Depan Disc Brake; Belakang Drum Brake; Anti-Lock Braking System (ABS)",
+   "suspensi": "Depan Telescopic; Belakang Unit Swing",
+   "ban": "Depan 90/90-14M/C 46P; Belakang 100/90-14M/C 57P; Tubeless",
+   "fitur": "Electric Power Socket, LED Front & Rear Lamp, Y-Connect, Smart Key System, Stop & Start System (SSS), 5 Years Warranty, Tubeless Wide Tire, MAXi Design, Multifunction Full Digital Speedometer, Anti-Lock Braking System, MAXi Flat Footboard, MAXi Long Seat, Handlebar Switch Control, Sub-Tank Suspension"
+  },
+  "image": "https://www.yamaha-motor.co.id/uploads/products/featured_image/202601210138425928P94164.png",
+  "image_credit": "Yamaha Indonesia Motor Manufacturing",
+  "gallery": [
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026012101384211137K60198.jpg",
+    "caption": "The Lightest MAXi",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026012101384217957Q1404.jpg",
+    "caption": "Electric Power Socket",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026012101384268941K63668.jpg",
+    "caption": "LED Front & Rear Lamp",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026012101384238888G68799.jpg",
+    "caption": "Y-Connect",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026012101384229756G11972.jpg",
+    "caption": "Smart Key System",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2024011612414698083S96581.jpg",
+    "caption": "Stop & Start System (SSS)",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2024011218055585701Q69655.jpg",
+    "caption": "5 Years Warranty",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026012101384291555V72271.jpg",
+    "caption": "Tubeless Wide Tire",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026012101384213059Y83346.jpg",
+    "caption": "MAXi Design",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2024011218055537050T9295.jpg",
+    "caption": "Multifunction Full Digital Speedometer",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026012101384288572Y51236.jpg",
+    "caption": "MAXi Power 155cc Blue Core & VVA",
+    "tag": "Mesin"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026012101384276779B41699.jpg",
+    "caption": "Anti-Lock Braking System",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026012101384292017T52520.jpg",
+    "caption": "MAXi Flat Footboard",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026012101384263666J74573.jpg",
+    "caption": "MAXi Long Seat",
+    "tag": "Jok dan bagasi"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2024011218055596392W39874.jpg",
+    "caption": "Handlebar Switch Control",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026012101384236021G17307.jpg",
+    "caption": "Sub-Tank Suspension",
+    "tag": "Suspensi"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.yamaha-motor.co.id/product/lexi-lx-155/",
+  "checked": "2026-11-03"
+ },
+ {
+  "id": "yamaha-mt15",
+  "brand": "Yamaha",
+  "name": "MT-15",
+  "body": "Sport",
+  "engine": "Bensin",
+  "cc": 155,
+  "price": 41215000,
+  "price_type": "OTR Jakarta (harga rekomendasi)",
+  "variants": [
+   {
+    "name": "MT-15",
+    "price": 41215000
+   }
+  ],
+  "model_year": null,
+  "release": null,
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Yamaha MT-15 adalah motor sport 155 cc dengan mesin LC4V bervalve VVA dan rangka Deltabox. Motor ini dilengkapi suspensi depan Inverted dan fitur seperti Assist & Slipper Clutch serta lampu depan Projector LED.",
+  "specs": {
+   "tenaga": "14,2 kW/10.000 rpm",
+   "torsi": "14,7 Nm/8.500 rpm",
+   "bobot": "133 kg",
+   "tinggi_jok": "810 mm",
+   "tangki": "10,4 Liter",
+   "transmisi": "Manual, 6 percepatan (1-N-2-3-4-5-6)",
+   "rem": "Disc Brake (depan dan belakang)",
+   "suspensi": "Depan: Telescopic Fork (Inverted); Belakang: Link Monoshock",
+   "ban": "Depan 110/70-17M/C (54S); Belakang 140/70-17M/C (66S)",
+   "fitur": "Aluminium Rear Arm, LED Tail Light, Upside Down Suspension, Assist & Slipper Clutch, Projector LED Head Light, Wide Handle Bar Big Bike Switch, Engine 155cc LC4V With VVA, Full Digital Speedometer With Shift Timing Light, Diasil Cylinder & Forged Piston"
+  },
+  "image": "https://www.yamaha-motor.co.id/uploads/products/featured_image/2025012015144954158N49912.png",
+  "image_credit": "Yamaha Indonesia Motor Manufacturing",
+  "gallery": [
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022070508361191824A6173.jpg",
+    "caption": "Aluminium Rear Arm",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025012015144947496Q86535.jpg",
+    "caption": "LED Tail Light",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025012015144985657G18012.jpg",
+    "caption": "Upside Down Suspension",
+    "tag": "Suspensi"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025012015144992932S34123.jpg",
+    "caption": "Aluminium Rear Arm with Tubeless Wide Tire",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022070508361127229A3375.jpg",
+    "caption": "Assist & Slipper Clutch",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025012015144940448L79158.jpg",
+    "caption": "Projector LED Head Light",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025012015144934505X4584.jpg",
+    "caption": "Wide Handle Bar Big Bike Switch",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022070508361113531X69682.jpg",
+    "caption": "Engine 155cc LC4V With VVA",
+    "tag": "Mesin"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025012015144973425K46025.jpg",
+    "caption": "Full Digital Speedometer With Shift Timing Light",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022070508361197852E90606.jpg",
+    "caption": "Diasil Cylinder & Forged Piston",
+    "tag": "Mesin"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/202501201512088268P91906.png",
+    "caption": "Pilihan warna",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2025012015121063611B452.png",
+    "caption": "Pilihan warna",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.yamaha-motor.co.id/product/mt15/",
+  "checked": "2026-11-03"
+ },
+ {
+  "id": "yamaha-mt25",
+  "brand": "Yamaha",
+  "name": "MT-25",
+  "body": "Sport",
+  "engine": "Bensin",
+  "cc": 249.55,
+  "price": 66450000,
+  "price_type": "OTR Jakarta (harga rekomendasi)",
+  "variants": [
+   {
+    "name": "MT-25",
+    "price": 66450000
+   }
+  ],
+  "model_year": null,
+  "release": null,
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Yamaha MT-25 adalah motor sport 250cc dengan mesin 2 silinder DOHC dan fitur ABS, Upside Down Suspension, serta lampu full LED dengan projector. Motor ini ditawarkan dalam warna Metallic Light Grey dengan harga Rp 66.450.000 (OTR Jakarta).",
+  "specs": {
+   "tenaga": "26,4 kW pada 12.000 rpm",
+   "torsi": "22,6 Nm pada 10.000 rpm",
+   "bobot": "169 kg",
+   "tinggi_jok": "780 mm",
+   "tangki": "14 liter",
+   "transmisi": "Manual 6 percepatan (1-N-2-3-4-5-6), assist & slipper clutch",
+   "rem": "Single disc depan dan belakang, ABS",
+   "suspensi": "Depan teleskopik inverted; belakang linkless monoshock",
+   "ban": "Depan 110/70-17, belakang 140/70-17 (tubeless)",
+   "fitur": "ABS, Yamaha Motorcycle Connect, Big Bike Switch, Electric Power Outlet, Full LED dengan Projector LED Head Light, LED Flasher Signal, Upside Down Suspension, Tubeless Wide Tire, MT Series Tank Cover & Air Scoop, Full Digital Speedometer dengan Shift Timing Light"
+  },
+  "image": "https://www.yamaha-motor.co.id/uploads/products/featured_image/2025012015192887371O6508.png",
+  "image_credit": "Yamaha Indonesia Motor Manufacturing",
+  "gallery": [
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025021818442047314V79948.jpg",
+    "caption": "Anti-Lock Braking System",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025021818442041381B61887.jpg",
+    "caption": "Yamaha Motorcycle Connect",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025021818442041379L60599.jpg",
+    "caption": "Big Bike Switch",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025021818442015303P62410.jpg",
+    "caption": "Electric Power Outlet",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025012015192816248O24874.jpg",
+    "caption": "Full LED Lighting System With Projector LED Head Light",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025012015192832011V67319.jpg",
+    "caption": "LED Flasher Signal",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025012015192840669H3953.jpg",
+    "caption": "Upside Down Suspension",
+    "tag": "Suspensi"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025012015192815852D82046.jpg",
+    "caption": "Tubeless Wide Tire",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025012015192822190Z83096.jpg",
+    "caption": "MT Series Tank Cover & Air Scoop",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025012015192811667V95138.jpg",
+    "caption": "Powerfull 250cc Engine",
+    "tag": "Mesin"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025012015192820367O94443.jpg",
+    "caption": "Full Digital Speedometer With Shift Timing Light",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2025012015174655343P65550.png",
+    "caption": "Pilihan warna",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2025012015175849114X62104.png",
+    "caption": "Pilihan warna",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.yamaha-motor.co.id/product/mt25/",
+  "checked": "2026-11-03"
+ },
+ {
+  "id": "yamaha-mx-king-150",
+  "brand": "Yamaha",
+  "name": "MX King 150",
+  "body": "Lainnya",
+  "engine": "Bensin",
+  "cc": 149.79,
+  "price": 29200000,
+  "price_type": "OTR Jakarta (harga rekomendasi)",
+  "variants": [
+   {
+    "name": "MX King 150 Prima Pramac Livery",
+    "price": 29900000
+   },
+   {
+    "name": "MX King 150 70th Livery",
+    "price": 29400000
+   },
+   {
+    "name": "MX King 150",
+    "price": 29200000
+   }
+  ],
+  "model_year": null,
+  "release": null,
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Yamaha MX King 150 adalah motor bertenaga 150cc Fuel Injection dengan desain sporty dan posisi berkendara agresif. Tersedia dalam tiga varian dengan harga rekomendasi OTR Jakarta mulai Rp 29.200.000.",
+  "specs": {
+   "tenaga": "11,3 kW pada 8500 rpm",
+   "torsi": "13,8 Nm pada 7000 rpm",
+   "bobot": "118 kg",
+   "tinggi_jok": "795 mm",
+   "tangki": "4,2 L",
+   "transmisi": "Constant Mesh, 5-kecepatan",
+   "rem": "Rem cakram depan dan belakang",
+   "suspensi": "Teleskopik depan, Monoshock belakang",
+   "ban": "Depan 90/80-17M/C (46P), belakang 120/70-17M/C (58P)",
+   "fitur": "Light Frame Design, Hazard Lamp, LED Head Light, New Graphic Design, 150cc FI, Engine Liquid Cooled System, Wide Tubeless Tire, Yamaha 70th Anniversary Livery, Full Digital Speedometer"
+  },
+  "image": "https://www.yamaha-motor.co.id/uploads/products/featured_image/202606190939128383S.png",
+  "image_credit": "Yamaha Indonesia Motor Manufacturing",
+  "gallery": [
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2024121208435580984H86608.png",
+    "caption": "Light Frame Design",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025120815512719892F22669.jpg",
+    "caption": "Hazard Lamp",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025120815512749879D73061.jpg",
+    "caption": "LED Head Light",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025120815512762656Y12459.jpg",
+    "caption": "New Graphic Design",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2024121208435576018B92898.png",
+    "caption": "150cc FI, Engine Liquid Cooled System",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025120815512741676P44024.jpg",
+    "caption": "Wide Tubeless Tire",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026012212575911383D8723.jpg",
+    "caption": "Yamaha 70th Anniversary Livery",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202512081551277809N80291.jpg",
+    "caption": "Full Digital Speedometer",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2026062207303160354M62891.png",
+    "caption": "Pilihan warna",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2026012212570650164D72125.png",
+    "caption": "Pilihan warna",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2025120815501128784Y48788.png",
+    "caption": "Pilihan warna",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2025120815502299713A93187.png",
+    "caption": "Pilihan warna",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.yamaha-motor.co.id/product/mx-king-150/",
+  "checked": "2026-11-03"
+ },
+ {
+  "id": "yamaha-mio-m3",
+  "brand": "Yamaha",
+  "name": "Mio M3 125",
+  "body": "Matic",
+  "engine": "Bensin",
+  "cc": 125,
+  "price": 18905000,
+  "price_type": "OTR Jakarta (harga rekomendasi)",
+  "variants": [
+   {
+    "name": "Mio M3 125 Metallic Cyan",
+    "price": 18905000
+   }
+  ],
+  "model_year": null,
+  "release": null,
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Yamaha Mio M3 125 adalah skuter matic dengan mesin Blue Core 125cc, bodi ramping, dan bagasi luas. Harga rekomendasi OTR Jakarta untuk varian Metallic Cyan adalah Rp 18.905.000.",
+  "specs": {
+   "tenaga": "7,0 kW / 8.000 rpm",
+   "torsi": "9,6 Nm / 5.500 rpm",
+   "bobot": "101 kg",
+   "tinggi_jok": "780 mm",
+   "tangki": "4,2 L",
+   "transmisi": "V-Belt Automatic",
+   "rem": "Depan: Disc Brake; Belakang: Drum Brake",
+   "suspensi": "Depan: Teleskopic Fork; Belakang: Unit Swing",
+   "ban": "Depan: 70/90-14 34P Tubeless; Belakang: 89/90-14 40P Tubeless",
+   "fitur": "Gantungan barang, Slim body design, Eco indicator, Smart stand side switch, Blue Core, Smart lock system, Bagasi luas dan lega, Speedometer trendy, Multifunction key, Trend body striping"
+  },
+  "image": "https://www.yamaha-motor.co.id/uploads/products/featured_image/2025051913533472814Q20921.png",
+  "image_credit": "Yamaha Indonesia Motor Manufacturing",
+  "gallery": [
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025051913353486025R51121.png",
+    "caption": "Gantungan Barang",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025051913353449614H93498.jpg",
+    "caption": "Slim Body Design",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2023120411115518087K48984.png",
+    "caption": "5 Years Warranty",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022083012525145304Y74218.jpg",
+    "caption": "Eco Indicator",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025051913353458175W88568.jpg",
+    "caption": "Tangki 4.2 L",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2023120411115552678A33338.png",
+    "caption": "Smart Stand Side Switch",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025051913353429284F88842.jpg",
+    "caption": "Blue Core",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202505191335342967K45177.jpg",
+    "caption": "Smart Lock System",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025051913353455510K63878.jpg",
+    "caption": "Bagasi Luas & Lega",
+    "tag": "Jok dan bagasi"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025051913353426019D89561.jpg",
+    "caption": "Speedometer Trendy",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2023120411115585757X22773.png",
+    "caption": "Multifunction Key",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025051913353453535Y55481.jpg",
+    "caption": "Trend Body Striping",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2025051911283817688W57116.png",
+    "caption": "Pilihan warna",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2025051911302918364Q25138.png",
+    "caption": "Pilihan warna",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2025051911290160771I39257.png",
+    "caption": "Pilihan warna",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2025051911292554271E73676.png",
+    "caption": "Pilihan warna",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.yamaha-motor.co.id/product/mio-m3/",
+  "checked": "2026-11-03"
+ },
+ {
+  "id": "yamaha-nmax-turbo",
+  "brand": "Yamaha",
+  "name": "NMAX Turbo",
+  "body": "Matic",
+  "engine": "Bensin",
+  "cc": 155,
+  "price": 34565000,
+  "price_type": "OTR Jakarta (harga rekomendasi)",
+  "variants": [
+   {
+    "name": "\"TURBO\" TECH MAX Ultimate",
+    "price": 46945000
+   },
+   {
+    "name": "\"TURBO\" TECH MAX Special Livery",
+    "price": 45365000
+   },
+   {
+    "name": "\"TURBO\" TECH MAX",
+    "price": 44965000
+   },
+   {
+    "name": "\"TURBO\"",
+    "price": 39465000
+   },
+   {
+    "name": "Neo S MAX Special Livery",
+    "price": 35955000
+   },
+   {
+    "name": "Neo S Version",
+    "price": 35555000
+   },
+   {
+    "name": "Neo MAX Special Livery",
+    "price": 34965000
+   },
+   {
+    "name": "Neo Version",
+    "price": 34565000
+   }
+  ],
+  "model_year": null,
+  "release": null,
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Yamaha NMAX \"TURBO\" adalah skuter matic 155 cc dengan mesin Blue Core, VVA, dan teknologi YECVT yang memberikan sensasi \"TURBO\". Tersedia dalam beberapa varian, termasuk Neo, dengan harga mulai Rp 34.565.000 (OTR Jakarta).",
+  "specs": {
+   "tenaga": "11.3 kW / 8000 rpm",
+   "torsi": "14.2 Nm / 6500 rpm",
+   "bobot": "135 Kg",
+   "tinggi_jok": "770 mm",
+   "tangki": "7.1 L",
+   "transmisi": "Automatic",
+   "rem": "Hydraulic Single Disc Brake (depan & belakang)",
+   "suspensi": "Depan: Teleskopik; Belakang: Unit Swing",
+   "ban": "Depan 110/70-13 M/C 48P; Belakang 130/70-13 M/C 63P",
+   "fitur": "Front & Rear LED Lamp With Dual Projector, Big Luggage (25 Litre), Stop & Start System, Smart Key System, MAXi Comfort Seat, Turbo Riding Mode, TFT Navigation Display, Dual Channel ABS, Traction Control System (TCS), Electric Power Outlet, Turbo Y-Shift"
+  },
+  "image": "https://www.yamaha-motor.co.id/uploads/products/featured_image/2025111019384188604L75511.png",
+  "image_credit": "Yamaha Indonesia Motor Manufacturing",
+  "gallery": [
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025111019384175405Z69595.jpg",
+    "caption": "Front & Rear LED Lamp With Dual Projector",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025111019384142552I16168.jpg",
+    "caption": "Big Luggage (25 Litre)",
+    "tag": "Jok dan bagasi"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2024061310005472229T10382.jpg",
+    "caption": "Stop & Start System",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2024061310005411439B32994.jpg",
+    "caption": "Smart Key System",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2024061119474122890L67995.jpg",
+    "caption": "MAXi Riding Position",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025111019384118966V73235.jpg",
+    "caption": "Tech MAX Emblem",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2024061310005493864H15302.jpg",
+    "caption": "Electric Power Outlet",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202511101938416576Z52630.jpg",
+    "caption": "MAXi Design",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2024062017161535503F87444.jpg",
+    "caption": "New Engine 155cc YECVT, Blue Core & VVA",
+    "tag": "Mesin"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2024061119474169851H53149.jpg",
+    "caption": "TFT Navigation Display",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2024061119474121190X7451.jpg",
+    "caption": "Multi Infotainment Display With Y-Connect",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025111019384122045O90648.jpg",
+    "caption": "MAXi Comfort Seat",
+    "tag": "Jok dan bagasi"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2024062017161558873O73872.jpg",
+    "caption": "Turbo Riding Mode",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202406112002547178O79429.jpg",
+    "caption": "5 Years Warranty",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025111019384168005Z82204.jpg",
+    "caption": "Dual Channel ABS (Anti-Lock Braking System)",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025111019384143268S52520.jpg",
+    "caption": "MAXi Cockpit Design",
+    "tag": "Panel instrumen"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.yamaha-motor.co.id/product/nmax-turbo/",
+  "checked": "2026-11-03"
+ },
+ {
+  "id": "yamaha-fino",
+  "brand": "Yamaha",
+  "name": "New Fino 125",
+  "body": "Matic",
+  "engine": "Bensin",
+  "cc": 125,
+  "price": 20400000,
+  "price_type": "OTR Jakarta (harga rekomendasi)",
+  "variants": [
+   {
+    "name": "Grande",
+    "price": 21610000
+   },
+   {
+    "name": "Premium",
+    "price": 20400000
+   },
+   {
+    "name": "Sporty",
+    "price": 20400000
+   }
+  ],
+  "model_year": null,
+  "release": null,
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Yamaha New Fino 125 adalah skuter matic 125cc bermesin Blue Core dengan fitur seperti lampu LED, Advance Key System, dan Smart Lock System. Tersedia dalam varian Grande, Premium, dan Sporty.",
+  "specs": {
+   "tenaga": "7.0 kW (9.52 PS) / 8000rpm",
+   "torsi": "9.6 N.m (0,98 kgf.m) / 5500rpm",
+   "bobot": "98 kg",
+   "tinggi_jok": "745 mm",
+   "tangki": "4,2 L",
+   "transmisi": "V-belt Automatic",
+   "rem": "Depan: Disc Brake; Belakang: Drum Brake",
+   "suspensi": "Depan: Teleskopik; Belakang: Unit Swing",
+   "ban": "Depan: 80/80-14M/C 43P; Belakang: 100/70-14M/C 51P",
+   "fitur": "LED Head Light, Advance Key System (AKS), Helm Retro Stylish, Matte Color, Smart Stand Side Switch, Smart Lock System, Mega Box 8,7L, Blue Core 125cc, Eco Indicator, Stylish Double Seat, Stop & Start System, Ban Lebar & Tubeless"
+  },
+  "image": "https://www.yamaha-motor.co.id/uploads/products/featured_image/202302210939153521B87826.png",
+  "image_credit": "Yamaha Indonesia Motor Manufacturing",
+  "gallery": [
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2023100609091154140T92644.png",
+    "caption": "5 Years Warranty",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022030515462898789J19898.jpg",
+    "caption": "Led Head Light",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022030515462822151M87392.jpg",
+    "caption": "Advance Key System (AKS)",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022030515462862930F95965.jpg",
+    "caption": "Helm Retro Stylish",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022030515462885914Z74383.jpg",
+    "caption": "Matte Color",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022030515462848159X41197.jpg",
+    "caption": "Smart Stand Side Switch",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022030515462842733Z35615.jpg",
+    "caption": "Smart Lock System",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022030515462823982O10790.jpg",
+    "caption": "Mega Box 8,7L",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022030515462895440Z48769.jpg",
+    "caption": "Blue Core 125cc",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022030515462881129B95360.jpg",
+    "caption": "Eco Indicator",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022030515462829982R23401.jpg",
+    "caption": "Stylish Double Seat",
+    "tag": "Jok dan bagasi"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022030515462834863T60493.jpg",
+    "caption": "Stop & Start System",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022030515462853303V64148.jpg",
+    "caption": "Ban Lebar & Tubeless",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2022030515231473422V37157.png",
+    "caption": "Pilihan warna",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2022030515232885178B81916.png",
+    "caption": "Pilihan warna",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2022030515262544883N54966.png",
+    "caption": "Pilihan warna",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.yamaha-motor.co.id/product/fino/",
+  "checked": "2026-11-03"
+ },
+ {
+  "id": "yamaha-r25",
+  "brand": "Yamaha",
+  "name": "R25",
+  "body": "Sport",
+  "engine": "Bensin",
+  "cc": 249.55,
+  "price": 76250000,
+  "price_type": "OTR Jakarta (harga rekomendasi)",
+  "variants": [
+   {
+    "name": "R25 (Racing Blue)",
+    "price": 76250000
+   }
+  ],
+  "model_year": null,
+  "release": null,
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Yamaha R25 adalah motor sport 250 cc dengan mesin 2 silinder inline pendingin cairan dan fitur ABS. Harga rekomendasi OTR Jakarta untuk varian Racing Blue adalah Rp 76.250.000.",
+  "specs": {
+   "tenaga": "26,4 kW/12.000 rpm",
+   "torsi": "22,5 Nm/10.000 rpm",
+   "bobot": "166 kg",
+   "tinggi_jok": "780 mm",
+   "tangki": "14 liter",
+   "transmisi": "Manual, pola 1-N-2-3-4-5-6",
+   "rem": "Depan: Cakram hidraulik piston ganda; Belakang: Cakram hidraulik piston tunggal",
+   "suspensi": "Depan: Teleskopik inverted (upside down); Belakang: Linkless monoshock",
+   "ban": "Depan 110/70-17M/C (54S); Belakang 140/70-17M/C (66S)",
+   "fitur": "Electric Power Outlet, Yamaha Motorcycle Connect, Full LED Head Light with Hazard Lamp, Super Sport Mid Ship Muffler, Upside Down Suspension, Anti-Lock Braking System, Full LCD Speedometer, LED Tail Light, Wide Tire, Big Bike Switch"
+  },
+  "image": "https://www.yamaha-motor.co.id/uploads/products/featured_image/2025012015411993760O36900.png",
+  "image_credit": "Yamaha Indonesia Motor Manufacturing",
+  "gallery": [
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025012015411976841V24583.jpg",
+    "caption": "Electric Power Outlet",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025012015411914929I99443.jpg",
+    "caption": "Yamaha Motorcycle Connect",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025012015411970006P78180.jpg",
+    "caption": "Full LED Head Light with Hazard Lamp",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025012015411967514Y80920.jpg",
+    "caption": "Super Sport Mid Ship Muffler",
+    "tag": "Knalpot"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025012015411912684H85240.jpg",
+    "caption": "Upside Down Suspension",
+    "tag": "Suspensi"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025012015411921168W8984.jpg",
+    "caption": "Anti-Lock Braking System",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025012015411943152Z91936.jpg",
+    "caption": "Body Design",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025012015411960534F32616.jpg",
+    "caption": "Full LCD Speedometer",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025012015411966627U58682.jpg",
+    "caption": "LED Tail Light",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025012015411933237R5359.jpg",
+    "caption": "Wide Tire",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025012015411972733B90588.jpg",
+    "caption": "Big Bike Switch",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2025012015275896690H23938.png",
+    "caption": "Pilihan warna",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2025012015280236852T12421.png",
+    "caption": "Pilihan warna",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.yamaha-motor.co.id/product/r25/",
+  "checked": "2026-11-03"
+ },
+ {
+  "id": "yamaha-tmax-tech-max",
+  "brand": "Yamaha",
+  "name": "TMAX Tech MAX",
+  "body": "Matic",
+  "engine": "Bensin",
+  "cc": 562,
+  "price": 455000000,
+  "price_type": "OTR Jakarta (harga rekomendasi)",
+  "variants": [
+   {
+    "name": "TMAX Tech MAX",
+    "price": 455000000
+   },
+   {
+    "name": "TMAX MAX Special Livery",
+    "price": 475000000
+   }
+  ],
+  "model_year": null,
+  "release": null,
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Yamaha TMAX Tech MAX adalah sport scooter mewah dengan mesin 2 silinder 560 cc, fitur Smart Key, layar TFT 7 inci, dan navigasi Garmin. Tersedia dengan harga mulai Rp 455.000.000 (OTR Jakarta).",
+  "specs": {
+   "tenaga": "35,0 kW / 7000 rpm",
+   "torsi": "55,0 Nm / 5250 rpm",
+   "bobot": "221 kg",
+   "tinggi_jok": "800 mm",
+   "tangki": "15 L",
+   "transmisi": "V-Belt Otomatis",
+   "rem": "Depan: hydraulic dual disc 267 mm; Belakang: hydraulic single disc 282 mm",
+   "suspensi": "Depan: telescopic fork; Belakang: swingarm",
+   "ban": "Depan 120/70R15M/C; Belakang 160/60R15M/C",
+   "fitur": "Cruise Control, Traction Control, Brake Control, D-MODE, TPMS, Smart Key, Electrically Adjustable Screen, Garmin Navigation, Heated Grips, Heated Seat, Enhanced Connectivity (MyRide)"
+  },
+  "image": "https://www.yamaha-motor.co.id/uploads/products/featured_image/2026012112000740123E5134.png",
+  "image_credit": "Yamaha Indonesia Motor Manufacturing",
+  "gallery": [
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026012112000731449P21425.jpg",
+    "caption": "Dynamic Sporty Design",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026012112000793889X35900.jpg",
+    "caption": "Rider's Aids",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026012112000710192Y20404.jpg",
+    "caption": "Yamaha Motor Executive Service 24 Hours Premium",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026012112000717498P35834.jpg",
+    "caption": "Smart Key Keyless Operation",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026012112000754716P89834.jpg",
+    "caption": "Lightweight Aluminium Frame",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026012112000731477N86773.jpg",
+    "caption": "Electrically Adjustable Screen",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026012112000730791R82247.jpg",
+    "caption": "560cc EURO5+ Compliant Engine",
+    "tag": "Mesin"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026012112000798148A85273.jpg",
+    "caption": "Machined Wheels",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026012112000729344P15452.jpg",
+    "caption": "Comfortable Ergonomics",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026012308372547893F40926.jpg",
+    "caption": "7-inch TFT Screen with Garmin Navigation",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026012112000758497K38943.jpg",
+    "caption": "Large Storage Space",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026012112000749818A67465.jpg",
+    "caption": "Enhanced Connectivity",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026012112000726656E18644.jpg",
+    "caption": "Heated Grips and Heated Seat",
+    "tag": "Jok dan bagasi"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2026012109354833782C36890.png",
+    "caption": "Pilihan warna",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2026012109464595907G85940.png",
+    "caption": "Pilihan warna",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.yamaha-motor.co.id/product/tmax-tech-max/",
+  "checked": "2026-11-03"
+ },
+ {
+  "id": "yamaha-vega-force",
+  "brand": "Yamaha",
+  "name": "Vega Force",
+  "body": "Bebek",
+  "engine": "Bensin",
+  "cc": 114,
+  "price": 19900000,
+  "price_type": "OTR Jakarta (harga rekomendasi)",
+  "variants": [
+   {
+    "name": "Vega Force",
+    "price": 19900000
+   }
+  ],
+  "model_year": null,
+  "release": null,
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Yamaha Vega Force hadir dengan mesin 114 cc berteknologi Fuel Injection dan desain sporty. Harga rekomendasi OTR Jakarta Rp 19.900.000.",
+  "specs": {
+   "tenaga": "6,41 kW / 7000 rpm",
+   "torsi": "9,53 Nm / 5500 rpm",
+   "bobot": "96 kg",
+   "tinggi_jok": "775 mm",
+   "tangki": "4,0 Liter",
+   "transmisi": "Constant Mesh, 4 Kecepatan",
+   "rem": "Depan: Disc Brake; Belakang: Drum Brake",
+   "suspensi": "Depan: Teleskopik; Belakang: Swing Arm",
+   "ban": "Depan: 70/90-17MC 38P; Belakang: 80/90-17MC 44P",
+   "fitur": "Lampu Belakang Sporty, Velg Balap Modern, Desain Sporty, Lampu Depan Modern, Speedometer Modern, Fuel Injection, Kunci Pengaman, Bagasi Serbaguna 9.2 L"
+  },
+  "image": "https://www.yamaha-motor.co.id/uploads/products/featured_image/2023060510573539478H29934.png",
+  "image_credit": "Yamaha Indonesia Motor Manufacturing",
+  "gallery": [
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2023060508130162541W96508.jpg",
+    "caption": "Lampu Belakang Sporty",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2023060508130192232I76194.jpg",
+    "caption": "Velg Balap Modern",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2023060508130171246J86031.jpg",
+    "caption": "Desain Sporty",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2023060508130147233J10400.jpg",
+    "caption": "Lampu Depan Modern",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2023060508130187209J68790.jpg",
+    "caption": "Speedometer Modern",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2023060508130177200Y45593.jpg",
+    "caption": "Fuel Injection",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2023060508130151308S79477.jpg",
+    "caption": "Kunci Pengaman",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202306050813019282K67899.jpg",
+    "caption": "Bagasi Serbaguna 9.2 L",
+    "tag": "Jok dan bagasi"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2023060508085578784S98910.png",
+    "caption": "Pilihan warna",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2023060508085369609J94854.png",
+    "caption": "Pilihan warna",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.yamaha-motor.co.id/product/vega-force/",
+  "checked": "2026-11-03"
+ },
+ {
+  "id": "yamaha-vixion",
+  "brand": "Yamaha",
+  "name": "Vixion R",
+  "body": "Sport",
+  "engine": "Bensin",
+  "cc": 155,
+  "price": 31450000,
+  "price_type": "OTR Jakarta (harga rekomendasi)",
+  "variants": [
+   {
+    "name": "VIXION R 155",
+    "price": 34020000
+   },
+   {
+    "name": "VIXION 150",
+    "price": 31450000
+   }
+  ],
+  "model_year": null,
+  "release": null,
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Yamaha Vixion R adalah motor sport 155 cc dengan mesin LC4V bervalve VVA dan fitur Assist & Slipper Clutch. Motor ini tersedia dalam varian VIXION R 155 dan VIXION 150.",
+  "specs": {
+   "tenaga": "14.2 kW / 10000 rpm (Vixion R)",
+   "torsi": "14.7 Nm / 8500 rpm (Vixion R)",
+   "bobot": "131 kg (Vixion R)",
+   "tinggi_jok": "795 mm",
+   "tangki": "11 L (Vixion R)",
+   "transmisi": "Manual, 6 percepatan",
+   "rem": "Disc Brake depan dan belakang",
+   "suspensi": "Teleskopik (depan), Swing Arm (belakang)",
+   "ban": "Tubeless, depan 90/80-17M/C 46P, belakang 130/70-17M/C 62P (Vixion R)",
+   "fitur": "Engine 155cc LC4V With VVA, Assist & Slipper Clutch, Monocross Suspension, Wide Tubeless Tire, Aluminium Rear Arm, Full Digital Speedometer + Shift Timing Light, Double Disc Brake, Hazard Lamp, LED Head Light & Tail Light, Pass Beam & Engine Cut-Off"
+  },
+  "image": "https://www.yamaha-motor.co.id/uploads/products/featured_image/2023022109421344125G78257.png",
+  "image_credit": "Yamaha Indonesia Motor Manufacturing",
+  "gallery": [
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022011109460957785N29917.jpg",
+    "caption": "Engine 155cc LC4V With VVA",
+    "tag": "Mesin"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022011109460943869J28451.jpg",
+    "caption": "Assist & Slipper Clutch",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022011109460927038X67045.jpg",
+    "caption": "Monocross Suspension",
+    "tag": "Suspensi"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202201110946095976V24147.jpg",
+    "caption": "Wide Tubeless Tire",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022011109460921773L12461.jpg",
+    "caption": "Aluminium Rear Arm",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022011109460929526D78140.jpg",
+    "caption": "Full Digital Speedometer + Shift Timing Light",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022011109460999710P15817.jpg",
+    "caption": "Double Disc Brake",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022011109460913329X7532.jpg",
+    "caption": "Hazard Lamp",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022011109460956059A25048.jpg",
+    "caption": "LED Head Light & Tail Light",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022011109460931261X70129.jpg",
+    "caption": "Pass Beam & Engine Cut-Off",
+    "tag": "Mesin"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2022011109442589529O58043.png",
+    "caption": "Pilihan warna",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2022011109443040020G78018.png",
+    "caption": "Pilihan warna",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/202201110944359935S19728.png",
+    "caption": "Pilihan warna",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2022011109444754536F60179.png",
+    "caption": "Pilihan warna",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.yamaha-motor.co.id/product/vixion/",
+  "checked": "2026-11-03"
+ },
+ {
+  "id": "yamaha-wr155r",
+  "brand": "Yamaha",
+  "name": "WR 155 R",
+  "body": "Trail",
+  "engine": "Bensin",
+  "cc": 155,
+  "price": 41275000,
+  "price_type": "OTR Jakarta (harga rekomendasi)",
+  "variants": [
+   {
+    "name": "WR155R",
+    "price": 41275000
+   }
+  ],
+  "model_year": null,
+  "release": null,
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Yamaha WR155R adalah motor off-road bermesin 155cc Liquid cooled dengan teknologi VVA, dirancang untuk aktivitas adventure maupun berkendara harian. Motor ini dilengkapi suspensi berdiameter 41 mm, rem cakram ganda Wave, dan tangki 8,1 liter.",
+  "specs": {
+   "tenaga": "12,3 kW/10.000 rpm",
+   "torsi": "14,3 Nm/6.500 rpm",
+   "bobot": "134 kg",
+   "tinggi_jok": "880 mm",
+   "tangki": "8,1 liter",
+   "transmisi": "Manual, pola 1-N-2-3-4-5-6",
+   "rem": "Depan 240 mm wave disc; belakang 220 mm wave disc",
+   "suspensi": "Depan telescopic 41 mm; belakang monoshock linked-type monocross dengan gas, oli, dan pre-load adjustable",
+   "ban": "Depan 2,75-21 45P; belakang 4,10-18 59P",
+   "fitur": "Powerfull 155cc Engine with VVA, Hazard Lamp, Dual Purpose Tire With Aluminium Rims, Big Fuel Tank 8,1L, Big Diameter & Long Suspension, LCD Multifunction Speedometer, YZ Stylish Seat, Semi Double Cradle Frame"
+  },
+  "image": "https://www.yamaha-motor.co.id/uploads/products/featured_image/2026012216283431324H51389.png",
+  "image_credit": "Yamaha Indonesia Motor Manufacturing",
+  "gallery": [
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2024010913455042377O44891.jpg",
+    "caption": "Powerfull 155cc Engine with VVA",
+    "tag": "Mesin"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026012216283481477F86839.jpg",
+    "caption": "Hazard Lamp",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026012216283478425A8058.jpg",
+    "caption": "Dual Purpose Tire With Aluminium Rims",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026012216283429646H18042.jpg",
+    "caption": "Big Fuel Tank 8,1L",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026012216283486654Z67307.jpg",
+    "caption": "Big Diameter & Long Suspension",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026012216283426572K3186.jpg",
+    "caption": "Linked-Type Monocross With Gas, Oil & Adjustable Pre Load",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202601221628346001P85692.jpg",
+    "caption": "LCD Multifunction Speedometer",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026012216283477401I97536.jpg",
+    "caption": "Wave Double Disc Brake",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026012216283417931X26736.jpg",
+    "caption": "YZ Stylish Seat",
+    "tag": "Jok dan bagasi"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202401091345502817A62918.jpg",
+    "caption": "Semi Double Cradle Frame",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2026012216212099486L85017.png",
+    "caption": "Pilihan warna",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2026012216212651507H98695.png",
+    "caption": "Pilihan warna",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.yamaha-motor.co.id/product/wr155r/",
+  "checked": "2026-11-03"
+ },
+ {
+  "id": "yamaha-x-ride",
+  "brand": "Yamaha",
+  "name": "X-Ride 125",
+  "body": "Matic",
+  "engine": "Bensin",
+  "cc": 125,
+  "price": 21135000,
+  "price_type": "OTR Jakarta (harga rekomendasi)",
+  "variants": [
+   {
+    "name": "X-Ride 125",
+    "price": 21135000
+   }
+  ],
+  "model_year": null,
+  "release": null,
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Yamaha X-Ride 125 adalah motor matic bergaya adventure dengan mesin Blue Core 125cc, berpendingin udara, dan transmisi V-Belt otomatis. Motor ini dilengkapi lampu LED, sub-tank suspension, serta garansi 5 tahun/50.000 km.",
+  "specs": {
+   "tenaga": "7,0 kW / 8000 rpm",
+   "torsi": "9,6 N.m / 5500 rpm",
+   "bobot": "98 kg",
+   "tinggi_jok": "760 mm",
+   "tangki": "4,2 L",
+   "transmisi": "V-Belt Automatic",
+   "rem": "Depan: Single Disc Brake; Belakang: Drum Brake",
+   "suspensi": "Depan: Teleskopik; Belakang: Unit Swing",
+   "ban": "Depan: 80/80-14MC 43P Tubeless; Belakang: 100/70-14MC 51P Tubeless",
+   "fitur": "Answer Back System, Mesin Blue Core 125cc, 5 Years Warranty, Hazard Light, Bagasi Luas, Adventure Style Seat, Sub-Tank Suspension, Ban Tubeless Dengan Tapak Lebar, LED Head Light With Day Running Light, Speedometer Dengan Eco Indicator, Adventure Handle Style, Teknologi DiASil Cylinder & Forged Piston"
+  },
+  "image": "https://www.yamaha-motor.co.id/uploads/products/featured_image/2025070409402252373C51406.png",
+  "image_credit": "Yamaha Indonesia Motor Manufacturing",
+  "gallery": [
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2023110609320124631W40719.png",
+    "caption": "Answer Back System",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2023110609320133468R76067.png",
+    "caption": "Mesin Blue Core 125cc",
+    "tag": "Mesin"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202311060932018259M60248.png",
+    "caption": "5 Years Warranty",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025070409402227733O38466.jpg",
+    "caption": "Hazard Light",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025070409402224888M48420.jpg",
+    "caption": "Bagasi Luas",
+    "tag": "Jok dan bagasi"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025070409422085374T72831.jpg",
+    "caption": "Adventure Style Seat",
+    "tag": "Jok dan bagasi"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025070409402232182T80942.jpg",
+    "caption": "Sub-Tank Suspension",
+    "tag": "Suspensi"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025070409402285136M34582.jpg",
+    "caption": "Ban Tubeless Dengan Tapak Lebar",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025070409402266953U53902.jpg",
+    "caption": "LED Head Light With Day Running Light",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025070409402268177W61516.jpg",
+    "caption": "Speedometer Dengan Eco Indicator",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025070409402273489A74394.jpg",
+    "caption": "Adventure Handle Style",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2023110609320131993L93841.png",
+    "caption": "Teknologi DiASil Cylinder & Forged Piston",
+    "tag": "Mesin"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2025070409415976337A27649.png",
+    "caption": "Pilihan warna",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2025072208562276568O22561.png",
+    "caption": "Pilihan warna",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2025072208580140423L22332.png",
+    "caption": "Pilihan warna",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.yamaha-motor.co.id/product/x-ride/",
+  "checked": "2026-11-03"
+ },
+ {
+  "id": "yamaha-xmax-connected",
+  "brand": "Yamaha",
+  "name": "XMAX 250",
+  "body": "Matic",
+  "engine": "Bensin",
+  "cc": 250,
+  "price": 70015000,
+  "price_type": "OTR Jakarta (harga rekomendasi)",
+  "variants": [
+   {
+    "name": "XMAX 250 MAX Special Livery",
+    "price": 70415000
+   },
+   {
+    "name": "XMAX 250 TECH MAX",
+    "price": 77410000
+   },
+   {
+    "name": "XMAX 250 Connected",
+    "price": 70015000
+   }
+  ],
+  "model_year": null,
+  "release": null,
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Yamaha XMAX 250 adalah skuter matic 250 cc bermesin Blue Core yang tersedia dalam varian MAX Special Livery, TECH MAX, dan Connected. Motor ini dilengkapi Full LCD Speedometer dengan TFT Infotainment Display dan Traction Control System.",
+  "specs": {
+   "tenaga": "16.8 kW / 7.000 rpm",
+   "torsi": "24.3 Nm / 5.500 rpm",
+   "bobot": "184 kg",
+   "tinggi_jok": "795 mm",
+   "tangki": "13 L",
+   "transmisi": "V-belt Automatic",
+   "rem": "Disc Brake (depan dan belakang)",
+   "suspensi": "Telescopic Fork (depan), Unit Swing (belakang)",
+   "ban": "Depan 120/70-15M/C 56P, Belakang 140/70-14M/C 62P",
+   "fitur": "Full LCD Speedometer dengan TFT Infotainment Display, Emergency Stop Signal, Traction Control System, Yamaha Motorcycle Connect, Smart Key System, Electric Power Socket, Navigation System, Electric Adjustable Screen, Anti-Lock Braking System, Large Underseat Storage With LED Light"
+  },
+  "image": "https://www.yamaha-motor.co.id/uploads/products/featured_image/2025092412293259576G76761.png",
+  "image_credit": "Yamaha Indonesia Motor Manufacturing",
+  "gallery": [
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025092415213828684J18510.jpg",
+    "caption": "Full LCD Speedometer with TFT Infotainment Display",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025092415213886892J43614.jpg",
+    "caption": "Emergency Stop Signal",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025092415213861658N13864.jpg",
+    "caption": "5 Years Warranty",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025092415213866985J45931.jpg",
+    "caption": "Special TECH MAX Handle Grip",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025092415213874759G56228.jpg",
+    "caption": "TECH MAX Emblem",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202509241521383610Y83921.jpg",
+    "caption": "Special TECH MAX Lid Cover",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025092415213891207P98344.jpg",
+    "caption": "Alumunium Footplate",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202509241521389056Z52447.jpg",
+    "caption": "Special TECH MAX Seat",
+    "tag": "Jok dan bagasi"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025092412293267853I98008.jpg",
+    "caption": "Traction Control System",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202312090943572443G53013.jpg",
+    "caption": "Yamaha Motorcycle Connect",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022102102084362585P6943.jpg",
+    "caption": "Blue Core 250 CC",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025092412293236824F48510.jpg",
+    "caption": "Big Fuel Tank Capacity (13 L)",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2024020715364940004E287.jpg",
+    "caption": "All New Led Lightning System With Hazard Lamp",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2024100709282823614Z82332.png",
+    "caption": "Large Underseat Storage With Led Light",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022102102084393903P604.jpg",
+    "caption": "Smart Key System",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2023052514110034772F66172.png",
+    "caption": "Electric Power Socket",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.yamaha-motor.co.id/product/xmax-connected/",
+  "checked": "2026-11-03"
+ },
+ {
+  "id": "yamaha-xsr-155",
+  "brand": "Yamaha",
+  "name": "XSR 155",
+  "body": "Sport",
+  "engine": "Bensin",
+  "cc": 155,
+  "price": 40265000,
+  "price_type": "OTR Jakarta (harga rekomendasi)",
+  "variants": [
+   {
+    "name": "XSR 155",
+    "price": 40265000
+   },
+   {
+    "name": "XSR 155 70th Livery",
+    "price": 40665000
+   }
+  ],
+  "model_year": null,
+  "release": null,
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Yamaha XSR 155 adalah motor sport bergaya klasik dengan mesin 155cc LC4V VVA, tersedia dalam varian XSR 155 dan XSR 155 70th Livery. Harga rekomendasi OTR Jakarta dimulai dari Rp 40.265.000.",
+  "specs": {
+   "tenaga": "14,2 kW/10.000 rpm",
+   "torsi": "14,7 Nm/8.500 rpm",
+   "bobot": "134 kg",
+   "tinggi_jok": "810 mm",
+   "tangki": "10,4 liter",
+   "transmisi": "Manual, pola 1-N-2-3-4-5-6",
+   "rem": "Disc Brake depan dan belakang",
+   "suspensi": "Depan: Telescopic Fork (Inverted); Belakang: Link Monoshock",
+   "ban": "Depan 110/70-17M/C (54S); Belakang 140/70-17M/C (66S)",
+   "fitur": "Full LCD Digital Speedometer, LED Head Light, LED Tail Light, Dual Purpose Tire, Single Seat Heritage, Mesin 155cc LC4V with VVA"
+  },
+  "image": "https://www.yamaha-motor.co.id/uploads/products/featured_image/2025012015110954865E18335.png",
+  "image_credit": "Yamaha Indonesia Motor Manufacturing",
+  "gallery": [
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025012015110992794C309.jpg",
+    "caption": "Timeless Quality Impression",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202501201511093926Y16591.jpg",
+    "caption": "Dual Purpose Tire",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025012015110959657I36911.jpg",
+    "caption": "Full LCD Digital Speedometer",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202501201511091874G17291.jpg",
+    "caption": "LED Head Light",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025012015110959812Q61349.jpg",
+    "caption": "LED Tail Light",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2025012015110978578N68389.jpg",
+    "caption": "Single Seat Heritage",
+    "tag": "Jok dan bagasi"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202501201511099285C46222.jpg",
+    "caption": "155cc LC4V With VVA Engine",
+    "tag": "Mesin"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2026012212283641750K65588.png",
+    "caption": "Pilihan warna",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2025012015091380240D96357.png",
+    "caption": "Pilihan warna",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2022122614535230076F30677.png",
+    "caption": "Pilihan warna",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2025012015100168918C54101.png",
+    "caption": "Pilihan warna",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.yamaha-motor.co.id/product/xsr-155/",
+  "checked": "2026-11-03"
+ },
+ {
+  "id": "yamaha-yz125x",
+  "brand": "Yamaha",
+  "name": "YZ125X",
+  "body": "Motocross",
+  "engine": "Bensin",
+  "cc": 125,
+  "price": 99800000,
+  "price_type": "OTR Jakarta (harga rekomendasi)",
+  "variants": [
+   {
+    "name": "YZ125X Blue",
+    "price": 99800000
+   }
+  ],
+  "model_year": null,
+  "release": null,
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Yamaha YZ125X adalah motor cross country 125cc 2 langkah dengan suspensi KYB yang dapat diatur penuh dan rangka aluminium ringan untuk kompetisi. Harga rekomendasi off the road varian Blue adalah Rp 99.800.000.",
+  "specs": {
+   "bobot": "95 kg (wet weight)",
+   "tinggi_jok": "955 mm (37.6 in)",
+   "tangki": "7.9 liter (2.1 gal)",
+   "transmisi": "6 percepatan, multiplate wet clutch",
+   "rem": "Hidrolik disc depan 270 mm, belakang 245 mm",
+   "suspensi": "Depan KYB spring-type fork, fully adjustable, travel 11.8 in; belakang KYB single shock, fully adjustable, travel 12.4 in",
+   "ban": "Depan 90/90-21 Dunlop Geomax AT81F; belakang 110/90-18 Dunlop Geomax AT81",
+   "fitur": "Suspensi KYB kelas industri, rangka aluminium ringan, handle-bar aluminium, footstep YZ-F series, rantai sealed O-ring, protector spakbor depan dan rem belakang"
+  },
+  "image": "https://www.yamaha-motor.co.id/uploads/products/featured_image/202606031052219193A.png",
+  "image_credit": "Yamaha Indonesia Motor Manufacturing",
+  "gallery": [
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022060814312668221F73810.jpg",
+    "caption": "Industry-Leading Suspension",
+    "tag": "Suspensi"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/202206081431262894K8319.jpg",
+    "caption": "Specific Features",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022060814312674109U32476.jpg",
+    "caption": "Racing Style and Ergonomics",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022060814312631146A1294.jpg",
+    "caption": "Two-Stroke Agility: Tuned for Cross Country",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022060814312696770K65783.jpg",
+    "caption": "Lightweight Aluminum Frame",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2026060310515421581Q19732.png",
+    "caption": "Pilihan warna",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.yamaha-motor.co.id/product/yz125x/",
+  "checked": "2026-11-03"
+ },
+ {
+  "id": "yamaha-yz250fx",
+  "brand": "Yamaha",
+  "name": "YZ250FX",
+  "body": "Motocross",
+  "engine": "Bensin",
+  "cc": 250,
+  "price": 140000000,
+  "price_type": "OTR Jakarta (harga rekomendasi)",
+  "variants": [
+   {
+    "name": "YZ250FX (Blue)",
+    "price": 140000000
+   }
+  ],
+  "model_year": null,
+  "release": null,
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Yamaha YZ250FX adalah motor cross country berkapasitas 250 cc dengan mesin DOHC 4-tak berpendingin cairan. Motor ini dirancang untuk kompetisi dan performa tinggi, dengan rangka aluminium dan fitur Power Tuner App.",
+  "specs": {
+   "bobot": "111 kg (wet weight)",
+   "tinggi_jok": "955 mm (37,6 in)",
+   "tangki": "8,2 liter",
+   "transmisi": "6 percepatan; multiplate wet clutch; final drive rantai",
+   "rem": "Hydraulic disc depan 270 mm; belakang 245 mm",
+   "suspensi": "Depan: KYB spring-type fork, fully adjustable, travel 12,2 in; Belakang: KYB single shock, fully adjustable, travel 12,5 in",
+   "ban": "Depan 80/100-21 Dunlop Geomax MX33F; belakang 110/90-18 Dunlop Geomax MX33",
+   "fitur": "Power Tuner App, elektrik starter, rangka aluminium, skid plate, injeksi Mikuni 44 mm, ground clearance 320 mm"
+  },
+  "image": "https://www.yamaha-motor.co.id/uploads/products/featured_image/202606031050479381F.png",
+  "image_credit": "Yamaha Indonesia Motor Manufacturing",
+  "gallery": [
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022060910490123316E84551.jpg",
+    "caption": "High Performance Four-Stroke Engine",
+    "tag": "Mesin"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022060910490168865S51154.jpg",
+    "caption": "All-New Cross Country Racer",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022060910490126918O47451.jpg",
+    "caption": "Precisely Tuned Chassis",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022060910490114714T98842.jpg",
+    "caption": "Innovative Yamaha Power Tuner App",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022060910490199143E44870.jpg",
+    "caption": "Cross Country Features",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2026060310504041210L92658.png",
+    "caption": "Pilihan warna",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.yamaha-motor.co.id/product/yz250fx/",
+  "checked": "2026-11-03"
+ },
+ {
+  "id": "yamaha-yz250x",
+  "brand": "Yamaha",
+  "name": "YZ250X",
+  "body": "Motocross",
+  "engine": "Bensin",
+  "cc": 249,
+  "price": 132000000,
+  "price_type": "OTR Jakarta (harga rekomendasi)",
+  "variants": [
+   {
+    "name": "YZ250X",
+    "price": 132000000
+   }
+  ],
+  "model_year": null,
+  "release": null,
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Yamaha YZ250X adalah motor cross country 2 langkah 249cc dengan gaya racing dan ergonomi penuh untuk kompetisi off-road. Harga rekomendasi off the road Rp 132.000.000.",
+  "specs": {
+   "bobot": "104 kg (229 lb), wet weight",
+   "tinggi_jok": "970 mm (38.2 in)",
+   "tangki": "7.9 liter (2.1 gal)",
+   "transmisi": "Constant-mesh 5 percepatan, multiplate wet clutch, final drive rantai",
+   "rem": "Hydraulic disc depan 270 mm, belakang 245 mm",
+   "suspensi": "KYB Speed-Sensitive System inverted fork depan (11.8 in), KYB single shock belakang (12.4 in), fully adjustable",
+   "ban": "Depan 90/90-21 Dunlop Geomax AT81F, belakang 110/90-18 Dunlop Geomax AT81",
+   "fitur": "Racing style dan full ergonomics, rangka motocross-derived, rantai sealed O-ring, pelindung spakbor depan, alumunium handle bar, footstep tipe YZ-F series"
+  },
+  "image": "https://www.yamaha-motor.co.id/uploads/products/featured_image/202606031053343044T.png",
+  "image_credit": "Yamaha Indonesia Motor Manufacturing",
+  "gallery": [
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022060910143841423V22280.jpg",
+    "caption": "Racing Style and Full Ergonomics",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022060910143812244X77846.jpg",
+    "caption": "Specific Features",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022060910143868950D57032.jpg",
+    "caption": "270mm Front Brake",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022060910143846233Y6635.jpg",
+    "caption": "Advanced Motocross-Derived Chassis",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2022060910143816712E68584.jpg",
+    "caption": "Stunning Two-Stroke Power:  Tuned for Cross Country",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2026060310532432856X70087.png",
+    "caption": "Pilihan warna",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.yamaha-motor.co.id/product/yz250x/",
+  "checked": "2026-11-03"
+ }
+]

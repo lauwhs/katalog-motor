@@ -6258,5 +6258,2305 @@
    }
   ],
   "dicek": "2026-11-02"
+ },
+ "honda-genio": {
+  "specs": {
+   "tenaga": {
+    "value": "6,6 kW (9,0 PS) pada 7.500 rpm",
+    "source": "https://www.hondacengkareng.com/motor/honda-genio/"
+   },
+   "torsi": {
+    "value": "9,3 Nm pada 5.500 rpm",
+    "source": "https://www.hondanusantarajaya.com/fitur-dan-spesifikasi-genio/"
+   },
+   "bobot": {
+    "value": "89 kg (tipe CBS), 90 kg (tipe CBS-ISS)",
+    "source": "https://www.motorhondasurabaya.com/produk/genio/"
+   },
+   "tinggi_jok": {
+    "value": "744 mm",
+    "source": "https://www.hondacengkareng.com/motor/honda-genio/"
+   },
+   "tangki": {
+    "value": "4,2 liter",
+    "source": "https://www.motorhondasurabaya.com/produk/genio/"
+   },
+   "transmisi": {
+    "value": "Otomatis tipe V-Matic",
+    "source": "https://www.hondanusantarajaya.com/fitur-dan-spesifikasi-genio/"
+   },
+   "rem": {
+    "value": "Depan cakram hidrolik piston tunggal, belakang tromol, dilengkapi sistem Combi Brake",
+    "source": "https://www.motorhondasurabaya.com/produk/genio/"
+   },
+   "suspensi": {
+    "value": "Depan teleskopik, belakang swing arm dengan suspensi tunggal",
+    "source": "https://www.motorhondasurabaya.com/produk/genio/"
+   },
+   "ban": {
+    "value": "Tubeless 100/90-12 depan dan 110/90-12 belakang",
+    "source": "https://www.hondacengkareng.com/motor/honda-genio/"
+   },
+   "fitur": {
+    "value": "Panel meter digital dengan indikator eco, lampu LED, power charger di rak depan, pengaman kunci kontak dengan tombol pembuka jok, bagasi 14 liter, ISS pada varian tertentu",
+    "source": "https://www.hondanusantarajaya.com/fitur-dan-spesifikasi-genio/"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Moladin",
+    "url": "https://moladin.com/blog/plus-minus-honda-genio-cbs-iss-minimalis-tapi-modern/",
+    "kelebihan": [
+     "Harga dinilai terjangkau dibanding Scoopy",
+     "Panel instrumen digital meski berbentuk minimalis",
+     "Konsumsi BBM dinilai irit"
+    ],
+    "kekurangan": [
+     "Lampu belakang masih memakai bohlam, belum LED",
+     "Tarikan di putaran bawah terasa loyo"
+    ]
+   },
+   {
+    "media": "Oto.com",
+    "url": "https://www.oto.com/motor-baru/honda/genio/faq/apa-kelebihan-dan-kekurangan-honda-genio",
+    "kelebihan": [
+     "Pengendalian mudah dan lincah",
+     "Konsumsi bahan bakar irit berkat mesin baru",
+     "Pilihan warna cukup banyak"
+    ],
+    "kekurangan": [
+     "Rangka eSAF masih menuai pro dan kontra",
+     "Output mesin dinilai lebih kecil dibanding Scoopy",
+     "Panel meter digital terlalu kecil dan monokrom",
+     "Lampu LED hanya terdapat di headlight"
+    ]
+   }
+  ],
+  "dicek": "2026-11-03"
+ },
+ "honda-cbr1000rr-r-2": {
+  "specs": {
+   "tenaga": {
+    "value": "Sekitar 215 dk (214,5 hp) pada 14.500 rpm",
+    "source": "https://www.oto.com/en/motor-baru/honda/cbr1000rr-r/spesifikasi"
+   },
+   "torsi": {
+    "value": "113 Nm pada 12.500 rpm",
+    "source": "https://www.mpmhondajatim.com/berita/desain-eksklusif-ini-spesifikasi-hingga-harga-honda-cbr-1000rr-r"
+   },
+   "bobot": {
+    "value": "201 kg",
+    "source": "https://www.oto.com/en/motor-baru/honda/cbr1000rr-r"
+   },
+   "tinggi_jok": {
+    "value": "830 mm",
+    "source": "https://www.oto.com/en/motor-baru/honda/cbr1000rr-r/spesifikasi"
+   },
+   "tangki": {
+    "value": "16,1 liter",
+    "source": "https://www.mpmhondajatim.com/berita/desain-eksklusif-ini-spesifikasi-hingga-harga-honda-cbr-1000rr-r"
+   },
+   "transmisi": {
+    "value": "Manual 6 percepatan dengan quickshifter",
+    "source": "https://www.motorkux.id/motor-baru-honda/p/bp-cbr1000rr-r"
+   },
+   "rem": {
+    "value": "Cakram depan 330 mm dengan kaliper Brembo 4 piston; cakram belakang 220 mm, ABS",
+    "source": "https://www.motorkux.id/motor-baru-honda/p/bp-cbr1000rr-r"
+   },
+   "suspensi": {
+    "value": "Garpu teleskopik terbalik Öhlins NPX Smart-EC dengan pengaturan preload, kompresi, rebound",
+    "source": "https://www.motorkux.id/motor-baru-honda/p/bp-cbr1000rr-r"
+   },
+   "ban": {
+    "value": "Depan 120/70ZR-17, belakang 200/55ZR-17",
+    "source": "https://www.motorkux.id/motor-baru-honda/p/bp-cbr1000rr-r"
+   },
+   "fitur": {
+    "value": "Layar digital, cruise control, traction control, launch control, immobilizer, mode Road-Rain-Race-Sport",
+    "source": "https://www.zigwheels.co.id/motor-baru/honda/cbr1000rr-r/spesifikasi/"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Otomotifnet (GridOto)",
+    "url": "https://otomotifnet.gridoto.com/read/232475817/honda-cbr1000rr-r-fireblade-sp-dijajal-tayang-di-otomotif-tv",
+    "kelebihan": [
+     "Klaim tenaga maksimal sekitar 215 dk, disebut paling bertenaga di kelas big bike 1.000 cc Jepang",
+     "Mesin benar-benar baru, dikembangkan dengan konsep RC213V-S"
+    ],
+    "kekurangan": []
+   },
+   {
+    "media": "Otomotif TV (GridOto)",
+    "url": "https://otomotifnet.gridoto.com/video/detail/4499/bikin-gemetar-sekencang-ini-honda-cbr1000rr-r-fireblade-otomotif-tv",
+    "kelebihan": [
+     "Tenaga maksimal sekitar 215 dk, disebut terbesar di antara superbike 1 liter pabrikan Jepang",
+     "Di gigi 1 kecepatan bisa tembus lebih dari 180 km/jam"
+    ],
+    "kekurangan": []
+   }
+  ],
+  "dicek": "2026-11-03"
+ },
+ "yamaha-all-new-aerox155-connected": {
+  "specs": {
+   "tenaga": {
+    "value": "11,3 kW pada 8.000 rpm",
+    "source": "https://www.yamahabrm.co.id/product/all-new-aerox155-connected"
+   },
+   "torsi": {
+    "value": "13,9 Nm pada 6.500 rpm",
+    "source": "https://www.yamahabrm.co.id/product/all-new-aerox155-connected"
+   },
+   "bobot": {
+    "value": "122 kg (versi standar), 125 kg (versi ABS)",
+    "source": "https://www.yamahabrm.co.id/product/all-new-aerox155-connected"
+   },
+   "tinggi_jok": {
+    "value": "790 mm",
+    "source": "https://www.yamahabrm.co.id/product/all-new-aerox155-connected"
+   },
+   "tangki": {
+    "value": "5,5 liter",
+    "source": "https://www.yamahabrm.co.id/product/all-new-aerox155-connected"
+   },
+   "transmisi": {
+    "value": "Otomatis tipe V-belt",
+    "source": "https://www.yamahabrm.co.id/product/all-new-aerox155-connected"
+   },
+   "rem": {
+    "value": "Depan cakram, belakang tromol (drum)",
+    "source": "https://www.yamahabrm.co.id/product/all-new-aerox155-connected"
+   },
+   "suspensi": {
+    "value": "Depan telescopic fork, belakang tipe swing",
+    "source": "https://www.zigwheels.co.id/en/motor-baru/yamaha/aerox-connected/spesifikasi/"
+   },
+   "ban": {
+    "value": "Belakang 140/70-14 M/C 62P; ukuran ban depan tidak tercantum",
+    "source": "https://www.yamahabrm.co.id/product/all-new-aerox155-connected"
+   },
+   "fitur": {
+    "value": "Konektivitas Y-Connect via Bluetooth, varian ABS, Stop and Start System, speedometer digital",
+    "source": "https://www.summitotofinance.com/news/detail/yamaha-resmi-luncurkan-all-new-aerox-155-connected-di-indonesia"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Moladin",
+    "url": "https://moladin.com/news/perbedaan-yamaha-aerox-155-baru-vs-lama/",
+    "kelebihan": [
+     "Banyak fitur modern, termasuk konektivitas dengan smartphone",
+     "Mesin dinilai lebih bertenaga dibanding generasi lama"
+    ],
+    "kekurangan": [
+     "Bobot lebih berat sekitar 6 sampai 9 kg dari model lama",
+     "Belum memakai rem cakram di roda belakang",
+     "Tidak ada traction control system",
+     "Harga jual terhitung naik"
+    ]
+   },
+   {
+    "media": "CNN Indonesia",
+    "url": "https://www.cnnindonesia.com/hiburan/20231123145853-305-1028082/intip-keunggulan-yamaha-aerox-connected-pionir-baru-matik-sporty",
+    "kelebihan": [
+     "Desain sporty menjadi daya jual utama",
+     "Terhubung ke smartphone lewat aplikasi Y-Connect",
+     "Mesin 155 cc dengan VVA dinilai meningkatkan kinerja"
+    ],
+    "kekurangan": [
+     "Rem belakang masih tromol meski rasio daya terbaik di kelasnya",
+     "Isu suspensi sudah lama dibicarakan",
+     "Kapasitas kompartemen penyimpanan terbatas",
+     "Tidak ada TCS karena rem belakang bukan cakram"
+    ]
+   },
+   {
+    "media": "Oto.com",
+    "url": "https://www.oto.com/berita-motor/bedah-kelebihan-dan-kekurangan-all-new-yamaha-aerox-seberapa-layak-dibeli",
+    "kelebihan": [
+     "Fitur rank di aplikasi Y-Connect untuk adu jarak tempuh dan eco riding",
+     "Mesin baru Blue Core 155 cc dengan VVA"
+    ],
+    "kekurangan": [
+     "Belum ada informasi perubahan pada suspensi depan",
+     "Power socket tetap perlu adaptor tambahan untuk mengisi gawai",
+     "Tidak dilengkapi Traction Control System"
+    ]
+   }
+  ],
+  "dicek": "2026-11-03"
+ },
+ "yamaha-all-new-nmax155-connected": {
+  "specs": {
+   "tenaga": {
+    "value": "11,3 kW pada 8.000 rpm",
+    "source": "https://yamahasumbermas.co.id/maxi/all-new-nmax-155-standart/"
+   },
+   "torsi": {
+    "value": "13,9 Nm pada 6.500 rpm",
+    "source": "https://yamahasumbermas.co.id/maxi/all-new-nmax-155-standart/"
+   },
+   "bobot": {
+    "value": "130 kg (tipe Standard), 132 kg (tipe Connected/ABS)",
+    "source": "https://yamahasumbermas.co.id/maxi/all-new-nmax-155-standart/"
+   },
+   "tinggi_jok": {
+    "value": "765 mm",
+    "source": "https://yamahasumbermas.co.id/maxi/all-new-nmax-155-standart/"
+   },
+   "tangki": {
+    "value": "7,1 liter",
+    "source": "https://yamahasumbermas.co.id/maxi/all-new-nmax-155-standart/"
+   },
+   "transmisi": {
+    "value": "Otomatis CVT",
+    "source": "https://moladin.com/news/yamaha-nmax-155-harga-spesifikasi-dan-fitur/"
+   },
+   "rem": {
+    "value": "Cakram hidraulik tunggal di depan dan belakang",
+    "source": "https://yamahasumbermas.co.id/maxi/all-new-nmax-155-standart/"
+   },
+   "suspensi": {
+    "value": "Teleskopik di depan, unit swing di belakang",
+    "source": "https://yamahasumbermas.co.id/maxi/all-new-nmax-155-standart/"
+   },
+   "ban": {
+    "value": "Depan 110/70-13, belakang 130/70-13",
+    "source": "https://yamahasumbermas.co.id/maxi/all-new-nmax-155-standart/"
+   },
+   "fitur": {
+    "value": "Mesin Blue Core VVA berpendingin cairan, Stop & Start System, Y-Connect, TCS, ABS dual-channel, Smart Motor Generator",
+    "source": "https://donnysmotor.com/products/yamaha-all-new-nmax-155/"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Autofun",
+    "url": "https://www.autofun.co.id/berita-motor/sebelum-beli-pahami-kelebihan-dan-kekurangan-all-new-yamaha-nmax-155-2020-6333",
+    "kelebihan": [
+     "Kubikasi 155 cc dinilai lebih besar dibanding pesaing di kelasnya",
+     "Versi Connected/ABS sudah memakai kunci smart key",
+     "Tombol kontrol di setang dinilai sudah tersedia, tidak seperti pesaing",
+     "Posisi berkendara dinilai nyaman bagi pengendara"
+    ],
+    "kekurangan": [
+     "Dari sisi fitur, versi standar dinilai kalah dari Honda PCX termurah"
+    ]
+   },
+   {
+    "media": "Hops.id",
+    "url": "https://www.hops.id/ototekno/29412196410/3-kekurangan-yamaha-all-new-nmax-155-yang-harus-diperhatikan-sebelum-memutuskan-membelinya",
+    "kelebihan": [],
+    "kekurangan": [
+     "Panel speedometer LCD hitam-putih dinilai kurang modern",
+     "Lampu sein masih memakai bohlam konvensional, belum LED",
+     "Shock breaker dinilai keras saat melewati polisi tidur"
+    ]
+   }
+  ],
+  "dicek": "2026-11-03"
+ },
+ "yamaha-all-new-r15-connected": {
+  "specs": {
+   "tenaga": {
+    "value": "14,2 kW pada 10.000 rpm",
+    "source": "https://www.yamahabrm.co.id/news/ulasan-spesifikasi-dan-harga-all-new-r15-connected-r15m-connected-abs-agustus-2026-motor-sport-paling-canggih-untuk-pecinta-kecepatan"
+   },
+   "torsi": {
+    "value": "14,7 Nm pada 8.500 rpm",
+    "source": "https://www.yamahabrm.co.id/news/ulasan-spesifikasi-dan-harga-all-new-r15-connected-r15m-connected-abs-agustus-2026-motor-sport-paling-canggih-untuk-pecinta-kecepatan"
+   },
+   "bobot": {
+    "value": "137 kg (R15 Connected), 140 kg (R15M Connected/ABS)",
+    "source": "https://www.yamahabrm.co.id/news/ulasan-spesifikasi-dan-harga-all-new-r15-connected-r15m-connected-abs-agustus-2026-motor-sport-paling-canggih-untuk-pecinta-kecepatan"
+   },
+   "tinggi_jok": {
+    "value": "815 mm",
+    "source": "https://www.yamahabrm.co.id/news/ulasan-spesifikasi-dan-harga-all-new-r15-connected-r15m-connected-abs-agustus-2026-motor-sport-paling-canggih-untuk-pecinta-kecepatan"
+   },
+   "tangki": {
+    "value": "11 liter",
+    "source": "https://www.yamahabrm.co.id/news/ulasan-spesifikasi-dan-harga-all-new-r15-connected-r15m-connected-abs-agustus-2026-motor-sport-paling-canggih-untuk-pecinta-kecepatan"
+   },
+   "transmisi": {
+    "value": "Manual 6 percepatan, pola 1-N-2-3-4-5-6, kopling multi-plate basah dengan assist dan slipper",
+    "source": "https://www.yamahabrm.co.id/news/ulasan-spesifikasi-dan-harga-all-new-r15-connected-r15m-connected-abs-agustus-2026-motor-sport-paling-canggih-untuk-pecinta-kecepatan"
+   },
+   "rem": {
+    "value": "Cakram depan dan belakang, ABS dual channel",
+    "source": "https://www.yamaha-motor.co.id/product/all-new-R15-connected/"
+   },
+   "suspensi": {
+    "value": "Depan telescopic inverted (USD), belakang link monoshock",
+    "source": "https://www.yamaha-motor.co.id/product/all-new-R15-connected/"
+   },
+   "ban": {
+    "value": "Depan 100/80-17 M/C 52P, belakang 140/70-17 M/C 66S",
+    "source": "https://www.yamaha-motor.co.id/product/all-new-R15-connected/"
+   },
+   "fitur": {
+    "value": "Rangka Deltabox, VVA, traction control, dual channel ABS, quick shifter (R15M), Y-Connect, speedometer Track/Street Mode, lampu LED projector",
+    "source": "https://www.yamahabrm.co.id/news/ulasan-spesifikasi-dan-harga-all-new-r15-connected-r15m-connected-abs-agustus-2026-motor-sport-paling-canggih-untuk-pecinta-kecepatan"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Oto.com",
+    "url": "https://www.oto.com/motor-baru/yamaha/r15-connected/faq/apa-kelebihan-dan-kekurangan-yamaha-r15-connected",
+    "kelebihan": [
+     "Perubahan menyeluruh dibanding generasi sebelumnya",
+     "Fitur lengkap, melampaui kelasnya",
+     "Pilihan warna baru yang lebih cerah"
+    ],
+    "kekurangan": [
+     "Karakter suspensi terasa keras",
+     "Bobot motor tergolong berat dibanding pesaing"
+    ]
+   },
+   {
+    "media": "Autofun",
+    "url": "https://www.autofun.co.id/berita-motor/sebelum-membeli-simak-kelebihan-dan-kekurangan-all-new-yamaha-r15-6302",
+    "kelebihan": [
+     "Rangka deltabox menjadi keunggulan utama",
+     "Satu-satunya motor 150cc kelas sport dengan VVA",
+     "Suspensi upside down hanya ada di kelasnya"
+    ],
+    "kekurangan": [
+     "Belum memakai sistem keyless ignition",
+     "Penempatan nomor pelat di atas headlamp dikeluhkan",
+     "Bobot 137 kg lebih berat dari pesaing"
+    ]
+   },
+   {
+    "media": "MUF Online Autoshow",
+    "url": "https://moas.muf.co.id/news/yamaha-all-new-r15-connected-best-sport-fairing-di-kelasnya",
+    "kelebihan": [
+     "Top speed naik dari 143 ke 148 km/jam",
+     "R15M sudah punya quick shifter",
+     "R15M memiliki dual ABS dan traction control"
+    ],
+    "kekurangan": [
+     "Posisi berkendara kurang nyaman untuk perjalanan jauh"
+    ]
+   }
+  ],
+  "dicek": "2026-11-03"
+ },
+ "yamaha-fazzio": {
+  "specs": {
+   "tenaga": {
+    "value": "6,2 kW pada 6.500 rpm",
+    "source": "https://www.yamaha-motor.co.id/product/fazzio/"
+   },
+   "torsi": {
+    "value": "10,6 Nm pada 4.500 rpm",
+    "source": "https://www.yamaha-motor.co.id/product/fazzio/"
+   },
+   "bobot": {
+    "value": "95 kg",
+    "source": "https://www.oto.com/en/motor-baru/yamaha/fazzio/hybrid"
+   },
+   "tinggi_jok": {
+    "value": "750 mm",
+    "source": "https://www.oto.com/en/motor-baru/yamaha/fazzio/hybrid"
+   },
+   "tangki": {
+    "value": "5,1 liter",
+    "source": "https://www.idntimes.com/automotive/motorbike/yamaha-fazzio-hybrid-125-spesifikasi-harga-dan-fitur-00-kkx41-06tymm"
+   },
+   "transmisi": {
+    "value": "V-Belt otomatis",
+    "source": "https://www.yamaha-motor.co.id/product/fazzio/"
+   },
+   "rem": {
+    "value": "Cakram di depan, tromol di belakang",
+    "source": "https://www.oto.com/en/motor-baru/yamaha/fazzio/hybrid"
+   },
+   "suspensi": {
+    "value": "Teleskopik di depan, unit swing di belakang",
+    "source": "https://www.idntimes.com/automotive/motorbike/yamaha-fazzio-hybrid-125-spesifikasi-harga-dan-fitur-00-kkx41-06tymm"
+   },
+   "ban": {
+    "value": "110/70-12 depan dan belakang",
+    "source": "https://www.idntimes.com/automotive/motorbike/yamaha-fazzio-hybrid-125-spesifikasi-harga-dan-fitur-00-kkx41-06tymm"
+   },
+   "fitur": {
+    "value": "Blue Core Hybrid, USB power socket, double hook carabiner, Y-Connect (Neo/Lux), Smart Key (Lux)",
+    "source": "https://www.yamaha-motor.co.id/product/fazzio/"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Carmudi",
+    "url": "https://www.carmudi.co.id/journal/harga-yamaha-fazzio-hybrid-review-spesifikasi-dan-kelebihan-kekurangan/",
+    "kelebihan": [
+     "Teknologi hybrid dinilai menunjang performa motor"
+    ],
+    "kekurangan": [
+     "Setelan kaki-kaki disebut cenderung keras"
+    ]
+   },
+   {
+    "media": "Motorexpertz",
+    "url": "https://www.motorexpertz.com/read/36037/kelebihan-dan-kekurangan-yamaha-fazzio-hybrid-2026-worth-it-dibeli/15",
+    "kelebihan": [
+     "Hybrid dinilai membantu hemat bahan bakar",
+     "Bagasi dinilai luas dan praktis",
+     "Y-Connect dan power socket dinilai unggul"
+    ],
+    "kekurangan": [
+     "Bantuan hybrid hanya bekerja sekitar tiga detik awal",
+     "Lampu sein masih memakai bohlam biasa",
+     "Suspensi belakang dinilai agak keras",
+     "Dek kaki dinilai kurang luas untuk pengendara tinggi"
+    ]
+   },
+   {
+    "media": "Pikiran Rakyat (Suara Flores)",
+    "url": "https://flotim.pikiran-rakyat.com/otomotif/pr-36610073317/review-yamaha-fazzio-2026-spesifikasi-mesin-hybrid-update-harga-serta-kelebihan-dan-kekurangannya?page=all",
+    "kelebihan": [
+     "Y-Connect memantau status servis dan lokasi parkir",
+     "Bagasi bawah jok 17,8 liter dinilai memadai"
+    ],
+    "kekurangan": [
+     "Roda berukuran kecil membuat getaran jalan terasa di stang"
+    ]
+   }
+  ],
+  "dicek": "2026-11-03"
+ },
+ "yamaha-freego-125": {
+  "specs": {
+   "tenaga": {
+    "value": "7,0 kW pada 8.000 rpm",
+    "source": "https://yamahasumbermas.co.id/matic/freego-125-connected/"
+   },
+   "torsi": {
+    "value": "9,5 Nm pada 5.500 rpm",
+    "source": "https://yamahasumbermas.co.id/matic/freego-125-connected/"
+   },
+   "bobot": {
+    "value": "102 kg (varian Connected)",
+    "source": "https://www.yamaha-motor.co.id/product/freego-125/"
+   },
+   "tinggi_jok": {
+    "value": "780 mm",
+    "source": "https://www.yamaha-mekar.com/product/freego-s-connected/"
+   },
+   "tangki": {
+    "value": "4,2 liter",
+    "source": "https://www.yamaha-mekar.com/product/freego-s-connected/"
+   },
+   "transmisi": {
+    "value": "V-belt otomatis, kopling sentrifugal kering",
+    "source": "https://yamahasumbermas.co.id/matic/freego-125-connected/"
+   },
+   "rem": {
+    "value": "Depan cakram (disc), belakang tromol (drum)",
+    "source": "https://yamahasumbermas.co.id/matic/freego-125-connected/"
+   },
+   "suspensi": {
+    "value": "Depan telescopic fork, belakang unit swing",
+    "source": "https://yamahasumbermas.co.id/matic/freego-125-connected/"
+   },
+   "ban": {
+    "value": "Depan 100/90-12 tubeless, belakang 110/90-12 tubeless",
+    "source": "https://yamahasumbermas.co.id/matic/freego-125-connected/"
+   },
+   "fitur": {
+    "value": "Y-Connect, Smart Key System, Stop & Start System, Smart Front Refuel, bagasi 25 liter, Electric Power Socket, lampu LED",
+    "source": "https://otomotifnet.gridoto.com/read/234367560/harga-terbaru-yamaha-freego-125-tahun-2026-tipe-tertingginya-segini"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "MUF Online Autoshow",
+    "url": "https://moas.muf.co.id/news/yamaha-freego-125-connected-matic-mid-level-serba-bisa",
+    "kelebihan": [
+     "Mesin irit bahan bakar dengan performa dinilai memuaskan",
+     "Konsumsi BBM disebut sekitar 45 km per liter",
+     "Desain bodi ergonomis dan kenyamanan berkendara baik",
+     "Terhubung ke smartphone lewat aplikasi Y-Connect"
+    ],
+    "kekurangan": [
+     "Fitur ABS tidak tersedia, berbeda dari generasi sebelumnya"
+    ]
+   },
+   {
+    "media": "OTOMOTIF (myedisi)",
+    "url": "https://www.myedisi.com/otomotif/5524/17853/yamaha-freego-125-connected",
+    "kelebihan": [
+     "Dimensi dinilai sesuai postur rata-rata orang Indonesia",
+     "Tinggi jok 780 mm tergolong mudah dijangkau",
+     "Setang cukup tinggi sehingga nyaman untuk pengendara sekitar 175 cm"
+    ],
+    "kekurangan": [
+     "Ruang dek kaki terasa pas-pasan untuk sepatu ukuran 43-44"
+    ]
+   },
+   {
+    "media": "Otoinfo.id",
+    "url": "https://otoinfo.id/review-kelebihan-dan-kekurangan-yamaha-freego-125/",
+    "kelebihan": [
+     "Mesin irit bahan bakar dan akselerasi dinilai cepat",
+     "Desain bodi ergonomis dan modern",
+     "Fitur Y-Connect, smart key, dan start-stop system"
+    ],
+    "kekurangan": [
+     "Tidak ada pilihan varian yang dilengkapi ABS"
+    ]
+   }
+  ],
+  "dicek": "2026-11-03"
+ },
+ "yamaha-gear-125": {
+  "specs": {
+   "tenaga": {
+    "value": "7,0 kW pada 8.000 rpm",
+    "source": "https://www.yamahabrm.co.id/product/Gear-125"
+   },
+   "torsi": {
+    "value": "9,5 Nm pada 5.500 rpm",
+    "source": "https://www.yamahabrm.co.id/product/Gear-125"
+   },
+   "bobot": {
+    "value": "95 kg (Standard), 96 kg (S Version)",
+    "source": "https://www.zigwheels.co.id/motovaganza/cari-tahu-keunggulan-dan-kekurangan-yamaha-gear-125-sebelum-membelinya/"
+   },
+   "tinggi_jok": {
+    "value": "750 mm",
+    "source": "https://www.zigwheels.co.id/motovaganza/cari-tahu-keunggulan-dan-kekurangan-yamaha-gear-125-sebelum-membelinya/"
+   },
+   "tangki": {
+    "value": "4,2 liter",
+    "source": "https://oto.detik.com/motor/d-7023382/harga-dan-spesifikasi-yamaha-gear-125-motor-matik-dengan-gaya-kekinian"
+   },
+   "transmisi": {
+    "value": "V-Belt otomatis (CVT)",
+    "source": "https://www.yamahabrm.co.id/product/Gear-125"
+   },
+   "rem": {
+    "value": "Depan cakram, belakang tromol",
+    "source": "https://www.autoini.com/motor-baru/yamaha-gear-125-2024-harga-terbaru-spesifikasi-di-indonesia-autoini/"
+   },
+   "ban": {
+    "value": "Tubeless; depan 80/80-14, belakang 100/70-14",
+    "source": "https://www.yamahadeta.co.id/product-detail/gear-125"
+   },
+   "fitur": {
+    "value": "Stop & Start System, bagasi 10,1 liter, lampu LED, lampu hazard, garansi 5 tahun/50.000 km",
+    "source": "https://www.yamaha-motor.co.id/product/gear-125/"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Oto.com",
+    "url": "https://www.oto.com/motor-baru/yamaha/gear-125/faq/apa-kelebihan-dan-kekurangan-yamaha-gear-125",
+    "kelebihan": [
+     "Desainnya dinilai menarik",
+     "Mesin bertenaga untuk kelasnya",
+     "Dianggap praktis untuk dipakai harian"
+    ],
+    "kekurangan": [
+     "Pilihan varian masih terbatas",
+     "Ada motor Yamaha lain yang harganya lebih murah",
+     "Speedometer belum berbentuk digital"
+    ]
+   },
+   {
+    "media": "Moladin",
+    "url": "https://moladin.com/news/test-ride-yamaha-gear-125-bukan-mio-biasa/",
+    "kelebihan": [
+     "Teknologi SMG membuat motor terasa berbeda dari Mio",
+     "Fitur answer back memudahkan mencari motor di parkiran",
+     "Kompartemen dashboard kiri cukup dalam",
+     "Sudah dilengkapi power charger dan ban tubeless"
+    ],
+    "kekurangan": [
+     "Artikel tidak menyebut kelemahan tegas, hanya membandingkan harga dengan Honda Beat"
+    ]
+   },
+   {
+    "media": "Otoinfo.id",
+    "url": "https://www.otoinfo.id/yamaha-gear-125-kelebihan-dan-kekurangan-yang-perlu-diketahui/",
+    "kelebihan": [
+     "Pijakan kaki khusus untuk anak tersedia",
+     "Dua pengait dan kompartemen dashboard memudahkan membawa barang",
+     "Fitur answer back system tersedia",
+     "Mesin 125 cc unggul dibanding pesaing 110 cc"
+    ],
+    "kekurangan": [
+     "Panel instrumen masih full analog",
+     "Bobot 94-95 kg tergolong lebih berat di kelas entry level",
+     "Ground clearance 135 mm dinilai rendah"
+    ]
+   }
+  ],
+  "dicek": "2026-11-03"
+ },
+ "yamaha-gear-ultima": {
+  "specs": {
+   "tenaga": {
+    "value": "6,2 kW pada 6.500 rpm (sumber lain menulis 9,4 hp atau 8,3 hp)",
+    "source": "https://nagoyamotor.com/motorcycle/yamaha-motorcycle/yamaha-gear-ultima-125-hybrid/"
+   },
+   "torsi": {
+    "value": "10,6 Nm pada 4.500 rpm (satu sumber menulis 9,5 Nm)",
+    "source": "https://www.idntimes.com/automotive/car/spesifikasi-harga-yamaha-gear-ultima-125-hybrid-00-kkx41-1j4lxj"
+   },
+   "bobot": {
+    "value": "95 kg (varian S disebut 96 kg di satu sumber)",
+    "source": "https://www.idntimes.com/automotive/car/spesifikasi-harga-yamaha-gear-ultima-125-hybrid-00-kkx41-1j4lxj"
+   },
+   "tinggi_jok": {
+    "value": "750 mm (satu sumber menulis 780 mm)",
+    "source": "https://www.idntimes.com/automotive/car/spesifikasi-harga-yamaha-gear-ultima-125-hybrid-00-kkx41-1j4lxj"
+   },
+   "tangki": {
+    "value": "5,1 liter",
+    "source": "https://www.yamaha-motor.co.id/product/gear-ultima/"
+   },
+   "transmisi": {
+    "value": "Otomatis tipe V-belt (CVT)",
+    "source": "https://www.idntimes.com/automotive/car/spesifikasi-harga-yamaha-gear-ultima-125-hybrid-00-kkx41-1j4lxj"
+   },
+   "rem": {
+    "value": "Cakram depan 220 mm, tromol belakang 130 mm",
+    "source": "https://www.bikedekho.com/news/2025-yamaha-gear-ultima-125-hybrid-launched-in-indonesia-17734"
+   },
+   "suspensi": {
+    "value": "Fork teleskopik depan, monoshock belakang",
+    "source": "https://www.bikedekho.com/news/2025-yamaha-gear-ultima-125-hybrid-launched-in-indonesia-17734"
+   },
+   "ban": {
+    "value": "110/70-12 tubeless, velg 12 inci depan dan belakang",
+    "source": "https://www.yamaha-motor.co.id/product/gear-ultima/"
+   },
+   "fitur": {
+    "value": "Y-Connect, speedometer digital, lampu hazard, smart key, Stop & Start System, Answer Back System, bagasi 18,6 liter, soket pengisian HP",
+    "source": "https://www.yamaha-motor.co.id/product/gear-ultima/"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "IDN Times",
+    "url": "https://www.idntimes.com/automotive/motorbike/kelebihan-dan-kekurangan-yamaha-gear-ultima-125-hybrid-tertarik-01-96gcg-gq985v",
+    "kelebihan": [
+     "Bagasi dan tangki BBM lebih besar dibanding Yamaha Gear generasi sebelumnya",
+     "Fitur fungsional seperti dual hook dan handle belakang besar",
+     "Harga varian S disebut sekitar Rp21,5 juta"
+    ],
+    "kekurangan": [
+     "Varian standar belum memakai smart key",
+     "Masih memakai kunci konvensional berpengaman magnet"
+    ]
+   },
+   {
+    "media": "Kumparan",
+    "url": "https://kumparan.com/info-produk/kelebihan-dan-kekurangan-yamaha-gear-ultima-125-hybrid-yang-patut-diketahui-24gT3LNMhZa",
+    "kelebihan": [
+     "Rangka lebih kokoh dengan penanganan stabil dan daya tahan tinggi",
+     "Mesin Blue Core Hybrid dinilai andal dan bertenaga",
+     "Electric power assist membuat akselerasi halus di tanjakan",
+     "Terhubung aplikasi Y-Connect lewat Bluetooth"
+    ],
+    "kekurangan": [
+     "Mesin sama dengan Yamaha Fazzio sehingga tenaga lebih kecil dari tipe 125 terdahulu",
+     "Bobot 95 kg dinilai memengaruhi kelincahan dan efisiensi BBM"
+    ]
+   },
+   {
+    "media": "MUF Online Autoshow",
+    "url": "https://moas.muf.co.id/news/yamaha-gear-ultima-hybrid-gesit-bertenaga-makin-irit-bbm",
+    "kelebihan": [
+     "Akselerasi awal terasa instan berkat bantuan sistem hybrid",
+     "Konsumsi BBM hasil uji rata-rata 54-59 km per liter",
+     "Jok lebih lebar dan empuk, berkendara nyaman",
+     "Bodi ramping dengan bobot ringan dan mudah manuver di kota"
+    ],
+    "kekurangan": []
+   }
+  ],
+  "dicek": "2026-11-03"
+ },
+ "yamaha-jupiter-z1": {
+  "specs": {
+   "tenaga": {
+    "value": "7,4 kW pada 7.750 rpm",
+    "source": "https://www.yamaha-motor.co.id/product/jupiter-z1/"
+   },
+   "torsi": {
+    "value": "9,8 Nm pada 6.750 rpm",
+    "source": "https://www.yamaha-motor.co.id/product/jupiter-z1/"
+   },
+   "bobot": {
+    "value": "101 kg (velg jari-jari), 102 kg (velg racing)",
+    "source": "https://www.yamahabrm.co.id/news/ulasan-spesifikasi-dan-harga-jupiter-z1-2026-pilihan-motor-bebek-paling-irit-bbm-untuk-operasional-harian"
+   },
+   "tinggi_jok": {
+    "value": "765 mm",
+    "source": "https://momotor.id/news/warna-yamaha-jupiter-z1"
+   },
+   "tangki": {
+    "value": "4,1 liter",
+    "source": "https://www.yamahabrm.co.id/news/ulasan-spesifikasi-dan-harga-jupiter-z1-2026-pilihan-motor-bebek-paling-irit-bbm-untuk-operasional-harian"
+   },
+   "transmisi": {
+    "value": "Constant mesh 4 percepatan, kopling basah multiplat sentrifugal otomatis",
+    "source": "https://yamahabrm.co.id/product/Jupiter-Z1"
+   },
+   "rem": {
+    "value": "Depan cakram, belakang tromol",
+    "source": "https://www.yamahabrm.co.id/news/ulasan-spesifikasi-dan-harga-jupiter-z1-2026-pilihan-motor-bebek-paling-irit-bbm-untuk-operasional-harian"
+   },
+   "suspensi": {
+    "value": "Depan telescopic, belakang swing arm dengan double suspension",
+    "source": "https://yamahatangsel.com/harga-dan-spesifikasi-yamaha-jupiter-z1/"
+   },
+   "ban": {
+    "value": "Depan 70/90-17, belakang 80/90-17",
+    "source": "https://www.yamahabrm.co.id/news/ulasan-spesifikasi-dan-harga-jupiter-z1-2026-pilihan-motor-bebek-paling-irit-bbm-untuk-operasional-harian"
+   },
+   "fitur": {
+    "value": "Fuel Injection, Forged Piston, lampu depan ganda, velg Sporty Casting, Aerodynamic Air Flow, lampu belakang model panah",
+    "source": "https://www.yamaha-motor.co.id/product/jupiter-z1/"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Musianapedia (Pikiran Rakyat)",
+    "url": "https://musianapedia.pikiran-rakyat.com/otomotif/pr-22610063305/masih-worth-it-ini-kelebihan-dan-kekurangan-yamaha-jupiter-z1-untuk-aktivitas-sehari-hari?page=all",
+    "kelebihan": [
+     "Konsumsi bahan bakar dinilai hemat",
+     "Mesin dinilai bandel dengan biaya perawatan relatif murah",
+     "Bobot ringan sehingga mudah dikendalikan"
+    ],
+    "kekurangan": [
+     "Desain terlihat sederhana dibanding motor keluaran terbaru",
+     "Bagasi terbatas dibanding motor matic",
+     "Tenaga mesin dinilai kurang besar"
+    ]
+   },
+   {
+    "media": "Moladin",
+    "url": "https://moladin.com/news/spesifikasi-yamaha-jupiter-z1/",
+    "kelebihan": [
+     "Performa mesin dinilai lebih unggul dari rival sekelas",
+     "Desain dinilai paling sporti dibanding kompetitor",
+     "Kunci kontak memakai pengaman magnet"
+    ],
+    "kekurangan": [
+     "Kapasitas bagasi tidak terlalu besar",
+     "Harga disebut sebagai kelemahan motor ini"
+    ]
+   },
+   {
+    "media": "MUF Online Autoshow",
+    "url": "https://moas.muf.co.id/news/yamaha-jupiter-z1-motor-bebek-110cc-yang-bisa-ngebut",
+    "kelebihan": [
+     "Akselerasi dinilai menjadi keunggulan utama",
+     "Konsumsi BBM disebut sangat irit",
+     "Kontur bodi dinilai cukup nyaman untuk dipacu santai"
+    ],
+    "kekurangan": [
+     "Kurang dirancang untuk kenyamanan, lebih menekankan tantangan berkendara"
+    ]
+   }
+  ],
+  "dicek": "2026-11-03"
+ },
+ "yamaha-lexi-lx-155": {
+  "specs": {
+   "tenaga": {
+    "value": "11,3 kW pada 8.000 rpm",
+    "source": "https://www.yamahabrm.co.id/product/lexi-lx-155"
+   },
+   "torsi": {
+    "value": "14,2 Nm pada 6.500 rpm",
+    "source": "https://www.yamahabrm.co.id/product/lexi-lx-155"
+   },
+   "bobot": {
+    "value": "116 kg (Standard), 117 kg (S Version), 118 kg (Connected/ABS)",
+    "source": "https://www.yamaha-motor.co.id/product/lexi-lx-155/"
+   },
+   "tinggi_jok": {
+    "value": "770 mm",
+    "source": "https://www.oto.com/en/motor-baru/yamaha/lexi-lx-155/spesifikasi"
+   },
+   "tangki": {
+    "value": "4,2 liter",
+    "source": "https://www.yamaha-motor.co.id/product/lexi-lx-155/"
+   },
+   "transmisi": {
+    "value": "Otomatis (matik)",
+    "source": "https://www.yamahabrm.co.id/product/lexi-lx-155"
+   },
+   "rem": {
+    "value": "Cakram di depan, tromol di belakang; varian Connected/ABS memakai ABS",
+    "source": "https://www.yamahabrm.co.id/product/lexi-lx-155 | https://www.olx.co.id/news/intip-keunggulan-dan-kelemahan-yamaha-lexi-155/"
+   },
+   "suspensi": {
+    "value": "Depan telescopic fork, belakang swing unit, dilengkapi sub-tank suspension",
+    "source": "https://www.zigwheels.co.id/en/motor-baru/yamaha/lexi-lx-155/spesifikasi/ | https://voi.id/en/motor/347547"
+   },
+   "ban": {
+    "value": "Tubeless; depan 90/90-14, belakang 100/90-14",
+    "source": "https://www.yamahabrm.co.id/product/lexi-lx-155"
+   },
+   "fitur": {
+    "value": "Smart Key System, Stop & Start System, ABS (Connected/ABS), Y-Connect (Connected/ABS), soket listrik, lampu LED, speedometer digital",
+    "source": "https://www.yamaha-motor.co.id/product/lexi-lx-155/ | https://fejosekawan.com/yamaha-lexi-lx-155/"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Oto.com",
+    "url": "https://www.oto.com/motor-baru/yamaha/lexi-lx-155/faq/apa-kelebihan-dan-kekurangan-yamaha-lexi-lx-155",
+    "kelebihan": [
+     "Desain baru terasa lebih segar",
+     "Fitur tergolong banyak",
+     "Mesin 155 cc dinilai punya torsi terbesar di kelasnya"
+    ],
+    "kekurangan": [
+     "Bodi terkesan gemuk dengan ban terlihat tipis",
+     "Tangki bahan bakar dinilai tidak terlalu besar",
+     "Kompartemen terbatas dan bagasi kurang luas"
+    ]
+   },
+   {
+    "media": "IDN Times",
+    "url": "https://bali.idntimes.com/news/bali/kelebihan-dan-kekurangan-lexi-lx-155-motor-terbaru-yamaha-01-96gcg-vxpr7h",
+    "kelebihan": [
+     "Mesin 155 cc sudah memakai teknologi VVA",
+     "Daya dan torsi maksimum naik dibanding versi 125 cc",
+     "Deck depan rata untuk menaruh barang",
+     "Kenaikan harga dari versi 125 cc tergolong kecil"
+    ],
+    "kekurangan": [
+     "Bagasi dinilai kecil dan sempit",
+     "Tangki 4,2 liter dianggap kecil dibanding Honda Vario",
+     "Desain agresifnya tidak disukai semua orang"
+    ]
+   },
+   {
+    "media": "OLX News",
+    "url": "https://www.olx.co.id/news/intip-keunggulan-dan-kelemahan-yamaha-lexi-155/",
+    "kelebihan": [
+     "Peningkatan mesin dan aksen desain yang diperbarui",
+     "Bobot tergolong ringan di kelas MAXi Yamaha",
+     "Footboard datar memudahkan akses ruang kaki"
+    ],
+    "kekurangan": [
+     "Tangki 4,2 liter dinilai terlalu kecil untuk mesin 155 cc",
+     "Rem belakang masih memakai tromol di semua varian",
+     "Velg dan tangki masih mewarisi elemen Lexi 125"
+    ]
+   }
+  ],
+  "dicek": "2026-11-03"
+ },
+ "yamaha-mt15": {
+  "specs": {
+   "tenaga": {
+    "value": "14,2 kW pada 10.000 rpm",
+    "source": "https://www.yamaha-motor.co.id/archives/news/corporate/2019/01/yamaha-resmi-luncurkan-mt-15-untuk-pasar-indonesia/"
+   },
+   "torsi": {
+    "value": "14,7 Nm pada 8.500 rpm",
+    "source": "https://www.yamaha-motor.co.id/archives/news/corporate/2019/01/yamaha-resmi-luncurkan-mt-15-untuk-pasar-indonesia/"
+   },
+   "bobot": {
+    "value": "133 kg",
+    "source": "https://www.yamaha-motor.co.id/product/mt15/"
+   },
+   "tinggi_jok": {
+    "value": "810 mm",
+    "source": "https://www.yamaha-motor.co.id/product/mt15/"
+   },
+   "tangki": {
+    "value": "10,4 liter",
+    "source": "https://www.yamaha-motor.co.id/product/mt15/"
+   },
+   "transmisi": {
+    "value": "Manual 6 percepatan dengan pola 1-N-2-3-4-5-6, dilengkapi assist dan slipper clutch",
+    "source": "https://www.yamaha-motor.co.id/archives/news/corporate/2019/01/yamaha-resmi-luncurkan-mt-15-untuk-pasar-indonesia/"
+   },
+   "rem": {
+    "value": "Cakram di roda depan dan belakang, tanpa opsi ABS",
+    "source": "https://otoinfo.id/sudah-tau-yamaha-mt-15-punya-keunggulan-dan-kekurangan-ini/"
+   },
+   "suspensi": {
+    "value": "Upside down di depan, lengan ayun belakang berbahan aluminium",
+    "source": "https://www.yamaha-motor.co.id/product/mt15/"
+   },
+   "ban": {
+    "value": "Tubeless ring 17",
+    "source": "https://www.yamaha-motor.co.id/product/mt15/"
+   },
+   "fitur": {
+    "value": "Mesin VVA 155cc, lampu depan projector LED, lampu belakang LED, assist dan slipper clutch, speedometer digital penuh, rangka Deltabox, shift timing light",
+    "source": "https://www.yamaha-motor.co.id/product/mt15/"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Oto.com (FAQ kelebihan dan kekurangan)",
+    "url": "https://www.oto.com/motor-baru/yamaha/mt-15/faq/apa-kelebihan-dan-kekurangan-yamaha-mt-15",
+    "kelebihan": [
+     "Desain sangat agresif dan tidak pasaran",
+     "Suspensi teleskopik upside-down",
+     "Speedometer full digital",
+     "Mesin berpendingin cairan"
+    ],
+    "kekurangan": [
+     "Harga lebih mahal dari sebagian rival",
+     "Tangki 10 liter, kalah dari kompetitor",
+     "Tidak dibekali fitur keyless",
+     "Tanpa sistem ABS"
+    ]
+   },
+   {
+    "media": "Moladin (test ride bagian 2)",
+    "url": "https://moladin.com/blog/test-ride-yamaha-mt-15-motor-sombong-bag-2/",
+    "kelebihan": [
+     "Bobot 133 kg di atas kertas, lebih ringan dari CB150R Streetfire",
+     "Panel instrumen lengkap dengan indikator gigi dan shift timing light"
+    ],
+    "kekurangan": [
+     "Terasa lebih berat saat benar-benar ditunggangi",
+     "Tidak ada behel belakang, sulit dipindahkan saat berhenti",
+     "Tanpa standar tengah, parkir di tanjakan sulit",
+     "Setang lebar dan ban besar membuat kurang lincah di kemacetan"
+    ]
+   },
+   {
+    "media": "MUF Online Autoshow (ulasan 2021)",
+    "url": "https://moas.muf.co.id/news/yamaha-mt-15-motor-sport-naked-yang-menantang-bagi-pemula",
+    "kelebihan": [
+     "Sudah memakai VVA, projector LED, suspensi upside-down, dan assist & slipper clutch",
+     "Bobot 133 kg tergolong ringan untuk kelasnya",
+     "Akselerasi 0-60 km/jam tercatat 3,5 detik",
+     "Ban tubeless bawaan dinilai lebih aman di kecepatan tinggi"
+    ],
+    "kekurangan": [
+     "Ground clearance 155 mm dinilai kurang memuaskan untuk motor sport naked"
+    ]
+   }
+  ],
+  "dicek": "2026-11-03"
+ },
+ "yamaha-mt25": {
+  "specs": {
+   "tenaga": {
+    "value": "26,4 kW pada 12.000 rpm",
+    "source": "https://www.yamaha-motor.co.id/product/mt25/"
+   },
+   "torsi": {
+    "value": "22,6 Nm pada 10.000 rpm",
+    "source": "https://www.yamaha-motor.co.id/product/mt25/"
+   },
+   "bobot": {
+    "value": "165 kg",
+    "source": "https://www.oto.com/en/motor-baru/yamaha/mt-25"
+   },
+   "tinggi_jok": {
+    "value": "780 mm",
+    "source": "https://www.oto.com/en/motor-baru/yamaha/mt-25"
+   },
+   "tangki": {
+    "value": "14 liter (satu sumber lain menulis 14,3 liter)",
+    "source": "https://www.liputan6.com/otomotif/read/2246594/debut-pertama-di-indonesia-ini-spesifikasi-yamaha-mt-25"
+   },
+   "transmisi": {
+    "value": "Manual 6 percepatan, pola 1-N-2-3-4-5-6, kopling basah multiplat dengan assist dan slipper",
+    "source": "https://www.liputan6.com/otomotif/read/2246594/debut-pertama-di-indonesia-ini-spesifikasi-yamaha-mt-25"
+   },
+   "rem": {
+    "value": "Cakram ganda, bagian depan tipe floating; ABS tersedia",
+    "source": "https://oto.detik.com/motor/d-2935241/ini-spesifikasi-yamaha-mt-25"
+   },
+   "suspensi": {
+    "value": "Depan upside down menurut situs resmi; sumber lama menulis teleskopik",
+    "source": "https://www.yamaha-motor.co.id/product/mt25/"
+   },
+   "ban": {
+    "value": "Depan 110/70-17, belakang 140/40-17 (satu sumber menulis 140/70 R17)",
+    "source": "https://otomotifnet.gridoto.com/read/231041294/ini-spesifikasi-lengkap-yamaha-mt-25-sebelas-duabelas-sama-yzf-r25"
+   },
+   "fitur": {
+    "value": "ABS, Y-Connect via Bluetooth, lampu full LED, assist dan slipper clutch, speedometer digital, power outlet, big bike switch",
+    "source": "https://www.yamaha-motor.co.id/product/mt25/"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Oto.com",
+    "url": "https://www.oto.com/berita-motor/lebih-dekat-dengan-yamaha-mt-25-2118166",
+    "kelebihan": [
+     "Mesinnya dinilai paling bertenaga dibanding rival di kelasnya",
+     "Desain bodinya dinilai kekar khas seri MT",
+     "Harga jualnya dinilai terjangkau dan menjadi keunggulan utama"
+    ],
+    "kekurangan": [
+     "Fiturnya dinilai sangat minim untuk motor 250 cc",
+     "Ada komponen yang sempat harus diperbaiki di bengkel",
+     "Belum dilengkapi sistem pengereman ABS menurut artikel ini"
+    ]
+   },
+   {
+    "media": "Moladin",
+    "url": "https://moladin.com/news/yamaha-mt-25/",
+    "kelebihan": [
+     "Torsi mesin dua silinder dinilai kuat saat melewati tanjakan",
+     "Posisi stang ergonomis dan jok dinilai cukup nyaman",
+     "Bobot lebih ringan dari R25 membuat akselerasinya terasa lebih cepat"
+    ],
+    "kekurangan": [
+     "Desain buritannya mirip R25 sehingga kurang punya karakter sendiri",
+     "Kelengkapan fitur dinilai kurang dibanding Yamaha R15",
+     "Fitur disebut pas-pasan meski harganya dinilai cukup logis"
+    ]
+   },
+   {
+    "media": "Realitas Online",
+    "url": "https://www.realitasonline.id/otomotif/102413896592/review-sang-naked-bike-yamaha-mt-25-3-kekurangan-yang-wajib-diketahui",
+    "kelebihan": [
+     "Desain musculer dengan garis tajam dan lampu LED dinilai menarik",
+     "Akselerasi mesin 250 cc dinilai responsif dan nyaman",
+     "Bobot ringan membuat motor lincah dikendalikan"
+    ],
+    "kekurangan": [
+     "Jok dinilai kurang nyaman untuk perjalanan jarak jauh",
+     "Ruang penyimpanan terbatas karena tidak ada bagasi bawah jok",
+     "Harganya dinilai tinggi mengikuti fitur dan mesin yang ditawarkan"
+    ]
+   }
+  ],
+  "dicek": "2026-11-03"
+ },
+ "yamaha-mx-king-150": {
+  "specs": {
+   "tenaga": {
+    "value": "11,3 kW (sekitar 15 PS) pada 8.500 rpm",
+    "source": "https://yamahasumbermas.co.id/moped/mx-king-150-2/"
+   },
+   "torsi": {
+    "value": "13,8 Nm pada 7.000 rpm",
+    "source": "https://yamahasumbermas.co.id/moped/mx-king-150-2/"
+   },
+   "bobot": {
+    "value": "118 kg (berat isi)",
+    "source": "https://yamahadeta.co.id/product-detail/mx-king-150"
+   },
+   "tinggi_jok": {
+    "value": "795 mm",
+    "source": "https://yamahadeta.co.id/product-detail/mx-king-150"
+   },
+   "tangki": {
+    "value": "4,2 liter",
+    "source": "https://www.agungmotor.com/produk/moped/mx-king-150"
+   },
+   "transmisi": {
+    "value": "Manual 5 percepatan, tipe constant mesh, kopling basah multiplat",
+    "source": "https://yamahadeta.co.id/product-detail/mx-king-150"
+   },
+   "rem": {
+    "value": "Cakram ganda (double disc) untuk pengereman lebih mantap",
+    "source": "https://www.tjahaja-baru.com/product/mx-king-150"
+   },
+   "suspensi": {
+    "value": "Teleskopik di depan, monoshock di belakang",
+    "source": "https://www.tjahaja-baru.com/product/mx-king-150"
+   },
+   "ban": {
+    "value": "Tubeless lebar: depan 90/80-17, belakang 120/70-17, velg 17 inci",
+    "source": "https://yamahatangsel.com/model/mx-king-150/"
+   },
+   "fitur": {
+    "value": "Lampu depan LED tiga lampu, speedometer digital penuh, lampu hazard, desain grafis baru, mesin FI 4 katup pendingin cairan",
+    "source": "https://www.yamaha-motor.co.id/product/mx-king-150/"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Oto.com",
+    "url": "https://www.oto.com/motor-baru/yamaha/mx-king/faq/apa-kelebihan-dan-kekurangan-yamaha-mx-king",
+    "kelebihan": [
+     "Desain sporty yang menarik",
+     "Harga tergolong terjangkau",
+     "Lampu posisi dan lampu rem sudah LED",
+     "Mesin dinilai bersaing dengan kompetitor"
+    ],
+    "kekurangan": [
+     "Performa mesin masih bisa ditingkatkan",
+     "Fitur dinilai perlu ditambah",
+     "Tidak tersedia bagasi",
+     "Lampu depan belum LED dan tanpa ABS (catatan: bertentangan dengan keterangan LED di sumber lain)"
+    ]
+   },
+   {
+    "media": "Disway (Prabumulihpos)",
+    "url": "https://prabumulihpos.disway.id/otomotif/read/659666/kelebihan-dan-kekurangan-yamaha-mx-king-150-motor-sporty-dengan-performa-andal",
+    "kelebihan": [
+     "Mesin 150 cc berpendingin cairan terasa responsif",
+     "Akselerasi cepat untuk kota dan antarkota",
+     "Desain agresif dan modern",
+     "Panel digital informatif"
+    ],
+    "kekurangan": [
+     "Transmisi hanya 5 percepatan",
+     "Kapasitas tangki relatif kecil untuk touring jarak jauh"
+    ]
+   },
+   {
+    "media": "Moladin",
+    "url": "https://moladin.com/news/review-yamaha-mx-king-150/",
+    "kelebihan": [
+     "Ergonomis",
+     "Aksesoris yang tersedia cukup banyak"
+    ],
+    "kekurangan": []
+   }
+  ],
+  "dicek": "2026-11-03"
+ },
+ "yamaha-mio-m3": {
+  "specs": {
+   "tenaga": {
+    "value": "7 kW pada 8.000 rpm",
+    "source": "https://yamahatangsel.com/model/mio-m3/"
+   },
+   "torsi": {
+    "value": "9,6 Nm pada 5.500 rpm",
+    "source": "https://yamahatangsel.com/model/mio-m3/"
+   },
+   "bobot": {
+    "value": "101 kg (berat isi); sumber lain menulis 92-94 kg",
+    "source": "https://www.yamaha-motor.co.id/product/mio-m3/"
+   },
+   "tinggi_jok": {
+    "value": "780 mm (sumber lain menulis 750 mm)",
+    "source": "https://www.yamaha-motor.co.id/product/mio-m3/"
+   },
+   "tangki": {
+    "value": "4,2 liter",
+    "source": "https://www.yamaha-motor.co.id/product/mio-m3/"
+   },
+   "transmisi": {
+    "value": "Otomatis tipe V-belt dengan kopling sentrifugal",
+    "source": "https://bertuahpos.com/otomotif/yamaha-mio-m3-125-2026-bodi-ramping-bobot-ringan-tangki-besar.html"
+   },
+   "rem": {
+    "value": "Depan cakram (disc), belakang tromol (drum)",
+    "source": "https://www.yamaha-motor.co.id/product/mio-m3/"
+   },
+   "suspensi": {
+    "value": "Depan teleskopik, belakang unit swing",
+    "source": "https://www.yamaha-motor.co.id/product/mio-m3/"
+   },
+   "ban": {
+    "value": "Depan 70/90-14 34P tubeless, belakang 89/90-14 40P tubeless",
+    "source": "https://www.yamaha-motor.co.id/product/mio-m3/"
+   },
+   "fitur": {
+    "value": "Smart Lock System, bagasi luas, speedometer baru, multifunction key",
+    "source": "https://www.yamaha-motor.co.id/product/mio-m3/"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Oto.com",
+    "url": "https://www.oto.com/motor-baru/yamaha/mio-m3-125/faq/apa-kelebihan-dan-kekurangan-yamaha-mio-m3-125",
+    "kelebihan": [
+     "Fitur dinilai cukup banyak dengan desain modern",
+     "Mesin Blue Core dinilai membuat konsumsi bahan bakar irit"
+    ],
+    "kekurangan": [
+     "Fitur dianggap kurang menarik untuk target anak muda",
+     "Instrumen masih menggunakan tampilan analog",
+     "Performa dinilai terlalu biasa dan masih bisa ditingkatkan"
+    ]
+   },
+   {
+    "media": "Musianapedia (Pikiran Rakyat)",
+    "url": "https://musianapedia.pikiran-rakyat.com/otomotif/pr-22610051642/harga-dan-review-yamaha-mio-m3-125-blue-core-spesifikasi-konsumsi-bbm-dan-kelebihan-untuk-harian?page=all",
+    "kelebihan": [
+     "Konsumsi bahan bakar dinilai sangat hemat",
+     "Bobot ringan dan mudah dibawa manuver",
+     "Harga dinilai terjangkau",
+     "Perawatan dinilai mudah"
+    ],
+    "kekurangan": [
+     "Fitur dinilai tergolong sederhana",
+     "Desain dinilai kurang agresif",
+     "Kapasitas bagasi dinilai standar"
+    ]
+   }
+  ],
+  "dicek": "2026-11-03"
+ },
+ "yamaha-nmax-turbo": {
+  "specs": {
+   "tenaga": {
+    "value": "11,3 kW pada 8.000 rpm (mesin 155 cc Blue Core VVA)",
+    "source": "https://www.yamahabrm.co.id/news/ulasan-spesifikasi-nmax-turbo-tech-max-2026-benarkah-paling-irit-dan-tangguh-untuk-mudik-lebaran"
+   },
+   "torsi": {
+    "value": "14,2 Nm pada 6.500 rpm",
+    "source": "https://www.yamahabrm.co.id/news/ulasan-spesifikasi-nmax-turbo-tech-max-2026-benarkah-paling-irit-dan-tangguh-untuk-mudik-lebaran"
+   },
+   "bobot": {
+    "value": "135 kg (Turbo Tech MAX), 133 kg (Turbo), 130 kg (Neo), berat isi",
+    "source": "https://www.yamaha-banjarnegara.com/product/nmax-turbo/"
+   },
+   "tinggi_jok": {
+    "value": "770 mm",
+    "source": "https://www.yamaha-motor.co.id/product/nmax-turbo/"
+   },
+   "tangki": {
+    "value": "7,1 liter",
+    "source": "https://www.yamaha-motor.co.id/product/nmax-turbo/"
+   },
+   "transmisi": {
+    "value": "Automatic dengan YECVT pada varian Turbo, single dry clutch",
+    "source": "https://www.yamahabrm.co.id/news/ulasan-spesifikasi-nmax-turbo-tech-max-2026-benarkah-paling-irit-dan-tangguh-untuk-mudik-lebaran"
+   },
+   "rem": {
+    "value": "Cakram tunggal hidrolik di depan dan belakang, Dual Channel ABS",
+    "source": "https://www.yamaha-motor.co.id/product/nmax-turbo/"
+   },
+   "suspensi": {
+    "value": "Teleskopik di depan, unit swing di belakang dengan sub-tank",
+    "source": "https://www.yamaha-motor.co.id/product/nmax-turbo/"
+   },
+   "ban": {
+    "value": "Tubeless, depan 110/70-13 dan belakang 130/70-13",
+    "source": "https://www.yamaha-motor.co.id/product/nmax-turbo/"
+   },
+   "fitur": {
+    "value": "YECVT, mode Turbo dan Y-Shift, TCS, Dual Channel ABS, smart key, TFT dan navigasi (Tech MAX), soket listrik, jok MAXi Comfort",
+    "source": "https://www.yamaha-motor.co.id/product/nmax-turbo/"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "GridOto",
+    "url": "https://www.gridoto.com/read/224112213/first-ride-yamaha-nmax-turbo-begini-cara-pakai-turbo-y-shift-dan-rasanya",
+    "kelebihan": [
+     "Sensasi turbo dijelaskan berasal dari fitur Y-Shift berbasis YECVT",
+     "Y-Shift 1 aktif otomatis sehingga akselerasi awal lebih responsif",
+     "Panel TFT memudahkan memantau putaran mesin dan mode Y-Shift"
+    ],
+    "kekurangan": []
+   },
+   {
+    "media": "Otomotifnet",
+    "url": "https://otomotifnet.gridoto.com/read/234111707/test-ride-yamaha-nmax-turbo-di-sirkuit-sentul-ada-sensasi-pindah-gigi",
+    "kelebihan": [
+     "Y-Shift bisa dipakai sebagai engine brake saat masuk tikungan",
+     "Terasa seperti turun gigi pada motor konvensional"
+    ],
+    "kekurangan": []
+   },
+   {
+    "media": "GridOto",
+    "url": "https://www.gridoto.com/read/224120850/yamaha-nmax-turbo-beneran-kenceng-begini-hasil-tes-gridoto?page=all",
+    "kelebihan": [
+     "Y-Shift terbukti mempercepat akselerasi, 0-100 km/jam sekitar 15,87 detik",
+     "Suspensi baru terasa lebih lembut dibanding versi sebelumnya"
+    ],
+    "kekurangan": []
+   }
+  ],
+  "dicek": "2026-11-03"
+ },
+ "yamaha-fino": {
+  "specs": {
+   "tenaga": {
+    "value": "7,0 kW (9,52 PS) per 8.000 rpm",
+    "source": "https://www.yamaha-motor.co.id/product/fino/"
+   },
+   "torsi": {
+    "value": "9,6 Nm per 5.500 rpm",
+    "source": "https://www.yamaha-motor.co.id/product/fino/"
+   },
+   "bobot": {
+    "value": "98 kg (berat isi)",
+    "source": "https://www.yamaha-motor.co.id/product/fino/"
+   },
+   "tinggi_jok": {
+    "value": "745 mm",
+    "source": "https://www.yamaha-motor.co.id/product/fino/"
+   },
+   "tangki": {
+    "value": "4,2 liter",
+    "source": "https://www.yamaha-motor.co.id/product/fino/"
+   },
+   "transmisi": {
+    "value": "V-belt otomatis (CVT)",
+    "source": "https://yamahamu.co.id/project/new-fino-125-bluecore-grande"
+   },
+   "rem": {
+    "value": "Depan cakram, belakang tromol (drum)",
+    "source": "https://yamahamu.co.id/project/new-fino-125-bluecore-grande"
+   },
+   "suspensi": {
+    "value": "Depan teleskopik, belakang unit swing",
+    "source": "https://yamahamu.co.id/project/new-fino-125-bluecore-grande"
+   },
+   "ban": {
+    "value": "Depan 80/80-14 M/C 43P, belakang 100/70-14 M/C 51P, tubeless",
+    "source": "https://www.yamaha-motor.co.id/product/fino/"
+   },
+   "fitur": {
+    "value": "Lampu LED, Advance Key System (varian Grande), Smart Stand Side Switch, Stop & Start System, Smart Lock System, Eco Indicator",
+    "source": "https://www.yamaha-motor.co.id/product/fino/"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Oto.com",
+    "url": "https://www.oto.com/motor-baru/yamaha/fino-125/faq/apa-kelebihan-dan-kekurangan-yamaha-fino-125",
+    "kelebihan": [
+     "Desain retro dinilai menarik",
+     "Teknologi Blue Core dan Start & Stop System dinilai membantu hemat BBM",
+     "Performa dan fitur dinilai cukup untuk pemakaian harian di kota"
+    ],
+    "kekurangan": [
+     "Perubahan dari generasi sebelumnya dinilai terlalu minim",
+     "Spesifikasi mesin dinilai tidak menonjol dibanding skuter lain",
+     "Lampu LED belum dipakai di semua varian"
+    ]
+   },
+   {
+    "media": "Otomotifnet (GridOto)",
+    "url": "https://otomotifnet.gridoto.com/read/231124642/nih-hasil-test-lengkap-yamaha-new-fino-125-blue-core",
+    "kelebihan": [
+     "Mesin halus dengan getaran minim saat dihidupkan",
+     "Bobot 98 kg memudahkan menggeser motor di parkiran",
+     "Konsumsi BBM rata-rata 47,6 km/liter pada tiga kali uji",
+     "Suspensi lebih empuk dibanding Fino lama untuk jalan kota"
+    ],
+    "kekurangan": [
+     "Suspensi terasa agak keras, meski tetap stabil"
+    ]
+   },
+   {
+    "media": "Realitas Online",
+    "url": "https://www.realitasonline.id/otomotif/102413868290/menyelami-pesona-yamaha-fino-125-review-mendalam-tentang-kendaraan-roda-dua-tersebut",
+    "kelebihan": [
+     "Desain retro dinilai elegan dan cocok sebagai gaya hidup",
+     "Lampu LED terang dan panel digital dinilai informatif",
+     "Bobot relatif ringan sehingga mudah dikendalikan"
+    ],
+    "kekurangan": [
+     "Kurang optimal saat menanjak, terutama membawa penumpang",
+     "Harga dinilai mahal dibanding matik lain"
+    ]
+   }
+  ],
+  "dicek": "2026-11-03"
+ },
+ "yamaha-r25": {
+  "specs": {
+   "tenaga": {
+    "value": "26,4 kW pada 12.000 rpm",
+    "source": "https://www.yamaha-motor.co.id/archives/news/product/2025/01/tampil-sebagai-urban-super-sport-new-yamaha-r25-siap-geber-maksimal-pasar-sport-model-tanah-air/"
+   },
+   "torsi": {
+    "value": "22,6 Nm pada 10.000 rpm",
+    "source": "https://www.yamaha-motor.co.id/archives/news/product/2025/01/tampil-sebagai-urban-super-sport-new-yamaha-r25-siap-geber-maksimal-pasar-sport-model-tanah-air/"
+   },
+   "bobot": {
+    "value": "166 kg",
+    "source": "https://www.oto.com/motor-baru/yamaha/r25/faq/apa-kelebihan-dan-kekurangan-yamaha-r25"
+   },
+   "tinggi_jok": {
+    "value": "780 mm",
+    "source": "https://global.yamaha-motor.com/news/2014/0520/yzf-r25.html"
+   },
+   "tangki": {
+    "value": "14 liter",
+    "source": "https://moas.muf.co.id/news/lebih-bertenaga-dan-canggih-yamaha-r25-2025-siap-dominasi-kelas-250cc"
+   },
+   "transmisi": {
+    "value": "Manual dengan enam percepatan",
+    "source": "https://moas.muf.co.id/news/lebih-bertenaga-dan-canggih-yamaha-r25-2025-siap-dominasi-kelas-250cc"
+   },
+   "rem": {
+    "value": "Cakram hidrolik; depan piston ganda, belakang piston tunggal",
+    "source": "https://oto.detik.com/mobil/d-4253554/intip-spesifikasi-yamaha-r25-made-in-indonesia"
+   },
+   "suspensi": {
+    "value": "Depan upside down berdiameter as 37 mm (KYB); belakang monosok tanpa link",
+    "source": "https://www.gridoto.com/read/221266081/feeling-suspensi-yamaha-new-r25-ini-bedanya-dari-r25-lama"
+   },
+   "ban": {
+    "value": "IRC; depan 110/70-17, belakang 140/70-17",
+    "source": "https://oto.detik.com/mobil/d-4253554/intip-spesifikasi-yamaha-r25-made-in-indonesia"
+   },
+   "fitur": {
+    "value": "Lampu depan LED projector, assist & slipper clutch, mesin Euro 5+",
+    "source": "https://www.yamaha-motor.co.id/archives/news/product/2025/01/tampil-sebagai-urban-super-sport-new-yamaha-r25-siap-geber-maksimal-pasar-sport-model-tanah-air/"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Moladin",
+    "url": "https://moladin.com/news/kekurangan-yamaha-r25/",
+    "kelebihan": [
+     "Suspensi depan upside down sudah digunakan",
+     "Panel instrumen sepenuhnya digital",
+     "Desain mengadopsi gaya motor MotoGP"
+    ],
+    "kekurangan": [
+     "Kunci kontak minim fitur pengaman",
+     "Performa mesin dinilai paling lemah dibanding rival",
+     "Fitur modern dinilai kurang lengkap",
+     "Rangka masih berjenis teralis"
+    ]
+   },
+   {
+    "media": "AutonetMagz",
+    "url": "https://autonetmagz.com/7-kelebihan-yamaha-r25-versi-autonetmagz/15904/",
+    "kelebihan": [
+     "Tenaga mesin tergolong besar di kelasnya",
+     "Posisi berkendara tinggi nyaman untuk perjalanan jauh",
+     "Lengan ayun belakang dibuat asimetris",
+     "Lampu belakang LED"
+    ],
+    "kekurangan": [
+     "Posisi tinggi kurang cocok bagi pengendara di bawah 170 cm"
+    ]
+   },
+   {
+    "media": "Otomotifnet",
+    "url": "https://otomotifnet.gridoto.com/read/233021762/efeknya-ngeri-komponen-ini-jadi-penyakit-fatal-yamaha-r25-bekas",
+    "kelebihan": [],
+    "kekurangan": [
+     "Gigi pompa oli berbahan plastik mudah patah",
+     "Kerusakan pompa oli dapat menyebabkan kerusakan mesin serius",
+     "Penyebab utama dikaitkan dengan gaya berkendara kasar dan sentakan gas"
+    ]
+   }
+  ],
+  "dicek": "2026-11-03"
+ },
+ "yamaha-tmax-tech-max": {
+  "specs": {
+   "tenaga": {
+    "value": "35 kW (sekitar 47 dk) pada 7.000 rpm; sumber lain mencatat 7.500 rpm",
+    "source": "https://pontianakpost.jawapos.com/otomotif/2609090011/yamaha-tmax-tech-max-rp455-juta-skutik-560cc-dengan-fitur-canggih-dan-performa-buas"
+   },
+   "torsi": {
+    "value": "55 Nm pada 5.250 rpm (sumber lain menulis 55,7 Nm)",
+    "source": "https://pontianakpost.jawapos.com/otomotif/2609090011/yamaha-tmax-tech-max-rp455-juta-skutik-560cc-dengan-fitur-canggih-dan-performa-buas"
+   },
+   "bobot": {
+    "value": "220 kg (bobot basah); sumber lain menulis 221 kg",
+    "source": "https://www.gridoto.com/read/223969700/bedah-yamaha-tmax-tech-max-matic-2-silinder-560-cc-lebih-mahal-dari-innova-zenix-q-hybrid?page=all"
+   },
+   "tinggi_jok": {
+    "value": "800 mm",
+    "source": "https://www.gridoto.com/read/223969700/bedah-yamaha-tmax-tech-max-matic-2-silinder-560-cc-lebih-mahal-dari-innova-zenix-q-hybrid?page=all"
+   },
+   "tangki": {
+    "value": "15 liter",
+    "source": "https://www.gridoto.com/read/223969700/bedah-yamaha-tmax-tech-max-matic-2-silinder-560-cc-lebih-mahal-dari-innova-zenix-q-hybrid?page=all"
+   },
+   "transmisi": {
+    "value": "Otomatis tipe V-Belt",
+    "source": "https://www.gridoto.com/read/223969700/bedah-yamaha-tmax-tech-max-matic-2-silinder-560-cc-lebih-mahal-dari-innova-zenix-q-hybrid?page=all"
+   },
+   "rem": {
+    "value": "Depan cakram ganda 267 mm dengan kaliper radial 4 piston; belakang cakram 282 mm; ABS di kedua roda",
+    "source": "https://www.gridoto.com/read/223969700/bedah-yamaha-tmax-tech-max-matic-2-silinder-560-cc-lebih-mahal-dari-innova-zenix-q-hybrid?page=all"
+   },
+   "suspensi": {
+    "value": "Suspensi dapat disesuaikan; depan tipe upside-down, belakang monoshock",
+    "source": "https://www.yamaha-motor.co.id/product/tmax-tech-max/"
+   },
+   "ban": {
+    "value": "Depan 120/70R15, belakang 160/60R15 (Bridgestone Battlax Scooter SC2)",
+    "source": "https://www.gridoto.com/read/223969700/bedah-yamaha-tmax-tech-max-matic-2-silinder-560-cc-lebih-mahal-dari-innova-zenix-q-hybrid?page=all"
+   },
+   "fitur": {
+    "value": "Layar TFT 7 inci, navigasi Garmin, cruise control, traction control, D-MODE, smart key, windscreen elektrik, pemanas grip dan jok",
+    "source": "https://www.yamaha-motor.co.id/product/tmax-tech-max/"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "GridOto",
+    "url": "https://www.gridoto.com/amp/223971365/yamaha-tmax-tech-max-dijual-di-indonesia-harganya-bikin-kaget-mesin-lebih-besar",
+    "kelebihan": [
+     "Kapasitas mesin naik dibanding TMAX DX yang 530 cc",
+     "Layar TFT 7 inci dengan navigasi Garmin"
+    ],
+    "kekurangan": [
+     "Harga jual di Indonesia dinilai sangat tinggi, hampir dua kali lipat harga TMAX DX saat dijual Yamaha"
+    ]
+   },
+   {
+    "media": "OLX News",
+    "url": "https://www.olx.co.id/news/sebelum-beli-ini-kelebihan-dan-kekurangan-yamaha-tech-tmax/",
+    "kelebihan": [
+     "Mesin 562 cc menghasilkan 47 dk dan torsi 55,7 Nm, lebih besar dari TMAX DX",
+     "Suspensi depan upside-down dinilai lebih canggih dibanding TMAX DX",
+     "Velg spin forged menambah kesan premium"
+    ],
+    "kekurangan": [
+     "Artikel menyebut ada kekurangan, tetapi tidak merincinya"
+    ]
+   },
+   {
+    "media": "Otoplus",
+    "url": "https://www.otoplus-online.com/post/yamaha-tmax-dipasarkan-di-indonesia-dengan-harga-melampaui-mobil-suv-apa-kelebihannya",
+    "kelebihan": [
+     "Desain depan sporty dengan lampu dual-eye terbaru",
+     "Rangka aluminium twin-spar die-cast",
+     "Windshield elektrik dapat disesuaikan hingga 110 mm",
+     "Konektivitas aplikasi MyRide untuk fitur pintar"
+    ],
+    "kekurangan": [
+     "Artikel tidak menyebut kekurangan secara eksplisit"
+    ]
+   }
+  ],
+  "dicek": "2026-11-03"
+ },
+ "yamaha-vega-force": {
+  "specs": {
+   "tenaga": {
+    "value": "6,41 kW pada 7.000 rpm",
+    "source": "https://www.yamahabrm.co.id/product/vega-force"
+   },
+   "torsi": {
+    "value": "9,53 Nm pada 5.500 rpm",
+    "source": "https://www.yamahabrm.co.id/product/vega-force"
+   },
+   "bobot": {
+    "value": "96 kg",
+    "source": "https://www.yamaha-motor.co.id/product/vega-force/"
+   },
+   "tinggi_jok": {
+    "value": "775 mm",
+    "source": "https://www.yamaha-motor.co.id/product/vega-force/"
+   },
+   "tangki": {
+    "value": "4,0 liter",
+    "source": "https://www.yamaha-motor.co.id/product/vega-force/"
+   },
+   "transmisi": {
+    "value": "Constant mesh 4 percepatan, kopling basah multiplat otomatis sentrifugal",
+    "source": "https://www.yamaha-motor.co.id/product/vega-force/"
+   },
+   "rem": {
+    "value": "Depan cakram tunggal, belakang tromol",
+    "source": "https://www.yamaha-motor.co.id/product/vega-force/"
+   },
+   "suspensi": {
+    "value": "Depan teleskopik, belakang lengan ayun (swing arm)",
+    "source": "https://www.yamaha-motor.co.id/product/vega-force/"
+   },
+   "ban": {
+    "value": "Depan 70/90-17 M/C 38P, belakang 80/90-17 M/C 44P (tipe velg cast)",
+    "source": "https://www.yamaha-motor.co.id/product/vega-force/"
+   },
+   "fitur": {
+    "value": "Mesin injeksi 114 cc forged piston, bagasi 9,2 liter, kunci pengaman dengan penutup, speedometer indikator gigi, lampu depan modern",
+    "source": "https://www.yamaha-motor.co.id/product/vega-force/"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Mobil123",
+    "url": "https://www.mobil123.com/berita/5-fakta-penting-yamaha-vega-force-bukan-lagi-motor-bebek-gagal-140690/140690",
+    "kelebihan": [
+     "Nyaman dipakai untuk perjalanan jauh bersama penumpang",
+     "Handling lincah dan mudah dikendalikan",
+     "Rem depan cakram dinilai responsif dan pakem",
+     "Mesin dinilai tangguh dan jadi alasan utama pilihan konsumen"
+    ],
+    "kekurangan": [
+     "Suspensi terasa agak keras saat dikendarai sendirian",
+     "Rem belakang tromol kurang responsif dibanding cakram",
+     "Fitur dinilai minim dan kurang kekinian"
+    ]
+   },
+   {
+    "media": "MUF Online Autoshow",
+    "url": "https://moas.muf.co.id/news/yamaha-vega-force-motor-bebek-115cc-yang-irit-dan-serbaguna",
+    "kelebihan": [
+     "Tipe mesin overstroke memberi tarikan yang kuat",
+     "Sistem injeksi membuat konsumsi bahan bakar lebih hemat",
+     "Forged piston memudahkan perawatan mesin dan lebih awet",
+     "Bagasi luas hingga 9,2 liter"
+    ],
+    "kekurangan": [
+     "Konsumsi BBM 55,6 km/liter dinilai biasa saja",
+     "Dimensi body kurang ramping dibanding motor Yamaha lain",
+     "Pilihan warna hanya dua varian"
+    ]
+   },
+   {
+    "media": "Oto.com",
+    "url": "https://www.oto.com/motor-baru/yamaha/vega-force/faq/apa-kelebihan-dan-kekurangan-yamaha-vega-force",
+    "kelebihan": [
+     "Bobot tergolong ringan",
+     "Pasokan BBM sistem injeksi",
+     "Perawatan dinilai mudah",
+     "Harga dinilai sesuai dengan kualitas"
+    ],
+    "kekurangan": [
+     "Dinilai terlalu sederhana dan minim fitur",
+     "Hanya tersedia satu varian"
+    ]
+   }
+  ],
+  "dicek": "2026-11-03"
+ },
+ "yamaha-vixion": {
+  "specs": {
+   "tenaga": {
+    "value": "14,2 kW pada 10.000 rpm",
+    "source": "https://www.yamaha-motor.co.id/product/vixion/"
+   },
+   "torsi": {
+    "value": "14,7 Nm pada 8.500 rpm",
+    "source": "https://www.yamaha-motor.co.id/product/vixion/"
+   },
+   "bobot": {
+    "value": "131 kg (Vixion R)",
+    "source": "https://www.yamaha-motor.co.id/product/vixion/"
+   },
+   "tinggi_jok": {
+    "value": "795 mm",
+    "source": "https://www.yamaha-motor.co.id/product/vixion/"
+   },
+   "tangki": {
+    "value": "11 liter",
+    "source": "https://www.yamaha-motor.co.id/product/vixion/"
+   },
+   "transmisi": {
+    "value": "Manual 6 percepatan, dilengkapi assist dan slipper clutch",
+    "source": "https://otomotif.kompas.com/read/2021/08/20/180100615/ada-warna-baru-cek-lagi-spesifikasi-yamaha-vixion-r"
+   },
+   "rem": {
+    "value": "Cakram di roda depan dan belakang",
+    "source": "https://otomotif.kompas.com/read/2021/08/20/180100615/ada-warna-baru-cek-lagi-spesifikasi-yamaha-vixion-r"
+   },
+   "suspensi": {
+    "value": "Depan teleskopik, belakang monoshock dengan lengan ayun aluminium",
+    "source": "https://otomotif.kompas.com/read/2021/08/20/180100615/ada-warna-baru-cek-lagi-spesifikasi-yamaha-vixion-r"
+   },
+   "ban": {
+    "value": "Tubeless; depan 90/80-17, belakang 130/70-17",
+    "source": "https://otomotif.kompas.com/read/2021/08/20/180100615/ada-warna-baru-cek-lagi-spesifikasi-yamaha-vixion-r"
+   },
+   "fitur": {
+    "value": "Assist & slipper clutch, VVA, lampu LED, lengan ayun aluminium, shift timing light, panel digital",
+    "source": "https://summitotofinance.com/news/detail/yamaha-vixion-r-punya-warna-baru-berapa-harganya-sekarang"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Oto",
+    "url": "https://www.oto.com/berita-motor/test-ride-yamaha-vixion-r-di-atas-rata-rata-part-2-21111196",
+    "kelebihan": [
+     "Kopling terasa ringan dan perpindahan gigi presisi berkat assist & slipper clutch",
+     "VVA memberi dorongan tenaga ekstra di putaran atas",
+     "Lampu hazard berguna saat motor bermasalah di perjalanan"
+    ],
+    "kekurangan": [
+     "Kick starter dihilangkan pada varian R",
+     "Kapasitas tangki berkurang satu liter dibanding versi standar",
+     "Pedal pemindah gigi belakang diubah menjadi tipe congkel"
+    ]
+   },
+   {
+    "media": "Oto",
+    "url": "https://www.oto.com/road-test-motor/test-ride-yamaha-vixion-r-empat-kekurangannya",
+    "kelebihan": [
+     "Performa dinilai paling unggul di kelasnya"
+    ],
+    "kekurangan": [
+     "Jok setinggi 795 mm menyulitkan pengendara pemula menapak",
+     "Harga Rp29,25 juta OTR Jakarta dinilai mahal",
+     "Belum dilengkapi ABS",
+     "Suspensi terasa keras saat dikendarai sendirian"
+    ]
+   },
+   {
+    "media": "Oto",
+    "url": "https://www.oto.com/berita-motor/lima-fakta-yamaha-vixion-r-yang-perlu-anda-pertimbangkan",
+    "kelebihan": [
+     "Mesin 155 cc membuat tenaga dan torsi maksimal di setiap putaran",
+     "Assist & slipper clutch disebut sebagai keunggulan utama",
+     "Suspensi depan teleskopik dan belakang monocross"
+    ],
+    "kekurangan": [
+     "Kunci hanya memakai sistem pengaman magnet",
+     "Pilihan warna hanya dua",
+     "Secara keseluruhan dinilai kalah saing dibanding kompetitor"
+    ]
+   }
+  ],
+  "dicek": "2026-11-03"
+ },
+ "yamaha-wr155r": {
+  "specs": {
+   "tenaga": {
+    "value": "12,3 kW pada 10.000 rpm",
+    "source": "https://bsioto.muf.co.id/news/yamaha-wr-155-r-pilihan-baru-buat-off-road"
+   },
+   "torsi": {
+    "value": "14,3 Nm pada 6.500 rpm",
+    "source": "https://bsioto.muf.co.id/news/yamaha-wr-155-r-pilihan-baru-buat-off-road"
+   },
+   "bobot": {
+    "value": "134 kg",
+    "source": "https://www.oto.com/motor-baru/yamaha/wr155-r/faq/apa-kelebihan-dan-kekurangan-yamaha-wr155-r"
+   },
+   "tinggi_jok": {
+    "value": "880 mm",
+    "source": "https://www.oto.com/road-test-motor/test-ride-yamaha-wr-155-r-mukadimah-sebelum-bercengkerama-di-habitat-asli"
+   },
+   "tangki": {
+    "value": "8,1 liter",
+    "source": "https://www.yamaha-motor.co.id/product/wr155r/"
+   },
+   "transmisi": {
+    "value": "Manual 6 percepatan, pola 1-N-2-3-4-5-6",
+    "source": "https://bsioto.muf.co.id/news/yamaha-wr-155-r-pilihan-baru-buat-off-road"
+   },
+   "rem": {
+    "value": "Cakram ganda tipe wave di depan dan belakang",
+    "source": "https://www.yamaha-motor.co.id/product/wr155r/"
+   },
+   "suspensi": {
+    "value": "Depan teleskopik 41 mm (panjang 899,1 mm); belakang Linked-Type Monocross dengan gas, oli, preload dapat diatur",
+    "source": "https://www.yamaha-motor.co.id/product/wr155r/"
+   },
+   "ban": {
+    "value": "Dual purpose dengan velg aluminium",
+    "source": "https://www.yamaha-motor.co.id/product/wr155r/"
+   },
+   "fitur": {
+    "value": "Mesin 155cc VVA, speedometer LCD multifungsi, lampu hazard, rangka kokoh, tangki 8,1 liter",
+    "source": "https://www.yamaha-motor.co.id/product/wr155r/"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Oto.com",
+    "url": "https://www.oto.com/motor-baru/yamaha/wr155-r/faq/apa-kelebihan-dan-kekurangan-yamaha-wr155-r",
+    "kelebihan": [
+     "Suspensi telescopic diameter besar terlihat gagah dan terasa nyaman",
+     "Tangki 8,1 liter cocok untuk perjalanan jauh"
+    ],
+    "kekurangan": [
+     "Fitur tergolong minim",
+     "Desainnya dinilai kurang menarik dan terlalu biasa"
+    ]
+   },
+   {
+    "media": "Moladin",
+    "url": "https://moladin.com/news/kekurangan-yamaha-wr155r-dibanding-crf-dan-klx/",
+    "kelebihan": [
+     "Mesin dinilai unggul dibanding kompetitor",
+     "Transmisi manual 6 percepatan",
+     "Tangki besar 8,1 liter"
+    ],
+    "kekurangan": [
+     "Bobot paling berat dibanding Honda CRF150L dan Kawasaki KLX150",
+     "Tinggi jok termasuk paling tinggi di kelasnya",
+     "Harga tergolong mahal untuk pendatang baru",
+     "Pilihan warna hanya dua"
+    ]
+   },
+   {
+    "media": "Tempo",
+    "url": "https://www.tempo.co/otomotif/begini-test-ride-motor-yamaha-wr-155r-ngeri-ngeri-sedap-590630",
+    "kelebihan": [
+     "Tenaga terasa kuat terutama di putaran rendah",
+     "Suspensi dinilai nyaman saat dipakai di jalan"
+    ],
+    "kekurangan": [
+     "Bodi motor terasa tinggi bagi pengendara bertinggi 170 cm",
+     "Pengendara harus jinjit saat motor berhenti"
+    ]
+   }
+  ],
+  "dicek": "2026-11-03"
+ },
+ "yamaha-x-ride": {
+  "specs": {
+   "tenaga": {
+    "value": "7,0 kW pada 8.000 rpm",
+    "source": "https://www.yamaha-motor.co.id/product/x-ride/"
+   },
+   "torsi": {
+    "value": "9,6 Nm pada 5.500 rpm",
+    "source": "https://www.yamaha-motor.co.id/product/x-ride/"
+   },
+   "bobot": {
+    "value": "98 kg (berat isi)",
+    "source": "https://www.yamaha-motor.co.id/product/x-ride/"
+   },
+   "tinggi_jok": {
+    "value": "760 mm",
+    "source": "https://www.yamaha-motor.co.id/product/x-ride/"
+   },
+   "tangki": {
+    "value": "4,2 liter",
+    "source": "https://www.yamaha-motor.co.id/product/x-ride/"
+   },
+   "transmisi": {
+    "value": "V-belt otomatis (matik)",
+    "source": "https://yamahasumbermas.co.id/matic/yamaha-x-ride-125/"
+   },
+   "rem": {
+    "value": "Depan cakram tunggal, belakang tromol",
+    "source": "https://yamahasumbermas.co.id/matic/yamaha-x-ride-125/"
+   },
+   "suspensi": {
+    "value": "Depan teleskopik, belakang tipe unit swing",
+    "source": "https://yamahasumbermas.co.id/matic/yamaha-x-ride-125/"
+   },
+   "ban": {
+    "value": "Depan 80/80-14 tubeless, belakang 100/70-14 tubeless",
+    "source": "https://yamahasumbermas.co.id/matic/yamaha-x-ride-125/"
+   },
+   "fitur": {
+    "value": "Sub-tank suspension, ban tubeless tapak lebar, lampu LED dengan DRL, Answer Back System, gaya setang adventure, jok gaya adventure, bagasi luas",
+    "source": "https://www.yamaha-motor.co.id/product/x-ride/"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "GridOto",
+    "url": "https://www.gridoto.com/read/221005841/hasil-tes-akselerasi-yamaha-all-new-x-ride-125-x-ride-lama-gak-ada-apa-apanya",
+    "kelebihan": [
+     "Tenaga di putaran bawah terasa padat dan responsif",
+     "Akselerasi 0-60 km/jam tercatat 6,9 detik, lebih cepat dari X-Ride lama",
+     "Karakter cocok untuk pemakaian harian yang sering berhenti-jalan"
+    ],
+    "kekurangan": [
+     "Laju terasa mulai kehabisan tenaga di atas 80 km/jam"
+    ]
+   },
+   {
+    "media": "Oto",
+    "url": "https://www.oto.com/berita-motor/mencicipi-empat-kelebihan-yamaha-x-ride-125-2119576",
+    "kelebihan": [
+     "Setang lebar membuat posisi berkendara lebih rileks",
+     "Konsumsi BBM dinilai cukup irit untuk kelas skutik 125 cc",
+     "Suspensi belakang dinilai nyaman",
+     "Akselerasi dinilai baik, terutama saat kecepatan tinggi"
+    ],
+    "kekurangan": []
+   },
+   {
+    "media": "Oto",
+    "url": "https://www.oto.com/berita-motor/sebelum-beli-cek-empat-kekurangan-yamaha-x-ride-2119516",
+    "kelebihan": [],
+    "kekurangan": [
+     "Hanya rem cakram di roda depan, sehingga perlu ekstra hati-hati",
+     "Tidak ada tempat penyimpanan di dashboard",
+     "Kapasitas tangki lebih kecil dari generasi sebelumnya, 4,2 liter dibanding 4,8 liter",
+     "Panel instrumen dinilai kurang informatif untuk memantau konsumsi BBM"
+    ]
+   }
+  ],
+  "dicek": "2026-11-03"
+ },
+ "yamaha-xmax-connected": {
+  "specs": {
+   "tenaga": {
+    "value": "16,8 kW pada 7.000 rpm",
+    "source": "https://www.yamaha-motor.co.id/product/xmax-connected/"
+   },
+   "torsi": {
+    "value": "24,3 Nm pada 5.500 rpm",
+    "source": "https://www.yamaha-motor.co.id/product/xmax-connected/"
+   },
+   "bobot": {
+    "value": "184 kg",
+    "source": "https://www.yamaha-motor.co.id/product/xmax-connected/"
+   },
+   "tinggi_jok": {
+    "value": "795 mm",
+    "source": "https://www.yamaha-motor.co.id/product/xmax-connected/"
+   },
+   "tangki": {
+    "value": "13 liter",
+    "source": "https://www.tjahaja-baru.com/product/xmax-250"
+   },
+   "transmisi": {
+    "value": "V-belt otomatis dengan kopling sentrifugal kering",
+    "source": "https://www.tjahaja-baru.com/product/xmax-250"
+   },
+   "rem": {
+    "value": "Cakram depan dan belakang dengan ABS",
+    "source": "https://otomotifnet.gridoto.com/read/234361957/harga-terbaru-yamaha-xmax-250-tahun-2026-tipe-tertingginya-segini"
+   },
+   "suspensi": {
+    "value": "Telescopic fork depan, unit swing belakang",
+    "source": "https://www.yamaha-motor.co.id/product/xmax-connected/"
+   },
+   "ban": {
+    "value": "Depan 120/70-15 M/C 56P, belakang 140/70-14 M/C 62P",
+    "source": "https://www.yamaha-motor.co.id/product/xmax-connected/"
+   },
+   "fitur": {
+    "value": "Y-Connect, layar TFT, traction control, navigasi Garmin, bagasi 44,9 liter",
+    "source": "https://www.yamaha-motor.co.id/product/xmax-connected/"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Pingpoint",
+    "url": "https://pingpoint.co.id/review-yamaha-xmax-250/",
+    "kelebihan": [
+     "ABS, traction control, konektivitas, dan bagasi besar mendukung harian dan touring",
+     "Windshield dan posisi duduk nyaman untuk perjalanan antarkota"
+    ],
+    "kekurangan": [
+     "Ukuran dan bobot membuat kurang lincah di parkir sempit dan lalu lintas padat",
+     "Proporsi bodi yang panjang terasa kurang ringkas dibanding skuter 150 cc"
+    ]
+   },
+   {
+    "media": "Disway (Prabumulih Pos)",
+    "url": "https://prabumulihpos.disway.id/otomotif/read/659291/kelebihan-dan-kekurangan-yamaha-xmax-250-motor-premium-yang-nyaman-buat-segala-kebutuhan/15",
+    "kelebihan": [
+     "Stabil di kecepatan tinggi dan perjalanan jauh berkat dimensi dan ban lebar",
+     "Mesin bertenaga dan posisi duduk lebih rileks dibanding skutik kecil"
+    ],
+    "kekurangan": [
+     "Ukuran besar kurang praktis di jalan kota yang padat",
+     "Harga jual dan biaya perawatan lebih tinggi dibanding NMAX",
+     "Konsumsi BBM lebih boros dibanding skutik bermesin kecil"
+    ]
+   },
+   {
+    "media": "Moladin",
+    "url": "https://moladin.com/news/review-yamaha-xmax-motor-matik-250-cc-termurah/",
+    "kelebihan": [
+     "Torsi besar dan akselerasi halus dengan konsumsi BBM yang dinilai irit",
+     "Mesin Blue Core dengan Forged Piston dan DiASil Cylinder diklaim awet"
+    ],
+    "kekurangan": [
+     "Bodi bongsor dan bobot berat menyulitkan pemula",
+     "Tinggi jok 790 mm, lebih tinggi dari Honda Forza 250",
+     "Akselerasi yang halus dinilai kurang mengentak oleh sebagian pengendara"
+    ]
+   }
+  ],
+  "dicek": "2026-11-03"
+ },
+ "yamaha-xsr-155": {
+  "specs": {
+   "tenaga": {
+    "value": "14,2 kW pada 10.000 rpm",
+    "source": "https://www.yamaha-motor.co.id/product/xsr-155/"
+   },
+   "torsi": {
+    "value": "14,7 Nm pada 8.500 rpm",
+    "source": "https://www.yamaha-motor.co.id/product/xsr-155/"
+   },
+   "bobot": {
+    "value": "134 kg (berat isi)",
+    "source": "https://www.yamaha-motor.co.id/product/xsr-155/"
+   },
+   "tinggi_jok": {
+    "value": "810 mm",
+    "source": "https://www.yamahabrm.co.id/news/spesifikasi-yamaha-xsr-155-tangki-tinggi-jok-berat"
+   },
+   "tangki": {
+    "value": "10,4 liter",
+    "source": "https://www.yamahabrm.co.id/news/spesifikasi-yamaha-xsr-155-tangki-tinggi-jok-berat"
+   },
+   "transmisi": {
+    "value": "Manual 6 percepatan (pola 1-N-2-3-4-5-6), kopling multi-plate basah dengan assist dan slipper",
+    "source": "https://www.yamaha-motor.co.id/product/xsr-155/"
+   },
+   "rem": {
+    "value": "Cakram di roda depan dan belakang",
+    "source": "https://www.idntimes.com/automotive/motorbike/spesifikasi-harga-yamaha-xsr-155-kelebihan-kekurangan-00-kkx41-6nhgx7"
+   },
+   "suspensi": {
+    "value": "Depan teleskopik inverted, belakang link monoshock",
+    "source": "https://www.yamaha-motor.co.id/product/xsr-155/, https://www.carmudi.co.id/journal/harga-motor-yamaha-xsr-155-terbaru/"
+   },
+   "ban": {
+    "value": "Depan 110/70-17, belakang 140/70-17",
+    "source": "https://www.carmudi.co.id/journal/harga-motor-yamaha-xsr-155-terbaru/"
+   },
+   "fitur": {
+    "value": "Mesin 155 cc VVA injeksi, rangka Deltabox, lampu LED depan-belakang, speedometer LCD digital, jok single heritage, tangki drip shaped",
+    "source": "https://www.yamaha-motor.co.id/product/xsr-155/"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Moladin (Test Ride Review Yamaha XSR 155)",
+    "url": "https://moladin.com/news/test-ride-review-yamaha-xsr-155-retro-bukan-bag-2/",
+    "kelebihan": [
+     "Tampilan retro dinilai menarik dan menjadi pusat perhatian",
+     "Performa mesin dinilai layak diandalkan",
+     "Mesin berasal dari keluarga R15 yang bertipe sport"
+    ],
+    "kekurangan": [
+     "Bodi besar dan ban lebar membuat kurang lincah",
+     "Suspensi dinilai sangat kaku, terutama untuk pembonceng",
+     "Fitur dinilai kurang lengkap, misalnya tanpa lampu hazard"
+    ]
+   },
+   {
+    "media": "Moladin (7 Kelebihan Yamaha XSR 155)",
+    "url": "https://moladin.com/news/kelebihan-yamaha-xsr-155/",
+    "kelebihan": [
+     "Lampu depan dan belakang memakai LED",
+     "Panel instrumen full digital dengan tiga level kecerahan",
+     "Sudah memakai sistem injeksi bahan bakar",
+     "Transmisi 6 percepatan membuat tenaga terasa lebih halus"
+    ],
+    "kekurangan": [
+     "Speedometer digital tidak dilengkapi voltmeter",
+     "Bodi besar juga menjadi sisi kurang menguntungkan"
+    ]
+   },
+   {
+    "media": "Radar Tulungagung (ulasan pemilik dua tahun)",
+    "url": "https://radartulungagung.jawapos.com/amp/otomotif/2608230012/yamaha-xsr-155-dipakai-2-tahun-pemilik-ungkap-4-kekurangannya",
+    "kelebihan": [
+     "Selama dua tahun pemakaian tidak ada kendala berarti",
+     "Secara keseluruhan motor berjalan lancar tanpa masalah rumit"
+    ],
+    "kekurangan": [
+     "Posisi berkendara dinilai kurang ergonomis, terutama untuk perjalanan jauh",
+     "Setang dinilai terlalu kaku sehingga tangan terasa sakit",
+     "Suspensi depan dan belakang dinilai kaku",
+     "Kapasitas tangki dinilai terlalu kecil"
+    ]
+   }
+  ],
+  "dicek": "2026-11-03"
+ },
+ "yamaha-yz125x": {
+  "specs": {
+   "tenaga": {
+    "value": "Tidak ada angka resmi; uji independen menyebut sekitar 35 PS",
+    "source": "https://moas.muf.co.id/news/yamaha-yz125x-motor-spesialis-enduro-dan-cross-country"
+   },
+   "torsi": {
+    "value": "Tidak ada angka resmi; uji independen menyebut sekitar 22 Nm",
+    "source": "https://moas.muf.co.id/news/yamaha-yz125x-motor-spesialis-enduro-dan-cross-country"
+   },
+   "bobot": {
+    "value": "95 kg (berat kerb)",
+    "source": "https://www.oto.com/en/motor-baru/yamaha/yz125x/spesifikasi"
+   },
+   "tinggi_jok": {
+    "value": "955 mm",
+    "source": "https://www.oto.com/en/motor-baru/yamaha/yz125x/spesifikasi"
+   },
+   "tangki": {
+    "value": "7,9 liter",
+    "source": "https://www.oto.com/en/motor-baru/yamaha/yz125x/spesifikasi"
+   },
+   "transmisi": {
+    "value": "Manual 6 percepatan dengan kopling basah multiplate",
+    "source": "https://www.yamaha-motor.co.id/product/yz125x/"
+   },
+   "rem": {
+    "value": "Cakram depan dan cakram belakang",
+    "source": "https://www.oto.com/en/motor-baru/yamaha/yz125x"
+   },
+   "suspensi": {
+    "value": "KYB yang bisa diatur penuh di depan dan belakang",
+    "source": "https://www.yamaha-motor.co.id/product/yz125x/"
+   },
+   "ban": {
+    "value": "Dunlop Geomax AT81: 90/90-21 depan, 110/90-18 belakang",
+    "source": "https://www.yamaha-motor.co.id/product/yz125x/"
+   },
+   "fitur": {
+    "value": "Mesin 2-tak 125cc pendingin cair, karburator Mikuni TMX 38, rangka ringan, transmisi 6 percepatan",
+    "source": "https://www.yamaha-motor.co.id/product/yz125x/"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "MUF Online Autoshow",
+    "url": "https://moas.muf.co.id/news/yamaha-yz125x-motor-spesialis-enduro-dan-cross-country",
+    "kelebihan": [
+     "Mesin 2-tak menghasilkan tenaga besar untuk kubikasi kecil",
+     "Karakter tenaga dinilai stabil di putaran bawah maupun atas",
+     "Rangka ramping dan ringan membantu manuver di medan berat",
+     "Tinggi jok dan ground clearance memudahkan melewati rintangan"
+    ],
+    "kekurangan": [
+     "Konsumsi BBM dinilai kurang irit dibanding mesin 4-tak",
+     "Belum mendukung aplikasi Power Tuner seperti YZ250FX",
+     "Khusus cross country dan enduro, tidak bisa dipakai di jalan aspal"
+    ]
+   },
+   {
+    "media": "GridOto",
+    "url": "https://www.gridoto.com/read/223903370/dijual-rp-97-juta-di-indonesia-motor-trail-yamaha-125-cc-ini-jangan-dipakai-di-jalan-raya",
+    "kelebihan": [
+     "Suspensi depan upside down KYB dengan travel panjang dan bisa diatur",
+     "Lengan ayun aluminium dinilai ringan namun tetap kuat"
+    ],
+    "kekurangan": [
+     "Tidak dilengkapi lampu dan spion sehingga tidak legal di jalan raya",
+     "Tampilannya minimalis dan hanya cocok untuk penggunaan off-road"
+    ]
+   }
+  ],
+  "dicek": "2026-11-03"
+ },
+ "yamaha-yz250fx": {
+  "specs": {
+   "tenaga": {
+    "value": "Sekitar 37,9 PS (daya maksimum hasil pengujian yang disebut artikel)",
+    "source": "https://moas.muf.co.id/news/yamaha-yz250fx-motor-cross-yang-didesain-untuk-jadi-pemenang"
+   },
+   "torsi": {
+    "value": "Sekitar 24,8 Nm pada 8.800 rpm",
+    "source": "https://moas.muf.co.id/news/yamaha-yz250fx-motor-cross-yang-didesain-untuk-jadi-pemenang"
+   },
+   "bobot": {
+    "value": "111 kg (berat basah)",
+    "source": "https://www.yamaha-motor.co.id/product/yz250fx/"
+   },
+   "tinggi_jok": {
+    "value": "955 mm",
+    "source": "https://www.yamaha-motor.co.id/product/yz250fx/"
+   },
+   "tangki": {
+    "value": "8,2 liter (catatan: artikel MUF menyebut 10 liter, sumber Oto menyebut 6 liter)",
+    "source": "https://www.yamaha-motor.co.id/product/yz250fx/"
+   },
+   "transmisi": {
+    "value": "Manual 6 percepatan, kopling basah multiplat",
+    "source": "https://www.yamaha-motor.co.id/product/yz250fx/"
+   },
+   "rem": {
+    "value": "Cakram hidraulik depan 270 mm, belakang 245 mm",
+    "source": "https://yamahasumbermas.co.id/off-road/yz-250fx/"
+   },
+   "suspensi": {
+    "value": "Depan: fork tipe pegas KYB dengan redaman speed-sensitive; belakang: monoshock KYB, keduanya bisa diatur penuh",
+    "source": "https://yamahasumbermas.co.id/off-road/yz-250fx/"
+   },
+   "ban": {
+    "value": "Depan 80/100-21 dan belakang 110/90-18, merek Dunlop Geomax MX33",
+    "source": "https://yamahasumbermas.co.id/off-road/yz-250fx/"
+   },
+   "fitur": {
+    "value": "Electric starter, skid plate, aplikasi Power Tuner, rangka besar, injeksi Mikuni 44 mm",
+    "source": "https://www.yamaha-motor.co.id/product/yz250fx/"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "Autofun",
+    "url": "https://www.autofun.co.id/berita-motor/motocross-yamaha-yz-series-hadir-lagi-di-indonesia-banderolnya-mulai-rp-783-juta-51592",
+    "kelebihan": [
+     "Transmisi 6-speed dinilai cocok untuk kelas motocross cross country",
+     "Suspensi depan KYB speed-sensitive dan belakang monoshock yang bisa diatur",
+     "Mesin 4-tak 250 cc berpendingin cair dengan injeksi Mikuni 44 mm"
+    ],
+    "kekurangan": []
+   },
+   {
+    "media": "MUF Online Autoshow",
+    "url": "https://moas.muf.co.id/news/yamaha-yz250fx-motor-cross-yang-didesain-untuk-jadi-pemenang",
+    "kelebihan": [
+     "Mesin dinilai bertenaga dan cocok untuk kebutuhan cross country",
+     "Bobot sekitar 111 kg dinilai efektif untuk menjelajah alam",
+     "Electric starter memudahkan menghidupkan mesin"
+    ],
+    "kekurangan": [
+     "Harga sekitar Rp110 juta dinilai cukup tinggi untuk motor 250 cc (data artikel 2022)"
+    ]
+   }
+  ],
+  "dicek": "2026-11-03"
+ },
+ "yamaha-yz250x": {
+  "specs": {
+   "tenaga": {
+    "value": "45,35 HP",
+    "source": "https://moas.muf.co.id/news/yamaha-yz250x-motor-trail-2-tak-penakluk-medan-offroad"
+   },
+   "torsi": {
+    "value": "27,5 Nm",
+    "source": "https://moas.muf.co.id/news/yamaha-yz250x-motor-trail-2-tak-penakluk-medan-offroad"
+   },
+   "bobot": {
+    "value": "104 kg (berat basah)",
+    "source": "https://www.yamaha-motor.co.id/product/yz250x/"
+   },
+   "tinggi_jok": {
+    "value": "970 mm",
+    "source": "https://www.yamaha-motor.co.id/product/yz250x/"
+   },
+   "tangki": {
+    "value": "7,9 liter",
+    "source": "https://www.yamaha-motor.co.id/product/yz250x/"
+   },
+   "transmisi": {
+    "value": "Manual 5 percepatan, kopling basah multi-plat, penggerak rantai",
+    "source": "https://www.yamaha-motor.co.id/product/yz250x/"
+   },
+   "rem": {
+    "value": "Cakram depan 270 mm",
+    "source": "https://prabumulihpos.disway.id/otomotif/read/659645/kelebihan-dan-kekurangan-yamaha-yz250x-motor-enduro-kompetisi-dengan-performa-luar-biasa"
+   },
+   "suspensi": {
+    "value": "Suspensi KYB Speed Sensitive System",
+    "source": "https://prabumulihpos.disway.id/otomotif/read/659645/kelebihan-dan-kekurangan-yamaha-yz250x-motor-enduro-kompetisi-dengan-performa-luar-biasa"
+   },
+   "fitur": {
+    "value": "Katup daya YPVS, tanpa lampu sehingga bobot lebih ringan",
+    "source": "https://moas.muf.co.id/news/yamaha-yz250x-motor-trail-2-tak-penakluk-medan-offroad"
+   }
+  },
+  "ulasan": [
+   {
+    "media": "MUF Online Autoshow",
+    "url": "https://moas.muf.co.id/news/yamaha-yz250x-motor-trail-2-tak-penakluk-medan-offroad",
+    "kelebihan": [
+     "Bobot lebih ringan berkat tidak adanya lampu",
+     "Tangki BBM berkapasitas besar sekitar 7,9 liter",
+     "Posisi duduk dinilai memberi kenyamanan maksimal",
+     "Jok empuk dengan dimensi yang pas"
+    ],
+    "kekurangan": []
+   },
+   {
+    "media": "Disway Prabumulihpos (konten Oto)",
+    "url": "https://prabumulihpos.disway.id/otomotif/read/659645/kelebihan-dan-kekurangan-yamaha-yz250x-motor-enduro-kompetisi-dengan-performa-luar-biasa",
+    "kelebihan": [
+     "Mesin 2-tak 250 cc dengan tenaga dan akselerasi kuat",
+     "Bobot ringan membuat motor lincah di jalur teknis",
+     "Suspensi KYB SSS nyaman dan stabil di medan kasar",
+     "Rangka aluminium memberi handling presisi"
+    ],
+    "kekurangan": [
+     "Dirancang untuk kompetisi, kurang cocok harian di jalan umum",
+     "Mesin 2-tak butuh perawatan lebih rutin",
+     "Harga suku cadang dan perawatan relatif lebih mahal"
+    ]
+   }
+  ],
+  "dicek": "2026-11-03"
  }
 }
