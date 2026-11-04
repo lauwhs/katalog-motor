@@ -1,0 +1,764 @@
+[
+ {
+  "id": "suzuki-access125",
+  "brand": "Suzuki",
+  "name": "Access 125",
+  "body": "Matic",
+  "engine": "Bensin",
+  "cc": 124,
+  "price": 26250000,
+  "price_type": "OTR Jakarta",
+  "variants": [
+   {
+    "name": "Solid Ice Green",
+    "price": 26250000
+   }
+  ],
+  "model_year": null,
+  "release": null,
+  "speed": null,
+  "kmpl": 57.3,
+  "acc": null,
+  "range": null,
+  "sum": "Suzuki Access 125 adalah skuter matic klasik dengan mesin SEP 124 cc berpendingin udara, dikenal irit bahan bakar dan bertenaga responsif untuk penggunaan harian. Motor ini dilengkapi lampu LED, bagasi bawah jok 24,4 liter, dan soket USB 2A.",
+  "specs": {
+   "tenaga": "6,2 kW",
+   "torsi": "10,2 N·m",
+   "bobot": "106 kg (berat kosong)",
+   "tinggi_jok": "770 mm",
+   "tangki": "5,3 liter",
+   "transmisi": "CVT",
+   "rem": "Depan cakram 190 mm; belakang tromol 120 mm",
+   "suspensi": "Depan: telescopic, coil spring, oil damped; Belakang: swingarm type, coil spring, oil damped",
+   "ban": "Depan 90/90-12 tubeless; Belakang 90/100-10 tubeless",
+   "fitur": "Lampu depan LED, Suzuki Easy Start System, Combined Brake System, bagasi bawah jok 24,4 L, soket USB 2A, sistem kunci pengaman anti-pencurian, Suzuki Eco Drive Indicator, kait barang, pengunci rem belakang"
+  },
+  "image": "https://suzukicdn.com/assets/static/img/variant/QZA_Solid_Ice_Green_Diag__Right_1.png",
+  "image_credit": "Suzuki Indonesia",
+  "gallery": [
+   {
+    "url": "https://suzukicdn.com/assets/static/img/variant/QZA_Solid_Ice_Green_Diag__Right_1.png",
+    "caption": "Solid Ice Green",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/assets/static/img/variant/YKV_Metallic_Mat_Black_1.png",
+    "caption": "Metallic Matt. Black",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/assets/static/img/variant/Q1S_Pearl_Grace_White_-_Diag__Right_1.png",
+    "caption": "Pearl Grace White",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/assets/static/img/variant/YUA_Metallic_Matt_Stellar_Blue_Diag_1.png",
+    "caption": "Metallic Matt Stellar Blue",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.suzuki.co.id/motorcycle/access125",
+  "checked": "2026-11-04"
+ },
+ {
+  "id": "suzuki-address-fi",
+  "brand": "Suzuki",
+  "name": "Address FI",
+  "body": "Matic",
+  "engine": "Bensin",
+  "cc": 113,
+  "price": 22050000,
+  "price_type": "OTR Jakarta",
+  "variants": [
+   {
+    "name": "Address FI",
+    "price": 22050000
+   }
+  ],
+  "model_year": null,
+  "release": null,
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Suzuki Address FI adalah motor matic dengan desain dinamis dan kenyamanan berkendara yang baik. Motor ini dilengkapi ruang penyimpanan depan yang lapang serta kapasitas bagasi 20,6 liter.",
+  "specs": {
+   "tenaga": "6,9 kW",
+   "bobot": "97 kg (Berat Kosong)",
+   "tinggi_jok": "755 mm",
+   "tangki": "5,2 liter",
+   "transmisi": "CVT",
+   "rem": "Depan: disc brake; Belakang: drum brake",
+   "suspensi": "Depan: telescopic, coil spring, oil damped; Belakang: swingarm type, coil spring, oil damped",
+   "ban": "Depan: 80/90-14 M/C 40P; Belakang: 90/90-14 M/C 46P",
+   "fitur": "2 ruang penyimpanan di depan, striping baru, pijakan kaki luas, pengaman kunci dengan kunci pembuka jok, kapasitas bagasi 20,6 L dapat menampung helm full face"
+  },
+  "image": "https://suzukicdn.com/themes/default2019/img/motorcycle/address-fi/main2-address-fi.webp",
+  "image_credit": "Suzuki Indonesia",
+  "gallery": [
+   {
+    "url": "https://suzukicdn.com/themes/default2019/img/motorcycle/address-fi/banner-new.webp",
+    "caption": "Banner Suzuki Address FI",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/themes/default2019/img/motorcycle/address-fi/banner-main-2-adress-fi.webp",
+    "caption": "Banner 2 Suzuki Address FI",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/themes/default2019/img/motorcycle/address-fi/features-1.webp",
+    "caption": "Saku Depan Suzuki Address FI",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/themes/default2019/img/motorcycle/address-fi/features-2.webp",
+    "caption": "Striping Baru Suzuki Address FI",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/themes/default2019/img/motorcycle/address-fi/features-3.webp",
+    "caption": "Pijakan kaki Suzuki Address FI",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/themes/default2019/img/motorcycle/address-fi/features-4-2.webp",
+    "caption": "Pengaman kunci dengan kunci pembuka jok Suzuki Address FI",
+    "tag": "Jok dan bagasi"
+   },
+   {
+    "url": "https://suzukicdn.com/themes/default2019/img/motorcycle/address-fi/features-5.webp",
+    "caption": "bagasi 20.6L Suzuki Address FI",
+    "tag": "Jok dan bagasi"
+   },
+   {
+    "url": "https://suzukicdn.com/assets/static/img/variant/ADDRESS_PEARL_BRILLIANT_WHITE_1.webp",
+    "caption": "Suzuki Address FI Putih",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/assets/static/img/variant/ADDRESS_TITAN_BLACK_1.webp",
+    "caption": "Suzuki Address FI Hitam Titan",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/assets/static/img/variant/ADDRESS_ABU-ABU_2025_edited_1.webp",
+    "caption": "Suzuki Address FI Abu",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/themes/default2019/img/motorcycle/address-fi/bg-price.webp",
+    "caption": "product-prices-background address-fi",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.suzuki.co.id/motorcycle/address-fi",
+  "checked": "2026-11-04"
+ },
+ {
+  "id": "suzuki-burgman-street-125ex",
+  "brand": "Suzuki",
+  "name": "Burgman Street 125EX",
+  "body": "Matic",
+  "engine": "Bensin",
+  "cc": 124,
+  "price": 27050000,
+  "price_type": "OTR Jakarta",
+  "variants": [
+   {
+    "name": "Metallic Royal Bronze",
+    "price": 27050000
+   }
+  ],
+  "model_year": null,
+  "release": null,
+  "speed": null,
+  "kmpl": 52.6,
+  "acc": null,
+  "range": null,
+  "sum": "Burgman Street 125EX adalah skutik matic 125cc dengan mesin SEP-α, fitur Engine Auto Stop-Start (EASS), dan Silent Starter System. Harga OTR Jakarta tertera Rp27.050.000 untuk warna Metallic Royal Bronze.",
+  "specs": {
+   "tenaga": "6,3 kW pada 6.500 rpm",
+   "torsi": "10,0 N-m pada 5.500 rpm",
+   "bobot": "111 kg (berat kosong)",
+   "tinggi_jok": "780 mm",
+   "tangki": "5,5 liter",
+   "transmisi": "CVT",
+   "rem": "Depan: cakram (disc); Belakang: tromol (drum)",
+   "suspensi": "Depan: telescopic, coil spring, oil damped; Belakang: swingarm type, coil spring, oil damped",
+   "ban": "Depan: 90/90-R12 44J; Belakang: 100/80-R12 56J",
+   "fitur": "Engine Auto Stop-Start (EASS), Silent Starter System, Suzuki Eco Drive Indicator, stopkontak USB 2A, LED headlight, full digital instrument panel, Suzuki side stand interlock system, sistem kunci pencegah pencurian magnetik, pengait belakang, kompartemen utilitas bawah jok 21,5L"
+  },
+  "image": "https://suzukicdn.com/assets/static/img/variant/BURGMAN_CKD_BRONZE_DIAG__RIGHT_(3)_(1)_1.webp",
+  "image_credit": "Suzuki Indonesia",
+  "gallery": [
+   {
+    "url": "https://suzukicdn.com/assets/static/img/variant/BURGMAN_CKD_BRONZE_DIAG__RIGHT_(3)_(1)_1.webp",
+    "caption": "Metallic Royal Bronze",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/assets/static/img/variant/BURGMAN_CKD_BLACK_DIAG__RIGHT_(2)_1.webp",
+    "caption": "Metallic Matt Black",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/assets/static/img/variant/Burgman_White_desktop.webp",
+    "caption": "Pearl Grace White",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.suzuki.co.id/motorcycle/burgman-street-125ex",
+  "checked": "2026-11-04"
+ },
+ {
+  "id": "suzuki-gsx-r150",
+  "brand": "Suzuki",
+  "name": "GSX-R150",
+  "body": "Sport",
+  "engine": "Bensin",
+  "cc": 147.3,
+  "price": 36350000,
+  "price_type": "OTR Jakarta",
+  "variants": [
+   {
+    "name": "GSX-R150 Keyless",
+    "price": 36350000
+   },
+   {
+    "name": "GSX-R150 ABS",
+    "price": 39630000
+   }
+  ],
+  "model_year": null,
+  "release": null,
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Suzuki GSX-R150 adalah motor sport yang menggabungkan warisan performa tinggi dengan teknologi terkini, sebagai penerus keluarga GSX-R. Motor ini dilengkapi mesin bertenaga, sistem kontrol canggih, dan fitur seperti hazard lamp, LCD speedometer backlight, serta lamp ring.",
+  "specs": {
+   "tenaga": "14.1 kW/10.500 rpm",
+   "torsi": "14.0 Nm/9.000 rpm",
+   "bobot": "131 kg (Berat Kosong)",
+   "tinggi_jok": "785 mm",
+   "tangki": "11",
+   "transmisi": "6-speed, return",
+   "rem": "Disc (Petal) depan; Disc (Petal) belakang",
+   "suspensi": "Telescopic depan; Swingarm belakang",
+   "ban": "90/80-17 (TL) depan; 130/70-17 (TL) belakang",
+   "fitur": "Hazard lamp & easy start system, LCD speedometer backlight, Lamp ring, Keyless Ignition System/Shuttered Key"
+  },
+  "image": "https://www.suzuki.co.id/themes/default2019/img/motorcycle/gsx-r150/gsxr-black.webp",
+  "image_credit": "Suzuki Indonesia",
+  "gallery": [
+   {
+    "url": "https://www.suzuki.co.id/themes/default2019/img/motorcycle/gsx-r150/new-banner.webp",
+    "caption": "Banner produk Suzuki GSX-R150",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.suzuki.co.id/themes/default2019/img/motorcycle/gsx-r150/mid-banner4.webp",
+    "caption": "product-banner-4 gsx-r150",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.suzuki.co.id/themes/default2019/img/motorcycle/gsx-r150/feature-5.webp",
+    "caption": "Hazard lamp & easy start system",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://www.suzuki.co.id/themes/default2019/img/motorcycle/gsx-r150/feature-3.webp",
+    "caption": "LCD speedometer",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://www.suzuki.co.id/themes/default2019/img/motorcycle/gsx-r150/feature-6.webp",
+    "caption": "Lamp ring",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://suzukicdn.com/assets/static/img/variant/blue_gsxr.png",
+    "caption": "GSX-R150 - Warna PRL. BRILLIANT WHITE - MET. TRITON BLUE",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/assets/static/img/variant/black_gsxr.png",
+    "caption": "GSX-R150 - Warna TITAN BLACK",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.suzuki.co.id/motorcycle/gsx-r150",
+  "checked": "2026-11-04"
+ },
+ {
+  "id": "suzuki-gsx-s150",
+  "brand": "Suzuki",
+  "name": "GSX-S150",
+  "body": "Naked",
+  "engine": "Bensin",
+  "cc": 147.3,
+  "price": 33215000,
+  "price_type": "OTR Jakarta",
+  "variants": [
+   {
+    "name": "GSX-S150 Keyless",
+    "price": 33215000
+   }
+  ],
+  "model_year": null,
+  "release": null,
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Suzuki GSX-S150 adalah motor sport street bike 150cc yang disebut gesit dan ringan, dengan fitur seperti Lamp Ring, Hazard Lamp, dan New LCD Speedometer Backlight. Motor ini ditujukan untuk transportasi harian dan hobi.",
+  "specs": {
+   "tenaga": "14.1 kw/10,500 rpm",
+   "torsi": "14.0 Nm/9,000 rpm",
+   "bobot": "130 kg (Berat Kosong)",
+   "tinggi_jok": "785 mm",
+   "tangki": "11",
+   "transmisi": "6-speed, return",
+   "rem": "Disc (Petal) depan / Disc (Petal) belakang",
+   "suspensi": "Telescopic depan / Swingarm belakang",
+   "ban": "90/80-17 (TL) depan / 130/70-17 (TL) belakang",
+   "fitur": "Lamp Ring, Shutter Key, Hazard Lamp, Easy Start System, New LCD Speedometer Backlight, Petal Disc Brake, Key-less Ignition System"
+  },
+  "image": "https://suzukicdn.com/themes/default2019/img/motorcycle/gsx-s150/gsxs-blackk.webp",
+  "image_credit": "Suzuki Indonesia",
+  "gallery": [
+   {
+    "url": "https://suzukicdn.com/themes/default2019/img/motorcycle/gsx-s150/banner-gsx-s-desktop.webp",
+    "caption": "Banner Suzuki GSX-S150",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/themes/default2019/img/motorcycle/gsx-s150/banner-gsx-s-highlight-desktop.webp",
+    "caption": "Banner 2 Suzuki GSX-S150",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/themes/default2019/img/motorcycle/gsx-s150/feature-1.webp",
+    "caption": "Lamp Ring and Shutter Key GSX-S150",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://suzukicdn.com/themes/default2019/img/motorcycle/gsx-s150/feature-2.webp",
+    "caption": "Hazard Lamp & Easy Start System GSX-S150",
+    "tag": "Lampu"
+   },
+   {
+    "url": "https://suzukicdn.com/themes/default2019/img/motorcycle/gsx-s150/feature-3.webp",
+    "caption": "New LCD Speedometer Backlight GSX-S150",
+    "tag": "Panel instrumen"
+   },
+   {
+    "url": "https://suzukicdn.com/themes/default2019/img/motorcycle/gsx-s150/feature-4.webp",
+    "caption": "Powerful Engine GSX-S150",
+    "tag": "Mesin"
+   },
+   {
+    "url": "https://suzukicdn.com/themes/default2019/img/motorcycle/gsx-s150/feature-5.webp",
+    "caption": "Petal Disc Brake GSX-S150",
+    "tag": "Roda dan rem"
+   },
+   {
+    "url": "https://www.suzuki.co.id/assets/static/img/variant/black_gsx-s.png",
+    "caption": "Suzuki GSX-S150 Hitam",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://www.suzuki.co.id/assets/static/img/variant/blue_gsx-s.png",
+    "caption": "Suzuki GSX-S150 Biru",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.suzuki.co.id/motorcycle/gsx-s150",
+  "checked": "2026-11-04"
+ },
+ {
+  "id": "suzuki-nex-crossover",
+  "brand": "Suzuki",
+  "name": "NEX II CROSSOVER",
+  "body": "Matic",
+  "engine": "Bensin",
+  "cc": 113,
+  "price": 21890000,
+  "price_type": "OTR Jakarta",
+  "variants": [
+   {
+    "name": "NEX II CROSSOVER",
+    "price": 21890000
+   }
+  ],
+  "model_year": null,
+  "release": null,
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Motor matic sporty dengan Naked Handle Bar, seat cover baru, dan mesin 113cc FI dengan teknologi SEP (Suzuki Eco Performance). Dilengkapi Digital Speedometer dan ban Dual Purpose untuk berbagai medan.",
+  "specs": {
+   "tenaga": "6,9 kW",
+   "bobot": "94 kg (Berat Kosong)",
+   "tangki": "3,6 liter",
+   "transmisi": "CVT",
+   "rem": "Depan: Cakram; Belakang: Tromol",
+   "ban": "Dual Purpose",
+   "fitur": "Naked Handle Bar, Caliper Front, Easy Start System, Shock Breaker, Two Tone Seat Cover, Digital Speedometer, SEP (Suzuki Eco Performance), Ban Dual Purpose"
+  },
+  "image": "https://suzukicdn.com/themes/default2019/img/motorcycle/nex-crossover/default-prod.webp",
+  "image_credit": "Suzuki Indonesia",
+  "gallery": [
+   {
+    "url": "https://suzukicdn.com/themes/default2019/img/motorcycle/nex-crossover/new-banner.webp",
+    "caption": "Hero Banner Suzuki Nex Crossover",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/themes/default2019/img/motorcycle/nex-crossover/fitur/ban.webp",
+    "caption": "Ban Dual Purpose Suzuki Nex Crossover",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/themes/default2019/img/motorcycle/nex-crossover/fitur/naked.webp",
+    "caption": "Naked Handle Bar Suzuki Nex Crossover",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/themes/default2019/img/motorcycle/nex-crossover/fitur/caliper.webp",
+    "caption": "Caliper Front Suzuki Nex Crossover",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/themes/default2019/img/motorcycle/nex-crossover/fitur/easy.webp",
+    "caption": "Easy Start Sytem Suzuki Nex Crossover",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/themes/default2019/img/motorcycle/nex-crossover/fitur/shock.webp",
+    "caption": "Shock Breaker Suzuki Nex Crossover",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/themes/default2019/img/motorcycle/nex-crossover/fitur/two.webp",
+    "caption": "Caliper Front Suzuki Nex Crossover",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/assets/static/img/variant/EDITED_STROGER_RED_DIAGONAL_STANDAR_(1)_1.webp",
+    "caption": "Suzuki Nex Crossover Merah",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/assets/static/img/variant/EDITED_SOLID_BLACK_(1)_2.webp",
+    "caption": "Suzuki Nex Crossover Hitam",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/assets/static/img/variant/EDITED_PEARL_ASH_BLUE_DIAGONAL_STANDAR_(1)_1.webp",
+    "caption": "Suzuki Nex Crossover Biru",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/themes/default2019/img/motorcycle/nex-crossover/bg-priced.webp",
+    "caption": "product-prices=background nex-crossover",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.suzuki.co.id/motorcycle/nex-crossover",
+  "checked": "2026-11-04"
+ },
+ {
+  "id": "suzuki-nex-ii-elegant",
+  "brand": "Suzuki",
+  "name": "NEX II Elegant Premium",
+  "body": "Matic",
+  "engine": "Bensin",
+  "cc": 113,
+  "price": 20720000,
+  "price_type": "OTR Jakarta",
+  "variants": [
+   {
+    "name": "Standard",
+    "price": 20720000
+   }
+  ],
+  "model_year": null,
+  "release": null,
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Suzuki NEX II adalah motor matic dengan desain futuristik dan modern, ditenagai mesin 113cc Fuel Injection. Motor ini dilengkapi Suzuki Easy Start System, kompartemen besar, dan fitur LED serta USB charger pada varian Elegant.",
+  "specs": {
+   "tenaga": "6,9 kW",
+   "bobot": "93 kg",
+   "tangki": "3,6 liter",
+   "transmisi": "CVT",
+   "rem": "Depan: Cakram; Belakang: Tromol",
+   "fitur": "3D emblem logo, Kompartemen besar, LED headlight (khusus Elegant), USB charger (khusus Elegant), Floor board sill guard (khusus Elegant), Cover muffler (khusus Elegant), Suzuki Easy Start System"
+  },
+  "image": "https://suzukicdn.com/themes/default2019/img/motorcycle/nex-ii-elegant/default-2.webp",
+  "image_credit": "Suzuki Indonesia",
+  "gallery": [
+   {
+    "url": "https://suzukicdn.com/themes/default2019/img/motorcycle/nex-ii-elegant/Desktop Banner.webp",
+    "caption": "Hero Banner Nex II",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/themes/default2019/img/motorcycle/nex-ii-elegant/exterior-1.webp",
+    "caption": "3d Emblem Logo Suzuki Nex II",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/themes/default2019/img/motorcycle/nex-ii-elegant/exterior-2.webp",
+    "caption": "Kompartemen Suzuki Nex II",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/themes/default2019/img/motorcycle/nex-ii-elegant/exterior-3.webp",
+    "caption": "Headlamp Suzuki Nex II",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/themes/default2019/img/motorcycle/nex-ii-elegant/exterior-4.webp",
+    "caption": "Usb Charger Suzuki Nex II",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/themes/default2019/img/motorcycle/nex-ii-elegant/exterior-5.webp",
+    "caption": "Floor Board Suzuki Nex II",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/themes/default2019/img/motorcycle/nex-ii-elegant/exterior-6d_new.webp",
+    "caption": "Cover Muffler Suzuki Nex II",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/themes/default2019/img/motorcycle/nex-ii-elegant/feature-1.webp",
+    "caption": "product-feature-1 col-3 nex-ii-elegent",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/themes/default2019/img/motorcycle/nex-ii-elegant/feature-2.webp",
+    "caption": "product-feature-2 col-3 nex-ii-elegent",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/themes/default2019/img/motorcycle/nex-ii-elegant/feature-3.webp",
+    "caption": "product-feature-3 col-3 nex-ii-elegent",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/themes/default2019/img/motorcycle/nex-ii-elegant/feature-4.webp",
+    "caption": "product-feature-4 col-3 nex-ii-elegent",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/assets/static/img/variant/MAT_STELLAR_BLUE-PLATINUM_SILVER_DIAGONAL_STANDAR_(1)_1.webp",
+    "caption": "Suzuki Nex II Standard Biru Silver",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/assets/static/img/variant/MAT_TRITON_BLUE-TITAN_BLACK_DIAGONAL_STANDAR_(2)_1.webp",
+    "caption": "Suzuki Nex II Standard Biru",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/assets/static/img/variant/MAT_TRITON_BLUE-TITAN_BLACK_DIAGONAL_STANDAR_(2)_2.webp",
+    "caption": "Suzuki Nex II Standard Hitam",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/themes/default2019/img/motorcycle/nex-ii-elegant/bg-price.webp",
+    "caption": "product-prices-background nex-ii-elegent",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.suzuki.co.id/motorcycle/nex-ii-elegant",
+  "checked": "2026-11-04"
+ },
+ {
+  "id": "suzuki-satria",
+  "brand": "Suzuki",
+  "name": "Satria Pro / Satria F150",
+  "body": "Bebek",
+  "engine": "Bensin",
+  "cc": 147,
+  "price": 36100000,
+  "price_type": "OTR Jakarta",
+  "variants": [
+   {
+    "name": "Candy Mat Bordeaux - Titan Black",
+    "price": 36100000
+   }
+  ],
+  "model_year": null,
+  "release": null,
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Suzuki Satria Pro dan Satria F150 adalah motor underbone 150cc dengan teknologi keyless, smartphone connectivity (Suzuki Ride Connect), dan tampilan sporty. Harga OTR plat B/DKI Jakarta November 2025 tercantum Rp 36.100.000 dan dapat berubah sewaktu-waktu.",
+  "specs": {
+   "tenaga": "13.5 kW/10.000 rpm",
+   "torsi": "13.8 N-m/8.500 rpm",
+   "bobot": "112 kg (Satria F150), 115 kg (Satria Pro)",
+   "tinggi_jok": "765 mm",
+   "tangki": "4.0 liter",
+   "transmisi": "6 percepatan",
+   "rem": "Depan: New Petal Design Disc Brake; Belakang: New Petal Design Disc Brake",
+   "suspensi": "Depan: Teleskopik, pegas spiral, bantalan oli; Belakang: Lengan ayun, pegas spiral, bantalan oli",
+   "ban": "Depan: 70/90-R17; Belakang: 80/90-R17",
+   "fitur": "Antilock Brake System, Keyless, Easy Start System, Suzuki Ride Connect, USB Outlet, Suzuki Clutch Assist System"
+  },
+  "image": "https://suzukicdn.com/themes/default2019/img/motorcycle/satria/profeature/Underseat storage.webp",
+  "image_credit": "Suzuki Indonesia",
+  "gallery": [
+   {
+    "url": "https://suzukicdn.com/themes/default2019/img/motorcycle/satria/profeature/Dashboard.webp",
+    "caption": "Keyless",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/themes/default2019/img/motorcycle/satria/profeature/Easy Start System.webp",
+    "caption": "Easy Start System",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/themes/default2019/img/motorcycle/satria/profeature/Suzuki Ride Connect.webp",
+    "caption": "Suzuki Ride Connect",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/themes/default2019/img/motorcycle/satria/profeature/USB Outlet_.webp",
+    "caption": "USB Outlet*",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/themes/default2019/img/motorcycle/satria/profeature/Suzuki Clutch Assist System.webp",
+    "caption": "Suzuki Clutch Assist System",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/themes/default2019/img/motorcycle/satria/iconpro/keyless.webp",
+    "caption": "Key-Less Ignition System",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/themes/default2019/img/motorcycle/satria/iconpro/abs.webp",
+    "caption": "Antilock Braking System",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/themes/default2019/img/motorcycle/satria/iconpro/suzuki clutch.webp",
+    "caption": "Suzuki Clutch Assist System",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/themes/default2019/img/motorcycle/satria/iconpro/suzuki ride connect.webp",
+    "caption": "Suzuki Ride Connect",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/themes/default2019/img/motorcycle/satria/iconpro/easy start system.webp",
+    "caption": "Easy Start System",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/themes/default2019/img/motorcycle/satria/iconpro/USB.webp",
+    "caption": "USB Outlet",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com//assets/static/img/variant/CANDY_MAT_BORDEAUX_-_TITAN_BLACK_(DIAG_RIGHT)_1.webp",
+    "caption": "Access Candy Mat Bordeaux - Titan Black",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com//assets/static/img/variant/METALLIC_MEDIUM_BLUE_-_MET__MAT_FIBROIN_GRAY_1.webp",
+    "caption": "Access Metallic Medium Blue - Met. Mat. Fibroin Gray",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com//assets/static/img/variant/PEARL_BRIGHT_IVORY_-_MET__MAT_FIBROIN_GRAY_1.webp",
+    "caption": "Access Pearl Bright Ivory - Met. Mat. Fibroin Gray",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.suzuki.co.id/motorcycle/satria",
+  "checked": "2026-11-04"
+ },
+ {
+  "id": "suzuki-v-strom-250sx",
+  "brand": "Suzuki",
+  "name": "V-Strom 250 SX",
+  "body": "Adventure",
+  "engine": "Bensin",
+  "cc": 249,
+  "price": 61850000,
+  "price_type": "OTR Jakarta",
+  "variants": [
+   {
+    "name": "VStrom 250 SX",
+    "price": 61850000
+   }
+  ],
+  "model_year": null,
+  "release": null,
+  "speed": null,
+  "kmpl": null,
+  "acc": null,
+  "range": null,
+  "sum": "Motor 250cc bergaya adventure yang memadukan performa untuk trail, sport, dan touring dengan desain modern. Dilengkapi fitur fungsional untuk mobilitas dan eksplorasi berbagai medan.",
+  "specs": {
+   "bobot": "167 Kg (Berat Kosong)",
+   "tinggi_jok": "205 mm",
+   "tangki": "12 L",
+   "transmisi": "6 Speed, MT",
+   "rem": "Depan: Disc, single; Belakang: Disc",
+   "suspensi": "Depan: Telescopic, Cylindrical Coil, Oil Damped; Belakang: Swing arm type, Cylindrical Coil, Oil Damped",
+   "ban": "Depan: 100/90-19M/C 57S, tubeless; Belakang: 140/70-17M/C 66S, tubeless",
+   "fitur": "Lampu depan LED, Sistem Injeksi Bahan Bakar (Fuel injection), Starter Elektrik"
+  },
+  "image": "https://suzukicdn.com/assets/static/img/variant/Yellow.webp",
+  "image_credit": "Suzuki Indonesia",
+  "gallery": [
+   {
+    "url": "https://suzukicdn.com/assets/static/img/variant/Yellow.webp",
+    "caption": "Champion Yellow + Glass Sparkle Black",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/assets/static/img/variant/Biru.webp",
+    "caption": "Pearl Fresh Blue + Glass Sparkle Black",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/assets/static/img/variant/Hitam.webp",
+    "caption": "Glass Sparkle Black",
+    "tag": "Foto"
+   },
+   {
+    "url": "https://suzukicdn.com/assets/static/img/variant/Putih.webp",
+    "caption": "Pearl Glacier White + Met Mat Stellar Blue",
+    "tag": "Foto"
+   }
+  ],
+  "trusted_images": true,
+  "source": "https://www.suzuki.co.id/motorcycle/v-strom-250sx",
+  "checked": "2026-11-04"
+ }
+]

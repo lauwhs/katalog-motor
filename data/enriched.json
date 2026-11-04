@@ -1876,5 +1876,171 @@
  },
  "yamaha-yz250x": {
   "perf": {}
+ },
+ "suzuki-access125": {
+  "release": "2025-09",
+  "kmpl": 50.4,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.motorplus-online.com/read/254392094/sempat-bikin-geger-suzuki-access-125-sekarang-dijual-segini"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://otomotif.kompas.com/read/2026/02/20/092200515/uji-irit-suzuki-access-125--seberapa-efisien-mesin-125-cc-nya-"
+   }
+  }
+ },
+ "suzuki-address-fi": {
+  "release": "2014-10",
+  "speed": 102,
+  "kmpl": 47.9,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.suzuki.co.id/news/suzuki-address-bermain-gaya-baru-makin-atraktif"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://www.motorplus-online.com/read/251223967/saking-iritnya-suzuki-address-playful-saat-full-tank-bisa-mencapai-cirebon-tanpa-berhenti"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://www.motorplus-online.com/read/251223967/saking-iritnya-suzuki-address-playful-saat-full-tank-bisa-mencapai-cirebon-tanpa-berhenti"
+   }
+  }
+ },
+ "suzuki-burgman-street-125ex": {
+  "release": "2023-10",
+  "speed": 100,
+  "kmpl": 42.5,
+  "acc": 25,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://otomotif.kompas.com/read/2023/10/25/134200015/harga-rp-24-7-juta-suzuki-resmi-luncurkan-burgman-street-125-ex"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://moas.muf.co.id/news/suzuki-burgman-street-125ex-matic-mewah-performa-lincah"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://otomotif.kompas.com/read/2024/08/29/171200715/tes-lengkap-burgman-street-125ex-dari-desain-sampai-biaya-kepemilikan?page=all"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://moas.muf.co.id/news/suzuki-burgman-street-125ex-matic-mewah-performa-lincah"
+   }
+  }
+ },
+ "suzuki-gsx-r150": {
+  "release": "2017-02",
+  "speed": 137.5,
+  "kmpl": 30,
+  "acc": 11.4,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.suzuki.co.id/news/peluncuran-resmi-suzuki-gsx-r150-gsx-s150-di-bekasi-dan-surabaya"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/231136145/komparasi-akselerasi-suzuki-gsx-r150-vs-cbr150r-dan-yzf-r15-siapa-paling-cepat"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://motomazine.com/2017/02/21/konsumsi-bbm-suzuki-gsx-r150/"
+   },
+   "acc": {
+    "basis": "uji",
+    "source": "https://otomotifnet.gridoto.com/read/231136145/komparasi-akselerasi-suzuki-gsx-r150-vs-cbr150r-dan-yzf-r15-siapa-paling-cepat"
+   }
+  }
+ },
+ "suzuki-gsx-s150": {
+  "release": "2017-02",
+  "speed": 125,
+  "kmpl": 35.65,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.beritasatu.com/otomotif/415140/suzuki-gsxr-150-dan-gsxs-150-akhirnya-resmi-mengaspal"
+   },
+   "speed": {
+    "basis": "uji",
+    "source": "https://moas.muf.co.id/news/suzuki-gsx-s150-naked-bike-lincah-dan-ringan"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://otomania.gridoto.com/read/241179990/performa-dan-konsumsi-bahan-bakar-gsx-s-150"
+   }
+  }
+ },
+ "suzuki-nex-crossover": {
+  "release": "2020-11",
+  "kmpl": 46.1,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.suzuki.co.id/news/suzuki-meluncurkan-nex-crossover-gaya-baru-petualang"
+   },
+   "kmpl": {
+    "basis": "uji",
+    "source": "https://otomotif.kompas.com/read/2025/10/09/110200515/hitung-konsumsi-bbm-suzuki-nex-crossover-tembus-46-kpl"
+   }
+  }
+ },
+ "suzuki-nex-ii-elegant": {
+  "release": "2018-04",
+  "kmpl": 49,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.liputan6.com/otomotif/read/3481210/suzuki-nex-ii-resmi-meluncur-berapa-harganya"
+   },
+   "kmpl": {
+    "basis": "klaim pabrikan",
+    "source": "https://pertamax7.com/2018/05/05/spesifikasi-suzuki-nex-ii/"
+   }
+  }
+ },
+ "suzuki-satria": {
+  "release": "2025-11",
+  "kmpl": 43,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://otomotif.kompas.com/read/2025/11/08/103224315/suzuki-satria-pro-dan-satria-f150-resmi-meluncur-harganya-segini"
+   },
+   "kmpl": {
+    "basis": "klaim pabrikan",
+    "source": "https://otomotif.kompas.com/read/2025/11/12/082200715/suzuki-satria-f150-dan-satria-pro-diklaim-aman-pakai-etanol-10-persen"
+   }
+  }
+ },
+ "suzuki-v-strom-250sx": {
+  "release": "2023-04",
+  "speed": 146,
+  "kmpl": 31,
+  "acc": 8.89,
+  "perf": {
+   "release": {
+    "basis": "berita",
+    "source": "https://www.suzuki.co.id/news/suzuki-resmi-umumkan-harga-dan-distribusikan-v-strom-250sx-di-indonesia"
+   },
+   "speed": {
+    "basis": "uji (top speed spidometer 146 km/jam; Racebox 132,8 km/jam)",
+    "source": "https://www.gridoto.com/read/223904384/test-ride-lengkap-suzuki-v-strom-250sx-harga-paling-murah-enak-dipakainya?page=all"
+   },
+   "kmpl": {
+    "basis": "uji (rata-rata 31 km/liter dari test ride harian kota sampai turing)",
+    "source": "https://www.gridoto.com/read/223904384/test-ride-lengkap-suzuki-v-strom-250sx-harga-paling-murah-enak-dipakainya?page=all"
+   },
+   "acc": {
+    "basis": "uji (0-100 km/jam: 8,89 detik, Racebox)",
+    "source": "https://www.gridoto.com/read/223904384/test-ride-lengkap-suzuki-v-strom-250sx-harga-paling-murah-enak-dipakainya?page=all"
+   }
+  }
  }
 }
