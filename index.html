@@ -110,7 +110,7 @@ function home(){
 const esc=t=>String(t).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"})[c]);
 let ART=null,RES=null;
 const getJ=async u=>{try{return await (await fetch(u)).json()}catch(e){return {}}};
-const LBL={tenaga:"Tenaga",torsi:"Torsi",bobot:"Bobot",tinggi_jok:"Tinggi jok",tangki:"Tangki BBM",transmisi:"Transmisi",rem:"Rem",suspensi:"Suspensi",ban:"Ban",fitur:"Fitur"};
+const LBL={baterai:"Baterai",pengisian:"Pengisian daya",tenaga:"Tenaga",torsi:"Torsi",bobot:"Bobot",tinggi_jok:"Tinggi jok",tangki:"Tangki BBM",transmisi:"Transmisi",rem:"Rem",suspensi:"Suspensi",ban:"Ban",fitur:"Fitur"};
 const okUrl=u=>/^https?:\/\//.test(u)?u:"#";
 let COM=null;
 async function loadGal(d){

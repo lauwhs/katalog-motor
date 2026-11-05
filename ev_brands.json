@@ -1,0 +1,50 @@
+[
+  {
+    "brand": "Polytron",
+    "start": [
+      "https://polytron.co.id/",
+      "https://polytron.co.id/kategori-produk/polytron-ev/2-wheel"
+    ]
+  },
+  {
+    "brand": "Alva",
+    "start": [
+      "https://www.alvaauto.com/"
+    ],
+    "catatan": "alva.co.id ternyata perusahaan lain; situs motor listrik ALVA: alvaauto.com"
+  },
+  {
+    "brand": "United",
+    "start": [
+      "https://unitedmotor.co.id/"
+    ]
+  },
+  {
+    "brand": "Gesits",
+    "start": [
+      "https://www.gesitsmotors.com/"
+    ]
+  },
+  {
+    "brand": "Viar",
+    "start": [
+      "https://viarmotor.com/",
+      "https://viarmotor.com/sepeda-listrik"
+    ],
+    "catatan": "seri EV Viar ada di halaman sepeda-listrik"
+  },
+  {
+    "brand": "VinFast",
+    "start": [
+      "https://vinfastauto.id/"
+    ],
+    "catatan": "hanya ambil e-motorcycle (Evo, Feliz II, Viper), bukan mobil"
+  },
+  {
+    "brand": "Yadea",
+    "start": [
+      "https://yadea.co.id/"
+    ],
+    "catatan": "sepeda listrik (motor berkecepatan rendah) otomatis dibuang; hanya halaman /models/ bertanda Motor listrik yang relevan"
+  }
+]
