@@ -59,7 +59,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/hondabigbike/product/adventure/honda-cb500x",
-  "checked": "2026-11-10"
+  "checked": "2026-11-12"
  },
  {
   "id": "honda-cb650r",
@@ -136,7 +136,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/hondabigbike/product/naked/honda-cb650r",
-  "checked": "2026-11-10"
+  "checked": "2026-11-12"
  },
  {
   "id": "honda-cbr1000rr-r",
@@ -198,7 +198,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/hondabigbike/product/sport/honda-cbr1000rr-r",
-  "checked": "2026-11-10"
+  "checked": "2026-11-12"
  },
  {
   "id": "honda-cbr1000rr-r-2",
@@ -265,7 +265,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/hondabigbike/product/sport/honda-cbr1000rr-r-2",
-  "checked": "2026-11-10"
+  "checked": "2026-11-12"
  },
  {
   "id": "honda-crf1100l-africa-twin-adventure-sports",
@@ -332,7 +332,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/hondabigbike/product/adventure/honda-crf1100l-africa-twin-adventure-sports",
-  "checked": "2026-11-10"
+  "checked": "2026-11-12"
  },
  {
   "id": "honda-gold-wing-1800",
@@ -409,7 +409,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/hondabigbike/product/cruiser/honda-gold-wing-1800",
-  "checked": "2026-11-10"
+  "checked": "2026-11-12"
  },
  {
   "id": "honda-nx-500",
@@ -476,7 +476,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/hondabigbike/product/adventure/honda-nx-500",
-  "checked": "2026-11-10"
+  "checked": "2026-11-12"
  },
  {
   "id": "honda-rebel",
@@ -523,7 +523,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/hondabigbike/product/cruiser/honda-rebel",
-  "checked": "2026-11-10"
+  "checked": "2026-11-12"
  },
  {
   "id": "honda-rebel-1100",
@@ -585,7 +585,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/hondabigbike/product/cruiser/honda-rebel-1100",
-  "checked": "2026-11-10"
+  "checked": "2026-11-12"
  },
  {
   "id": "honda-xl750-transalp",
@@ -652,6 +652,6 @@
   ],
   "trusted_images": true,
   "source": "https://www.astra-honda.com/hondabigbike/product/adventure/xl750-transalp",
-  "checked": "2026-11-10"
+  "checked": "2026-11-12"
  }
 ]
