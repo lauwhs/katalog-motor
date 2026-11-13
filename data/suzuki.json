@@ -59,7 +59,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.suzuki.co.id/motorcycle/access125",
-  "checked": "2026-11-12"
+  "checked": "2026-11-13"
  },
  {
   "id": "suzuki-address-fi",
@@ -155,7 +155,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.suzuki.co.id/motorcycle/address-fi",
-  "checked": "2026-11-12"
+  "checked": "2026-11-13"
  },
  {
   "id": "suzuki-burgman-street-125ex",
@@ -212,7 +212,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.suzuki.co.id/motorcycle/burgman-street-125ex",
-  "checked": "2026-11-12"
+  "checked": "2026-11-13"
  },
  {
   "id": "suzuki-gsx-r150",
@@ -293,7 +293,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.suzuki.co.id/motorcycle/gsx-r150",
-  "checked": "2026-11-12"
+  "checked": "2026-11-13"
  },
  {
   "id": "suzuki-gsx-s150",
@@ -380,7 +380,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.suzuki.co.id/motorcycle/gsx-s150",
-  "checked": "2026-11-12"
+  "checked": "2026-11-13"
  },
  {
   "id": "suzuki-nex-crossover",
@@ -474,7 +474,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.suzuki.co.id/motorcycle/nex-crossover",
-  "checked": "2026-11-12"
+  "checked": "2026-11-13"
  },
  {
   "id": "suzuki-nex-ii-elegant",
@@ -587,7 +587,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.suzuki.co.id/motorcycle/nex-ii-elegant",
-  "checked": "2026-11-12"
+  "checked": "2026-11-13"
  },
  {
   "id": "suzuki-satria",
@@ -699,7 +699,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.suzuki.co.id/motorcycle/satria",
-  "checked": "2026-11-12"
+  "checked": "2026-11-13"
  },
  {
   "id": "suzuki-v-strom-250sx",
@@ -759,6 +759,6 @@
   ],
   "trusted_images": true,
   "source": "https://www.suzuki.co.id/motorcycle/v-strom-250sx",
-  "checked": "2026-11-12"
+  "checked": "2026-11-13"
  }
 ]
