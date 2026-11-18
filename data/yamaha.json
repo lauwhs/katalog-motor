@@ -139,7 +139,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.yamaha-motor.co.id/product/aerox-alpha/",
-  "checked": "2026-11-17"
+  "checked": "2026-11-18"
  },
  {
   "id": "yamaha-all-new-aerox155-connected",
@@ -269,7 +269,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.yamaha-motor.co.id/product/all-new-aerox155-connected/",
-  "checked": "2026-11-17"
+  "checked": "2026-11-18"
  },
  {
   "id": "yamaha-all-new-nmax155-connected",
@@ -399,7 +399,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.yamaha-motor.co.id/product/all-new-nmax155-connected/",
-  "checked": "2026-11-17"
+  "checked": "2026-11-18"
  },
  {
   "id": "yamaha-all-new-r15-connected",
@@ -529,7 +529,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.yamaha-motor.co.id/product/all-new-R15-connected/",
-  "checked": "2026-11-17"
+  "checked": "2026-11-18"
  },
  {
   "id": "yamaha-fazzio",
@@ -667,7 +667,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.yamaha-motor.co.id/product/fazzio/",
-  "checked": "2026-11-17"
+  "checked": "2026-11-18"
  },
  {
   "id": "yamaha-freego-125",
@@ -793,7 +793,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.yamaha-motor.co.id/product/freego-125/",
-  "checked": "2026-11-17"
+  "checked": "2026-11-18"
  },
  {
   "id": "yamaha-gear-125",
@@ -915,7 +915,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.yamaha-motor.co.id/product/gear-125/",
-  "checked": "2026-11-17"
+  "checked": "2026-11-18"
  },
  {
   "id": "yamaha-gear-ultima",
@@ -1045,7 +1045,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.yamaha-motor.co.id/product/gear-ultima/",
-  "checked": "2026-11-17"
+  "checked": "2026-11-18"
  },
  {
   "id": "yamaha-grand-filano",
@@ -1171,7 +1171,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.yamaha-motor.co.id/product/grand-filano/",
-  "checked": "2026-11-17"
+  "checked": "2026-11-18"
  },
  {
   "id": "yamaha-jupiter-z1",
@@ -1263,7 +1263,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.yamaha-motor.co.id/product/jupiter-z1/",
-  "checked": "2026-11-17"
+  "checked": "2026-11-18"
  },
  {
   "id": "yamaha-lexi-lx-155",
@@ -1393,7 +1393,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.yamaha-motor.co.id/product/lexi-lx-155/",
-  "checked": "2026-11-17"
+  "checked": "2026-11-18"
  },
  {
   "id": "yamaha-mt15",
@@ -1495,7 +1495,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.yamaha-motor.co.id/product/mt15/",
-  "checked": "2026-11-17"
+  "checked": "2026-11-18"
  },
  {
   "id": "yamaha-mt25",
@@ -1602,7 +1602,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.yamaha-motor.co.id/product/mt25/",
-  "checked": "2026-11-17"
+  "checked": "2026-11-18"
  },
  {
   "id": "yamaha-mx-king-150",
@@ -1712,7 +1712,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.yamaha-motor.co.id/product/mx-king-150/",
-  "checked": "2026-11-17"
+  "checked": "2026-11-18"
  },
  {
   "id": "yamaha-mio-m3",
@@ -1834,7 +1834,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.yamaha-motor.co.id/product/mio-m3/",
-  "checked": "2026-11-17"
+  "checked": "2026-11-18"
  },
  {
   "id": "yamaha-nmax-turbo",
@@ -1984,7 +1984,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.yamaha-motor.co.id/product/nmax-turbo/",
-  "checked": "2026-11-17"
+  "checked": "2026-11-18"
  },
  {
   "id": "yamaha-fino",
@@ -2114,7 +2114,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.yamaha-motor.co.id/product/fino/",
-  "checked": "2026-11-17"
+  "checked": "2026-11-18"
  },
  {
   "id": "yamaha-r25",
@@ -2221,7 +2221,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.yamaha-motor.co.id/product/r25/",
-  "checked": "2026-11-17"
+  "checked": "2026-11-18"
  },
  {
   "id": "yamaha-tmax-tech-max",
@@ -2261,88 +2261,12 @@
    "ban": "Depan 120/70R15M/C; Belakang 160/60R15M/C",
    "fitur": "Cruise Control, Traction Control, Brake Control, D-MODE, TPMS, Smart Key, Electrically Adjustable Screen, Garmin Navigation, Heated Grips, Heated Seat, Enhanced Connectivity (MyRide)"
   },
-  "image": "https://www.yamaha-motor.co.id/uploads/products/featured_image/2026012112000740123E5134.png",
+  "image": null,
   "image_credit": "Yamaha Indonesia Motor Manufacturing",
-  "gallery": [
-   {
-    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026012112000731449P21425.jpg",
-    "caption": "Dynamic Sporty Design",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026012112000793889X35900.jpg",
-    "caption": "Rider's Aids",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026012112000710192Y20404.jpg",
-    "caption": "Yamaha Motor Executive Service 24 Hours Premium",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026012112000717498P35834.jpg",
-    "caption": "Smart Key Keyless Operation",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026012112000754716P89834.jpg",
-    "caption": "Lightweight Aluminium Frame",
-    "tag": "Lampu"
-   },
-   {
-    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026012112000731477N86773.jpg",
-    "caption": "Electrically Adjustable Screen",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026012112000730791R82247.jpg",
-    "caption": "560cc EURO5+ Compliant Engine",
-    "tag": "Mesin"
-   },
-   {
-    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026012112000798148A85273.jpg",
-    "caption": "Machined Wheels",
-    "tag": "Roda dan rem"
-   },
-   {
-    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026012112000729344P15452.jpg",
-    "caption": "Comfortable Ergonomics",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026012308372547893F40926.jpg",
-    "caption": "7-inch TFT Screen with Garmin Navigation",
-    "tag": "Panel instrumen"
-   },
-   {
-    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026012112000758497K38943.jpg",
-    "caption": "Large Storage Space",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026012112000749818A67465.jpg",
-    "caption": "Enhanced Connectivity",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://www.yamaha-motor.co.id/uploads/products/overview/2026012112000726656E18644.jpg",
-    "caption": "Heated Grips and Heated Seat",
-    "tag": "Jok dan bagasi"
-   },
-   {
-    "url": "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2026012109354833782C36890.png",
-    "caption": "Pilihan warna",
-    "tag": "Foto"
-   },
-   {
-    "url": "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2026012109464595907G85940.png",
-    "caption": "Pilihan warna",
-    "tag": "Foto"
-   }
-  ],
+  "gallery": [],
   "trusted_images": true,
   "source": "https://www.yamaha-motor.co.id/product/tmax-tech-max/",
-  "checked": "2026-11-17"
+  "checked": "2026-11-18"
  },
  {
   "id": "yamaha-vega-force",
@@ -2434,7 +2358,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.yamaha-motor.co.id/product/vega-force/",
-  "checked": "2026-11-17"
+  "checked": "2026-11-18"
  },
  {
   "id": "yamaha-vixion",
@@ -2550,7 +2474,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.yamaha-motor.co.id/product/vixion/",
-  "checked": "2026-11-17"
+  "checked": "2026-11-18"
  },
  {
   "id": "yamaha-wr155r",
@@ -2652,7 +2576,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.yamaha-motor.co.id/product/wr155r/",
-  "checked": "2026-11-17"
+  "checked": "2026-11-18"
  },
  {
   "id": "yamaha-x-ride",
@@ -2769,7 +2693,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.yamaha-motor.co.id/product/x-ride/",
-  "checked": "2026-11-17"
+  "checked": "2026-11-18"
  },
  {
   "id": "yamaha-xmax-connected",
@@ -2899,7 +2823,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.yamaha-motor.co.id/product/xmax-connected/",
-  "checked": "2026-11-17"
+  "checked": "2026-11-18"
  },
  {
   "id": "yamaha-xsr-155",
@@ -3000,7 +2924,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.yamaha-motor.co.id/product/xsr-155/",
-  "checked": "2026-11-17"
+  "checked": "2026-11-18"
  },
  {
   "id": "yamaha-yz125x",
@@ -3070,7 +2994,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.yamaha-motor.co.id/product/yz125x/",
-  "checked": "2026-11-17"
+  "checked": "2026-11-18"
  },
  {
   "id": "yamaha-yz250fx",
@@ -3140,7 +3064,7 @@
   ],
   "trusted_images": true,
   "source": "https://www.yamaha-motor.co.id/product/yz250fx/",
-  "checked": "2026-11-17"
+  "checked": "2026-11-18"
  },
  {
   "id": "yamaha-yz250x",
@@ -3210,6 +3134,6 @@
   ],
   "trusted_images": true,
   "source": "https://www.yamaha-motor.co.id/product/yz250x/",
-  "checked": "2026-11-17"
+  "checked": "2026-11-18"
  }
 ]
